@@ -342,8 +342,12 @@ document.addEventListener("DOMContentLoaded", () => {
       const abschnittVolltext = (entry.abschnitt_segmentiert || [])
         .map(s =>
           (s.text || "")
-            .replace(/\n/g, " ")
-            .replace(/\t/g, " ")
+            .replace(/<br>/g, " ")
+            .replace(/<b>/g, "")
+            .replace(/<\/b>/g, "")
+            .replace(/<i>/g, "").replace(/<\/i>/g, "")
+            .replace(/<em>/g, "")
+            .replace(/<\/em>/g, "")
         )
         .join(" ");
 
@@ -351,8 +355,12 @@ document.addEventListener("DOMContentLoaded", () => {
         .filter(s => s.typ === "figurtext")
         .map(s =>
           (s.text || "")
-            .replace(/\n/g, " ")
-            .replace(/\t/g, " ")
+            .replace(/<br>/g, " ")
+            .replace(/<b>/g, "")
+            .replace(/<\/b>/g, "")
+            .replace(/<i>/g, "").replace(/<\/i>/g, "")
+            .replace(/<em>/g, "")
+            .replace(/<\/em>/g, "")
         )
         .join(" ");
 
