@@ -4079,7 +4079,7 @@
         },
         "figur": {
           "name": "Wilhelmine",
-          "rolle": "",
+          "rolle": "Tochter",
           "beschreibung": "Tochter des Hans von Zanow; nur in einer Szene dialektale Merkmale (pommersch?); redet mit dem Chevalier (L2-Frz.)"
         },
         "dialekt": {
@@ -4194,7 +4194,7 @@
         },
         "figur": {
           "name": "Jude",
-          "rolle": "NN",
+          "rolle": "Jude",
           "beschreibung": "'ein aus der Natur entlehnter Charakter, der aber nach dem Tone des ganzen Stücks, das heißt, mit grellen Farben, gezeichnet ist'; redet mit Hans (nd.)"
         },
         "dialekt": {
