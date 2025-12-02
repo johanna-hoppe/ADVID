@@ -728,7 +728,7 @@
           },
           {
             "typ": "kontext",
-            "text": "</i>Mathias wird von einem Korporal und Wache hereingeschleppt, Sabine und Therese kommen aus dem Nebengemache.<i><br>KORPORAL. Nur herein da, wir wollen gleich aus einem andern Ton mitsammen sprechen.<br>MATHIAS. Reden Sie aus was für einem Ton, als Sie wollen, den meinen haben Sie schon kennengelernt. Ich darf keinen solchen Lärm vor dem Hause leiden, mein Hausherrn sein Pudel hat Junge kriegt.<br>KORPORAL. Verfluchter Kerl, wer heißt Ihn denn gleich auf die Leute schlagen?<br>MATHIAS. Das ist schon so meine Gewohnheit, und kurz und gut, an der ganzen Geschichte ist mein Weib schuld; aber jetzt soll sie's gleich eingestehen, wer ihr die Nachtmusik gemacht hat. <i>Öffnet die Kammer, Robert tritt heraus.</i><br>ROBERT. Was geht denn da vor?<br>MATHIAS. Mich trifft der Schlag, der ist bei meinem Weibe gewesen, jetzt bring ich s' um! <i>Will in die Kammer, Christoph kommt ganz phlegmatisch und Tabak rauchend heraus.</i> Da ist noch einer und gar ein Oberländler – nein, das ist zuviel.<br>ROBERT. Aber so lasse Er sich doch nur sagen –<br>MATHIAS. Nichts laß ich mir sagen. In mir kocht alles – da sehen S' her, wie's in mir arbeitet, als wie in einer Ochsenmühl. Aber jetzt hab ich's. – Herr Korporal, wenn S' einen Rekruten brauchen, nehmen S' mich; daß ich gut zuhauen kann, haben S' schon gesehen. <i>Setzt den Hut des Korporals auf.</i> So – jetzt gehöre ich zum Militari, und morgen geb ich eine Bittschrift ein, daß mir ein Krieg bewilligt wird, damit ich mich kann totschießen lassen. Vorher aber will ich da eine militärische Ausziehzeit halten. <i>Wirft verschiedene Gerätschaften zum Fenster hinaus – auf Therese und Sabine deutend.</i> Da sind auch noch zwei – die alte muß voran, damit die junge nicht so hart fallt."
+            "text": "<i>Mathias wird von einem Korporal und Wache hereingeschleppt, Sabine und Therese kommen aus dem Nebengemache.</i><br>KORPORAL. Nur herein da, wir wollen gleich aus einem andern Ton mitsammen sprechen.<br>MATHIAS. Reden Sie aus was für einem Ton, als Sie wollen, den meinen haben Sie schon kennengelernt. Ich darf keinen solchen Lärm vor dem Hause leiden, mein Hausherrn sein Pudel hat Junge kriegt.<br>KORPORAL. Verfluchter Kerl, wer heißt Ihn denn gleich auf die Leute schlagen?<br>MATHIAS. Das ist schon so meine Gewohnheit, und kurz und gut, an der ganzen Geschichte ist mein Weib schuld; aber jetzt soll sie's gleich eingestehen, wer ihr die Nachtmusik gemacht hat. <i>Öffnet die Kammer, Robert tritt heraus.</i><br>ROBERT. Was geht denn da vor?<br>MATHIAS. Mich trifft der Schlag, der ist bei meinem Weibe gewesen, jetzt bring ich s' um! <i>Will in die Kammer, Christoph kommt ganz phlegmatisch und Tabak rauchend heraus.</i> Da ist noch einer und gar ein Oberländler – nein, das ist zuviel.<br>ROBERT. Aber so lasse Er sich doch nur sagen –<br>MATHIAS. Nichts laß ich mir sagen. In mir kocht alles – da sehen S' her, wie's in mir arbeitet, als wie in einer Ochsenmühl. Aber jetzt hab ich's. – Herr Korporal, wenn S' einen Rekruten brauchen, nehmen S' mich; daß ich gut zuhauen kann, haben S' schon gesehen. <i>Setzt den Hut des Korporals auf.</i> So – jetzt gehöre ich zum Militari, und morgen geb ich eine Bittschrift ein, daß mir ein Krieg bewilligt wird, damit ich mich kann totschießen lassen. Vorher aber will ich da eine militärische Ausziehzeit halten. <i>Wirft verschiedene Gerätschaften zum Fenster hinaus – auf Therese und Sabine deutend.</i> Da sind auch noch zwei – die alte muß voran, damit die junge nicht so hart fallt."
           },
           {
             "typ": "figurtext",
@@ -773,8 +773,8 @@
           "beschreibung": "Hausmeister; spricht Bairisch (aber anders als Christoph); redet mit Christoph"
         },
         "dialekt": {
-          "adaption": "",
-          "dialekt_grossraum": ""
+          "adaption": "Autoadaption",
+          "dialekt_grossraum": "Ood."
         },
         "geokoordinaten": {
           "herkunft_autor": {
@@ -860,7 +860,7 @@
           },
           {
             "typ": "kontext",
-            "text": "</i>Mathias wird von einem Korporal und Wache hereingeschleppt, Sabine und Therese kommen aus dem Nebengemache.<i><br>KORPORAL. Nur herein da, wir wollen gleich aus einem andern Ton mitsammen sprechen."
+            "text": "<i>Mathias wird von einem Korporal und Wache hereingeschleppt, Sabine und Therese kommen aus dem Nebengemache.</i><br>KORPORAL. Nur herein da, wir wollen gleich aus einem andern Ton mitsammen sprechen."
           },
           {
             "typ": "figurtext",
