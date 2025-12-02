@@ -1,6 +1,920 @@
 [
 
       {
+        "id": "Eheteufel01",
+        "theaterstück": {
+          "titel": "Der Eheteufel auf Reisen. Lokales Zauberspiel mit Gesang in zwei Aufzügen",
+          "zeit": "1821",
+          "druckort": "Brünn",
+          "auffuehrungshinweise": "Aufführung 1821, Druck 1822"
+        },
+        "autor": {
+          "name": "Joseph Alois Gleich",
+          "herkunft": "Ood.",
+          "orte": "Wien", 
+          "lebensdaten": "1772–1841"
+        },
+        "figur": {
+          "name": "Tobischka",
+          "rolle": "Tanzmeister",
+          "beschreibung": "Tanzmeister; spricht böhmischen Dialekt (Böhmakeln)"
+        },
+        "dialekt": {
+          "adaption": "Heteroadaption",
+          "dialekt_grossraum": "Ood."
+        },
+        "geokoordinaten": {
+          "herkunft_autor": {
+            "lat": 48.208333,
+            "lng": 16.373056
+          },
+          "herkunft_figur": { 
+            "lat": null,
+            "lng": null
+          }
+        },
+        "abschnitt": "[tbd]",
+        "original_link": "https://dracor.org/ger/gleich-der-eheteufel-auf-reisen#text",
+        "abschnitt_segmentiert": [
+          {
+            "typ": "figurtext",
+            "text": "<b>Erster Aufzug.<br>Fünfter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Vorige. Tobischka.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "TOBISCHKA <i>tritt mit Komplimenten ein und spricht im böhmischen Dialekte.</i> Grüß Ihne Gutt, mach ich Ihne Kompliment."
+          },
+          {
+            "typ": "kontext",
+            "text": "JOHANN. Ah, der Herr Tanzmeister! Was Teuxel führt denn Sie daher?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "TOBISCHKA. Was wird mich's herführen – möcht ich's einmal wieder sehen meiniges Skolarin Madam Mehlthau. Nun, wie stehen mit Gesundheit auf der Frau von Haus?"
+          },
+          {
+            "typ": "kontext",
+            "text": "JOHANN. Wie's mit der Gesundheit auf der Frau steht? Das ist ein prächtiges Deutsch!<br>NETTCHEN. Ja, mein Herr Tanzmeister, unserer Frau geht es halt wie einem Krummen, der gern tanzen möchte.<br>JOHANN. Oder wie einem Schiffer, der windfeiern muß."
+          },
+          {
+            "typ": "figurtext",
+            "text": "TOBISCHKA. Krummes tanzen? Feiern auf Wind? Kann nicht verstehen, was wollen damit sagen liebes Freund?"
+          },
+          {
+            "typ": "kontext",
+            "text": "NETTCHEN. Der gnädige Herr ist halt noch alleweil krank, das ist das Ganze."
+          },
+          {
+            "typ": "figurtext",
+            "text": "TOBISCHKA. O zatracenj! da haben Madam weniges Freud von Heirat – waren gewesen immer so lustigs Humor wie Vogel in Luft – müssen ja sterben bleiches Todes ganz ab, werden sein vor Langesweil bald maustot. <i>Man hört leise trillern.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "NETTCHEN. Da kommt unsre Frau – ich begreife nur nicht, wo sie den guten Humor hernimmt."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(1. Aufzug, 5. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Erster Aufzug.<br>Sechster Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Vorige. Gustchen.</i>GUSTCHEN <i>tritt ein und trillert ganz leise. Ihr ganzes Wesen zeigt von einem lebhaften Temperamente.</i> Nettchen, Johann, das ist ein prächtiger Tag! Schaut nur hinaus in den Garten, wie alles so heiter ist. Es ist halt doch eine Freude, auf der Welt zu sein."
+          },
+          {
+            "typ": "figurtext",
+            "text": "TOBISCHKA. Bei meiniges armes Seel, werden's Madam alle Tag jüngeres und schöneres – kann's mich nicht genug wundern auf meiniges Ehr über das Anblick auf das liebe Gesicht."
+          },
+          {
+            "typ": "kontext",
+            "text": "GUSTCHEN. Ah, mein Tanzmeister! Nun das freut mich – und wie er aussieht, so galant, so modern, <i>Dreht ihn herum.</i> Hahaha! Ich bitte Sie, lieber Tobischka, kommen Sie nur recht oft zu mir, damit ich recht viel über Sie lachen kann."
+          },
+          {
+            "typ": "figurtext",
+            "text": "TOBISCHKA. Wenn's kann beitragen zu gutes Humor, lachen auch mit von ganzes Herz, <i>Lacht recht herzlich mit.</i> Liebes Madam sein immer lustig – hab ich's nicht bald sehen solches heiteres Mensch."
+          },
+          {
+            "typ": "kontext",
+            "text": "GUSTCHEN. O Gott, lustig bin ich für mein Leben gern. Da herüben muß ich freilich ganz still sein, weil mein Mann noch krank ist; aber wenn ich in mein Zimmer hinüberkomme, da wird gesprungen und gesungen. Und über die dümmsten Sachen muß ich von Herzen lachen, das haben Sie jetzt erst bei Ihnen gesehen. Was macht denn mein Mann? Schläft er noch?<br>JOHANN. Jetzt ist ja die Stunde, wo er auf Befehl des Doktors schlafen muß, darum hab ich ihm müssen die Augen zubinden, damit ihn das Licht nicht blendet.<br>GUSTCHEN. Hahaha! Der muß spaßig aussehen, der arme Mann muß jetzt schlafen, er mag wollen oder nicht, hahaha! – Was bringt denn Sie zu mir, lieber Herr Tobischka?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "TOBISCHKA. Hab ich zu besorgen eines großmächtiges musikalisches Ball – wird's gegeben in der neuverbaut Saal prächtiges Tanz – kommen's zusammen gar vieles von Nobleß. Kennen's Madamerle junges Herrn Barons – wie heißt denn? Kann's mir nicht recht merken soliches deutsches Nam – Baron – Baron – stellen's vor ein Fisch mit langes Zähn – haben's oft kleineres Fischele im Leib –"
+          },
+          {
+            "typ": "kontext",
+            "text": "GUSTCHEN. Der Baron?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "TOBISCHKA. Nein, nein, sein Namenskollega – He – He – Hecht – ja, Baron Hecht."
+          },
+          {
+            "typ": "kontext",
+            "text": "GUSTCHEN. Sie, das ist ein spaßiger Mensch, er reitet oft vor mein' Fenster vorbei, und da sieht er mich immer so starr an, daß ich laut auflachen muß. Letzthin hat er sogar die G'fälligkeit für mich g'habt und hat sich von seinen Fuchsen abwerfen lassen, nur damit ich sehen soll, wie schön er sich im Kot ausnimmt. Oh, der Mann hat schon einzig ausgesehen, wie er im Graben g'legen ist."
+          },
+          {
+            "typ": "figurtext",
+            "text": "TOBISCHKA <i>leise.</i> Er sein's in Sie verliebt bis in das Tod."
+          },
+          {
+            "typ": "kontext",
+            "text": "GUSTCHEN. Was? Der Baron ist in mich verliebt? Hahaha! Johann, Nettchen, ich bitte euch, hört den Spaß an, der Baron Hecht ist in mich verliebt."
+          },
+          {
+            "typ": "figurtext",
+            "text": "TOBISCHKA. Was machen Sie denn vor das Dienstleut?"
+          },
+          {
+            "typ": "kontext",
+            "text": "GUSTCHEN. Ah, den Spaß muß ich hernach gleich meinen Mann erzählen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "TOBISCHKA. Da komm ich sauber an, was reden's da Madam für dummes Zeugs?"
+          },
+          {
+            "typ": "kontext",
+            "text": "GUSTCHEN. Sie, hat er Ihnen das selbst gesagt, daß er in mich verliebt ist? Kommt er auch auf den Ball?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "TOBISCHKA <i>deutet ihr behutsam zu sein.</i> Hab ich ihm müssen komponieren einen Favorittanz."
+          },
+          {
+            "typ": "kontext",
+            "text": "GUSTCHEN. Ah, den möcht ich hören."
+          },
+          {
+            "typ": "figurtext",
+            "text": "TOBISCHKA. Warum nicht, <i>Für sich.</i> Vielleicht kann ich's dahin bringen, daß gehen hinüber auf Ball. Herr Baron bezahlen's mir, was ich begehr, für soliches Freud. <i>Laut.</i> Wenn's erlauben's, Madam, will's spielen vor meiniges Komposition."
+          },
+          {
+            "typ": "kontext",
+            "text": "GUSTCHEN. Jaja, aber nur nicht zu laut, damit's mein Mann nicht hört."
+          },
+          {
+            "typ": "figurtext",
+            "text": "TOBISCHKA <i>nimmt seine Geige und spielt, mit oder ohne Begleitung des Orchesters.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(1. Aufzug, 6. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Erster Aufzug.<br>Siebenter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Vorige. Mehlthau.</i><br>MEHLTHAU <i>im Schlafrock, kommt aus dem Nebenzimmer und hört zu.</i> Das ist ein prächtiger Deutscher! Der gefällt mir, da muß ich mir gleich einen Knopf ins Tüchel machen, damit ich ihn nicht vergesse. <i>Fängt an zu tanzen, plötzlich bricht er ab.</i> Johann! Mir wird gleich der Atem ausbleiben.<br>GUSTCHEN. Bist du munter, lieber Mann?<br>MEHLTHAU. Du geh mir aus dem Weg, und den böhmischen Tanzmeister werft zum Fenster hinaus. – Ja mein lieber Johann, meine Kräfte lassen ganz nach, ich glaube, wenn ich mich an einen Wagen Holz anspannen wollte, ich könnte ihn schwerlich bis auf Gumpendorf hinausbringen. – Da schau Er meinen Krankenstock an – <i>Zeigt ihm einen dicken Prügel.</i> brich Er ihn übers Knie ab, wenn Er kann, ich bin's nicht imstande, ich bin viel zu schwach dazu.<br>GUSTCHEN. Lieber Mann, weil's heute gar so schön ist, geh mit mir in den Garten hinunter.<br>MEHLTHAU. Warum nicht gar. Mir ist recht miserabel – heute nacht hab ich die Anginettene bekommen – ich kann kein lautes Wort reden. Wo ist denn meine Medizin? <i>Schreiend.</i> Johann! Tauber Esel, einnehmen will ich."
+          },
+          {
+            "typ": "figurtext",
+            "text": "TOBISCHKA. Was haben S' denn gnädig Herr eigentlich für Fehler auf Natur?"
+          },
+          {
+            "typ": "kontext",
+            "text": "MEHLTHAU. Ja mein lieber Tanzmeister, das weiß ich selbst nicht. Der Doktor sagt halt, ich habe Blut in meinen Adern, und das ist ein schreckliches Unglück. Denn wenn das Blut gar alleweil lauft und endlich müd wird oder gar einschläft, so weiß man hernach nicht, wie man's hernach wieder aufwecken soll."
+          },
+          {
+            "typ": "figurtext",
+            "text": "TOBISCHKA. Wenn's Blut schlafen, sein's Mensch tot."
+          },
+          {
+            "typ": "kontext",
+            "text": "MEHLTHAU. So?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "TOBISCHKA. Machen's einiges kleines Komotion."
+          },
+          {
+            "typ": "kontext",
+            "text": "MEHLTHAU. Glauben Sie? Nun, ich werd's probieren. <i>Geht langsam auf und ab, fängt aber endlich mit so großen. Schritten an, daß die andern kaum nachfolgen können.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(1. Aufzug, 7. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Erster Aufzug.<br>Achter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Vorige. Frau Sperling.</i>SPERLING <i>die von Mehlthau beinahe über den Haufen gerannt wird.</i> Nun, nun, da geht's ja zu, als ob ein Ochs auskommen wär, sacre di donc!<br>MEHLTHAU. Gebt mir geschwinde meine Pillen her. Kann ich der Frau Sperling mit einem halben Dutzend aufwarten? Sie machen eine prächtige Wirkung.<br>SPERLING. Bin obligiert für die Speise. Wenn ich was haben will zum Magenverderben, so darf ich nur zu meinem Mann nach Haus gehen; denn wenn der nur ein paar Wort red't, so ist's ärger als ein Muttertrankel. Es ist mit dem Herrn Mehlthau auch nicht viel anders. Ich begreif gar nicht, wie die Frau Nachbarin mit so einem lebendigen Medizinflaschel drauskommen kann? Reden wir von was anderm. Sacre di donc! Da hab ich ein Frühstück mitgebracht, das sich g'waschen hat. Nu, meine Partie soll leben aus der Hofkuchel, der Bratelbrater-Feuermachers-Adjunkt! Das ist halt ein Mandel, sacre di donc! Derweil sich der Oberschlegeltranschiermeister umg'schaut hat, hat er mir ein Frühstück in seine Schlafhauben versteckt; das wird schmecken! <i>Kramt den Korb aus.</i><br>GUSTCHEN. Das ist Ihr Frühstück, Frau Nachbarin? Das ist ja ein ganzes Mittagmahl.<br>SPERLING. Wir wollen's mitsamm' verzehren. – Nun was ist's denn so, Herr Tobischka, heute ist ja auf dem neuen Saal Ball und Picknick? Wird unsereiner kein Billett dazu bekommen? Sacre di donc!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "TOBISCHKA. To je zatracenj! Wollt ich's eben aufwarten auch an Madam von Haus."
+          },
+          {
+            "typ": "kontext",
+            "text": "GUSTCHEN. Ja, wenn's meinem Mann recht wäre. Nicht wahr, du erlaubst mir die kleine Freude?<br>SPERLING. Nun, das versteht sich; der Herr geht auch mit, vielleicht sind Masken dabei, so kann er gleich als eine Plutzerbirn eintreten. Geh Er nur mit, Er ist nicht so schwach, als Er glaubt.<br>MEHLTHAU. Nein, Frau Nachbarin, daraus wird nichts. Ich gehe nicht auf den Ball, folglich muß mein Weib auch zu Hause bleiben.<br>GUSTCHEN. Aber schau nur, jetzt bin ich schon fast zwei Jahre bei keiner Unterhaltung gewesen, ich möchte doch auch ein bissel in der Welt leben.<br>MEHLTHAU. Jetzt will das Weib in der Welt leben, das ist zum Schlagtreffen! Geh, bleib bei mir, Gusterl! – <i>Steht auf.</i> Schau, dafür will ich auch recht gut mit dir sein.<br>GUSTCHEN. Nun meinethalben, dir zulieb –<br>MEHLTHAU. Ist das wahr? Geh her, Weiberl, dafür muß ich dir ein Busserl geben. <i>Will sie küssen.</i> Doch halt, gib mir lieber statt dem Busserl meine Magentropfen her.<br>GUSTCHEN. Nein, jetzt wird's mir aber doch zuviel, und jetzt halt ich's auch nicht mehr bei dir aus. Wenn du im Ernste krank wärst, ließ ich mir's gefallen, aber du bist ein eingebildeter Narr, und ich werde deinetwegen nicht mein Lebtag eine Krankenwärterin machen. Bleib du bei deinen Tiegeln und Flaschen, ich geh von heute an alle Tage spazieren und in Gesellschaft – ich gehe auf den Ball. Kommen Sie, Monsieur Tobischka – und wenn mir der junge Baron, der in mich verliebt ist, gefallt, so hast du's nur dir zuzuschreiben, wenn ich mit ihm auf und davon gehe."
+          },
+          {
+            "typ": "figurtext",
+            "text": "TOBISCHKA. Haben's schon recht, liebes Madam, wollen's tanzen so lang's kann rühren unsriges Fuß. <i>Beide ab.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "SPERLING. Das kann sich der Herr Nachbar zur Notiz nehmen: Wenn man einem jungen, muntern Weibe gar alle Freud versagen will, so ist's gar kein Wunder, wenn ihr das Radel laufend wird – sacre di donc! <i>Ab.</i><br>MEHLTHAU. Was? So handelt das Weib, das ich arm geheiratet und zu einer reichen Frau gemacht habe? Ist das der Dank für das gute Leben bei mir? – Gutes Leben? – solang ich verheiratet bin, bin ich ja krank, sie hat ja gar keine vergnügte Stunde bei mir gehabt. Ich bin ja ein Barbar gewesen, ein Eheteufel, der ihr alle Tage verbittert hat. Nein, ich will mich ändern – fort mit dem Plunder! <i>Wirft die Tiegeln zum Fenster hinaus.</i> Frisch und gesund will ich sein, und damit's mein Weib gleich hört, so will ich an der Stelle mein Favoritliedl singen. <i>Will singen.</i> Sapperment, jetzt fallt's mir just ein, der Doktor hat mir das Singen verboten. <i>Geht langsam ab.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(1. Aufzug, 8. Auftritt)</b>"
+          }
+        ]
+      },
+
+      {
+        "id": "Eheteufel02",
+        "theaterstück": {
+          "titel": "Der Eheteufel auf Reisen. Lokales Zauberspiel mit Gesang in zwei Aufzügen",
+          "zeit": "1821",
+          "druckort": "Brünn",
+          "auffuehrungshinweise": "Aufführung 1821, Druck 1822"
+        },
+        "autor": {
+          "name": "Joseph Alois Gleich",
+          "herkunft": "Ood.",
+          "orte": "Wien", 
+          "lebensdaten": "1772–1841"
+        },
+        "figur": {
+          "name": "Bärbel",
+          "rolle": "Hausiererin",
+          "beschreibung": "Frau von Adam (Hausierer); spricht schwäbisch"
+        },
+        "dialekt": {
+          "adaption": "Heteroadaption",
+          "dialekt_grossraum": "Wod."
+        },
+        "geokoordinaten": {
+          "herkunft_autor": {
+            "lat": 48.208333,
+            "lng": 16.373056
+          },
+          "herkunft_figur": { 
+            "lat": null,
+            "lng": null
+          }
+        },
+        "abschnitt": "[tbd]",
+        "original_link": "https://dracor.org/ger/gleich-der-eheteufel-auf-reisen#text",
+        "abschnitt_segmentiert": [
+          {
+            "typ": "figurtext",
+            "text": "<b>Erster Aufzug.<br>Zehnter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Vorige. Bärbel. Hänsle. Jokkerle. Sie trägt einen Hausiererkram.</i>ERSTER BANDLKRAMER. Nun Frau Bärbel, wir haben schon alle Feierabend gemacht, jetzt wollen wir uns zum Ball herrichten, es bleibt doch dabei?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "BÄRBEL. Ei freilich, was man verspricht, muß man halte. Es ist freilich nicht recht, daß wir bei unserm sparsamen Erwerb so aufhaue; aber mein Mannle will's so habe, und ich darf mich nicht muckse, wenn ich nicht ein paar blaue Fleckle davontrage will."
+          },
+          {
+            "typ": "kontext",
+            "text": "ALLE. Juhe! Heut wollen die Bandelkramer recht lustig sein, heut muß es drunter und drüber gehn! <i>Alle ab.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "BÄRBEL. Ach du lieber Herrgott, was ist das für ein Lebe, ja, es wäre schon recht, ich wollte auch gern tanze und gute Bißle esse, wenn wir nur auch das Geldle dazu hätte. Aber mein Mann, das ist ein Lump ohnegleiche – den ganzen Tag sitzt er in Branntweinhäusle, und ich kann nicht begreife, wo er auf den Abend das Geldle hernimmt. Er wird's doch nicht etwa gar stehle? Ach du lieber Herrgott, bewahre jedes Menschenkind vor solch einem Unglück; da will ich ja lieber arbeite, daß mir die Schweißtröpfle vom Gesicht laufe. Es muß anders werde. Ja, wenn er wüßte, daß ich nach Hause geschriebe und meinen Vetter um Aufnahme gebete habe. Ah, da kommt ja das liederliche Tüchle."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(1. Aufzug, 10. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Erster Aufzug.<br>Eilfter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Vorige. Adam mit einem Stelzfuß.</i>ADAM. Nun, bist du da? Ich bring dir eine Neuigkeit mit. Beim Bäcken war gestern Feuer, und da sind viele Hundert von deinen Landsleuten verbrannt."
+          },
+          {
+            "typ": "figurtext",
+            "text": "BÄRBEL. Ja, unterm Herd, nicht wahr? Kreuz divi domini! Du mußt alleweil was zum Foppe habe."
+          },
+          {
+            "typ": "kontext",
+            "text": "ADAM. Nun, nun, Schwabin, nur nicht so hitzig. – Auf dem Wasser ist wieder ein ganzes Bandel heruntergeschwommen. Einer davon hat mich kennt und hat mir eine Adresse an dich gegeben, dein Vetter laßt dich grüßen und laßt dir gratulieren, du hast eine Erbschaft gemacht."
+          },
+          {
+            "typ": "figurtext",
+            "text": "BÄRBEL. Mannle, hör auf! Ist's mir doch in alle Glieder gefahre, als ob mich das Blitzle getroffe hätt. Wer kann mir denn von meinen Freunden was vermacht habe? Der Schneiderfranzle? Der hat nix; der Schusterlipple? Der hat a nix; der Stöffle und der Görgle? Die habe alle zwei nix; daß dich das Mäusle beißt! Jetzt fallt's mir ein, der Martinle wird g'storbe sein – ja, ja, lueg mich nit so an, er hat sich bei mir gemeldet und hat bei der Nacht geweint wie ein Katzle."
+          },
+          {
+            "typ": "kontext",
+            "text": "ADAM. Da ist die Adresse, wo du hingehen sollst; geh, lies g'schwind."
+          },
+          {
+            "typ": "figurtext",
+            "text": "BÄRBEL. Herrje! was fallt dir ein, Männle, ich han ja gar nicht lese gelernt."
+          },
+          {
+            "typ": "kontext",
+            "text": "ADAM. Die paar Wort wirst doch lesen können?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "BÄRBEL. Wenn ich aber gar keinen Buchstaben kenne. Laß gut sein, lieber Mann, der Binder nebenan wird das Briefle schon lese."
+          },
+          {
+            "typ": "kontext",
+            "text": "ADAM. Wenn wir keins lesen können, so braucht ein anderer Mensch auch nicht zu wissen, was drinnen steht."
+          },
+          {
+            "typ": "figurtext",
+            "text": "BÄRBEL. Aber lieber Mann, wenn ich eine Erbschaft gemacht hab, so wirst du doch aufhöre, so ein liederliches Tüchle zu sein?"
+          },
+          {
+            "typ": "kontext",
+            "text": "ADAM. So? Soll ich nicht etwa zu arbeiten anfangen? Jetzt wird aufgebaut, solang was da ist, hernach fangen wir wieder zum Hausieren an."
+          },
+          {
+            "typ": "figurtext",
+            "text": "BÄRBEL. Bist du denn vom bösen Feind besesse? Ich muß da mit mein Kramle die ganze Stadt herumlaufe, und er sitzt den ganzen Tag im Branntweinhäusle und verspielt und versauft alles – die Erbschaft gehört mein, und ich muß auf unsre Würmle da denke, daß sie gute Hösle und Jankerle bekomme und was Rechtschaffenes werde. Die Erbschaft geht dich nichts an."
+          },
+          {
+            "typ": "kontext",
+            "text": "ADAM. Ja? So gehst du und die Würmle mich auch nichts an. – Apropos, wie sieht's denn aus? Ist zum Ball alles hergerichtet?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "BÄRBEL. Ja, aber wir werde zu wenig Geld auf Wein habe, ich kann nicht mehr als zehn Maß hole lasse."
+          },
+          {
+            "typ": "kontext",
+            "text": "ADAM. Warum nicht gar; fünfundzwanzig Maß ist das wenigste. Jetzt gehst du gleich und verkaufst um fünf Gulden Pantoffeln. Wie sagst denn du zu den Leuten, wenn sie dir was abkaufen sollen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "BÄRBEL. Wie werd ich denn sage? Sein Sie so gut und kaufe Sie mir was ab."
+          },
+          {
+            "typ": "kontext",
+            "text": "ADAM. So sagst? – Kannst du den Leuten nicht was vorlamentieren?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "BÄRBEL. Ei was lamentiere – wenn man fleißig arbeite will, so braucht man nicht so viel obligiert zu sein; aber du Saufaus bist ans Bitte und Bettle schon gewohnt. Kommt Kinderle, kommt, unser Elend wird auch ein End nehme, der liebe Herrgott wird uns schon helfe. <i>Ab mit den Buben.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "ADAM. Jetzt geh, du schwäbischer Zöger. Ich wette darauf, sie steht wieder in einem Winkel und weint. Da bin ich ein anderer Kerl – ich hab jetzt meinen ganzen Kram im Branntweinhaus versetzen müssen, bis auf die zwei Zahnbürsteln da – was liegt daran? Ein lustiger Kerl geht niemals z'grund.<i>Arie.</i> Ich bin halt gar ein armer Mann, Der sich nicht viel verdienen kann – Euer Gnaden, Euer Gnaden, Euer Exzellenz, Euer Durchlaucht! O kaufen S' doch was! Ich bitte Euer Hoheit, schaffen S' keine Zahnbürstel, erbarmen Sie sich über einen armen Mann, der schon fünfzig Jahre im Spital gelegen ist, kaufen S' mir was ab. Jetzt geh ich ins Wirtshaus zum Pelikan h'nein. Und trink um ein Gulden ein guts Glasel Wein. Ich bitte untertänig, nur diesmal schenken S' mir was, weil wir heut einen Hausball haben – ich bitte nur um einen einzigen Dukaten. Drei Wochen nach Ostern z'geht der Schnee auf dem Platz, Aber wenn man kein Geld hat, so g'hört man der Katz. <i>Ab.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(1. Aufzug, 11. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Erster Aufzug.<br>Fünfzehnter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Vorige. Grundwächter. Simon. Wache.</i>GRUNDWÄCHTER. Was gibt's da? Was ist hier für ein Volk beisammen?<br>ADAM. Lauter brave Leute, ich bin das Muster davon.<br>SIMON <i>auf Adam deutend.</i> Das ist der nämliche Spitzbube, durch den ich meinen Stock verloren habe, der ist davongelaufen.<br>ADAM. Ich bitte Euer Durchlaucht –<br>GRUNDWÄCHTER. Es wird sich alles zeigen. Was ist da in dem Korbe verborgen?<br>ADAM. Alte Stiefelhölzer. <i>Die Wache nimmt die Geigen hervor.</i><br>GRUNDWÄCHTER. Auch eine Baßgeige ist da.<br>ADAM. Die ist von meiner Frau Ahnl, sie hat sich im Lerchenfeld recht viel damit verdient."
+          },
+          {
+            "typ": "figurtext",
+            "text": "BÄRBEL. Nein, jetzt kann ich's nicht mehr aushalte, so wahr ich ehrlich bin und Bärbel heiße, du bist ein gottloser Mann."
+          },
+          {
+            "typ": "kontext",
+            "text": "SIMON. Ich erkenne sie, ja es ist richtig, das ist meine schwäbische Frau Mahm, die kommt mit mir.<br>GRUNDWÄCHTER. Nur fort mit ihm, er wird arretiert."
+          },
+          {
+            "typ": "figurtext",
+            "text": "BÄRBEL. Recht ist's; ich gehe wieder zu meiner Freundschaft, ich will mit dir Betrüger nichts mehr zu tun habe; denn ich hab ja alleweil gesagt: Ehrlich währt am längste."
+          },
+          {
+            "typ": "kontext",
+            "text": "SIMON. Recht, Frau Mahm. So ein liederlicher Mann verdient ein solches Weib nicht und ist selbst daran schuld, wenn sie ihn sitzenläßt. Oh, es gäbe schon noch mehr Männer, die es nicht besser verdient hätten. <i>Alle ab.</i><br>ADAM. Wo bin ich? Wie geschieht mir denn? Ich fange ja an, ganz ein anderer Mensch zu werden. <i>Das Kleid fliegt weg, er ist wie im ersten Auftritte gekleidet.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(1. Aufzug, 15. Auftritt)</b><br><br>"
+          }
+        ]
+      },
+
+      {
+        "id": "Eheteufel03",
+        "theaterstück": {
+          "titel": "Der Eheteufel auf Reisen. Lokales Zauberspiel mit Gesang in zwei Aufzügen",
+          "zeit": "1821",
+          "druckort": "Brünn",
+          "auffuehrungshinweise": "Aufführung 1821, Druck 1822"
+        },
+        "autor": {
+          "name": "Joseph Alois Gleich",
+          "herkunft": "Ood.",
+          "orte": "Wien", 
+          "lebensdaten": "1772–1841"
+        },
+        "figur": {
+          "name": "Jeanette",
+          "rolle": "NN",
+          "beschreibung": "Verlobte des Kapellmeisters Harmonikus; französisch, spricht Deutsch als Fremdsprache"
+        },
+        "dialekt": {
+          "adaption": "Heteroadaption",
+          "dialekt_grossraum": "L2 Frz."
+        },
+        "geokoordinaten": {
+          "herkunft_autor": {
+            "lat": 48.208333,
+            "lng": 16.373056
+          },
+          "herkunft_figur": { 
+            "lat": null,
+            "lng": null
+          }
+        },
+        "abschnitt": "[tbd]",
+        "original_link": "https://dracor.org/ger/gleich-der-eheteufel-auf-reisen#text",
+        "abschnitt_segmentiert": [
+          {
+            "typ": "figurtext",
+            "text": "<b>Zweiter Aufzug.<br>Neunter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Vorige. Jeanette.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "JEANETTE <i>im modernen Überwurfe und Hute tritt ein, sie spricht im französischen Dialekte.</i> Messieurs, eh bien dites donc, sein mein future schon wach?"
+          },
+          {
+            "typ": "kontext",
+            "text": "LANGE. Der sitzt schon seit frühestem Morgen an seiner Arbeit."
+          },
+          {
+            "typ": "figurtext",
+            "text": "JEANETTE. Mon Dieu, wie kann ein Mensch so viel sich occupir – es seien wohl schön, wenn man haben viel von der Fleiß, aber man müssen auch denk auf seiner plaisir. Imaginez-vous? Messieurs nun seien schon der sechste Woch, daß ich haben kaum gesprochen mit ihm einer ganzer Stond."
+          },
+          {
+            "typ": "kontext",
+            "text": "LANGE. Sie dauern mich, liebes Fräulein, Sie verdienen mehr Aufmerksamkeit von Ihrem Verlobten."
+          },
+          {
+            "typ": "figurtext",
+            "text": "JEANETTE. O mon Dieu, was werden das sein für ein Leben, wenn er werden sitzen immer bei seiner Clavecin – ich werden fahren spazier en ville, aux environs, au Theater – ich werden mir suchen un attaché fidel, man müssen doch jemanden haben zu conversir –"
+          },
+          {
+            "typ": "kontext",
+            "text": "HERFORT. Würden Sie dies aber auch tun, wenn Sie einen Gatten hätten, der Sie zärtlich liebt, der nur für Sie lebt?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "JEANETTE. En verité – Sie mich verkennen – nous sommes en France de bon aise – ich werden sein toujours alerte; aber ich werd auch wiß zu schätzen mon ami, ich werden ihn lieben de tout mon cœur."
+          },
+          {
+            "typ": "kontext",
+            "text": "LANGE. Dann würden Sie einen Freund von uns glücklich machen, der Sie lange schon im stillen anbetet."
+          },
+          {
+            "typ": "figurtext",
+            "text": "JEANETTE. Mich anbeten? Hahaha! Ich seien ja keiner heilig Person – wer ist denn der unbekannte Adorateur?"
+          },
+          {
+            "typ": "kontext",
+            "text": "LANGE. Mein Freund Herfort."
+          },
+          {
+            "typ": "figurtext",
+            "text": "JEANETTE. C'est drôle! Und haben mir gesagt keiner Wort – Sie mir auch gefallen, je vous trouve als bon homme. Eh bien! Wenn Herr Kapellmeist nicht sich werden ändern, ich unrecht werden verstehn und mir nehmen zu Gemahl ce joli garçon."
+          },
+          {
+            "typ": "kontext",
+            "text": "LANGE. Stille, der Herr Kapellmeister kömmt."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(2. Aufzug, 9. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Zweiter Aufzug.<br>Zehnter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Vorige. Harmonikus.</i><br>HARMONIKUS <i>viele Noten unterm Arm und ein Blatt in der Hand, kömmt aus dem Nebengemache. Er singt aus dem Blatte und geht auf und ab, ohne die andern zu bemerken. Endlich sieht er sie.</i> Ah, willkommen meine Herren! Nun, das freut mich, daß Sie so pünktlich sind, jaja, so pünktlich sind. Wünschen Sie mir Glück, mein großes Werk ist vollbracht. Ein solches Meisterstück hat die Welt nicht aufzuweisen, jaja, nicht aufzuweisen. Bei vollständiger Besetzung des Orchesters sind alle Säle zu klein, es muß im Freien gegeben werden. Denken Sie nur selbst – fünfhundert Prim- und fünfhundert Sekondgeigen, zweihundert Bratschisten, hundert Violoncelle, fünfzig Violone, vierundsechzig Trompeten und achtzig Pauken, jaja, achtzig Pauken. – Meine Herren, so weit wie ich hat es noch keiner in der Musik gebracht. Staunen Sie! Den tiefsten Baß drücken Kanonen aus, welche nach dem Takte geladen und abgefeuert werden.<br>LANGE. Es ist entsetzlich!<br>HARMONIKUS. Es ist unmenschlich, müssen Sie sagen, jaja, unmenschlich."
+          },
+          {
+            "typ": "figurtext",
+            "text": "JEANETTE <i>die immer sprechen wollte.</i> Mais mon Dieu, Sie wollen mich ja gar nicht sprechen lassen."
+          },
+          {
+            "typ": "kontext",
+            "text": "HARMONIKUS. Sprechen? Nein, meine Liebe, in meinem Hause darf künftig gar nichts mehr gesprochen werden. Singen Sie, und ich stehe Ihnen zu Diensten, jaja, ich stehe Ihnen zu Diensten."
+          },
+          {
+            "typ": "figurtext",
+            "text": "JEANETTE. Ich möchten doch gerne wissen, wann denn wird sein unser Vermählung?"
+          },
+          {
+            "typ": "kontext",
+            "text": "HARMONIKUS. Eher nicht, als bis mein Hochzeitkarmen fertig ist. Ja meine Liebe, auch das muß ein Meisterwerk werden. Bewundern Sie die herrliche Idee: Wenn auf die Hoffnung von baldiger Nachkommenschaft angespielt wird, so müssen im Nebengemache ein halb Dutzend Weiber mit kleinen Kindern stehen, welche nach dem Takte gezwickt werden, jaja, gezwickt werden. Gedulden Sie sich, sogar wenn wir beide mitsamm' zanken, so muß es nach einem musikalischen Tempo geschehen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(2. Aufzug, 10. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Zweiter Aufzug.<br>Eilfter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Vorige. Malchen. Bernhard.</i><br>MALCHEN. Gnädiger Herr, es ist schon spät, und Sie haben noch nicht angeschafft – sie sperren mir sonst die Fleischbank zu.<br>HARMONIKUS. Welche unharmonische Töne! Habe ich Ihr nicht schon oft befohlen, mir den Speisezettel vorzusingen! Sie erlauben, meine Herrn, meine häuslichen Angelegenheiten zu berichtigen. Hier hat Sie die Noten. <i>Zu Bernhard.</i> Und Er auch, Er Eselskopf, jaja, Er Eselskopf. Nun, wird's bald?<br><i>Terzett Malchen und Bernhard singen aus den Noten.</i><br>MALCHEN. In der Suppen feine Nudel – Nudel.<br>HARMONIKUS. Hören Sie die Repetition? Weil ich die Mehlspeise gerne esse.<br>BERNHARD <i>eintönig.</i> Und ich führ zum Schanzel zum Waschen, zum Schwimmen den Pudel.<br>HARMONIKUS. Wie das hüpft, man sieht den Kerl ordentlich apportieren.<br>MALCHEN. Zu dem Fleische frische Brockerl.<br>BERNHARD. Ich lauf zum Friseur mit des Herrn sein Parockerl.<br>MALCHEN. Statt Braten ein' gedünsten Schlegel.<br>BERNHARD. Ich hol den Kopisten daher zu dem Flegel.<br>HARMONIKUS. Zum Kegel.<br>MALCHEN. Was übrigbleibt, behalten wir.<br>BERNHARD. Und ich trink auf d'Jausen ein paar Plützerl Bier.<br>ALLE DREI. Es wird nach dem Takt gekocht da im Haus, Ich lauf musikalisch zum Tempel hinaus. <i>Alle drei ab.</i><br>LANGE. Nun, mein Fräulein?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "JEANETTE. En verité, c'est insurportable, cela me chagrine – mich gar nicht anzuhören."
+          },
+          {
+            "typ": "kontext",
+            "text": "LANGE. Wenn Sie seine Frau sind, wird es noch weit ärger sein."
+          },
+          {
+            "typ": "figurtext",
+            "text": "JEANETTE. Oui, vous avez raison – ich sehen ein meiner bêtise, zu nehmen einen Mann, der mehr haben Gefühl pour ses compositions, que pour sa femme – ich bin entschlossen, ich geben auf der Mariage."
+          },
+          {
+            "typ": "kontext",
+            "text": "HERFORT. Und?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "JEANETTE. Eh bien, wenn Sie sich schick dans mes caprices, ich erklären Sie zu mon mari. <i>Sie umarmen sich und eilen fort.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "HARMONIKUS <i>kömmt zurück.</i> Halt! halt! Wo wollen Sie denn jetzt hin? LANGE <i>tritt ihm in den Weg.</i> Sie kommen zu spät – während Sie ganz in Ihre Musik vertieft sind, hat Jeanette einem Manne ihr Herz gegeben, der eine so schöne Gabe zu schätzen weiß.<br>HARMONIKUS. Erlauben Sie, das ist kein Scherz, das Mädchen hat dreißigtausend Taler, jaja, dreißigtausend Taler.<br>LANGE. Gleichviel, Sie müssen halt so viele Noten dafür schreiben.<br>HARMONIKUS. Ich habe sie, solange ich sie kenne, mit keiner Silbe beleidigt.<br>LANGE. Aber auch nicht vergnügt. Es ist nicht genug, daß der Mann gut und fleißig ist, er muß wegen seinen Geschäften nie das Weib vernachlässigen. Ich bedaure, aber merken Sie sich diese Lehre für die Zukunft. <i>Ab.</i><br>HARMONIKUS. Es ist entsetzlich, jaja, entsetzlich! Wenn sie mir nur wenigstens musikalisch den Abschied gegeben hätte. Aber ich will mich rächen, die Gottlose darf in meiner neuen Kantate nicht mitsingen. Wo ist die Partitur? Sogleich will ich die Singstimme ändern. <i>Schlägt eine Partitur auf und gibt den Takt. Gewaltiger Lärmen von außen.</i><br>MALCHEN <i>eilig.</i> Feuer, Feuer ist im Hause!<br>HARMONIKUS. Still, hier mach ich eine Pause.<br>BERNHARD. Helft, die Flamme bricht herein.<br>HARMONIKUS. Hier muß ein Allegro sein! <i>Die Trommel wirbelt, alles stürzt herein.</i><br>CHOR. Feuer, Feuer ist im Hause, Welch ein Lärmen, welch Gebrause! Seht, die Flamme bricht herein! Schnelle Flucht kann nur befrein! <i>Die Flamme schlägt ins Zimmer herein, Rauchfangkehrer eilen herbei. Harmonikus komponiert noch immer und wehrt mit der Hand ab, bis ihn zwei Rauchfangkehrer abtragen, wobei er immer noch aus den Noten den Takt schlägt.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(2. Aufzug, 11. Auftritt)</b>"
+          }
+        ]
+      },
+
+      {
+        "id": "Eheteufel04",
+        "theaterstück": {
+          "titel": "Der Eheteufel auf Reisen. Lokales Zauberspiel mit Gesang in zwei Aufzügen",
+          "zeit": "1821",
+          "druckort": "Brünn",
+          "auffuehrungshinweise": "Aufführung 1821, Druck 1822"
+        },
+        "autor": {
+          "name": "Joseph Alois Gleich",
+          "herkunft": "Ood.",
+          "orte": "Wien", 
+          "lebensdaten": "1772–1841"
+        },
+        "figur": {
+          "name": "Christoph",
+          "rolle": "Händler",
+          "beschreibung": "Eisenhändler aus Steiermark; spricht bairischen Dialekt (aber anders als Mathias); redet mit Mathias"
+        },
+        "dialekt": {
+          "adaption": "Autoadaption",
+          "dialekt_grossraum": "Ood."
+        },
+        "geokoordinaten": {
+          "herkunft_autor": {
+            "lat": 48.208333,
+            "lng": 16.373056
+          },
+          "herkunft_figur": { 
+            "lat": null,
+            "lng": null
+          }
+        },
+        "abschnitt": "[tbd]",
+        "original_link": "https://dracor.org/ger/gleich-der-eheteufel-auf-reisen#text",
+        "abschnitt_segmentiert": [
+          {
+            "typ": "kontext",
+            "text": ""
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>Zweiter Aufzug.<br>Fünfzehnter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Vorige. Christoph.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "CHRISTOPH. Guten Abend da beisammen. Sackerlot, weil's draußen dunkel ist, so hab ich schon glaubt, ös werd's schon alle im Nest liegen."
+          },
+          {
+            "typ": "kontext",
+            "text": "SABINE. Er ist's – mein Christoph!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "CHRISTOPH. Nun grüß Gott – sackerlot, schaut das Weib nicht aus wie ein steirischer Kapauner."
+          },
+          {
+            "typ": "kontext",
+            "text": "SABINE. O Sie loser Schelm – Sie waren schon einmal da."
+          },
+          {
+            "typ": "figurtext",
+            "text": "CHRISTOPH. Meiner Seel nicht."
+          },
+          {
+            "typ": "kontext",
+            "text": "SABINE. Leugnen Sie nur nicht. Die zwei Blumenstock da mit die Veiligen und Maurunkerln – nicht wahr Sie, die sehen Ihnen gleich?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "CHRISTOPH. Das könnt ich nicht sagen, ich bin ja viel größer."
+          },
+          {
+            "typ": "kontext",
+            "text": "SABINE. Wie fein sich der Mensch herauswindet. Nun, und das Gedicht von der Sonne –"
+          },
+          {
+            "typ": "figurtext",
+            "text": "CHRISTOPH. Ja, da haben S' recht, bei der Sunn hab ich erst ein kostbars Rostbratel gegessen. Ich hab Ihnen wollen einen Fleck mitbringen, aber der Kellner hat kein Papier gehabt. Aber das Ding kommt mir ganz kurios vor, von wem sind die Blumen? Sie werden doch nicht noch einen Liebhaber haben? Sie, das wäre ein starkes Stück; denn mei ner Seele, ich nehme Sie nur bloß deswegen in meine Wirtschaft, weil ich mit Ihnen nicht mehr eifern darf."
+          },
+          {
+            "typ": "kontext",
+            "text": "SABINE <i>rasch.</i> Nein Engerl, das dürfen S' nicht mehr, ich bleib Ihnen treu bis in den Tod."
+          },
+          {
+            "typ": "figurtext",
+            "text": "ROBERT. So wie ich meiner Therese, der ich diese kleine Freude machte. <i>Umarmt sie.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "SABINE. So? Also der Wisch ist von Ihnen? <i>Zu Christoph.</i> Und Sie haben mir nichts zu meinem Geburtstag mitgebracht?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "CHRISTOPH. Nein. Ein ung'rischen Rauchtabak hab ich da, wenn ich damit aufwarten kann, sonst hab ich nichts."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(2. Aufzug, 15. Auftritt)</b><br><br>"
+          },
+          
+          {
+            "typ": "figurtext",
+            "text": "<b>Zweiter Aufzug.<br>Sechzehnter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Vorige. Susanne.</i><br>SUSANNE <i>aus dem Nebengemache.</i> Was gibt's denn da für Lärmen? Ich habe gar geglaubt, mein Mann ist schon zu Hause.<br>ROBERT. Sie verzeihen, daß wir Sie belästigen.<br>SUSANNE. Ach das macht nichts. Seid nur recht zärtlich mitsamm', das hör ich gern. Da fallt mir allemal der gewisse verliebte Mensch ein, von dem ich einmal gelesen habe – wie hat er denn nur geheißen? Ich glaube Sieghart,(Anspielung auf M. Millers ›Siegwart Eine Klostergeschichte (1777).) der auf dem Grab seiner Mariandl erfroren ist. O mein Gott, mein Mann erfriert nicht für mich, er setzt sich lieber in ein Branntweinhäusel.<br>ROBERT. Sie dauern mich, daß Ihr Man so massiv und so eifersüchtig ist.<br>SUSANNE. Ja, wer kann helfen? Was das Massive anbelangt, so wollt ich's ihm noch verzeihen, weil er nur ein Hausmeister ist, aber die Eifersucht – ach, das ist gar schrecklich. Ich bitte Sie, letzthin geh ich abends in Hof hinaus und geb unserm Geißbock ein Futter, sieht der im Dunkeln den Geißbock für einen Liebhaber an und will ihn arretieren lassen.<br>SABINE. Sie, das bitte ich mir aus, Herr Christoph, in Steiermark, hör ich, gibt's Steinböck, daß da nicht auch etwa eine Eifersucht entsteht.<br>SUSANNE. Wenn ich mir was machen lasse, so soll mir der Schneider und der Schuster keine Maß nehmen. Bringe ich vom Einkaufen ein Fleisch nach Hause, das nicht recht schön ist, so sagt er, ich habe mit einem Chapeau diskutiert, statt achtzugeben; und ist das Fleisch recht schön, so sagte er, der Aufhackknecht muß in mich verliebt sein. Ich bitte Sie, ich habe einmal von einem eifersüchtigen Kavalier gelesen, der hat seiner Frau das Herz von ihrem Liebhaber kochen lassen, seit der Zeit traue ich mir gar kein Herz mehr zu essen, weil man halt doch nicht wissen kann, ob's nicht auch von einem Liebhaber herkommt. Ja, ich muß Ihnen aufrichtig sagen, meine Herren, es wäre mir recht angenehm, wenn Sie anderswo mitsammen diskurieren könnten, denn wenn mein Mann kommt und trifft Sie da an, so laßt er sich's gar nicht ausreden, daß einer von Ihnen Absichten auf mich hat.<br>ROBERT für sich. Dann wird ihm die Nachtmusik auch nicht angenehm sein, die ich veranstaltet habe."
+          },
+          {
+            "typ": "figurtext",
+            "text": "CHRISTOPH. Wenn aber der Mann ein solcher Narr ist, wie kann's denn die Frau bei ihm aushalten?"
+          },
+          {
+            "typ": "kontext",
+            "text": "SUSANNE. Ja, ich habe schon oft von ihm fortgehen wollen, denn Sie müssen wissen, ich kann viel schöne Arbeiten – wer weiß, was geschieht, wenn er mir's einmal zu toll macht. Man hört Lärm von außen. Da ist er, ich bitte Sie um alles in der Welt, verstecken Sie sich, sonst wird er so wütend, wie ich einmal von einem Ritter gelesen habe – wie hat er denn nur geheißen? – ja richtig, der rasende Harax zu Rom.<br>THERESE. Was ist denn anzufangen?<br>SUSANNE. Es muß was zu bedeuten haben, daß er so früh kommt, vielleicht geht er bald wieder. Ich bitte Sie, gehen Sie indessen da in die Kammer hinein."
+          },
+          {
+            "typ": "figurtext",
+            "text": "CHRISTOPH. Ah warum nicht gar, wenn ein Hausmeister grob ist, so kann's ein Steirer auch sein. Ich schlag ihn auf einen Streich nieder."
+          },
+          {
+            "typ": "kontext",
+            "text": "SABINE. Kind, willst du meine gute Freundin blamieren? Wenn ich dich bitte, so wirst du mir doch einen kleinen Verstecker nicht abschlagen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "CHRISTOPH. Nun, diesmal laß ich mir's gefallen; aber sackerlot, der Hausmeister soll mir so nicht kommen. <i>Er und Robert gehen in ein Nebengewölbe.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "SABINE <i>zu Therese.</i> Wir wollen ihm auch ausweichen, denn seit ich den artigen Christoph kennengelernt habe, ist mir der Mensch zuwider wie das saure Bier. <i>Ab mit Therese.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(2. Aufzug, 16. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Zweiter Aufzug.<br>Achtzehnter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "</i>Mathias wird von einem Korporal und Wache hereingeschleppt, Sabine und Therese kommen aus dem Nebengemache.<i><br>KORPORAL. Nur herein da, wir wollen gleich aus einem andern Ton mitsammen sprechen.<br>MATHIAS. Reden Sie aus was für einem Ton, als Sie wollen, den meinen haben Sie schon kennengelernt. Ich darf keinen solchen Lärm vor dem Hause leiden, mein Hausherrn sein Pudel hat Junge kriegt.<br>KORPORAL. Verfluchter Kerl, wer heißt Ihn denn gleich auf die Leute schlagen?<br>MATHIAS. Das ist schon so meine Gewohnheit, und kurz und gut, an der ganzen Geschichte ist mein Weib schuld; aber jetzt soll sie's gleich eingestehen, wer ihr die Nachtmusik gemacht hat. <i>Öffnet die Kammer, Robert tritt heraus.</i><br>ROBERT. Was geht denn da vor?<br>MATHIAS. Mich trifft der Schlag, der ist bei meinem Weibe gewesen, jetzt bring ich s' um! <i>Will in die Kammer, Christoph kommt ganz phlegmatisch und Tabak rauchend heraus.</i> Da ist noch einer und gar ein Oberländler – nein, das ist zuviel.<br>ROBERT. Aber so lasse Er sich doch nur sagen –<br>MATHIAS. Nichts laß ich mir sagen. In mir kocht alles – da sehen S' her, wie's in mir arbeitet, als wie in einer Ochsenmühl. Aber jetzt hab ich's. – Herr Korporal, wenn S' einen Rekruten brauchen, nehmen S' mich; daß ich gut zuhauen kann, haben S' schon gesehen. <i>Setzt den Hut des Korporals auf.</i> So – jetzt gehöre ich zum Militari, und morgen geb ich eine Bittschrift ein, daß mir ein Krieg bewilligt wird, damit ich mich kann totschießen lassen. Vorher aber will ich da eine militärische Ausziehzeit halten. <i>Wirft verschiedene Gerätschaften zum Fenster hinaus – auf Therese und Sabine deutend.</i> Da sind auch noch zwei – die alte muß voran, damit die junge nicht so hart fallt."
+          },
+          {
+            "typ": "figurtext",
+            "text": "CHRISTOPH. Was? Du Gispel du, meine Braut willst du zum Fenster hinauswerfen?"
+          },
+          {
+            "typ": "kontext",
+            "text": "ROBERT. Wer sich an meiner Geliebten vergreift, hat es mit mir zu tun.<br>MATHIAS. Was? Braut? Geliebte? Und ihr wäret nicht wegen meinem Weib da?<br>ROBERT. Ich habe die Nachtmusik zu Theresens Geburtstag machen lassen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "CHRISTOPH. Und du Tappschädel hast dein Weib selber zu uns hereingesperrt. Sie hat aber einen Gescheiten gemacht, ist beim hintern Türl fort und hat gesagt, sie will von dir nichts mehr wissen."
+          },
+          {
+            "typ": "kontext",
+            "text": "MATHIAS. O ich Narr, ich Dummkopf! Meine Einrichtung zerschlagen – ich Soldat und 's Weib von mir weg –, an allem bin ich selber schuld. Aber mein Suserl muß ich noch einholen und muß sie bitten, daß sie mich recht derb abprügelt. <i>Eilt fort, alle ihm nach.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(2. Aufzug, 18. Auftritt)</b>"
+          }
+        ]
+      },
+
+      {
+        "id": "Eheteufel05",
+        "theaterstück": {
+          "titel": "Der Eheteufel auf Reisen. Lokales Zauberspiel mit Gesang in zwei Aufzügen",
+          "zeit": "1821",
+          "druckort": "Brünn",
+          "auffuehrungshinweise": "Aufführung 1821, Druck 1822"
+        },
+        "autor": {
+          "name": "Joseph Alois Gleich",
+          "herkunft": "Ood.",
+          "orte": "Wien", 
+          "lebensdaten": "1772–1841"
+        },
+        "figur": {
+          "name": "Mathias Grob",
+          "rolle": "Hausmeister",
+          "beschreibung": "Hausmeister; spricht Bairisch (aber anders als Christoph); redet mit Christoph"
+        },
+        "dialekt": {
+          "adaption": "",
+          "dialekt_grossraum": ""
+        },
+        "geokoordinaten": {
+          "herkunft_autor": {
+            "lat": 48.208333,
+            "lng": 16.373056
+          },
+          "herkunft_figur": { 
+            "lat": null,
+            "lng": null
+          }
+        },
+        "abschnitt": "[tbd]",
+        "original_link": "https://dracor.org/ger/gleich-der-eheteufel-auf-reisen#text",
+        "abschnitt_segmentiert": [
+          {
+            "typ": "figurtext",
+            "text": "<b>Zweiter Aufzug.<br>Siebenzehnter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Vorige. Mathias.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "MATHIAS. Nun, was stehst du so da und hast den Kopf auf der Achsel? Hast du nichts anders zu tun, als mit den Affenparteien oder Afterparteien, wie s' heißen, deinen Plaudermark zu halten?"
+          },
+          {
+            "typ": "kontext",
+            "text": "SUSANNE. Wenn sie dir nicht recht sind, so sag ihnen auf."
+          },
+          {
+            "typ": "figurtext",
+            "text": "MATHIAS. Das kann nicht sein; wenn ich keine Nebenzuflüsse hab, kann ich von meinen bissel Revenüen nicht standesmäßig leben. Ein paar Zimmerherren wären dir freilich lieber; aber es ist mit den Weibsbildern auch nicht gefehlt, die können recht ohne Verdacht Posten zutragen."
+          },
+          {
+            "typ": "kontext",
+            "text": "SUSANNE. Geh nur, geh, du verfolgst mich so unschuldig, als wie ich einmal von einer gewissen Herzogin Maultaschin (Margarete Maultasch, Gräfin von Tirol (1318-69) wohl nach G.H. Heinses ›Margarete mit dem großen Maul‹ (1797)) gelesen habe."
+          },
+          {
+            "typ": "figurtext",
+            "text": "MATHIAS. Wenn du mit deiner Belesenheit nicht aufhörst, so kannst von mir noch eine Maultaschen kriegen, an der du genug hast. Du bist schuld daran, daß ich weniger Einkünften hab wie andere Hausmeister. Schau die Parteien in unserm Haus an, wie sie's machen, weil die Quartier so teuer sind. Sieben, acht Parteien auf einer Kammer. Wenn man in der Früh das Tor aufmacht, so ist das ein Spektakel, wie die Leute prozessionweise hinauspoveln, als wenn die Archen Noe aufgemacht wurd. Aber auf die Nacht kommt das Volk richtig vor dem Zusperren nach Haus. Nun, das wird auch anders werden. Wir Hausmeister haben uns schon verabredet, und weil ich der G'scheiteste drunter bin, so muß ich eine Bittschrift an die Justizi machen, daß die Haustör alle um fünf Uhr dürfen gesperrt werden, damit mehr Trinkgeld eingeht. – Ja, da im ganzen Zimmer hätte ich können Bablatschen aufrichten lassen, und ich hätte alle Abend von ein Dutzend Bandelkramer oder Leinwandmännern meine Schlafkreuzer kriegt – aber dem Weib ist ja nicht zu trauen."
+          },
+          {
+            "typ": "kontext",
+            "text": "SUSANNE. Mann, ich werde mich doch mit keinem Bandelkramer oder einem Leinwandmann abgeben!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "MATHIAS. Weil man nicht schon Geschichten genug gehört hat. Hast du noch nichts gelesen davon? Wenn's nicht bald anders wird, so geh ich aus Desperation unters Militari."
+          },
+          {
+            "typ": "kontext",
+            "text": "SUSANNE. Du bist ein eifersüchtiger Narr, gar nirgends nimmt er mich hin, nicht einmal 's Jahr einmal in eine Komödie."
+          },
+          {
+            "typ": "figurtext",
+            "text": "MATHIAS. Nur mit der Komödie laß mich aus, das ist lauter Fopperei; bin erst letzthin erwischt worden. Da steht auf dem Zettel, das Stück spielt von Sonnenaufgang bis abends; nun, hab ich mir denkt, da wird man doch genug um seine zwölf Kreuzer sehen können, und bin um zwei Uhr in der Nacht schon aufgestanden, damit ich vor Sonnenaufgang hinkommen bin; derweil hat sich kein Mensch dort gerührt. Ja, um sechse auf d' Nacht haben s' erst aufg'macht, da haben sich die Leut in der Dunkel auf d' Bänk hing'setzt und haben diskuriert, der Würstelbub hat sich ein paarmal hören lassen, und das war alles – hernach bin ich wieder gangen. <i>Man hört von außen Musik.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "SUSANNE. Das ist ja eine Nachtmusik? Von so was habe ich öfters schon gelesen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "MATHIAS. Ja nicht wahr, wie in Wällischland, wo die Liebhaber Kasematten gehn und bei der Nacht auf der Zigarre spielen. <i>Wird aufmerksamer.</i> Du Weib, das ist vor unserm Fenster, das geht dich an – mir wird nicht recht gut. <i>Sieht zum Fenster hinaus.</i> Da schau hinaus, eine halbe Kompanie steht draußen, ist nicht der Regimentstambour auch dabei?"
+          },
+          {
+            "typ": "kontext",
+            "text": "SUSANNE. So sei doch nur ein bissel still, daß man was hören kann."
+          },
+          {
+            "typ": "figurtext",
+            "text": "MATHIAS. Ich werde gleich rechten Lärm anfangen. Du brauchst nichts zu hören, nichts zu sehen – marsch da ins Kammerl, bis ich staubaus gemacht hab. <i>Schiebt sie in die Kammer, wo Robert und Christoph sind, sperrt zu und nimmt den Karbatsch.</i> Nur Geduld, jetzt komme ich dazu und mach den Regenschori. <i>Ab. Die Musik von außen währt fort. Plötzlich hört man Schlägerei, die Stimme des Hausmeisters usw.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(2. Aufzug, 17. Auftritt)</b><br><br>"
+          },
+          
+          {
+            "typ": "figurtext",
+            "text": "<b>Zweiter Aufzug.<br>Achtzehnter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "</i>Mathias wird von einem Korporal und Wache hereingeschleppt, Sabine und Therese kommen aus dem Nebengemache.<i><br>KORPORAL. Nur herein da, wir wollen gleich aus einem andern Ton mitsammen sprechen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "MATHIAS. Reden Sie aus was für einem Ton, als Sie wollen, den meinen haben Sie schon kennengelernt. Ich darf keinen solchen Lärm vor dem Hause leiden, mein Hausherrn sein Pudel hat Junge kriegt."
+          },
+          {
+            "typ": "kontext",
+            "text": "KORPORAL. Verfluchter Kerl, wer heißt Ihn denn gleich auf die Leute schlagen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "MATHIAS. Das ist schon so meine Gewohnheit, und kurz und gut, an der ganzen Geschichte ist mein Weib schuld; aber jetzt soll sie's gleich eingestehen, wer ihr die Nachtmusik gemacht hat. <i>Öffnet die Kammer, Robert tritt heraus.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "ROBERT. Was geht denn da vor?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "MATHIAS. Mich trifft der Schlag, der ist bei meinem Weibe gewesen, jetzt bring ich s' um! <i>Will in die Kammer, Christoph kommt ganz phlegmatisch und Tabak rauchend heraus.</i> Da ist noch einer und gar ein Oberländler – nein, das ist zuviel."
+          },
+          {
+            "typ": "kontext",
+            "text": "ROBERT. Aber so lasse Er sich doch nur sagen –"
+          },
+          {
+            "typ": "figurtext",
+            "text": "MATHIAS. Nichts laß ich mir sagen. In mir kocht alles – da sehen S' her, wie's in mir arbeitet, als wie in einer Ochsenmühl. Aber jetzt hab ich's. – Herr Korporal, wenn S' einen Rekruten brauchen, nehmen S' mich; daß ich gut zuhauen kann, haben S' schon gesehen. <i>Setzt den Hut des Korporals auf.</i> So – jetzt gehöre ich zum Militari, und morgen geb ich eine Bittschrift ein, daß mir ein Krieg bewilligt wird, damit ich mich kann totschießen lassen. Vorher aber will ich da eine militärische Ausziehzeit halten. <i>Wirft verschiedene Gerätschaften zum Fenster hinaus – auf Therese und Sabine deutend.</i> Da sind auch noch zwei – die alte muß voran, damit die junge nicht so hart fallt."
+          },
+          {
+            "typ": "kontext",
+            "text": "CHRISTOPH. Was? Du Gispel du, meine Braut willst du zum Fenster hinauswerfen?<br>ROBERT. Wer sich an meiner Geliebten vergreift, hat es mit mir zu tun."
+          },
+          {
+            "typ": "figurtext",
+            "text": "MATHIAS. Was? Braut? Geliebte? Und ihr wäret nicht wegen meinem Weib da?"
+          },
+          {
+            "typ": "kontext",
+            "text": "ROBERT. Ich habe die Nachtmusik zu Theresens Geburtstag machen lassen.<br>CHRISTOPH. Und du Tappschädel hast dein Weib selber zu uns hereingesperrt. Sie hat aber einen Gescheiten gemacht, ist beim hintern Türl fort und hat gesagt, sie will von dir nichts mehr wissen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "MATHIAS. O ich Narr, ich Dummkopf! Meine Einrichtung zerschlagen – ich Soldat und 's Weib von mir weg –, an allem bin ich selber schuld. Aber mein Suserl muß ich noch einholen und muß sie bitten, daß sie mich recht derb abprügelt. <i>Eilt fort, alle ihm nach.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(2. Aufzug, 18. Auftritt)</b>"
+          }
+        ]
+      },
+
+
+      {
         "id": "HansZanow01",
         "theaterstück": {
           "titel": "Hans von Zanow oder: Der Landjunker in Berlin. Ein Lustspiel in fünf Aufzügen",
@@ -484,7 +1398,7 @@
         "figur": {
           "name": "Hans von Zanow",
           "rolle": "Junker",
-          "beschreibung": "'Der Landjunker ist einer von den Edelleuten seines Vaterlandes, welche durch Erziehung vernachlässiget worden, der einige Monate bey der Armee stand, und, nachdem er seinen Abschied genommen, sogleich wieder in sein Vaterland und auf sein Landgut zurückkehrte; er kann also nicht in dem Tone eines diensterfahrnen und gebildeten Offiziers sprechen. Er hielt sich, wie er seinen Kindern erzählt, einige Zeit in Hamburg auf; dieser Umstand könnte einigermassen zur Entschuldigung dienen, daß dieser Erzpommer den niedersächsischen Dialekt mit seinem vaterländischen zum öftern verwechselt. Sollte diese Farçe das Glück haben, in Berlin oder an andern Orten vorgestellt zu werden, so wird es denen Schauspielern leicht seyn, mit einigen Abänderungen im Texte, die Hinterpommersche oder eine jede andre bäurische Provincialsprache für den Landjunker und seinen Bedienten unterzulegen.'; spricht pommerschen Dialekt; redet mit Gürge und Frau Müllern (nd.), dem Juden (jüd.-dt.) und dem Chevalier (L2-Frz.)"
+          "beschreibung": "'Der Landjunker ist einer von den Edelleuten seines Vaterlandes, welche durch Erziehung vernachlässiget worden, der einige Monate bey der Armee stand, und, nachdem er seinen Abschied genommen, sogleich wieder in sein Vaterland und auf sein Landgut zurückkehrte; er kann also nicht in dem Tone eines diensterfahrnen und gebildeten Offiziers sprechen. Er hielt sich, wie er seinen Kindern erzählt, einige Zeit in Hamburg auf; dieser Umstand könnte einigermassen zur Entschuldigung dienen, daß dieser Erzpommer den niedersächsischen Dialekt mit seinem vaterländischen zum öftern verwechselt. Sollte diese Farçe das Glück haben, in Berlin oder an andern Orten vorgestellt zu werden, so wird es denen Schauspielern leicht seyn, mit einigen Abänderungen im Texte, die Hinterpommersche oder eine jede andre bäurische Provincialsprache für den Landjunker und seinen Bedienten unterzulegen.'; einige pommersche Merkmale, aber nicht durchgängig (hier alle Szenen aufgenommen, auch ohne dialektale Merkmale); redet mit Gürge und Frau Müllern (nd.), dem Juden (jüd.-dt.) und dem Chevalier (L2-Frz.)"
         },
         "dialekt": {
           "adaption": "Autoadaption",
