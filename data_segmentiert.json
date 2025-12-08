@@ -1,6 +1,1365 @@
 [
 
       {
+        "id": "Kalkbrenner01",
+        "theaterstück": {
+          "titel": "Der Kalkbrenner. Liederposse in einem Akt",
+          "zeit": "1825",
+          "druckort": "",
+          "auffuehrungshinweise": "Handlungsort ist Süptitz"
+        },
+        "autor": {
+          "name": "Karl von Holtei",
+          "herkunft": "Omd.",
+          "orte": "Breslau",
+          "lebensdaten": "1798–1880"
+        },
+        "figur": {
+          "name": "Briefträger",
+          "rolle": "Briefträger",
+          "beschreibung": "spricht Sächsisch; redet mit Kotzeluch (schles.)"
+        },
+        "dialekt": {
+          "adaption": "Heteroadaption",
+          "dialekt_grossraum": "Omd."
+        },
+        "geokoordinaten": {
+          "herkunft_autor": {
+            "lat": 51.11,
+            "lng": 17.032222
+          },
+          "herkunft_figur": { 
+            "lat": null,
+            "lng": null
+          }
+        },
+        "abschnitt": "[tbd]",
+        "original_link": "https://dracor.org/ger/holtei-die-kalkbrenner#text",
+        "abschnitt_segmentiert": [
+          {
+            "typ": "figurtext",
+            "text": "<b>Dritter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Der Briefträger. Kotzeluch.</i><br>KOTZELUCH. Ist was an mir?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "BRIEFTRÄGER. Ne, an Ihnen ist diesmal nichts nich'! Aber da ist ein Brief für Mamsell Linse."
+          },
+          {
+            "typ": "kontext",
+            "text": "KOTZELUCH. Her damit! Das Mädel soll keine Briefe lesen, eh' ich sie nicht angelesen habe. Ich will nicht nur ihr Vormund, sondern auch ihr Vor-Ohr und Vor-Auge sein."
+          },
+          {
+            "typ": "figurtext",
+            "text": "BRIEFTRÄGER. Zwölf Groschen sechs Pfennig!"
+          },
+          {
+            "typ": "kontext",
+            "text": "KOTZELUCH. Das ist ja furchtbar theuer."
+          },
+          {
+            "typ": "figurtext",
+            "text": "BRIEFTRÄGER. Dickes Papier! – Hier ist auch die letzte Zeitung. <i>Ab.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "KOTZELUCH <i>allein.</i> Na, nu wollen wir doch sehen – <i>Öffnet den Brief.</i> »Meine liebe Jungfer Braut! (Aha, endlich.) Ich bin recht gesund; es soll mich freuen, wenn Sie auch gesund sind. Ich bin Ihr Vetter, wo meine Mutter seelige befohlen hat, daß Sie ihn heirathen sollen, weil Sie sonst von der ganzen Erbschaft nichts kriegen. Da denk' ich wohl, daß Sie mich nehmen werden, denn ich bin 28 Jahr alt, sonst bin ich ein Handlanger, der um's Tagelohn arbeiten thut. Deswegen war mir's sehr lieb, wie in den Zeitungen stand, daß meine Mutter tod wäre. Grüßen Sie mir den Herrn Vormund sehr viele mal. Ich danke ihm für seine An-Onkse in die Zeitungen, denn ich bin ein Handlanger, der um's Tagelohn arbeiten thut, und grüße ihn sehr viele mal. Ich grüße Sie viele mal, liebe Lowisel, Sie sind ja meine Pflegeschwester, und wenn Sie mich heirathen, werde ich ihr Mann sein. Ich grüße Sie alle und auch meine Mutter, der ich stets verbleibe als dero Freund, Lorenz Kegel, Handlanger in Breslau; wohnhaftig in Breslau vor dem Ziegelthore, auf dem Wege nach Grüneiche in den Hundshäusern, die Nummer weiß ich nicht, es steht aber ein Nußbaum vor der Thüre. Bostskript: da ich mir eben besinnen thu', daß meine Mutter tod ist, so lasse ich sie nicht grüßen. Noch Eins: meine Adresse hätten Sie nicht gebraucht, denn ich komme ja selber bei Sie. Diesen Brief habe ich nicht geschrieben, denn ich habe mir die rechte Hand ein Bissel verbrannt. Ich kann auch überhaupt nicht schreiben, denn weil ich es nicht gelernt habe, denn weil ich frühzeitig unter dem Militair-Wesen kam. Diesen Brief schreibt die Lehnel von Knaut's drummen, die ist meine gute Freundin und grüßt Ihnen schöne. Ich grüße Sie vielmals. Meinen Namen hab' ich allein geschrieben. Bostskript: Lorenz Kegel!« – – Daß dich das Wetter: das ist ein Brief. Den will ich für's Erste doch für mich behalten, denn wenn Louise ihn sieht, faßt sie schon im Voraus eine ungünstige Meinung gegen Vetter Lorenz. Nun die Zeitungen! <i>Fliegt sie schnell durch.</i> Osmanisches Reich, – Hydrioten – Pascha – Dauphin – Lord Mayor – König Jagd gehalten, – linke Seite, – die Kammern haben – (hol' euch der Teufel!) – Wissenschaftliche und Kunst-Nachrichten, – ha, seh' ich Recht? Kalkbrenner, – aus London, Concert in Berlin! – und ich kann nicht hin! Ich darf den Jungen nicht allein mit Louisen im Hause lassen; ich muß den Lümmel erwarten, den Kegel! Unterdessen rückt der festliche Tag heran, die Stunde schlägt, der Saal wird immer voller, – immer voller, immer voller! Es wogt und drängt und harrt, – er kommt an; man reckt die Köpfe, ihn zu sehen; die Instrumente werden gestimmt; die Ouvertüre geht an. O wie lang! Schließt doch! schließt doch! Er steht ja schon gerüstet! Noch ein Schluß! Und noch ein Accord; noch ein Mal: da hat der Componist noch ein Stückchen Papier leer gehabt; drum, drum, schrum, schrum. Endlich! Nun setzt er sich hin: vielilerile vilerilerie! – Ha! Kalkbrenner spielt in Berlin – und ich bin nichts, als ein gefesselt Weib! <i>Mel.: Chinoise des Seiltänzers Foureaux.</i> Ach, ich wollt', ich wär' in Berlin, Wo der Kalkbrenner Alles entzückt und beglückt, Könnt' ich hin zu dem Saale nur ziehn, Den der weibliche Blumenflor schmückt. Nein, kein Opfer wär' mir zu groß und zu schwer, Einen Thaler Entree gäb' ich wonnevoll her, Könnt' ich hin zu dem Saale nur ziehn; Ach, ich wollt', ich wär' in Berlin, in Berlin, Könnt' ich hin zu dem Saale nur ziehn, Ach, ich wollt', ich wär' in Berlin! Ach, ich wollt', ich wär' in Berlin! Glücklicher wär' ich ja heute als Herzog und Prinz, Wären Flügel mir Aermsten verliehn! Hol' der Teufel die dumme Provinz! In der Hauptstadt allein ist das Leben 'was werth, Denn es jagt ein Concert dort das andre Concert; Könnt' ich hin etc. <i>Ab zur Seite.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(3. Auftritt)</b>"
+          }
+        ]
+      },
+
+      {
+        "id": "Kalkbrenner02",
+        "theaterstück": {
+          "titel": "Der Kalkbrenner. Liederposse in einem Akt",
+          "zeit": "1825",
+          "druckort": "",
+          "auffuehrungshinweise": "Handlungsort ist Süptitz"
+        },
+        "autor": {
+          "name": "Karl von Holtei",
+          "herkunft": "Omd.",
+          "orte": "Breslau",
+          "lebensdaten": "1798–1880"
+        },
+        "figur": {
+          "name": "Kotzeluch",
+          "rolle": "Wirt",
+          "beschreibung": "Gastwirth zur goldnen Tonne, Bürgermeister und Musikvereindirector in Süptiz; spricht schlesischen Dialekt; redet mit Fritz (ber.), Lorenz (schles.) und dem Briefträger (sächs.)"
+        },
+        "dialekt": {
+          "adaption": "Autoadaption",
+          "dialekt_grossraum": "Omd."
+        },
+        "geokoordinaten": {
+          "herkunft_autor": {
+            "lat": 51.11,
+            "lng": 17.032222
+          },
+          "herkunft_figur": { 
+            "lat": null,
+            "lng": null
+          }
+        },
+        "abschnitt": "[tbd]",
+        "original_link": "https://dracor.org/ger/holtei-die-kalkbrenner#text",
+        "abschnitt_segmentiert": [
+          {
+            "typ": "figurtext",
+            "text": "<b>Erster Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Kotzeluch. Franz. Louise.</i><br>FRANZ. LOUISE. <i>Mel.: Hier sitz' ich auf Rasen etc.</i> Uns trennet kein Schicksal, uns trennet kein Schmerz, Uns trennet kein Schmerz; Wir halten zusammen, In Fluthen und Flammen, In Freuden und Leiden bewährt sich das Herz."
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH. Ich will dich schon trennen, rebellische Brut, Rebellische Brut! Dich schick' ich zurücke, Ihr brech' ich das Genicke, Wenn sie nicht, was ich ihr geboten hab', thut."
+          },
+          {
+            "typ": "kontext",
+            "text": "FRANZ. Hören Sie, lieber Vater, wir haben, wie Sie wissen, jetzt gerade die langen Ferien, da kehrt der Bursch nicht so leicht zurück. Ich bleib' in Süptitz, bis der letzte Tag da ist. Muß den Winter noch lange genug im Kollegium sitzen und schwitzen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH. Aber ich befehle Dir –"
+          },
+          {
+            "typ": "kontext",
+            "text": "FRANZ. Piano, mein Vater! Der Bursch steht unter Niemand's Befehlen, als unter denen seines Senates. Bei dem müssen Sie Ihre Klage anbringen, wenn Sie an mich wollen. Uebrigens gebührt Ihnen, weil Sie mein Vater sind, der Rang jeder andern Civilbehörde und meine Karte ist jederzeit zu Ihren Diensten."
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH <i>hitzig.</i> Bursch! Bürschchen! Du nicht unter meinen Befehlen? Du? Sag' das noch ein Mal, und ich will Dir zeigen, daß meine Hände nicht blos zum Orgel- und Klavierspielen auf der Welt sind."
+          },
+          {
+            "typ": "kontext",
+            "text": "FRANZ. Ihr Glück, daß zwei Stunden von der Universität kein Komment gilt, sonst wüßt' ich – aber freilich, von Eltern und Mädchen zieht kein Tusch."
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH. Was der Kerl für eine Sprache spricht? »Tusch – Komment – zieht?« Ist das deutsch oder griechisch?"
+          },
+          {
+            "typ": "kontext",
+            "text": "LOUISE. Es ist burschikos."
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH. Das ist ja eine neue Sprache. Welches Volk redet die? Auf welcher Insel wohnen die Burschikosen?"
+          },
+          {
+            "typ": "kontext",
+            "text": "LOUISE. Auf der Insel der Freiheit!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH. Nun hör' Einer das Mädel! Hat er Dich auch schon beschwindelt? Ich glaube, sie würde am liebsten selbst ein Bruder Studio?"
+          },
+          {
+            "typ": "kontext",
+            "text": "LOUISE. Warum nicht? Von Herzen gern. Ich wollte mit Franz in die Auditorien geh'n und die Herren Professoren, wenn sie nicht gar zu alt und sauertöpfisch wären, würden mein <em>vis-à-vis</em> eben so angenehm finden, als das der jungen Schnurrbärte. Meinen Sie etwa, das Studentenleben wäre mir fremd? Sie irren, Herr Vormund; Sie sind auf höllischen Holzwegen. Zum Exempel: <i>Mel.: Voll Zärtlichkeit will ich der Dirne sagen etc.</i> Kaum ist die Sonne lächelnd aufgegangen, Sieht's mich zur Arbeit hin, Und ich erfaß' mit sehnendem Verlangen Der Wissenschaften hohen Sinn. Ein Mann wie ich horcht die gelehrten Männer aus, Ein Mann wie ich geht täglich klüger aus dem Haus; Als Bursche nehm' ich ohne viel zu fragen, Die Weisheit mit nach Haus. Mein Kniff ist gut, ich speise beim Philister, Er liebt den Bruder Studio; Und sing' ich Ein's, wahrhaftig doppelt ißt er, Und ißt und trinkt sich jung und froh. Ein Mann wie ich geht stets willkommen ein und aus, Ein Mann wie ich nimmt manche Gurke sich heraus; Als Bursche trink' ich ohne viel zu fragen, Den besten Wein ihm aus. Vom Essen geht's, in ungezähmten Sprüngen, Im Arm das blinkende Rapier, Zum schönen, wilden Liebesspiel der Klingen, Gott's Blitz, da schlagen Burschen wir. Ein Mann wie ich nimmt manche Freiheit sich heraus, Ein Mann wie ich wischt manche Quart und Prime aus; Als Bursche trag' ich ohne viel zu fragen, Selbst eine Schmarre mit nach Haus."
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH. Mir sollst Du keine Schmarre schlagen und meinen Wein sollst Du nicht austrinken, dafür steh' ich Dir."
+          },
+          {
+            "typ": "kontext",
+            "text": "FRANZ. Weil Sie keinen auf den Tisch geben. Stoßen Sie nur einmal eine anständige Condition; setzen Sie mich nur einmal auf einen Korb guten Rheinwein; Sie werden die aschgraue Möglichkeit sehen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH. Jetzt soll ich ihn auf einen Korb setzen! Sei froh, daß Du immer einen Stuhl hast; wenn ich Dich an meinem Tische sitzen lasse; wenn ich Dich nicht zum Hause hinaus jage! Es gehen curiose Gerüchte von Dir hier in Süptitz. Die Wäscherin ist die Frau vom Amtsboten. Der Mann hat ihr das letzte Verzeichniß der fertigen Wäsche weggenommen, – da steh'st Du auch notiert, und danke Gott, leichtsinniger Bube, daß der Bürgermeister Dein Vater ist, sonst wär' es vielleicht um Deine Gurgel und alle die tollen Lieder, die Du mit selbiger anstimmst, geschehen."
+          },
+          {
+            "typ": "kontext",
+            "text": "FRANZ. Louise, verstehst Du den Vater?<br>LOUISE. Wenn ich anders die Fährte errathe, auf welcher sein inquisitorischer Geist umherspürt, so hat die mangelhafte Orthographie der Frau Amtsbotin Alles zu vertreten. Eines Deiner Tücher, mein lieber Franz, ein <em>blutig-rothes</em> noch dazu, ist auf dem Wäschezettel nach Stand und Würde als ein <em>buntes</em> aufgeführt. Die Wäscherin aber, die wahrscheinlich nicht weit von der sächsischen Grenze herstammt, hat das harte T in ein weiches D verwandelt und so lasen seine Gestrengen durch den Amtsboten stutzig gemacht: ein <em>Bundestuch</em>, anstatt: ein <em>buntes</em>, was denn freilich bei gegenwärtigen Zeitläuften und dermaliger Farbe des Tuches ein bitterböser Umstand ist."
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH. Wie sie das wendet und dreht, die kleine Hexe."
+          },
+          {
+            "typ": "kontext",
+            "text": "FRANZ <i>lachend.</i> Sie ist <em>advocatus diaboli.</em><br>LOUISE. Was heißt das?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH. Das heißt: Du bist ein Vertheidiger aller schlechten Sachen; Du bist ein Advokat, der den Teufel im Leibe hat. Aber all' Eure Schwänke und Ränke sollen Euch nichts helfen. Ihr kriegt Euch nicht. <em>Du</em> nimmst den Dir von Deiner alten verstorbenen Pflegemutter bestimmten Mann! – <em>Du</em> gehst auf die hohe Schule zurück! – Punktum."
+          },
+          {
+            "typ": "kontext",
+            "text": "LOUISE. Wenn nur der mir Bestimmte schon da wäre, daß man ihn eines prüfenden Blickes würdigen könnte?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH. Er wird kommen, ehe Du Dich seiner versieh'st; wie die heulende Windsbraut wird er da sein. In allen Blättern hab' ich bekannt gemacht: <i>Sucht ein altes Zeitungsblatt hervor.</i> »Nachdem die Wittfrau Anna Rosina Kegel allhier Todes verblichen ist und ihren seit funfzehn Jahren verschollenen Sohn Lorenz zum Erben ihres hinterlassenen Vermögens unter der Bedingung eingesetzt hat, daß er ihrer geliebten Pflegetochter Louise Linse seine Hand reiche, so wird genannter Lorenz hierdurch aufgefordert, sich binnen hier und sechs Monaten vor dem hiesigen Gericht zu melden, zu beweisen, daß er <em>er</em> sei, und nach gehöriger –«"
+          },
+          {
+            "typ": "kontext",
+            "text": "LOUISE <i>ihn unterbrechend.</i> Halten Sie ein! Mich überfällt der Gedanke, daß er wirklich eintreffen und mich erben könne, mit Riesengewalt."
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH. Siehst Du? Recht muß Recht bleiben."
+          },
+          {
+            "typ": "kontext",
+            "text": "FRANZ. Aber es hätte doch in Ihrer Gewalt gestanden, die Sache zu mildern. Möchte jener Kegel, – den meine Kugel nicht verfehlen wird! – Louisens Geld nehmen, <em>sie</em> selbst sollten Sie dem verlornen Sohne doch nicht an den Hals werfen, um so weniger, als Ihr eigner Sohn sie liebt."
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH. Ei! Erwartest Du solche Gefälligkeiten von mir? Welche hast Du mir denn erwiesen? – Erst bitt' ich ihn, er soll Schulmeister und Kantor in Süptiz, und auf diese Weise Stab und Stütze seines musikliebenden Vaters werden? Gott behüte! Er studiert, legt sich auf die Juristerei und musicirt mit den Akten. Aber ein Instrument will er doch lernen. Nun geh' ich ihn an, um Orgel und Klavier; – vergebens! Er hat keinen Sinn dafür, daß ein Klavier das erste Instrument der Welt ist. Ich will nicht einmal in Anschlag bringen, daß man auf diesem Universal-Ding Alles spielen und ein ganzes Orchester entbehren kann; das ist nicht Jedermanns Sache. Nur von <em>Concerten</em> auf dem Fortepiano will ich reden. Wie die Finger auf und nieder wallen, flüstern, toben, klimpern, donnern, schmeicheln, wüthen, schmollen, rollen, grollen, hüpfen, schlüpfen, necken, sich recken, schillern und trillern; wie solch ein Concert gar kein Ende nimmt, sich immer wieder aus sich selbst gebiert, ... das verschmäht er zu lernen, und lernt, – man sollt's nicht glauben! und lernt das Violoncello! <i>Verächtlich.</i> solch ein kleines, jämmerliches, zwischen die Kniee gepreßtes, knurriges Möbel; ein quitschendes Mittelding zwischen Contrabaß und Geige; ein musikalisches Amphibium! – Auf vier Saiten, was willst Du denn da herausbringen? 'S ist nur lächerlich und auch <em>ridicule</em>. Also wie Du mir, so ich Dir; kein Klavier, keine Louise. Jetzt packt' Euch, geht mir aus den Augen!"
+          },
+          {
+            "typ": "kontext",
+            "text": "FRANZ. Wir gehorchen! Aber Hand in Hand!<br>LOUISE. Hand in Hand!<br>FRANZ. <i>Mel.: Hoch vom Olymp herab kam uns etc.</i> Ich schwöre, reich an Liebe für Louisen, Nur <em>ihr</em> mein ganzes Herz zu weihn; Die Treu' zu halten, die ich stets bewiesen, Und keiner Andern gut zu sein! Ja, feierlich schalle der heilige Schwur Ewiger Liebe durch Küche und Flur!<br>LOUISE. FRANZ. Ja, feierlich schalle der heilige Schwur Ewiger Liebe durch Küche und Flur. <i>Beide ab.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(1. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Zweiter Auftritt.</b>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH <i>allein.</i> Albernes junges Volk! – Sie lieben sich, aber höchst unmusikalisch. Ihr ganzes Dasein ist eine Dissonanz, und die Auflösung läßt sich nicht anders bewerkstelligen, als wenn man sie trennt. Auseinander, ihr Quinten! – höchstens könnte man sie Octaven nennen! <i>Am Fenster.</i> Was seh' ich? der Briefbote schwebt über den Platzt? – er neigt sich hierher; er kommt zu mir! Gewiß Nachrichten von großen musikalischen Ereignissen in der Berliner Welt: entweder haben sie ein neues Ballet gegeben; oder meine Cantate aufgeführt, zum Besten irgend einer Anstalt für ungeborne Kinder; oder es ist ein Concert zu erwarten!? O, wie freu' ich mich auf den Brief! Es geht nichts über Briefe! – Briefe! – Briefe! <i>Mel.: In diesen heil'gen Hallen etc.</i> Es dient zu meinem Spaße Und ist mir herzlich lieb, Rennt über unsre Straße Der Bote wie ein Dieb. Er biegt zur Hausthür schnell herein, – Von wem mag wohl das Schreiben sein? Man bricht es auf und liest geschwind, Ist seelensfroh, wenn's zweie sind, Und fühlt sich doppelt contentiert, Sind sie recht lang, – und auch frankiert."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(2. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Dritter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Der Briefträger. Kotzeluch.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH. Ist was an mir?"
+          },
+          {
+            "typ": "kontext",
+            "text": "BRIEFTRÄGER. Ne, an Ihnen ist diesmal nichts nich'! Aber da ist ein Brief für Mamsell Linse."
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH. Her damit! Das Mädel soll keine Briefe lesen, eh' ich sie nicht angelesen habe. Ich will nicht nur ihr Vormund, sondern auch ihr Vor-Ohr und Vor-Auge sein."
+          },
+          {
+            "typ": "kontext",
+            "text": "BRIEFTRÄGER. Zwölf Groschen sechs Pfennig!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH. Das ist ja furchtbar theuer."
+          },
+          {
+            "typ": "kontext",
+            "text": "BRIEFTRÄGER. Dickes Papier! – Hier ist auch die letzte Zeitung. <i>Ab.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH <i>allein.</i> Na, nu wollen wir doch sehen – <i>Öffnet den Brief.</i> »Meine liebe Jungfer Braut! (Aha, endlich.) Ich bin recht gesund; es soll mich freuen, wenn Sie auch gesund sind. Ich bin Ihr Vetter, wo meine Mutter seelige befohlen hat, daß Sie ihn heirathen sollen, weil Sie sonst von der ganzen Erbschaft nichts kriegen. Da denk' ich wohl, daß Sie mich nehmen werden, denn ich bin 28 Jahr alt, sonst bin ich ein Handlanger, der um's Tagelohn arbeiten thut. Deswegen war mir's sehr lieb, wie in den Zeitungen stand, daß meine Mutter tod wäre. Grüßen Sie mir den Herrn Vormund sehr viele mal. Ich danke ihm für seine An-Onkse in die Zeitungen, denn ich bin ein Handlanger, der um's Tagelohn arbeiten thut, und grüße ihn sehr viele mal. Ich grüße Sie viele mal, liebe Lowisel, Sie sind ja meine Pflegeschwester, und wenn Sie mich heirathen, werde ich ihr Mann sein. Ich grüße Sie alle und auch meine Mutter, der ich stets verbleibe als dero Freund, Lorenz Kegel, Handlanger in Breslau; wohnhaftig in Breslau vor dem Ziegelthore, auf dem Wege nach Grüneiche in den Hundshäusern, die Nummer weiß ich nicht, es steht aber ein Nußbaum vor der Thüre. Bostskript: da ich mir eben besinnen thu', daß meine Mutter tod ist, so lasse ich sie nicht grüßen. Noch Eins: meine Adresse hätten Sie nicht gebraucht, denn ich komme ja selber bei Sie. Diesen Brief habe ich nicht geschrieben, denn ich habe mir die rechte Hand ein Bissel verbrannt. Ich kann auch überhaupt nicht schreiben, denn weil ich es nicht gelernt habe, denn weil ich frühzeitig unter dem Militair-Wesen kam. Diesen Brief schreibt die Lehnel von Knaut's drummen, die ist meine gute Freundin und grüßt Ihnen schöne. Ich grüße Sie vielmals. Meinen Namen hab' ich allein geschrieben. Bostskript: Lorenz Kegel!« – – Daß dich das Wetter: das ist ein Brief. Den will ich für's Erste doch für mich behalten, denn wenn Louise ihn sieht, faßt sie schon im Voraus eine ungünstige Meinung gegen Vetter Lorenz. Nun die Zeitungen! <i>Fliegt sie schnell durch.</i> Osmanisches Reich, – Hydrioten – Pascha – Dauphin – Lord Mayor – König Jagd gehalten, – linke Seite, – die Kammern haben – (hol' euch der Teufel!) – Wissenschaftliche und Kunst-Nachrichten, – ha, seh' ich Recht? Kalkbrenner, – aus London, Concert in Berlin! – und ich kann nicht hin! Ich darf den Jungen nicht allein mit Louisen im Hause lassen; ich muß den Lümmel erwarten, den Kegel! Unterdessen rückt der festliche Tag heran, die Stunde schlägt, der Saal wird immer voller, – immer voller, immer voller! Es wogt und drängt und harrt, – er kommt an; man reckt die Köpfe, ihn zu sehen; die Instrumente werden gestimmt; die Ouvertüre geht an. O wie lang! Schließt doch! schließt doch! Er steht ja schon gerüstet! Noch ein Schluß! Und noch ein Accord; noch ein Mal: da hat der Componist noch ein Stückchen Papier leer gehabt; drum, drum, schrum, schrum. Endlich! Nun setzt er sich hin: vielilerile vilerilerie! – Ha! Kalkbrenner spielt in Berlin – und ich bin nichts, als ein gefesselt Weib! <i>Mel.: Chinoise des Seiltänzers Foureaux.</i> Ach, ich wollt', ich wär' in Berlin, Wo der Kalkbrenner Alles entzückt und beglückt, Könnt' ich hin zu dem Saale nur ziehn, Den der weibliche Blumenflor schmückt. Nein, kein Opfer wär' mir zu groß und zu schwer, Einen Thaler Entree gäb' ich wonnevoll her, Könnt' ich hin zu dem Saale nur ziehn; Ach, ich wollt', ich wär' in Berlin, in Berlin, Könnt' ich hin zu dem Saale nur ziehn, Ach, ich wollt', ich wär' in Berlin! Ach, ich wollt', ich wär' in Berlin! Glücklicher wär' ich ja heute als Herzog und Prinz, Wären Flügel mir Aermsten verliehn! Hol' der Teufel die dumme Provinz! In der Hauptstadt allein ist das Leben 'was werth, Denn es jagt ein Concert dort das andre Concert; Könnt' ich hin etc. <i>Ab zur Seite.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(3. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Sechster Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Kotzeluch. Vorige. Dann Franz und Louise.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH. Wer ist der Fremde?"
+          },
+          {
+            "typ": "kontext",
+            "text": "FRITZ <i>indem er sich fortschleicht, sehr verlegen.</i> Ich weeß nich; er spricht so komisch; er sagt, er wäre en Kalkbrenner. <i>Schnell ab.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH. Kalkbrenner? – Wie? – Wär's möglich? – Der wunderbare Anzug? Zu Fuße? Englisch? – Kalkbrenner?"
+          },
+          {
+            "typ": "kontext",
+            "text": "LORENZ. Nu jekersch, stell' a sich ock nich a su taprich. Sol' ich's ärnd nich sein?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH. Er redet englisch: er ist's! Heil ist meinem Hause widerfahren!"
+          },
+          {
+            "typ": "kontext",
+            "text": "FRANZ UND LOUISE <i>erscheinen horchend an der Thür.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH. Mann! Künstler! Ihren hohen Genium verehrend, nah' ich mich Ihnen im Staube! Wie kommen Sie so schnell von Berlin hierher? Wann folgt Ihr Fortepiano nach? Werden Sie lange hier verweilen? Würden Sie sich vielleicht gar erflehen lassen, ein Konzert zu geben? Ich stehe für einen vollen Saal! Ich bin hier ein Mann von Bedeutung. Die Leute <em>müssen</em> Billets kaufen. Ich habe Mittel in Händen, sie zu zwingen. Ich allein schon nehme ein Dutzend für mich und mein Haus. – Reden Sie! Ich beschwöre Sie! Und wenn Sie Ihre Muttersprache in London verlernt haben, reden Sie Englisch; und wenn Sie noch nicht Englisch können, reden Sie gar nicht; nur einen, irgend einen Ton geben Sie von sich; wir werden uns schon verständigen. Mensch – Kalkbrenner –"
+          },
+          {
+            "typ": "kontext",
+            "text": "LORENZ <i>der schon abwechselnd mit Furcht und Zorn gekämpft.</i> Hir' a, jetzunder giht a, – oder ich ... der Kerle is wul gar tälsch?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH. Er drückt sich fortwährend Englisch aus. <i>Franz und Louise erblickend.</i> Kinder, kommt mir zu Hilfe! Hier steht der große Meister, der Kalkbrenner, von dem alle Blätter sprechen; der in London für seine Unterrichtstunden pfundweise bezahlt worden ist und in seinen Conzerten immer viele Centner eingenommen hat. Bittet ihn, daß er uns hier mit Tönen beglücke."
+          },
+          {
+            "typ": "kontext",
+            "text": "FRANZ <i>leise.</i> Glücklicher Irrthum!<br>LOUISE <i>eben so.</i> Wir wollen ihn nähren.<br>LOUISE. FRANZ. KOTZELUCH. <i>Mel.: Mahadöh der Herr der Erde etc.</i> Großer Mann, lass' Dich erflehen, Gieb den Bitten gütig nach! Magst Du uns hier winseln sehen, Hörst Du kalt ein flehend: Ach?? Könnt' es Deinen Ruhm verringern, Wenn Du, eh' Du weiter strebst, Mit den kunstgelenken Fingern Dieser Stadt die Weihe gäbst? Wir werfen vor Dir uns im Staube danieder, O, sei doch barmherzig, erhebe uns wieder, O, gieb hier in Süptiz, o, gieb ein Concert!! <br>LORENZ <i>halb für sich.</i> Nu sein se alle Drei verruckt gewur'n. Ich sa lieber gar nischte mehr, suste schnapp' ich ooch über.<br>FRANZ <i>leise zu ihm.</i> Geben Sie nach: Sie können Ihr Glück machen.<br>LOUISE. Sie sagen, Sie wären Kalkbrenner, Sie wollen ein Concert geben, Sie verdienen viel Geld.<br>LORENZ. Oder ich kann ju nich –<br>FRANZ. Das wird sich Alles finden. Sagen Sie nur ja."
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH <i>noch auf den Knieen.</i> Was entscheidet er über mein Geschick?"
+          },
+          {
+            "typ": "kontext",
+            "text": "FRANZ. Er giebt nach.<br>LOUISE. Er will!<br>LORENZ. Nu, – wenn's nicht andersch sein kan, – do wil' ich."
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH <i>aufspringend.</i> Er will! – Himmel! Musen! Olymp! Er will! <i>Ihm die Hand küssend.</i> Nun seht, Kinder, seht diese Hände an, – diese Hornhäute! Wie muß der Mann auf dem Klavier herumgearbeitet haben! Förmliche Hühneraugen hat er auf den Fingern. – Dank, tausend Dank, hoher Meister. Augenblicklich soll ein Instrument gebracht werden. – In der Stadt muß man es austrommeln lassen; – die Sturmglocke muß man läuten. – Ach, so schnell erfüllen sich meine kühnsten Wünsche. <i>Mel.: Es ist nichts mit den alten Weibern etc.</i> Ha, mir strahlt nun die größte Wonne, Dieser Künstler giebt ein Concert; Leuchte heller, Du hohe Sonne, Auf den Gastwirth zur goldnen Tonne, Wer's nicht fühlt, ist ein dummes Pferd. Vom Dezember zum ersten Jänner, Denk' ich täglich an diesen Tag, Wo zur Freude für alle Kenner, Der unsterbliche Kalkbrenner Bei mir im Quartiere lag. Streicht die Bogen und spannt die Saiten! Ich lauf' in der Stadt herum: Jeder Bürger muß subscribieren, In's Concert will ich Alle führen, Unser ganzes Publikum. <i>Schnell ab. Lorenz. Louise. Franz.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "LORENZ. Nu sa'n se mer ock um Alles in der Welt, was hot denn dieser Man im Kuppe?<br>FRANZ. Ihr Bestes, Freund. Man wird in Sie dringen, ein Conzert zu geben. Lassen Sie sich's gefallen. Man wird Ihnen Billets abkaufen; das lassen Sie sich auch gefallen. Wenn es aber dazu kommt, daß Sie wirklich spielen sollen, so machen Sie sich mit dem Gelde heimlich aus dem Staube und kehren Sie nie wieder in diese Stadt. Wir wollen Ihnen zur Flucht behilflich sein.<br>FRANZ. Und das gewiß von ganzem Herzen.<br>LORENZ <i>vertraulich.</i> Ich muß ja in der Stadt bleiben; ich ha' eene Braut hie!<br>FRANZ <i>leise zu Louisen.</i> Hörst Du's? <i>Laut.</i> Eine Braut? Ei der Tausend, das mag ein schönes Gewächs sein!<br>LOUISE <i>drohend.</i> Du?<br>LORENZ. Ich ha' se noch gar nich gesehn. Ich thät' mer och nischte nich draus machen, wenn mer'sch nich um's Geld wär'! Uem das Geld, was se hot, bin ich nu hieher gekummen, durch Dick und Dünne. Nu kan' ich doch nich wieder weglofen, wie a Narr?<br>LOUISE. Wenn Sie Herr Lorenz Kegel aus Breslau sind –<br>LORENZ. Meiner Sieben, der bin ich.<br>FRANZ. Derselbe, der vermöge des Testaments seiner Mutter, deren Pflegetochter, die Louise Linse heirathen soll –<br>LORENZ. Meiner Sieben, der bin ich –<br>LOUISE. Dieselbe Louise, die, wie ich höre, bereits eine ganz ernsthafte Liaison mit einem jungen Windbeutel hat –<br>LORENZ. Oho!<br>LOUISE. So rath' ich Ihnen, als aufrichtige Freundin, sie fahren zu lassen. Ihr Liebhaber ist ein junger, wilder Mensch, voll von Tücken und Uebermuth. Es kommt ihm gar nicht darauf an, Sie herauszufordern und sich mit Ihnen zu schießen. Ja, er könnte sogar kapabel sein, Sie todt zu schießen. –<br>LORENZ. Oho!<br>LOUISE. Und dann zu thun, als ob es aus Versehen vorgefallen wäre. Er hat schon mehrere Menschen Puff! – Sie verstehn mich?<br>LORENZ. Oho!<br>LOUISE. Und wenn er gleich seine Braut gar nicht liebt, ihr nicht im Geringsten treu ist, so läßt er doch schon aus Eigensinn nicht von ihr ab, weil's sein Vater nicht haben will, daß sie sich lieben sollen.<br>FRANZ. Demoiselle entwirft Ihnen da ein lebendiges Bild Ihres Nebenbuhlers. Sollte der aber noch so schonend mit Ihnen umgehn, – immer danken Sie dem Himmel, wenn Sie Ihre Braut los werden! Das ist, so schön sie aussieht, mit Respekt zu vermelden, ein wahrer Teufel! Keine Hecke ist ihr zu hoch und keine Bosheit zu boshaft. Sie ist kokett, zänkisch, eitel, verschwenderisch, launenhaft, unbeständig, naseweis. –<br>LOUISE. Genug! genug! Ich glaube, Sie werden nichts weiter zu hören wünschen?<br>LORENZ. Ne! Fur heute ha ich genung vo allen Beeden! Das sein ju a paar recht eseme Dingriche! Wenn mir ock, daß er mir nischte thäte thun, denn vur ihr ha ich keene Bange nich. Ihr wölld' ich schund a Kuller vertreiben, wenn sie wöllde rebellern.<br>FRANZ <i>zu Louisen.</i> Glänzende Aussichten!<br>LOUISE <i>verzweifelt, bei Seite.</i> Wir gehn durch!<br>FRANZ <i>leise.</i> Wird nicht nöthig sein. <i>Laut.</i> Freund, mein Rath ist der: Sie erwarten hier meinen Vater, der Ihnen, wie ich seinen Eifer für die Musik kenne, gewiß sogleich das Eintrittsgeld für Ihr zu gebendes Concert, von allen Nachbarn überbringt. Sie nehmen es –<br>LORENZ. I nu ja, das wil ich schund dermachen.<br>FRANZ. Und fordern, daß er Ihnen sobald als möglich eine Probe auf dem Saale oben arrangieren soll. Dazu wird er augenblicklich bereit sein, und während er damit beschäftigt ist, fliehen Sie, und lassen sich nie mehr in dieser Stadt sehen.<br>LORENZ. Ja, das is schun gutt. – Oder de Braut? Sehn Se, was wird Er mir denn bringen? A paar lumpige Thaler. Die nützen mir nischte nich. Hingegen das Testamente ...<br>LOUISE. Wollen Sie von Ihrem Nebenbuhler umgebracht sein?<br>LORENZ. Ne!<br>FRANZ. Vertrau'n Sie mir. Sie können nichts Besseres thun, als entfliehn; und das geschieht doch immer leichter <em>mit</em> Geld, als ohne?<br>LORENZ. Ja!<br>FRANZ. Also: Muth! Fahren Sie nur fort, recht fremdartig zu reden.<br>LORENZ. Ja, ich wil reden, wie in Frankreich; wie ich unterm Militairwesen war.<br>FRANZ. Und wenn Sie in Breslau angekommen sind, schreiben Sie, daß Sie nicht kommen könnten; daß Sie schon anderweitige Herzensbande geschlossen hätten.<br>LORENZ <i>vertraulich.</i> Ja, das is och wahr. Knaut's Lehnel thut mer schun lange nachstellen.<br>LOUISE <i>sich vergessend.</i> Sehen Sie, dann ist uns ja Allen geholfen!<br>LORENZ. Uns? – Was ha'n Sie denn derbeine zu thun?<br>FRANZ. Meine Schwester meint –<br>LOUISE <i>verlegen.</i> Weil –<br>FRANZ. Sie denkt nur –<br>LOUISE. Weil unser Antheil –<br>LORENZ. Nu, so mähren Se doch nich eine Ewigkeit und drei Minuten. <i>Für sich.</i> Hie ei dam Hause is ju rechtes Rindviehzeug beisammen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(6. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Siebenter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Vorige. Kotzeluch.</i><br>LORENZ. Nu kummt der alte Taperhanns och derzune."
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH. Hier bring' ich, was die nächsten Nachbarn an Billets gekauft."
+          },
+          {
+            "typ": "kontext",
+            "text": "FRANZ. Wo haben Sie denn die Billets hergenommen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH. Ich habe die Einlaßkarten vom letzten Schützengildenball benützt."
+          },
+          {
+            "typ": "kontext",
+            "text": "LOUISE. Nun werden aber die Abonnenten glauben, sie sollen tanzen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH. Mögen sie das glauben. Sie dürfen es glauben. Sie werden auch tanzen; ja, das Herz im Leibe wird ihnen vor Freuden tanzen, wenn sie diesen Mann werden spielen hören. – Hier, Herr Kalkbrenner, empfangen Sie diese kleine Summe, nur vorläufig, als Huldigung der Herzen. Es ist freilich nicht viel, aber glauben Sie mir, tausendfingriger Künstler, Mancher schon hat in Berlin Concert gegeben und hat eben so viel auf die Unkosten zulegen müssen, als Sie hier an Ueberschuß empfangen. Denn Kosten sollen Sie gar nicht haben. Wir nehmen Alles auf uns."
+          },
+          {
+            "typ": "kontext",
+            "text": "LORENZ <i>der hastig das Geld nimmt.</i> 's is schun gutt! – <i>Indem er Franz anblickt und diesem zuwinkt.</i> <em>Allons</em>, Pähsang, fur <em>le bonsoir, pommes de terre</em>!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH <i>für sich.</i> Jetzt, scheint mir, redet er französisch mang unter. – Aber wie er nach dem Gelde gegriffen hat! 'S ist doch curios, daß alle Virtuosen so happig sind."
+          },
+          {
+            "typ": "kontext",
+            "text": "FRANZ. Wären vielleicht noch Anstalten zu treffen, in denen wir Ihnen behülflich sein könnten?<br>LOUISE <i>leise zu Lorenz.</i> Die Probe! – Sonst werden Sie ihn nicht los.<br>LORENZ. Ja, de Profe! Ich muß eine Profe ha'n! <i>Sehr heftig.</i> Eine Profe <em>muß</em> ich ha'n!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH. Was befehlen Herr –"
+          },
+          {
+            "typ": "kontext",
+            "text": "FRANZ. Herr Kalkbrenner wünschen eine <em>Probe</em> zu halten."
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH. Ei, das versteht sich. Die Musiker sind schon bestellt, sich oben im Saale zu versammeln. Es geht freilich etwas langsam, denn unsere Kapelle besteht aus Handwerkern und Ackerbürgern; aber Beide ergreifen mit gleicher Liebe Klarinett oder Flauto. – Ich werde gehen und treiben. Folgt mir, Kinder! – Aber wir können unsern Gast doch nicht allein lassen! Wollen Sie uns vielleicht die Ehre erweisen, mit hinauf zu ..."
+          },
+          {
+            "typ": "kontext",
+            "text": "LORENZ. Ne, ne! Ich wil hiebleiben. Ich wer' mer schun de Zeit vertreiben. Mach' er ock, daß er furtkümmt."
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH. Wenn Sie denn durchaus befehlen, so will ich gehn! – Nein, nein, ich kann's noch gar nicht glauben; es ist mir ein Traum. Heute erst in der Zeitung Ihren Namen zu lesen, – und nun Sie selbst zu sehen! – Heut' Abend Sie selbst zu hören. O Herr von Kalkbrenner, ich bedaure, mich nicht auf Englisch exprimieren zu können; – gewiß; – <em>goddam! ei bläk you! – weri well! Mylord! – ikle mei 's hundleson! dettle dau!</em> <i>Geht ab.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "LORENZ <i>der sich artig gegen ihn verbeugt.</i> Sakranundediö!! – Na, was Du von mir hören wirscht, das wird Dir a Magen och nich' abdrücken.<br>FRANZ. Nun, Freund, lese von dannen.<br>LOUISE. Hier, nehmen Sie Ihren Ranzen.<br>FRANZ. Das Geld –<br>LORENZ. Das ha' ich schun! – Aber wenn der Alte hinter mir herschreit, ich wär' a Dieb, hernachern –<br>FRANZ. Werd' <em>ich</em> Ihre Vertheidigung übernehmen. Nun Adieu! Suchen Sie unbemerkt zu entfliehen.<br>LOUISE. Sollten Leute im Hausflur sein, so warten Sie hinter dem Treppengeländer, bis die Luft rein ist. <i>Sie schieben ihn hinaus.</i><br>FRANZ. Haben Sie etwas an Ihre gewesene Braut zu bestellen?<br>LOUISE. Oder an den Nebenbuhler?<br>FRANZ. Ich will's ausrichten.<br>LOUISE. Ich will's bestellen.<br>LORENZ <i>wird zur Tür hinausgedrückt.</i><br>FRANZ. Fort ist er!<br>LOUISE. Und mög' er niemals wiederkehren! <i>Mel. des bekannten Studentenliedes.</i><br>FRANZ. <em>Gaudeamus igitur,</em> Er ist ex gekniffen. –<br>LOUISE <i>ihn im Singen unterbrechend.</i> Sag' mir nur, was das heißt: <em>Gaudeamus igitur</em>? Das hab' ich schon hundertmal gehört, auch im Stillen mitgesungen – und weiß nicht, was es bedeutet?<br>FRANZ. Dies ist der Anfang eines alten, schönen Liedes, und will so viel sagen, als: So laßt uns also freudig sein! O, es kommen allerlei Strophen vor. Zum Beispiel: <i>Vivant omnes virgines,</i> Jene und auch Diese. –<br>LOUISE. Was? Jene und Diese? Das heißt ja so viel, als: Diese und Jene?<br>FRANZ. Aber leben sollst vor Allen, Die mir einzig hat gefallen, Du, mein Kind, Louise!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(7. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Neunter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Vorige. Kotzeluch. Zwei Träger die ein Fortepiano hereinbringen.</i><br>LORENZ. Ach, du verflischte Mode, do brengt a de Musicke! <i>Will entwischen.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH <i>hält ihn am Rockschoß, zieht ihn zurück und schließt die Thür.</i> Halt, nicht von der Stelle! – Sie haben mit dem Eintrittsgeld entschlüpfen wollen. War das eine bloße Künstlercaprice, und sind Sie veritabel der, für den wir Sie gehalten haben, so mögen Sie verzeihen. Aber ich muß mich auf alle Fälle sichern; mir ist ein Gedanke aufgestiegen: meine Köchin, die ein paar Jahre in Schlesien zubrachte, behauptet, sie reden Schlesisch-, nicht Englisch-Deutsch; – (sie hat aus der Küche vernommen, wie Sie vor der Hausthür gefragt haben, ob hier ein Gasthaus sei?) – Sie könnten ein <em>Gewisser</em> sein, könnten mich betrogen haben; und wenn Sie der Gewisse wären, und wenn Sie mich betrogen hätten, würden Sie bedeutende Prügel genießen. <i>Zu den Trägern.</i> Bewacht die Thür! – Hier steht das Clavicembalo! Hier ist ein Stuhl! – Jetzt legen Sie los, – oder <em>ich</em> lege los!"
+          },
+          {
+            "typ": "kontext",
+            "text": "FRANZ <i>leise zu ihm.</i> Nur Muth!<br>LOUISE <i>eben so.</i> Setzen Sie sich hin.<br>FRANZ. Spielen Sie dreist: er hört nicht gut.<br>LORENZ <i>sich setzend.</i> Nu, das wird doch ooch keene Hexerei sein, uf dam Klimperkasten werd ma doch a Brinkel rüm grammeln können!?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH <i>im Vorgrunde, allein.</i> Er setzt sich. Er ist's doch wohl; er redet wieder entschieden Englisch. <i>Pause. Man hört außerhalb ein Posthorn.</i><br>KOTZELUCH <i>der durch seine Pantomime zeigt, da er nicht deutlich hört.</i> Bravo, Bravo! Seht, Kinder, das bringt er durch Kunst hervor: er spielt Posthorn auf dem Piano und es hat nur einen Fagott-Zug."
+          },
+          {
+            "typ": "kontext",
+            "text": "LORENZ <i>streicht mit den Fingern über die Tasten.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH. Ungeheure Fertigkeit, aber schwacher Anschlag."
+          },
+          {
+            "typ": "kontext",
+            "text": "FRANZ <i>leise zu Lorenz.</i> Etwas stärker!<br>LORENZ <i>gehorcht.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH. Ach, nun kommt er in's Feuer! Bravissimo! Wunderbare Uebergänge! Kühn, sehr kühn! – Da habt Ihr's nun, was der Ruf macht! Wenn ein And'rer so spielte, zum Beispiel ich, – würden Kenner Mancherlei auszusetzen haben, aber solch ein Künstler ... sein Name tödtet die Kritik!"
+          },
+          {
+            "typ": "kontext",
+            "text": "FRITZ. Mir wird sehr unwohl. <i>Es klopft stark an die Thüre.</i><br>DIE TRÄGER <i>wollen öffnen.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH. Nichts da. Laßt klopfen! Jetzt darf mich Niemand stören."
+          },
+          {
+            "typ": "kontext",
+            "text": "DIE MAGD <i>von außen.</i> Um des Himmels Willen, machen Sie auf! Ach, das Unglück!<br>ALLE. Ein Unglück? <i>Es wird geöffnet.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(9. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Zehnter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Vorige. Die Magd.</i><br>MAGD. Ach, das ist eine fürchterliche Geschichte! Das ist noch nicht begegnet, so lange ich beim Herrn Posthalter diene.<br>ALLE. Was giebt's denn?<br>MAGD <i>schluchzend.</i> Denken Sie nur: der Herr Bürgermeister –<br>ALLE. Nun was denn?<br>MAGD. Der Herr Bürgermeister haben eine Stachete bekommen.<br>ALLE. Eine Staffette?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH. Eine Estaffette? Ei, das ist ja ein merkwürdiger Tag: Kalkbrenner – und eine Staffette?! Wo ist der Brief?"
+          },
+          {
+            "typ": "kontext",
+            "text": "MAGD. Hier, Herr Bürgermeister! Ich hab' ihn in meine Schürze gewickelt. Ach, das Unglück! <i>Sie geht ab.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH. Meine Empfehlung an den Herrn Postmeister. <i>Er öffnet. Während des Lesens wirft er wüthende Blicke auf Lorenz.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "LORENZ <i>der Kotzeluch's Blicke bemerkt, bemerkt zugleich, daß die offene Thüre jetzt bei der allgemeinen Erwartung unbewacht ist. Das Augenspiel zwischen Kotzeluch und ihm dauert fort und da derselbe plötzlich den Brief fallen läßt, wirft ihm Lorenz das Geld hin und nimmt Reißaus. Kotzeluch folgt ihm schnell. Hinter ihnen Fritz und die Träger.</i><br>FRANZ <i>hebt den Brief auf und lieset.</i> »Lieber Bruder! Da ich Deine Leidenschaft für Clavierconcerte kenne, eil' ich Dir zu melden, daß der berühmte Kalkbrenner, der heute hier abreiset, gegen Abend durch Euer Oertchen kommt. Triff danach Deine Anstalten. Ferdinand Klöppel, Paukist.«<br>LOUISE. So soll ihm das geträumte Glück noch in Erfüllung gehn. Ich gönn' es ihm von Herzen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(10. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Letzter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Franz. Louise. Kotzeluch. Fritz. Lorenz.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH. Er hat Alles bekannt! Alles! – Kerl, dort steht Deine Braut, – Deine <em>gewesene<em> Braut. Du bekommst sie nicht. Du bekommst die Hälfte der Erbschaft und kannst gehen, wohin Du willst! <i>Auf Franz zueilend.</i> Ich werd' ihn heut' noch erblicken."
+          },
+          {
+            "typ": "kontext",
+            "text": "LORENZ. Das is se? Und je's is ihr Liebster? Dessenthalben ha'n se mich weg perschwadiert? Nu, Ihr ha't mich scheene belämmert; ich war wul a rechtes Schöpsekristel.<br>LOUISE. Es ist Ernst? Ich darf den Kalkbrenner nicht heirathen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH. Nein. Aber auch den Juristen nicht. Ich gebe meine Einwilligung nicht –"
+          },
+          {
+            "typ": "kontext",
+            "text": "LOUISE. Was?<br>FRANZ. Wie?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH. Nicht eher, bis ich Kalkbrenner wirklich gehört!"
+          },
+          {
+            "typ": "kontext",
+            "text": "BEIDE. Juchhe! Heut Abend ist Verlobung!<br>LOUISE. Wenn ich ihm sage, was davon abhängt, spielt er gewiß einem Liebes-Paare zu Liebe.<br>LORENZ. Suste, wenn ock blußig gespielt sein sol, do wil ich mich noch amol hinsetzen.<br>FRITZ. Ne, ich danke Ihnen. Seind Sie so jut. Ich habe mir von Ihre Leistung noch nich erholt.<br>FRANZ. Herr Lorenz Kegel wird nun wohl nach Breslau heimkehren?<br>LORENZ. Nu jekersch, jekersch, jagen Se mich nur nich gleich aus 'em Hause. A Maul vull Abendessen wer'n Se mer doch vergünnen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KOTZELUCH. Mensch, verstumme! Schlesien mag ein schönes gesegnetes Land sein, aber Eurer Sprache werd' ich's nie vergessen, daß sie mich so angeführt hat."
+          },
+          {
+            "typ": "kontext",
+            "text": "LORENZ. Warum Sein Se a su ohne Bildung ufgewachsen? Uense Sproche is nur scheene; es is meine Muttersproche, ich ha' se vun meinem Vater geerbt, und Ihrenthalben wil ich se nich verleekeln! Ader nu machen Se, daß was zu schnabelieren kümmt; bei'm Essen wer' ich Ihnen meine ganze Reese verzählen.<br><i>Mel.: Ich wußt' mir 'mal nichts anzufangen, von Fink.</i> Ich wußt' amol nischt anzufangen, 's war eines Sunntags in der Früh'; Da bin ich bis hiehär gegangen, Da ging mer 'sch nu, – Sie wissen, wie? Ei ei trala purli, Das Ding vergess' ich nie, Ei ei trala purli, Purli purli, purli purli, Das Ding vergess' ich nie, das Ding Das Ding-der-ling Das Ding vergess' ich nie.<br>ALLE. Ei ei trala purli etc. etc."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(Letzter Auftritt)</b>"
+          }
+        ]
+      },
+
+      {
+        "id": "Kalkbrenner03",
+        "theaterstück": {
+          "titel": "Der Kalkbrenner. Liederposse in einem Akt",
+          "zeit": "1825",
+          "druckort": "",
+          "auffuehrungshinweise": "Handlungsort ist Süptitz"
+        },
+        "autor": {
+          "name": "Karl von Holtei",
+          "herkunft": "Omd.",
+          "orte": "Breslau",
+          "lebensdaten": "1798–1880"
+        },
+        "figur": {
+          "name": "Fritz",
+          "rolle": "Kellner",
+          "beschreibung": "ein Berliner, spricht berlinisch; redet mit Kotzeluch (schles.) und Lorenz (schles.)"
+        },
+        "dialekt": {
+          "adaption": "Heteroadaption",
+          "dialekt_grossraum": "Omd."
+        },
+        "geokoordinaten": {
+          "herkunft_autor": {
+            "lat": 51.11,
+            "lng": 17.032222
+          },
+          "herkunft_figur": { 
+            "lat": 52.518611,
+            "lng": 13.408333
+          }
+        },
+        "abschnitt": "[tbd]",
+        "original_link": "https://dracor.org/ger/holtei-die-kalkbrenner#text",
+        "abschnitt_segmentiert": [
+          {
+            "typ": "figurtext",
+            "text": "<b>Fünfter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Lorenz schlafend. Fritz.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FRITZ. Es hat mir Eener jerufen! – Da liegt er und schläft. O Jott, wie sanfte! Des is en Reisender von die englische Ratze: allens zu Fuße. Mensch, wie liegst Du da? Wie'n bleierner Vogel. Wenn der Träume hat, so träumt ihn jewiss von eine jroße Mahlzeit, wo er an Tische sitzt und nichts zu essen kriegt. – Hier wirst Du och nicht satt werden, armer Wanderer! Wie mir der Deibel hierher in diese Kneipe verschlagen hat, des wees er alleene nich mehr. Und wenn er es weeß, kann er's nicht verantworten. Ach Berlin, Berlin, in Deine Jefilde jing es anders zu: Ehre, Reichthum, Liebe, Essen, Trinken, Weißbier, Wurst: die Hülle und die Fülle! – Aber na nu, Herr Mensch, wachen Sie auf! Haben Sie mir jerufen? Nu bin ick da. Was steht in Ihre Wünsche?"
+          },
+          {
+            "typ": "kontext",
+            "text": "LORENZ <i>halb im Schlafe.</i> Was giebt's denn? Hot's ke Feuer meh' im Ufen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FRITZ <i>für sich.</i> Jute Sprache spricht die Bolle so weit. – Seind Sie en Ausländer?"
+          },
+          {
+            "typ": "kontext",
+            "text": "LORENZ <i>der sich ermuntert.</i> Ne, ich bin a Schlesinger."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FRITZ <i>für sich.</i> Der Kerl is nich bitter. <i>Laut.</i> Was wollen Sie denn aber hier?"
+          },
+          {
+            "typ": "kontext",
+            "text": "LORENZ <i>listig.</i> Das sa't ma nich a su. – Jetzunder will ich an'n Schnaps."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FRITZ <i>Flasche etc. vom Schenktisch holend.</i> Diesen können Sie besehen."
+          },
+          {
+            "typ": "kontext",
+            "text": "LORENZ. Trink' a mite. Setz' a sich zu mir! Ich thu's immer mit a Malkehren halten thun, thu' ich, wenn ich, daß ich uf der Landstraße bin. Denn meiner Muhme ihr Mann hot an'n Bruder geha't, dam seine dritte Frau war annes Malkehrsch Wittib; – ne, Wittwe wullt' ich sagen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FRITZ. Na, Wittwe oder Wittib, des, dächt' ich, wäre Mus wie Mine."
+          },
+          {
+            "typ": "kontext",
+            "text": "LORENZ. Ne, das is nich Mis wie Mume. Eine <em>Wittib</em> wil nich meh heirathen; – oder eine <em>Wittwe</em> die wil!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FRITZ. Was?"
+          },
+          {
+            "typ": "kontext",
+            "text": "LORENZ. Ja, die wil!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FRITZ. Sie sind eenzig! – Sagen Sie, wer sind Sie denn eejentlich? Wie heeßen Sie denn?"
+          },
+          {
+            "typ": "kontext",
+            "text": "LORENZ. Aus der Taufe heeß ich Lorenz. Oder ich ha meinen Namen amol a'm kleenen Pathel abgeben müssen; nu loof' ich derweile a su rüm. Ich bin a Kalkbrenner, aus der Kalkbrennerei in Grüneiche bei Breslau. In frühern Zeiten stund ich wul bei a'm Mohler in Kundition; do ging mersch gutt; do hatt' ich mich schund vom Farbereiber bis zum Stubenmohler empor geschwungen; denn ich wußte mit a Kaleren umzugihn, wusst' ich. Su a Bukettel aber a Galandel an de Wand zu schmeissen, das war mir wie gemaust. Meine Parforsche bestund aber im Marmelieren; do dermite hätt' ich mich künnen in allen Ländern sehen lussen; eb gleich jedes Land seine eegenthümlichen Kaleren hot. Denn wenn nich ein jedes Land seine Kaleren hätte, wie wär' denn dazumalen der Franzose ei Rußland derfroren, frog' ich? Denn wenn a wär' ei's Murgenland gegangen, do wär' a nich derfroren, denn durte is's heeßer; vunzemol wenn de Sunne scheint; oder ei Rußland is's rasnige kalt, vunzemol im Winter, und der Franzose is halt übertrieben weechkatschig Zeug; do derfrur a haldig; und do hatt' a verspielt; und su hot jedes Land seine Kaleren. Ader was ich eegentlich sagen wullte: wie ich als Stubenmohler meine Sachen machte, do kam ich doch amol schrecklich sihr in de Verlegenheet. Ich sullte bei Eenem de Stube mohlen, – ich weeß's noch wie heute, 's war kaiseraugenblau, – und do verlangt' ich ein Frühstücke. Do drüber wurde der Mensch reene tücksch und nu wusst' a gar nich, wie a mich kujenieren sullte. Alle queer Finger lang kummandiert' a 'was Andersch und uf de Letzte verlangt' a gor, ich sellt' ihm eenen Engel an de Decke mohlen. Nu künnen Se mersch globen, nu stund ich do wie a Oelgötze. Uf's Englische hatt' ich mich noch nich verlegt; wu sullt' ich nu a Engel herkriegen. Und wie ich mich in meiner Herzensangst zum Fenster 'nauslege und simmeliere, do kümmt a kleener Junge de Gasse 'rufgetapert, barbsbeenig und überhaupt halb nackigt – do ging mer a Licht uf. Dan Jungen ruf' ich mer und versprech' em a paar Gröschel. Nu nehm' ich Berliner roth und Kremser weiß, mansch mer Beedes untersammen, – 's wurde eine Fleeschfarbe zum küssen! Nu zieh' ich mer meinen kleenen Jungen vollends aus, krieg' en beim Kribse, tunk' mer'n ei de Fleeschfarbe, rühr' mer'n an Weilchen drinne rum, dernoch steig' ich mit ihm de Leiter empor und schmeiss' en gegen a Plafon. Der Junge fiel gleich wieder 'runder, ader der Engel blieb kleben. Nu steckt' ich em ane gelbe Trompete ei's Maul und zug a Bissel Gewölke drüm 'rüm, – und wenn Sie, daß Sie jetzunder 'nei kummen, da möchten Se druf schwären, daß der Engel Gabriel an'n Tusch bläst. Und do bläst a, do bläst a und do bläst a!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FRITZ. Aber bei diese Jelejenheet weeß ick immer noch nich, wie Sie heeßen?"
+          },
+          {
+            "typ": "kontext",
+            "text": "LORENZ. Ich ha's ja schund gesa't. Eh'b ich meinen Vornamen dam kleenen Pathel gegeben hatte, hieß ich Lorenz; und mit meinem Zunamen heess' ich Kegel. Lorenz Kegel aus Breslau."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FRITZ. Was? Sie sind? <i>Für sich.</i> Donnerwetter, das muß ich dem jungen Herrn melden, da kann ich jutes Trinkjeld fassen. <i>Er will schnell ab, an der Thüre begegnet ihm.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(5. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Sechster Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Kotzeluch. Vorige. Dann Franz und Louise.</i><br>KOTZELUCH. Wer ist der Fremde?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FRITZ <i>indem er sich fortschleicht, sehr verlegen.</i> Ich weeß nich; er spricht so komisch; er sagt, er wäre en Kalkbrenner. <i>Schnell ab.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "KOTZELUCH. Kalkbrenner? – Wie? – Wär's möglich? – Der wunderbare Anzug? Zu Fuße? Englisch? – Kalkbrenner?<br>LORENZ. Nu jekersch, stell' a sich ock nich a su taprich. Sol' ich's ärnd nich sein?<br>KOTZELUCH. Er redet englisch: er ist's! Heil ist meinem Hause widerfahren!<br>FRANZ UND LOUISE <i>erscheinen horchend an der Thür.</i><br>KOTZELUCH. Mann! Künstler! Ihren hohen Genium verehrend, nah' ich mich Ihnen im Staube! Wie kommen Sie so schnell von Berlin hierher? Wann folgt Ihr Fortepiano nach? Werden Sie lange hier verweilen? Würden Sie sich vielleicht gar erflehen lassen, ein Konzert zu geben? Ich stehe für einen vollen Saal! Ich bin hier ein Mann von Bedeutung. Die Leute <em>müssen</em> Billets kaufen. Ich habe Mittel in Händen, sie zu zwingen. Ich allein schon nehme ein Dutzend für mich und mein Haus. – Reden Sie! Ich beschwöre Sie! Und wenn Sie Ihre Muttersprache in London verlernt haben, reden Sie Englisch; und wenn Sie noch nicht Englisch können, reden Sie gar nicht; nur einen, irgend einen Ton geben Sie von sich; wir werden uns schon verständigen. Mensch – Kalkbrenner –<br>LORENZ <i>der schon abwechselnd mit Furcht und Zorn gekämpft.</i> Hir' a, jetzunder giht a, – oder ich ... der Kerle is wul gar tälsch?<br>KOTZELUCH. Er drückt sich fortwährend Englisch aus. <i>Franz und Louise erblickend.</i> Kinder, kommt mir zu Hilfe! Hier steht der große Meister, der Kalkbrenner, von dem alle Blätter sprechen; der in London für seine Unterrichtstunden pfundweise bezahlt worden ist und in seinen Conzerten immer viele Centner eingenommen hat. Bittet ihn, daß er uns hier mit Tönen beglücke.<br>FRANZ <i>leise.</i> Glücklicher Irrthum!<br>LOUISE <i>eben so.</i> Wir wollen ihn nähren.<br>LOUISE. FRANZ. KOTZELUCH. <i>Mel.: Mahadöh der Herr der Erde etc.</i> Großer Mann, lass' Dich erflehen, Gieb den Bitten gütig nach! Magst Du uns hier winseln sehen, Hörst Du kalt ein flehend: Ach?? Könnt' es Deinen Ruhm verringern, Wenn Du, eh' Du weiter strebst, Mit den kunstgelenken Fingern Dieser Stadt die Weihe gäbst? Wir werfen vor Dir uns im Staube danieder, O, sei doch barmherzig, erhebe uns wieder, O, gieb hier in Süptiz, o, gieb ein Concert!! <br>LORENZ <i>halb für sich.</i> Nu sein se alle Drei verruckt gewur'n. Ich sa lieber gar nischte mehr, suste schnapp' ich ooch über.<br>FRANZ <i>leise zu ihm.</i> Geben Sie nach: Sie können Ihr Glück machen.<br>LOUISE. Sie sagen, Sie wären Kalkbrenner, Sie wollen ein Concert geben, Sie verdienen viel Geld.<br>LORENZ. Oder ich kann ju nich –<br>FRANZ. Das wird sich Alles finden. Sagen Sie nur ja.<br>KOTZELUCH <i>noch auf den Knieen.</i> Was entscheidet er über mein Geschick?<br>FRANZ. Er giebt nach.<br>LOUISE. Er will!<br>LORENZ. Nu, – wenn's nicht andersch sein kan, – do wil' ich.<br>KOTZELUCH <i>aufspringend.</i> Er will! – Himmel! Musen! Olymp! Er will! <i>Ihm die Hand küssend.</i> Nun seht, Kinder, seht diese Hände an, – diese Hornhäute! Wie muß der Mann auf dem Klavier herumgearbeitet haben! Förmliche Hühneraugen hat er auf den Fingern. – Dank, tausend Dank, hoher Meister. Augenblicklich soll ein Instrument gebracht werden. – In der Stadt muß man es austrommeln lassen; – die Sturmglocke muß man läuten. – Ach, so schnell erfüllen sich meine kühnsten Wünsche. <i>Mel.: Es ist nichts mit den alten Weibern etc.</i> Ha, mir strahlt nun die größte Wonne, Dieser Künstler giebt ein Concert; Leuchte heller, Du hohe Sonne, Auf den Gastwirth zur goldnen Tonne, Wer's nicht fühlt, ist ein dummes Pferd. Vom Dezember zum ersten Jänner, Denk' ich täglich an diesen Tag, Wo zur Freude für alle Kenner, Der unsterbliche Kalkbrenner Bei mir im Quartiere lag. Streicht die Bogen und spannt die Saiten! Ich lauf' in der Stadt herum: Jeder Bürger muß subscribieren, In's Concert will ich Alle führen, Unser ganzes Publikum. <i>Schnell ab. Lorenz. Louise. Franz.</i><br>LORENZ. Nu sa'n se mer ock um Alles in der Welt, was hot denn dieser Man im Kuppe?<br>FRANZ. Ihr Bestes, Freund. Man wird in Sie dringen, ein Conzert zu geben. Lassen Sie sich's gefallen. Man wird Ihnen Billets abkaufen; das lassen Sie sich auch gefallen. Wenn es aber dazu kommt, daß Sie wirklich spielen sollen, so machen Sie sich mit dem Gelde heimlich aus dem Staube und kehren Sie nie wieder in diese Stadt. Wir wollen Ihnen zur Flucht behilflich sein.<br>FRANZ. Und das gewiß von ganzem Herzen.<br>LORENZ <i>vertraulich.</i> Ich muß ja in der Stadt bleiben; ich ha' eene Braut hie!<br>FRANZ <i>leise zu Louisen.</i> Hörst Du's? <i>Laut.</i> Eine Braut? Ei der Tausend, das mag ein schönes Gewächs sein!<br>LOUISE <i>drohend.</i> Du?<br>LORENZ. Ich ha' se noch gar nich gesehn. Ich thät' mer och nischte nich draus machen, wenn mer'sch nich um's Geld wär'! Uem das Geld, was se hot, bin ich nu hieher gekummen, durch Dick und Dünne. Nu kan' ich doch nich wieder weglofen, wie a Narr?<br>LOUISE. Wenn Sie Herr Lorenz Kegel aus Breslau sind –<br>LORENZ. Meiner Sieben, der bin ich.<br>FRANZ. Derselbe, der vermöge des Testaments seiner Mutter, deren Pflegetochter, die Louise Linse heirathen soll –<br>LORENZ. Meiner Sieben, der bin ich –<br>LOUISE. Dieselbe Louise, die, wie ich höre, bereits eine ganz ernsthafte Liaison mit einem jungen Windbeutel hat –<br>LORENZ. Oho!<br>LOUISE. So rath' ich Ihnen, als aufrichtige Freundin, sie fahren zu lassen. Ihr Liebhaber ist ein junger, wilder Mensch, voll von Tücken und Uebermuth. Es kommt ihm gar nicht darauf an, Sie herauszufordern und sich mit Ihnen zu schießen. Ja, er könnte sogar kapabel sein, Sie todt zu schießen. –<br>LORENZ. Oho!<br>LOUISE. Und dann zu thun, als ob es aus Versehen vorgefallen wäre. Er hat schon mehrere Menschen Puff! – Sie verstehn mich?<br>LORENZ. Oho!<br>LOUISE. Und wenn er gleich seine Braut gar nicht liebt, ihr nicht im Geringsten treu ist, so läßt er doch schon aus Eigensinn nicht von ihr ab, weil's sein Vater nicht haben will, daß sie sich lieben sollen.<br>FRANZ. Demoiselle entwirft Ihnen da ein lebendiges Bild Ihres Nebenbuhlers. Sollte der aber noch so schonend mit Ihnen umgehn, – immer danken Sie dem Himmel, wenn Sie Ihre Braut los werden! Das ist, so schön sie aussieht, mit Respekt zu vermelden, ein wahrer Teufel! Keine Hecke ist ihr zu hoch und keine Bosheit zu boshaft. Sie ist kokett, zänkisch, eitel, verschwenderisch, launenhaft, unbeständig, naseweis. –<br>LOUISE. Genug! genug! Ich glaube, Sie werden nichts weiter zu hören wünschen?<br>LORENZ. Ne! Fur heute ha ich genung vo allen Beeden! Das sein ju a paar recht eseme Dingriche! Wenn mir ock, daß er mir nischte thäte thun, denn vur ihr ha ich keene Bange nich. Ihr wölld' ich schund a Kuller vertreiben, wenn sie wöllde rebellern.<br>FRANZ <i>zu Louisen.</i> Glänzende Aussichten!<br>LOUISE <i>verzweifelt, bei Seite.</i> Wir gehn durch!<br>FRANZ <i>leise.</i> Wird nicht nöthig sein. <i>Laut.</i> Freund, mein Rath ist der: Sie erwarten hier meinen Vater, der Ihnen, wie ich seinen Eifer für die Musik kenne, gewiß sogleich das Eintrittsgeld für Ihr zu gebendes Concert, von allen Nachbarn überbringt. Sie nehmen es –<br>LORENZ. I nu ja, das wil ich schund dermachen.<br>FRANZ. Und fordern, daß er Ihnen sobald als möglich eine Probe auf dem Saale oben arrangieren soll. Dazu wird er augenblicklich bereit sein, und während er damit beschäftigt ist, fliehen Sie, und lassen sich nie mehr in dieser Stadt sehen.<br>LORENZ. Ja, das is schun gutt. – Oder de Braut? Sehn Se, was wird Er mir denn bringen? A paar lumpige Thaler. Die nützen mir nischte nich. Hingegen das Testamente ...<br>LOUISE. Wollen Sie von Ihrem Nebenbuhler umgebracht sein?<br>LORENZ. Ne!<br>FRANZ. Vertrau'n Sie mir. Sie können nichts Besseres thun, als entfliehn; und das geschieht doch immer leichter <em>mit</em> Geld, als ohne?<br>LORENZ. Ja!<br>FRANZ. Also: Muth! Fahren Sie nur fort, recht fremdartig zu reden.<br>LORENZ. Ja, ich wil reden, wie in Frankreich; wie ich unterm Militairwesen war.<br>FRANZ. Und wenn Sie in Breslau angekommen sind, schreiben Sie, daß Sie nicht kommen könnten; daß Sie schon anderweitige Herzensbande geschlossen hätten.<br>LORENZ <i>vertraulich.</i> Ja, das is och wahr. Knaut's Lehnel thut mer schun lange nachstellen.<br>LOUISE <i>sich vergessend.</i> Sehen Sie, dann ist uns ja Allen geholfen!<br>LORENZ. Uns? – Was ha'n Sie denn derbeine zu thun?<br>FRANZ. Meine Schwester meint –<br>LOUISE <i>verlegen.</i> Weil –<br>FRANZ. Sie denkt nur –<br>LOUISE. Weil unser Antheil –<br>LORENZ. Nu, so mähren Se doch nich eine Ewigkeit und drei Minuten. <i>Für sich.</i> Hie ei dam Hause is ju rechtes Rindviehzeug beisammen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(6. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Achter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Vorige. Lorenz. Fritz.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FRITZ <i>der Lorenzen mit Gewalt am Kragen hereinzerrt, ohne Jene zu bemerken.</i> Man 'rin! – Er will durchjehn? Des Stück kann nich ufjeführt werden, injetretener Hindernisse wegen. Ein Hinderniß bin ich. So 'ne Visite will hier mit des baare Jeld abziehn, von die Armee? Ne, mon ami!"
+          },
+          {
+            "typ": "kontext",
+            "text": "LORENZ. Hir' a ock, Musje –"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FRITZ. I was, Musje is en Kuchenjunge; ich heeße Fritz."
+          },
+          {
+            "typ": "kontext",
+            "text": "LORENZ. Hir' a ock – <i>Mel.: Die Binsgauer wollten wallfahrten gehn.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FRITZ. Wo will Er mit des Jeld hier zur Thüre hin?"
+          },
+          {
+            "typ": "kontext",
+            "text": "LORENZ. Gleich luss' a mich lus, was kümmert's denn ihn?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FRITZ. Oho!"
+          },
+          {
+            "typ": "kontext",
+            "text": "LORENZ. Oho!<br>BEIDE. Oho, oho, oho! Er ist ein rechter Schlingel!<br>LORENZ. Ein Esel!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FRITZ. Ein Schlingel!"
+          },
+          {
+            "typ": "kontext",
+            "text": "LORENZ. Ein Esel!<br>BEIDE. So lang wie er ist, So lang wie er ist!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FRITZ. Nu ruf' ick den Herrn, und wir sperren ihn ein!"
+          },
+          {
+            "typ": "kontext",
+            "text": "LORENZ. Eh'b ich mich fürchte, müst' a größer sein!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FRITZ. Oho! etc. etc. <i>Franz und Louise treten vor.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "FRANZ. Fritz, bist Du toll? – Warum läßt Du den ehrlichen Kerl nicht entwischen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FRITZ. Ich wußte ja nicht –"
+          },
+          {
+            "typ": "kontext",
+            "text": "LOUISE. Nun ist Alles vorbei. Vater kommt schon zurück."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(8. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Neunter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Vorige. Kotzeluch. Zwei Träger die ein Fortepiano hereinbringen.</i><br>LORENZ. Ach, du verflischte Mode, do brengt a de Musicke! <i>Will entwischen.</i><br>KOTZELUCH <i>hält ihn am Rockschoß, zieht ihn zurück und schließt die Thür.</i> Halt, nicht von der Stelle! – Sie haben mit dem Eintrittsgeld entschlüpfen wollen. War das eine bloße Künstlercaprice, und sind Sie veritabel der, für den wir Sie gehalten haben, so mögen Sie verzeihen. Aber ich muß mich auf alle Fälle sichern; mir ist ein Gedanke aufgestiegen: meine Köchin, die ein paar Jahre in Schlesien zubrachte, behauptet, sie reden Schlesisch-, nicht Englisch-Deutsch; – (sie hat aus der Küche vernommen, wie Sie vor der Hausthür gefragt haben, ob hier ein Gasthaus sei?) – Sie könnten ein <em>Gewisser</em> sein, könnten mich betrogen haben; und wenn Sie der Gewisse wären, und wenn Sie mich betrogen hätten, würden Sie bedeutende Prügel genießen. <i>Zu den Trägern.</i> Bewacht die Thür! – Hier steht das Clavicembalo! Hier ist ein Stuhl! – Jetzt legen Sie los, – oder <em>ich</em> lege los!<br>FRANZ <i>leise zu ihm.</i> Nur Muth!<br>LOUISE <i>eben so.</i> Setzen Sie sich hin.<br>FRANZ. Spielen Sie dreist: er hört nicht gut.<br>LORENZ <i>sich setzend.</i> Nu, das wird doch ooch keene Hexerei sein, uf dam Klimperkasten werd ma doch a Brinkel rüm grammeln können!?<br>KOTZELUCH <i>im Vorgrunde, allein.</i> Er setzt sich. Er ist's doch wohl; er redet wieder entschieden Englisch. <i>Pause. Man hört außerhalb ein Posthorn.</i><br>KOTZELUCH <i>der durch seine Pantomime zeigt, da er nicht deutlich hört.</i> Bravo, Bravo! Seht, Kinder, das bringt er durch Kunst hervor: er spielt Posthorn auf dem Piano und es hat nur einen Fagott-Zug.<br>LORENZ <i>streicht mit den Fingern über die Tasten.</i><br>KOTZELUCH. Ungeheure Fertigkeit, aber schwacher Anschlag.<br>KOTZELUCH. Ach, nun kommt er in's Feuer! Bravissimo! Wunderbare Uebergänge! Kühn, sehr kühn! – Da habt Ihr's nun, was der Ruf macht! Wenn ein And'rer so spielte, zum Beispiel ich, – würden Kenner Mancherlei auszusetzen haben, aber solch ein Künstler ... sein Name tödtet die Kritik!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FRITZ. Mir wird sehr unwohl. <i>Es klopft stark an die Thüre.</i><br>DIE TRÄGER <i>wollen öffnen.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "KOTZELUCH. Nichts da. Laßt klopfen! Jetzt darf mich Niemand stören.<br>DIE MAGD <i>von außen.</i> Um des Himmels Willen, machen Sie auf! Ach, das Unglück!<br>ALLE. Ein Unglück? <i>Es wird geöffnet.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(9. Auftritt)</b><br><br>"
+          },
+          
+          {
+            "typ": "figurtext",
+            "text": "<b>Letzter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Franz. Louise. Kotzeluch. Fritz. Lorenz.</i><br>KOTZELUCH. Er hat Alles bekannt! Alles! – Kerl, dort steht Deine Braut, – Deine <em>gewesene<em> Braut. Du bekommst sie nicht. Du bekommst die Hälfte der Erbschaft und kannst gehen, wohin Du willst! <i>Auf Franz zueilend.</i> Ich werd' ihn heut' noch erblicken.<br>LORENZ. Das is se? Und je's is ihr Liebster? Dessenthalben ha'n se mich weg perschwadiert? Nu, Ihr ha't mich scheene belämmert; ich war wul a rechtes Schöpsekristel.<br>LOUISE. Es ist Ernst? Ich darf den Kalkbrenner nicht heirathen?<br>KOTZELUCH. Nein. Aber auch den Juristen nicht. Ich gebe meine Einwilligung nicht –<br>LOUISE. Was?<br>FRANZ. Wie?<br>KOTZELUCH. Nicht eher, bis ich Kalkbrenner wirklich gehört!<br>BEIDE. Juchhe! Heut Abend ist Verlobung!<br>LOUISE. Wenn ich ihm sage, was davon abhängt, spielt er gewiß einem Liebes-Paare zu Liebe.<br>LORENZ. Suste, wenn ock blußig gespielt sein sol, do wil ich mich noch amol hinsetzen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FRITZ. Ne, ich danke Ihnen. Seind Sie so jut. Ich habe mir von Ihre Leistung noch nich erholt."
+          },
+          {
+            "typ": "kontext",
+            "text": "FRANZ. Herr Lorenz Kegel wird nun wohl nach Breslau heimkehren?<br>LORENZ. Nu jekersch, jekersch, jagen Se mich nur nich gleich aus 'em Hause. A Maul vull Abendessen wer'n Se mer doch vergünnen?<br>KOTZELUCH. Mensch, verstumme! Schlesien mag ein schönes gesegnetes Land sein, aber Eurer Sprache werd' ich's nie vergessen, daß sie mich so angeführt hat.<br>LORENZ. Warum Sein Se a su ohne Bildung ufgewachsen? Uense Sproche is nur scheene; es is meine Muttersproche, ich ha' se vun meinem Vater geerbt, und Ihrenthalben wil ich se nich verleekeln! Ader nu machen Se, daß was zu schnabelieren kümmt; bei'm Essen wer' ich Ihnen meine ganze Reese verzählen.<br><i>Mel.: Ich wußt' mir 'mal nichts anzufangen, von Fink.</i> Ich wußt' amol nischt anzufangen, 's war eines Sunntags in der Früh'; Da bin ich bis hiehär gegangen, Da ging mer 'sch nu, – Sie wissen, wie? Ei ei trala purli, Das Ding vergess' ich nie, Ei ei trala purli, Purli purli, purli purli, Das Ding vergess' ich nie, das Ding Das Ding-der-ling Das Ding vergess' ich nie.<br>ALLE. Ei ei trala purli etc. etc."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(Letzter Auftritt)</b>"
+          }
+        ]
+      },
+
+      {
+        "id": "Kalkbrenner04",
+        "theaterstück": {
+          "titel": "Der Kalkbrenner. Liederposse in einem Akt",
+          "zeit": "1825",
+          "druckort": "",
+          "auffuehrungshinweise": "Handlungsort ist Süptitz"
+        },
+        "autor": {
+          "name": "Karl von Holtei",
+          "herkunft": "Omd.",
+          "orte": "Breslau",
+          "lebensdaten": "1798–1880"
+        },
+        "figur": {
+          "name": "Lorenz Kegel",
+          "rolle": "NN",
+          "beschreibung": "ein Breslauer; spricht schlesisch; redet mit Kotzeluch (schles.) und Fritz (ber.)"
+        },
+        "dialekt": {
+          "adaption": "Autoadaption",
+          "dialekt_grossraum": "Omd."
+        },
+        "geokoordinaten": {
+          "herkunft_autor": {
+            "lat": 51.11,
+            "lng": 17.032222
+          },
+          "herkunft_figur": { 
+            "lat": 51.11,
+            "lng": 17.032222
+          }
+        },
+        "abschnitt": "[tbd]",
+        "original_link": "https://dracor.org/ger/holtei-die-kalkbrenner#text",
+        "abschnitt_segmentiert": [
+          {
+            "typ": "figurtext",
+            "text": "<b>Vierter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Lorenz Kegel tritt ein, durch die Mitte, einen Ranzen auf dem Rücken.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Is das a Gasthaus? Man sitt keenen Wirth und nischte nich? – Malkehr?? – 's wird doch ärnd Eener derheeme sein? – Malkehr, ich will annen Schnaps! Oder 's kümmt Keener nich. Se wer'n wul wu andersch sein!? Gähnend. Ich bin ucksig müde. <i>Mel.: Hitze, Hitze, große Hitze etc., von Fink.</i> In der allergrößten Hitze Kumm' ich sieben Meilen her! Meine Schuhe sein nischt nütze Und mein Ranzen drückt su schwer. Die verflischte Pustkarrethe Fuhr su flink bei mir vurbei, didl dum! Oder ich, wie tumb im Heete, Immer duslich hingerdrei. Didl dum, didl dum, dum, Immer duslich hingerdrei. <i>Er legt den Ranzen unter den Kopf und setzt sich entschlafend auf den Stuhl.</i> Sol mich Der und Jener strofen, Mir fällt's Ogelid schun zu. Ich will ock a Brünkel schlofen. Fliegezeug, luss' mich in Ruh! Ach, ma kan sich artlich strecken – Und kümmt Eener 'rei geprascht, didl dum! Wird a mich wul irschte wecken, Eh' b' a uf mich 'nei kallascht, Didl dum, didl dum, dum, Eh' b' a uf mich 'nei kallascht. <i>Er schläft.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(4. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Fünfter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Lorenz schlafend. Fritz.</i><br>FRITZ. Es hat mir Eener jerufen! – Da liegt er und schläft. O Jott, wie sanfte! Des is en Reisender von die englische Ratze: allens zu Fuße. Mensch, wie liegst Du da? Wie'n bleierner Vogel. Wenn der Träume hat, so träumt ihn jewiss von eine jroße Mahlzeit, wo er an Tische sitzt und nichts zu essen kriegt. – Hier wirst Du och nicht satt werden, armer Wanderer! Wie mir der Deibel hierher in diese Kneipe verschlagen hat, des wees er alleene nich mehr. Und wenn er es weeß, kann er's nicht verantworten. Ach Berlin, Berlin, in Deine Jefilde jing es anders zu: Ehre, Reichthum, Liebe, Essen, Trinken, Weißbier, Wurst: die Hülle und die Fülle! – Aber na nu, Herr Mensch, wachen Sie auf! Haben Sie mir jerufen? Nu bin ick da. Was steht in Ihre Wünsche?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ <i>halb im Schlafe.</i> Was giebt's denn? Hot's ke Feuer meh' im Ufen?"
+          },
+          {
+            "typ": "kontext",
+            "text": "FRITZ <i>für sich.</i> Jute Sprache spricht die Bolle so weit. – Seind Sie en Ausländer?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ <i>der sich ermuntert.</i> Ne, ich bin a Schlesinger."
+          },
+          {
+            "typ": "kontext",
+            "text": "FRITZ <i>für sich.</i> Der Kerl is nich bitter. <i>Laut.</i> Was wollen Sie denn aber hier?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ <i>listig.</i> Das sa't ma nich a su. – Jetzunder will ich an'n Schnaps."
+          },
+          {
+            "typ": "kontext",
+            "text": "FRITZ <i>Flasche etc. vom Schenktisch holend.</i> Diesen können Sie besehen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Trink' a mite. Setz' a sich zu mir! Ich thu's immer mit a Malkehren halten thun, thu' ich, wenn ich, daß ich uf der Landstraße bin. Denn meiner Muhme ihr Mann hot an'n Bruder geha't, dam seine dritte Frau war annes Malkehrsch Wittib; – ne, Wittwe wullt' ich sagen."
+          },
+          {
+            "typ": "kontext",
+            "text": "FRITZ. Na, Wittwe oder Wittib, des, dächt' ich, wäre Mus wie Mine."
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Ne, das is nich Mis wie Mume. Eine <em>Wittib</em> wil nich meh heirathen; – oder eine <em>Wittwe</em> die wil!"
+          },
+          {
+            "typ": "kontext",
+            "text": "FRITZ. Was?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Ja, die wil!"
+          },
+          {
+            "typ": "kontext",
+            "text": "FRITZ. Sie sind eenzig! – Sagen Sie, wer sind Sie denn eejentlich? Wie heeßen Sie denn?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Aus der Taufe heeß ich Lorenz. Oder ich ha meinen Namen amol a'm kleenen Pathel abgeben müssen; nu loof' ich derweile a su rüm. Ich bin a Kalkbrenner, aus der Kalkbrennerei in Grüneiche bei Breslau. In frühern Zeiten stund ich wul bei a'm Mohler in Kundition; do ging mersch gutt; do hatt' ich mich schund vom Farbereiber bis zum Stubenmohler empor geschwungen; denn ich wußte mit a Kaleren umzugihn, wusst' ich. Su a Bukettel aber a Galandel an de Wand zu schmeissen, das war mir wie gemaust. Meine Parforsche bestund aber im Marmelieren; do dermite hätt' ich mich künnen in allen Ländern sehen lussen; eb gleich jedes Land seine eegenthümlichen Kaleren hot. Denn wenn nich ein jedes Land seine Kaleren hätte, wie wär' denn dazumalen der Franzose ei Rußland derfroren, frog' ich? Denn wenn a wär' ei's Murgenland gegangen, do wär' a nich derfroren, denn durte is's heeßer; vunzemol wenn de Sunne scheint; oder ei Rußland is's rasnige kalt, vunzemol im Winter, und der Franzose is halt übertrieben weechkatschig Zeug; do derfrur a haldig; und do hatt' a verspielt; und su hot jedes Land seine Kaleren. Ader was ich eegentlich sagen wullte: wie ich als Stubenmohler meine Sachen machte, do kam ich doch amol schrecklich sihr in de Verlegenheet. Ich sullte bei Eenem de Stube mohlen, – ich weeß's noch wie heute, 's war kaiseraugenblau, – und do verlangt' ich ein Frühstücke. Do drüber wurde der Mensch reene tücksch und nu wusst' a gar nich, wie a mich kujenieren sullte. Alle queer Finger lang kummandiert' a 'was Andersch und uf de Letzte verlangt' a gor, ich sellt' ihm eenen Engel an de Decke mohlen. Nu künnen Se mersch globen, nu stund ich do wie a Oelgötze. Uf's Englische hatt' ich mich noch nich verlegt; wu sullt' ich nu a Engel herkriegen. Und wie ich mich in meiner Herzensangst zum Fenster 'nauslege und simmeliere, do kümmt a kleener Junge de Gasse 'rufgetapert, barbsbeenig und überhaupt halb nackigt – do ging mer a Licht uf. Dan Jungen ruf' ich mer und versprech' em a paar Gröschel. Nu nehm' ich Berliner roth und Kremser weiß, mansch mer Beedes untersammen, – 's wurde eine Fleeschfarbe zum küssen! Nu zieh' ich mer meinen kleenen Jungen vollends aus, krieg' en beim Kribse, tunk' mer'n ei de Fleeschfarbe, rühr' mer'n an Weilchen drinne rum, dernoch steig' ich mit ihm de Leiter empor und schmeiss' en gegen a Plafon. Der Junge fiel gleich wieder 'runder, ader der Engel blieb kleben. Nu steckt' ich em ane gelbe Trompete ei's Maul und zug a Bissel Gewölke drüm 'rüm, – und wenn Sie, daß Sie jetzunder 'nei kummen, da möchten Se druf schwären, daß der Engel Gabriel an'n Tusch bläst. Und do bläst a, do bläst a und do bläst a!"
+          },
+          {
+            "typ": "kontext",
+            "text": "FRITZ. Aber bei diese Jelejenheet weeß ick immer noch nich, wie Sie heeßen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Ich ha's ja schund gesa't. Eh'b ich meinen Vornamen dam kleenen Pathel gegeben hatte, hieß ich Lorenz; und mit meinem Zunamen heess' ich Kegel. Lorenz Kegel aus Breslau."
+          },
+          {
+            "typ": "kontext",
+            "text": "FRITZ. Was? Sie sind? <i>Für sich.</i> Donnerwetter, das muß ich dem jungen Herrn melden, da kann ich jutes Trinkjeld fassen. <i>Er will schnell ab, an der Thüre begegnet ihm.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(5. Auftritt)</b><br><br>"
+          },
+          
+          {
+            "typ": "figurtext",
+            "text": "<b>Sechster Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Kotzeluch. Vorige. Dann Franz und Louise.</i><br>KOTZELUCH. Wer ist der Fremde?<br>FRITZ <i>indem er sich fortschleicht, sehr verlegen.</i> Ich weeß nich; er spricht so komisch; er sagt, er wäre en Kalkbrenner. <i>Schnell ab.</i><br>KOTZELUCH. Kalkbrenner? – Wie? – Wär's möglich? – Der wunderbare Anzug? Zu Fuße? Englisch? – Kalkbrenner?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Nu jekersch, stell' a sich ock nich a su taprich. Sol' ich's ärnd nich sein?"
+          },
+          {
+            "typ": "kontext",
+            "text": "KOTZELUCH. Er redet englisch: er ist's! Heil ist meinem Hause widerfahren!<br>FRANZ UND LOUISE <i>erscheinen horchend an der Thür.</i><br>KOTZELUCH. Mann! Künstler! Ihren hohen Genium verehrend, nah' ich mich Ihnen im Staube! Wie kommen Sie so schnell von Berlin hierher? Wann folgt Ihr Fortepiano nach? Werden Sie lange hier verweilen? Würden Sie sich vielleicht gar erflehen lassen, ein Konzert zu geben? Ich stehe für einen vollen Saal! Ich bin hier ein Mann von Bedeutung. Die Leute <em>müssen</em> Billets kaufen. Ich habe Mittel in Händen, sie zu zwingen. Ich allein schon nehme ein Dutzend für mich und mein Haus. – Reden Sie! Ich beschwöre Sie! Und wenn Sie Ihre Muttersprache in London verlernt haben, reden Sie Englisch; und wenn Sie noch nicht Englisch können, reden Sie gar nicht; nur einen, irgend einen Ton geben Sie von sich; wir werden uns schon verständigen. Mensch – Kalkbrenner –"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ <i>der schon abwechselnd mit Furcht und Zorn gekämpft.</i> Hir' a, jetzunder giht a, – oder ich ... der Kerle is wul gar tälsch?"
+          },
+          {
+            "typ": "kontext",
+            "text": "KOTZELUCH. Er drückt sich fortwährend Englisch aus. <i>Franz und Louise erblickend.</i> Kinder, kommt mir zu Hilfe! Hier steht der große Meister, der Kalkbrenner, von dem alle Blätter sprechen; der in London für seine Unterrichtstunden pfundweise bezahlt worden ist und in seinen Conzerten immer viele Centner eingenommen hat. Bittet ihn, daß er uns hier mit Tönen beglücke.<br>FRANZ <i>leise.</i> Glücklicher Irrthum!<br>LOUISE <i>eben so.</i> Wir wollen ihn nähren.<br>LOUISE. FRANZ. KOTZELUCH. <i>Mel.: Mahadöh der Herr der Erde etc.</i> Großer Mann, lass' Dich erflehen, Gieb den Bitten gütig nach! Magst Du uns hier winseln sehen, Hörst Du kalt ein flehend: Ach?? Könnt' es Deinen Ruhm verringern, Wenn Du, eh' Du weiter strebst, Mit den kunstgelenken Fingern Dieser Stadt die Weihe gäbst? Wir werfen vor Dir uns im Staube danieder, O, sei doch barmherzig, erhebe uns wieder, O, gieb hier in Süptiz, o, gieb ein Concert!!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ <i>halb für sich.</i> Nu sein se alle Drei verruckt gewur'n. Ich sa lieber gar nischte mehr, suste schnapp' ich ooch über."
+          },
+          {
+            "typ": "kontext",
+            "text": "FRANZ <i>leise zu ihm.</i> Geben Sie nach: Sie können Ihr Glück machen.<br>LOUISE. Sie sagen, Sie wären Kalkbrenner, Sie wollen ein Concert geben, Sie verdienen viel Geld."
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Oder ich kann ju nich –"
+          },
+          {
+            "typ": "kontext",
+            "text": "FRANZ. Das wird sich Alles finden. Sagen Sie nur ja.<br>KOTZELUCH <i>noch auf den Knieen.</i> Was entscheidet er über mein Geschick?<br>FRANZ. Er giebt nach.<br>LOUISE. Er will!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Nu, – wenn's nicht andersch sein kan, – do wil' ich."
+          },
+          {
+            "typ": "kontext",
+            "text": "KOTZELUCH <i>aufspringend.</i> Er will! – Himmel! Musen! Olymp! Er will! <i>Ihm die Hand küssend.</i> Nun seht, Kinder, seht diese Hände an, – diese Hornhäute! Wie muß der Mann auf dem Klavier herumgearbeitet haben! Förmliche Hühneraugen hat er auf den Fingern. – Dank, tausend Dank, hoher Meister. Augenblicklich soll ein Instrument gebracht werden. – In der Stadt muß man es austrommeln lassen; – die Sturmglocke muß man läuten. – Ach, so schnell erfüllen sich meine kühnsten Wünsche. <i>Mel.: Es ist nichts mit den alten Weibern etc.</i> Ha, mir strahlt nun die größte Wonne, Dieser Künstler giebt ein Concert; Leuchte heller, Du hohe Sonne, Auf den Gastwirth zur goldnen Tonne, Wer's nicht fühlt, ist ein dummes Pferd. Vom Dezember zum ersten Jänner, Denk' ich täglich an diesen Tag, Wo zur Freude für alle Kenner, Der unsterbliche Kalkbrenner Bei mir im Quartiere lag. Streicht die Bogen und spannt die Saiten! Ich lauf' in der Stadt herum: Jeder Bürger muß subscribieren, In's Concert will ich Alle führen, Unser ganzes Publikum. <i>Schnell ab. Lorenz. Louise. Franz.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Nu sa'n se mer ock um Alles in der Welt, was hot denn dieser Man im Kuppe?"
+          },
+          {
+            "typ": "kontext",
+            "text": "FRANZ. Ihr Bestes, Freund. Man wird in Sie dringen, ein Conzert zu geben. Lassen Sie sich's gefallen. Man wird Ihnen Billets abkaufen; das lassen Sie sich auch gefallen. Wenn es aber dazu kommt, daß Sie wirklich spielen sollen, so machen Sie sich mit dem Gelde heimlich aus dem Staube und kehren Sie nie wieder in diese Stadt. Wir wollen Ihnen zur Flucht behilflich sein.<br>FRANZ. Und das gewiß von ganzem Herzen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ <i>vertraulich.</i> Ich muß ja in der Stadt bleiben; ich ha' eene Braut hie!"
+          },
+          {
+            "typ": "kontext",
+            "text": "FRANZ <i>leise zu Louisen.</i> Hörst Du's? <i>Laut.</i> Eine Braut? Ei der Tausend, das mag ein schönes Gewächs sein!<br>LOUISE <i>drohend.</i> Du?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Ich ha' se noch gar nich gesehn. Ich thät' mer och nischte nich draus machen, wenn mer'sch nich um's Geld wär'! Uem das Geld, was se hot, bin ich nu hieher gekummen, durch Dick und Dünne. Nu kan' ich doch nich wieder weglofen, wie a Narr?"
+          },
+          {
+            "typ": "kontext",
+            "text": "LOUISE. Wenn Sie Herr Lorenz Kegel aus Breslau sind –"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Meiner Sieben, der bin ich."
+          },
+          {
+            "typ": "kontext",
+            "text": "FRANZ. Derselbe, der vermöge des Testaments seiner Mutter, deren Pflegetochter, die Louise Linse heirathen soll –"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Meiner Sieben, der bin ich –"
+          },
+          {
+            "typ": "kontext",
+            "text": "LOUISE. Dieselbe Louise, die, wie ich höre, bereits eine ganz ernsthafte Liaison mit einem jungen Windbeutel hat –"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Oho!"
+          },
+          {
+            "typ": "kontext",
+            "text": "LOUISE. So rath' ich Ihnen, als aufrichtige Freundin, sie fahren zu lassen. Ihr Liebhaber ist ein junger, wilder Mensch, voll von Tücken und Uebermuth. Es kommt ihm gar nicht darauf an, Sie herauszufordern und sich mit Ihnen zu schießen. Ja, er könnte sogar kapabel sein, Sie todt zu schießen. –"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Oho!"
+          },
+          {
+            "typ": "kontext",
+            "text": "LOUISE. Und dann zu thun, als ob es aus Versehen vorgefallen wäre. Er hat schon mehrere Menschen Puff! – Sie verstehn mich?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Oho!"
+          },
+          {
+            "typ": "kontext",
+            "text": "LOUISE. Und wenn er gleich seine Braut gar nicht liebt, ihr nicht im Geringsten treu ist, so läßt er doch schon aus Eigensinn nicht von ihr ab, weil's sein Vater nicht haben will, daß sie sich lieben sollen.<br>FRANZ. Demoiselle entwirft Ihnen da ein lebendiges Bild Ihres Nebenbuhlers. Sollte der aber noch so schonend mit Ihnen umgehn, – immer danken Sie dem Himmel, wenn Sie Ihre Braut los werden! Das ist, so schön sie aussieht, mit Respekt zu vermelden, ein wahrer Teufel! Keine Hecke ist ihr zu hoch und keine Bosheit zu boshaft. Sie ist kokett, zänkisch, eitel, verschwenderisch, launenhaft, unbeständig, naseweis. –<br>LOUISE. Genug! genug! Ich glaube, Sie werden nichts weiter zu hören wünschen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Ne! Fur heute ha ich genung vo allen Beeden! Das sein ju a paar recht eseme Dingriche! Wenn mir ock, daß er mir nischte thäte thun, denn vur ihr ha ich keene Bange nich. Ihr wölld' ich schund a Kuller vertreiben, wenn sie wöllde rebellern."
+          },
+          {
+            "typ": "kontext",
+            "text": "FRANZ <i>zu Louisen.</i> Glänzende Aussichten!<br>LOUISE <i>verzweifelt, bei Seite.</i> Wir gehn durch!<br>FRANZ <i>leise.</i> Wird nicht nöthig sein. <i>Laut.</i> Freund, mein Rath ist der: Sie erwarten hier meinen Vater, der Ihnen, wie ich seinen Eifer für die Musik kenne, gewiß sogleich das Eintrittsgeld für Ihr zu gebendes Concert, von allen Nachbarn überbringt. Sie nehmen es –"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. I nu ja, das wil ich schund dermachen."
+          },
+          {
+            "typ": "kontext",
+            "text": "FRANZ. Und fordern, daß er Ihnen sobald als möglich eine Probe auf dem Saale oben arrangieren soll. Dazu wird er augenblicklich bereit sein, und während er damit beschäftigt ist, fliehen Sie, und lassen sich nie mehr in dieser Stadt sehen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Ja, das is schun gutt. – Oder de Braut? Sehn Se, was wird Er mir denn bringen? A paar lumpige Thaler. Die nützen mir nischte nich. Hingegen das Testamente ..."
+          },
+          {
+            "typ": "kontext",
+            "text": "LOUISE. Wollen Sie von Ihrem Nebenbuhler umgebracht sein?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Ne!"
+          },
+          {
+            "typ": "kontext",
+            "text": "FRANZ. Vertrau'n Sie mir. Sie können nichts Besseres thun, als entfliehn; und das geschieht doch immer leichter <em>mit</em> Geld, als ohne?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Ja!"
+          },
+          {
+            "typ": "kontext",
+            "text": "FRANZ. Also: Muth! Fahren Sie nur fort, recht fremdartig zu reden."
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Ja, ich wil reden, wie in Frankreich; wie ich unterm Militairwesen war."
+          },
+          {
+            "typ": "kontext",
+            "text": "FRANZ. Und wenn Sie in Breslau angekommen sind, schreiben Sie, daß Sie nicht kommen könnten; daß Sie schon anderweitige Herzensbande geschlossen hätten."
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ <i>vertraulich.</i> Ja, das is och wahr. Knaut's Lehnel thut mer schun lange nachstellen."
+          },
+          {
+            "typ": "kontext",
+            "text": "LOUISE <i>sich vergessend.</i> Sehen Sie, dann ist uns ja Allen geholfen!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Uns? – Was ha'n Sie denn derbeine zu thun?"
+          },
+          {
+            "typ": "kontext",
+            "text": "FRANZ. Meine Schwester meint –<br>LOUISE <i>verlegen.</i> Weil –<br>FRANZ. Sie denkt nur –<br>LOUISE. Weil unser Antheil –"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Nu, so mähren Se doch nich eine Ewigkeit und drei Minuten. <i>Für sich.</i> Hie ei dam Hause is ju rechtes Rindviehzeug beisammen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(6. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Siebenter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Vorige. Kotzeluch.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Nu kummt der alte Taperhanns och derzune."
+          },
+          {
+            "typ": "kontext",
+            "text": "KOTZELUCH. Hier bring' ich, was die nächsten Nachbarn an Billets gekauft.<br>FRANZ. Wo haben Sie denn die Billets hergenommen?<br>KOTZELUCH. Ich habe die Einlaßkarten vom letzten Schützengildenball benützt.<br>LOUISE. Nun werden aber die Abonnenten glauben, sie sollen tanzen?<br>KOTZELUCH. Mögen sie das glauben. Sie dürfen es glauben. Sie werden auch tanzen; ja, das Herz im Leibe wird ihnen vor Freuden tanzen, wenn sie diesen Mann werden spielen hören. – Hier, Herr Kalkbrenner, empfangen Sie diese kleine Summe, nur vorläufig, als Huldigung der Herzen. Es ist freilich nicht viel, aber glauben Sie mir, tausendfingriger Künstler, Mancher schon hat in Berlin Concert gegeben und hat eben so viel auf die Unkosten zulegen müssen, als Sie hier an Ueberschuß empfangen. Denn Kosten sollen Sie gar nicht haben. Wir nehmen Alles auf uns."
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ <i>der hastig das Geld nimmt.</i> 's is schun gutt! – <i>Indem er Franz anblickt und diesem zuwinkt.</i> <em>Allons</em>, Pähsang, fur <em>le bonsoir, pommes de terre</em>!"
+          },
+          {
+            "typ": "kontext",
+            "text": "KOTZELUCH <i>für sich.</i> Jetzt, scheint mir, redet er französisch mang unter. – Aber wie er nach dem Gelde gegriffen hat! 'S ist doch curios, daß alle Virtuosen so happig sind.<br>FRANZ. Wären vielleicht noch Anstalten zu treffen, in denen wir Ihnen behülflich sein könnten?<br>LOUISE <i>leise zu Lorenz.</i> Die Probe! – Sonst werden Sie ihn nicht los."
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Ja, de Profe! Ich muß eine Profe ha'n! <i>Sehr heftig.</i> Eine Profe <em>muß</em> ich ha'n!"
+          },
+          {
+            "typ": "kontext",
+            "text": "KOTZELUCH. Was befehlen Herr –<br>FRANZ. Herr Kalkbrenner wünschen eine <em>Probe</em> zu halten.<br>KOTZELUCH. Ei, das versteht sich. Die Musiker sind schon bestellt, sich oben im Saale zu versammeln. Es geht freilich etwas langsam, denn unsere Kapelle besteht aus Handwerkern und Ackerbürgern; aber Beide ergreifen mit gleicher Liebe Klarinett oder Flauto. – Ich werde gehen und treiben. Folgt mir, Kinder! – Aber wir können unsern Gast doch nicht allein lassen! Wollen Sie uns vielleicht die Ehre erweisen, mit hinauf zu ..."
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Ne, ne! Ich wil hiebleiben. Ich wer' mer schun de Zeit vertreiben. Mach' er ock, daß er furtkümmt."
+          },
+          {
+            "typ": "kontext",
+            "text": "KOTZELUCH. Wenn Sie denn durchaus befehlen, so will ich gehn! – Nein, nein, ich kann's noch gar nicht glauben; es ist mir ein Traum. Heute erst in der Zeitung Ihren Namen zu lesen, – und nun Sie selbst zu sehen! – Heut' Abend Sie selbst zu hören. O Herr von Kalkbrenner, ich bedaure, mich nicht auf Englisch exprimieren zu können; – gewiß; – <em>goddam! ei bläk you! – weri well! Mylord! – ikle mei 's hundleson! dettle dau!</em> <i>Geht ab.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ <i>der sich artig gegen ihn verbeugt.</i> Sakranundediö!! – Na, was Du von mir hören wirscht, das wird Dir a Magen och nich' abdrücken."
+          },
+          {
+            "typ": "kontext",
+            "text": "FRANZ. Nun, Freund, lese von dannen.<br>LOUISE. Hier, nehmen Sie Ihren Ranzen.<br>FRANZ. Das Geld –"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Das ha' ich schun! – Aber wenn der Alte hinter mir herschreit, ich wär' a Dieb, hernachern –"
+          },
+          {
+            "typ": "kontext",
+            "text": "FRANZ. Werd' <em>ich</em> Ihre Vertheidigung übernehmen. Nun Adieu! Suchen Sie unbemerkt zu entfliehen.<br>LOUISE. Sollten Leute im Hausflur sein, so warten Sie hinter dem Treppengeländer, bis die Luft rein ist. <i>Sie schieben ihn hinaus.</i><br>FRANZ. Haben Sie etwas an Ihre gewesene Braut zu bestellen?<br>LOUISE. Oder an den Nebenbuhler?<br>FRANZ. Ich will's ausrichten.<br>LOUISE. Ich will's bestellen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ <i>wird zur Tür hinausgedrückt.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "FRANZ. Fort ist er!<br>LOUISE. Und mög' er niemals wiederkehren! <i>Mel. des bekannten Studentenliedes.</i><br>FRANZ. <em>Gaudeamus igitur,</em> Er ist ex gekniffen. –<br>LOUISE <i>ihn im Singen unterbrechend.</i> Sag' mir nur, was das heißt: <em>Gaudeamus igitur</em>? Das hab' ich schon hundertmal gehört, auch im Stillen mitgesungen – und weiß nicht, was es bedeutet?<br>FRANZ. Dies ist der Anfang eines alten, schönen Liedes, und will so viel sagen, als: So laßt uns also freudig sein! O, es kommen allerlei Strophen vor. Zum Beispiel: <i>Vivant omnes virgines,</i> Jene und auch Diese. –<br>LOUISE. Was? Jene und Diese? Das heißt ja so viel, als: Diese und Jene?<br>FRANZ. Aber leben sollst vor Allen, Die mir einzig hat gefallen, Du, mein Kind, Louise!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(7. Auftritt)</b><br><br>"
+          },
+          
+          {
+            "typ": "figurtext",
+            "text": "<b>Achter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Vorige. Lorenz. Fritz.</i><br>FRITZ <i>der Lorenzen mit Gewalt am Kragen hereinzerrt, ohne Jene zu bemerken.</i> Man 'rin! – Er will durchjehn? Des Stück kann nich ufjeführt werden, injetretener Hindernisse wegen. Ein Hinderniß bin ich. So 'ne Visite will hier mit des baare Jeld abziehn, von die Armee? Ne, mon ami!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Hir' a ock, Musje –"
+          },
+          {
+            "typ": "kontext",
+            "text": "FRITZ. I was, Musje is en Kuchenjunge; ich heeße Fritz."
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Hir' a ock – <i>Mel.: Die Binsgauer wollten wallfahrten gehn.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "FRITZ. Wo will Er mit des Jeld hier zur Thüre hin?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Gleich luss' a mich lus, was kümmert's denn ihn?"
+          },
+          {
+            "typ": "kontext",
+            "text": "FRITZ. Oho!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Oho!<br>BEIDE. Oho, oho, oho! Er ist ein rechter Schlingel!<br>LORENZ. Ein Esel!"
+          },
+          {
+            "typ": "kontext",
+            "text": "FRITZ. Ein Schlingel!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Ein Esel!<br>BEIDE. So lang wie er ist, So lang wie er ist!"
+          },
+          {
+            "typ": "kontext",
+            "text": "FRITZ. Nu ruf' ick den Herrn, und wir sperren ihn ein!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Eh'b ich mich fürchte, müst' a größer sein!"
+          },
+          {
+            "typ": "kontext",
+            "text": "FRITZ. Oho! etc. etc. <i>Franz und Louise treten vor.</i><br>FRANZ. Fritz, bist Du toll? – Warum läßt Du den ehrlichen Kerl nicht entwischen?<br>FRITZ. Ich wußte ja nicht –<br>LOUISE. Nun ist Alles vorbei. Vater kommt schon zurück."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(8. Auftritt)</b><br><br>"
+          },
+          
+          {
+            "typ": "figurtext",
+            "text": "<b>Neunter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Vorige. Kotzeluch. Zwei Träger die ein Fortepiano hereinbringen.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Ach, du verflischte Mode, do brengt a de Musicke! <i>Will entwischen.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "KOTZELUCH <i>hält ihn am Rockschoß, zieht ihn zurück und schließt die Thür.</i> Halt, nicht von der Stelle! – Sie haben mit dem Eintrittsgeld entschlüpfen wollen. War das eine bloße Künstlercaprice, und sind Sie veritabel der, für den wir Sie gehalten haben, so mögen Sie verzeihen. Aber ich muß mich auf alle Fälle sichern; mir ist ein Gedanke aufgestiegen: meine Köchin, die ein paar Jahre in Schlesien zubrachte, behauptet, sie reden Schlesisch-, nicht Englisch-Deutsch; – (sie hat aus der Küche vernommen, wie Sie vor der Hausthür gefragt haben, ob hier ein Gasthaus sei?) – Sie könnten ein <em>Gewisser</em> sein, könnten mich betrogen haben; und wenn Sie der Gewisse wären, und wenn Sie mich betrogen hätten, würden Sie bedeutende Prügel genießen. <i>Zu den Trägern.</i> Bewacht die Thür! – Hier steht das Clavicembalo! Hier ist ein Stuhl! – Jetzt legen Sie los, – oder <em>ich</em> lege los!<br>FRANZ <i>leise zu ihm.</i> Nur Muth!<br>LOUISE <i>eben so.</i> Setzen Sie sich hin.<br>FRANZ. Spielen Sie dreist: er hört nicht gut."
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ <i>sich setzend.</i> Nu, das wird doch ooch keene Hexerei sein, uf dam Klimperkasten werd ma doch a Brinkel rüm grammeln können!?"
+          },
+          {
+            "typ": "kontext",
+            "text": "KOTZELUCH <i>im Vorgrunde, allein.</i> Er setzt sich. Er ist's doch wohl; er redet wieder entschieden Englisch. <i>Pause. Man hört außerhalb ein Posthorn.</i><br>KOTZELUCH <i>der durch seine Pantomime zeigt, da er nicht deutlich hört.</i> Bravo, Bravo! Seht, Kinder, das bringt er durch Kunst hervor: er spielt Posthorn auf dem Piano und es hat nur einen Fagott-Zug."
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ <i>streicht mit den Fingern über die Tasten.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "KOTZELUCH. Ungeheure Fertigkeit, aber schwacher Anschlag.<br>KOTZELUCH. Ach, nun kommt er in's Feuer! Bravissimo! Wunderbare Uebergänge! Kühn, sehr kühn! – Da habt Ihr's nun, was der Ruf macht! Wenn ein And'rer so spielte, zum Beispiel ich, – würden Kenner Mancherlei auszusetzen haben, aber solch ein Künstler ... sein Name tödtet die Kritik!<br>FRITZ. Mir wird sehr unwohl. <i>Es klopft stark an die Thüre.</i><br>DIE TRÄGER <i>wollen öffnen.</i><br>KOTZELUCH. Nichts da. Laßt klopfen! Jetzt darf mich Niemand stören.<br>DIE MAGD <i>von außen.</i> Um des Himmels Willen, machen Sie auf! Ach, das Unglück!<br>ALLE. Ein Unglück? <i>Es wird geöffnet.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(9. Auftritt)</b><br><br>"
+          },
+          
+          {
+            "typ": "figurtext",
+            "text": "<b>Zehnter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Vorige. Die Magd.</i><br>MAGD. Ach, das ist eine fürchterliche Geschichte! Das ist noch nicht begegnet, so lange ich beim Herrn Posthalter diene.<br>ALLE. Was giebt's denn?<br>MAGD <i>schluchzend.</i> Denken Sie nur: der Herr Bürgermeister –<br>ALLE. Nun was denn?<br>MAGD. Der Herr Bürgermeister haben eine Stachete bekommen.<br>ALLE. Eine Staffette?<br>KOTZELUCH. Eine Estaffette? Ei, das ist ja ein merkwürdiger Tag: Kalkbrenner – und eine Staffette?! Wo ist der Brief?<br>MAGD. Hier, Herr Bürgermeister! Ich hab' ihn in meine Schürze gewickelt. Ach, das Unglück! <i>Sie geht ab.</i><br>KOTZELUCH. Meine Empfehlung an den Herrn Postmeister. <i>Er öffnet. Während des Lesens wirft er wüthende Blicke auf Lorenz.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ <i>der Kotzeluch's Blicke bemerkt, bemerkt zugleich, daß die offene Thüre jetzt bei der allgemeinen Erwartung unbewacht ist. Das Augenspiel zwischen Kotzeluch und ihm dauert fort und da derselbe plötzlich den Brief fallen läßt, wirft ihm Lorenz das Geld hin und nimmt Reißaus. Kotzeluch folgt ihm schnell. Hinter ihnen Fritz und die Träger.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "FRANZ <i>hebt den Brief auf und lieset.</i> »Lieber Bruder! Da ich Deine Leidenschaft für Clavierconcerte kenne, eil' ich Dir zu melden, daß der berühmte Kalkbrenner, der heute hier abreiset, gegen Abend durch Euer Oertchen kommt. Triff danach Deine Anstalten. Ferdinand Klöppel, Paukist.«<br>LOUISE. So soll ihm das geträumte Glück noch in Erfüllung gehn. Ich gönn' es ihm von Herzen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(10. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Letzter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Franz. Louise. Kotzeluch. Fritz. Lorenz.</i><br>KOTZELUCH. Er hat Alles bekannt! Alles! – Kerl, dort steht Deine Braut, – Deine <em>gewesene<em> Braut. Du bekommst sie nicht. Du bekommst die Hälfte der Erbschaft und kannst gehen, wohin Du willst! <i>Auf Franz zueilend.</i> Ich werd' ihn heut' noch erblicken."
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Das is se? Und je's is ihr Liebster? Dessenthalben ha'n se mich weg perschwadiert? Nu, Ihr ha't mich scheene belämmert; ich war wul a rechtes Schöpsekristel."
+          },
+          {
+            "typ": "kontext",
+            "text": "LOUISE. Es ist Ernst? Ich darf den Kalkbrenner nicht heirathen?<br>KOTZELUCH. Nein. Aber auch den Juristen nicht. Ich gebe meine Einwilligung nicht –<br>LOUISE. Was?<br>FRANZ. Wie?<br>KOTZELUCH. Nicht eher, bis ich Kalkbrenner wirklich gehört!<br>BEIDE. Juchhe! Heut Abend ist Verlobung!<br>LOUISE. Wenn ich ihm sage, was davon abhängt, spielt er gewiß einem Liebes-Paare zu Liebe."
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Suste, wenn ock blußig gespielt sein sol, do wil ich mich noch amol hinsetzen."
+          },
+          {
+            "typ": "kontext",
+            "text": "FRITZ. Ne, ich danke Ihnen. Seind Sie so jut. Ich habe mir von Ihre Leistung noch nich erholt.<br>FRANZ. Herr Lorenz Kegel wird nun wohl nach Breslau heimkehren?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Nu jekersch, jekersch, jagen Se mich nur nich gleich aus 'em Hause. A Maul vull Abendessen wer'n Se mer doch vergünnen?"
+          },
+          {
+            "typ": "kontext",
+            "text": "KOTZELUCH. Mensch, verstumme! Schlesien mag ein schönes gesegnetes Land sein, aber Eurer Sprache werd' ich's nie vergessen, daß sie mich so angeführt hat."
+          },
+          {
+            "typ": "figurtext",
+            "text": "LORENZ. Warum Sein Se a su ohne Bildung ufgewachsen? Uense Sproche is nur scheene; es is meine Muttersproche, ich ha' se vun meinem Vater geerbt, und Ihrenthalben wil ich se nich verleekeln! Ader nu machen Se, daß was zu schnabelieren kümmt; bei'm Essen wer' ich Ihnen meine ganze Reese verzählen.<br><i>Mel.: Ich wußt' mir 'mal nichts anzufangen, von Fink.</i> Ich wußt' amol nischt anzufangen, 's war eines Sunntags in der Früh'; Da bin ich bis hiehär gegangen, Da ging mer 'sch nu, – Sie wissen, wie? Ei ei trala purli, Das Ding vergess' ich nie, Ei ei trala purli, Purli purli, purli purli, Das Ding vergess' ich nie, das Ding Das Ding-der-ling Das Ding vergess' ich nie."
+          },
+          {
+            "typ": "kontext",
+            "text": "ALLE. Ei ei trala purli etc. etc."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(Letzter Auftritt)</b>"
+          }
+        ]
+      },
+      
+
+      {
         "id": "Eheteufel01",
         "theaterstück": {
           "titel": "Der Eheteufel auf Reisen. Lokales Zauberspiel mit Gesang in zwei Aufzügen",
