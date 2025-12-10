@@ -1369,7 +1369,7 @@
         },
         "autor": {
           "name": "Joseph Alois Gleich",
-          "herkunft": "Ood.",
+          "herkunft": "Oobd.",
           "orte": "Wien", 
           "lebensdaten": "1772–1841"
         },
@@ -1380,7 +1380,7 @@
         },
         "dialekt": {
           "adaption": "Heteroadaption",
-          "dialekt_grossraum": "Ood."
+          "dialekt_grossraum": "Oobd."
         },
         "geokoordinaten": {
           "herkunft_autor": {
@@ -1607,7 +1607,7 @@
         },
         "autor": {
           "name": "Joseph Alois Gleich",
-          "herkunft": "Ood.",
+          "herkunft": "Oobd.",
           "orte": "Wien", 
           "lebensdaten": "1772–1841"
         },
@@ -1618,7 +1618,7 @@
         },
         "dialekt": {
           "adaption": "Heteroadaption",
-          "dialekt_grossraum": "Wod."
+          "dialekt_grossraum": "Wobd."
         },
         "geokoordinaten": {
           "herkunft_autor": {
@@ -1784,7 +1784,7 @@
         },
         "autor": {
           "name": "Joseph Alois Gleich",
-          "herkunft": "Ood.",
+          "herkunft": "Oobd.",
           "orte": "Wien", 
           "lebensdaten": "1772–1841"
         },
@@ -1949,7 +1949,7 @@
         },
         "autor": {
           "name": "Joseph Alois Gleich",
-          "herkunft": "Ood.",
+          "herkunft": "Oobd.",
           "orte": "Wien", 
           "lebensdaten": "1772–1841"
         },
@@ -1960,7 +1960,7 @@
         },
         "dialekt": {
           "adaption": "Autoadaption",
-          "dialekt_grossraum": "Ood."
+          "dialekt_grossraum": "Oobd."
         },
         "geokoordinaten": {
           "herkunft_autor": {
@@ -2122,7 +2122,7 @@
         },
         "autor": {
           "name": "Joseph Alois Gleich",
-          "herkunft": "Ood.",
+          "herkunft": "Oobd.",
           "orte": "Wien", 
           "lebensdaten": "1772–1841"
         },
@@ -2133,7 +2133,7 @@
         },
         "dialekt": {
           "adaption": "Autoadaption",
-          "dialekt_grossraum": "Ood."
+          "dialekt_grossraum": "Oobd."
         },
         "geokoordinaten": {
           "herkunft_autor": {
@@ -15984,7 +15984,7 @@
         },
         "dialekt": {
           "adaption": "Heteroadaption",
-          "dialekt_grossraum": "Wod."
+          "dialekt_grossraum": "Wobd."
         },
         "geokoordinaten": {
           "herkunft_autor": {
@@ -18664,7 +18664,7 @@
     },
     "dialekt": {
       "adaption": "Heteroadaption",
-      "dialekt_grossraum": "Wod."
+      "dialekt_grossraum": "Wobd."
     },
     "geokoordinaten": {
       "herkunft_autor": {
@@ -21901,7 +21901,7 @@
         },
         "dialekt": {
           "adaption": "NN",
-          "dialekt_grossraum": "Ood."
+          "dialekt_grossraum": "Oobd."
         },
         "geokoordinaten": {
           "herkunft_autor": {
@@ -23306,537 +23306,573 @@
     ]
   },
 
-    
-  {
-    "id": "DionysiiSyracusani01",
-    "theaterstück": {
-      "titel": "Ein newe Comoedia, von Dionysii Syracusani, und Damonis und Pythiae Brüderschafft",
-      "zeit": "1578",
-      "druckort": "Rostock",
-      "auffuehrungshinweise": ""
-    },
-    "autor": {
-      "name": "Franz Omcke",
-      "herkunft": "Nd.",
-      "orte": "Güstrow",
-      "lebensdaten": "vor 1566 – 1591"
-    },
-    "figur": {
-      "name": "Bauer",
-      "rolle": "Bauer",
-      "beschreibung": ""
-    },
-    "dialekt": {
-      "adaption": "Autoadaption",
-      "dialekt_grossraum": "Nd."
-    },
-    "geokoordinaten": {
-      "herkunft_autor": {
-        "lat": 53.793889,
-        "lng": 12.176389
-      },
-      "herkunft_figur": { 
-        "lat": null,
-        "lng": null
-      }
-    },
-    "abschnitt": "[...] Bawr. GOden dach / gy framen Lüde althomal / De gy hier syn in dissem hübschen sahl / Gy mögen wol selsen dencken wat ick will Hir söcken / in nuwem frowden spill: Weute sölcken Heren alse gy sint / plecht ein bwr Tho wesen ein vorachtet Creatur / De nicht köne tellen vieff effte veer / Verstha sick alleine up gud Beer: Awerst lewen Heren ydt schadet nicht Dat gy uns so alwern holden unde schlicht / Jdt sind dennoch ein del in unsen dörp / dat ys wis De ock wol weten wor en de kop apen is Und sint nicht althomale unwise doren / Se hebben den schalck ock so wol alse gy hinder den oren / Dar moth ick juw doch ein exentempel van seggen / Wen gy ydt my nicht wolden voröuel uthleggen / Unde nicht lathen dat ick so plump do schnacken: Jck habbe men gelerd plögen und haken / Wy können althomal na der kunst nich reden Alse de / so in den groten Pelsen herin treden. Nu dem sy wie em will De will thohören de sy still. Ydt ys nu wol ein weken edder achte / Dat unse naber unde ick thor kulen brachte Unsen olden schulten / Hans vilthodt / De hadde ein stn höffte ful veh unde goedt: De leth na sine Fruwe unde eine dochter junck / Jck dachte du möst don ein sprunck Na dem höffte / wenn ydt dy gelünge Dat du kregest de olde effte junge. Jdt geschach dat ick er halp ein weinich thünen / Vör erem Acker hinder der schünen / Do fragede ick se / offt se so wolde bliuen / Jdt wörde er lanck werden de tydt thovordriuen / Do warp se sick so wide unde sprack / Nehn / ydt kümmet kein ander under min dack / Dat heb yck mynen saligen Manne thosecht up truwe / Jck sede / ey gy sindt noch eine fine yunge Fruwe / Jdt were yümmer schade wenn gy scholden So allene ahne trost verolden. Nu ydt bleff darby / wente öuer achte dagen / Do dacht yck / Bartelmeus du möst noch eins wogn Unde wedder by der schultschen haken anschlan / Offt dy de handel mochte angahn. Wente ein starck Bohm velt nicht van erst enhouwe / Jdt ys Iyckewol ein fin höffte unde hübsche Fruwe / Jck gyuck tho er / unde sprack mit er etlicke söte wörd Wat schal ick yuw seggen ick krech also fordt Dat yawort wech / deß was ick fro Doch moste ick er wedder seggen tho / Dat ick wolde frahm sin / unde ock erer dochter geuen So vel das se darvan konde ehrlicken leuen. Das sede ick er tho / unde bat dat se geue Ehre dochter minem vadderen / also bleue Dat gudt by den fründen / dat hagede er so / Up myne bede / sede se em tho. Min vadder danckede my des mit hogem flidt / Unde sede dat he to keiner tydt / Solcke trüwe de ick em hedde gedan Wolde vergeten edder uth der acht schlan: Sünder wolde ydt my dencken tho yeder stunde / Auerst wo he ydt gemeint des kame ick nu tho funde. Wete he hefft ydt mit unsem Junckeren fin dörch gedreuen / Unde will mi uth den höffte wedder utheuen Secht he sy in der Stadt by einem Docker gewesen Und hebbe darna laten schriffte lesen / Darin sta uthdrücklich geschreuen Wenn ein höffte na des Vaders dode leddich bleuen / So schölen darup ahn alle verhinder Wedder fryen de rechten Erven unde kinder / Unde vör der Moder hebben den vörtoch Seht yß mi dat nicht ein truwlos droch Auer dat werderfor mi noch ein untruw stücks Jck arme kerl schal wor hebben nein gelücke: Jck hebbet woll verstan wordt ein sit / Hadde ick des tüges wat / dat dar ys rnt unde wit / Dat men so plecht under dem dumen dörch toscheten / So scholde ydt minen vaddern wol drade vordretn. Jck hadde jo in untidt ock einen vorspraken angenamen / Dat hefft my bracht neuen groten framen. De hefft mi plücket alse ein Gos Scholde em bestahn ein starue dros / De wile de ock nu marcket in sinem sinn / Dat ick schir ein pracher worden bin / Nu kümmet de leydige droch her Unde secht / gude Bartelmeus folget miner Lehr / Latet juwe sake in der güde verdragen. Ey so möt en jo de düwel plagen / Worüme sede he dat im anfange nicht / Do werede he mit hand unde mundt de böswicht / Sprack so grodt mit worden vel Jck hedde ein vörgewunnen spel / Ja he sede my tho louen unde truwen Jck dörfte my vor nichtes laten gruwen / Jck scholde my in neuem wege laten in / He wolde my wol gudt darför sin / Ja wor för? dat ick ein pracher werde noch. He hefft ick geholden de lose droch / Dat will ick seggen unde ya ock wahr He kostet my woll fefftich gülden bahr / Jck fandt lest stande einen schimmelpot Den hadde min vörfadr langewile behodt Dar weren inne so rechte olde knaggen De hefft my all verterdt dat leydige rechten unde plagn / Auerst doruan mot ick stille schwigen Jck werde süß all de süke krigen / Wen sölkes mine Taleke thoweten krege / Alle min dage hedde ick mith er keinen dege. Wummen goldke / wat scholde se sick maken krus / Se hissede my wol mit den hunden uth dem hus / Nu / ydt ys all bort / und hebbe noch nicht O ick arme kerl dat weinichste uthgericht Ad Marisschalcum Hört doch gy gödige Man wat düncket yw woll Wo ick dith maken edder anschlan schal. Jck mercke doch wol dat dar ys kein truwe mehr in der weldt De kricht wol recht / de dar hefft vel Gelt Marschal. Wenn deine sache jetzt wer mein Wolt ich sie lassn verfassen fein Jn schrifft und Könglich Maiestat Demütig bittn umb schütz und Radt / Was gilts wirst kriegen ein gut bescheid Bawr. Jck will yw folgen up myn eid Denn by der schmede dat ys gewiß Am besten tho beschlande ys. Min vörsprake de leydige droch deith my doch nen gudt mehr Jck wolde em ock nu node anbeden de ehr Ja qweme ydt ein mahl van wonschichte Dat yck en krege in usem dörp tho sichte / Jck wolde em mit dem vedderwische so affkeren / Das he scholde Gades begeren. O dat ick nu men ein schriuer hedde. Marschal. Sich dort aus jennen grosen haus Kuket einer zum fenster aus. Bawr ad Scribam. Guden dach gy güdige Mann Wold mi doch nicht veröuel han Dat ick yuw auerlopen do Mi düncket an yuwem gelate also. Dat gy / mit verlöue / ein schriuer sin. Scriba Ja liebs menlein ich einer bin / Was ist dein bitt unde begehr? Bawr Jck arme kerl habbe groth beschwer Van minem vaddern de wil my verdryuen Unde up dem höffte nicht laten blyuen Unde drowet my ser mit dem Rechte / Ungeacht dat ick sin Moder hebbe tho echte. Tho dem hefft my unse Juncker ahne schult Upt liff geworpen eine unhuld Und wil mi setten hen under eine luken Dar ydt nich plach altho woll tho rüken / Wenn gy gödige mann in disser saken Mi wolden ein kobbelcatzke macken An unsen gnedigen Köning und erlangen Dat my de Juncker lete ungefangen / Unde dat min vadder na sinem gelöffte Mi lete blyuen up dem höffte / So wolde ick yuwer wedder gedencken Unde yuw so einen hübschen hauen schencken. Scriba Ja ich will dir es richten aus Kum übermorgen widr in mein haus Da solstu kriegen gutn bericht. Vergiß auch ja des hanen nicht. (2. Akt, 2. Szene) Hoffteuffel. All lust und freud hab ich daran Wend spiel so thut von stedten gahn / Sagt ich es nicht / ich wolt noch heut Anfuren thun etzliche Leut / Die den Köning solten bethörn Und in vom guten weg abfürn / Ich wil noch recht treffen die gest Die mir sein zu widern gewest. Ich wil sie recht herüber rückn Und brauchen meine Meisterstückn Und auch nicht eh zur ruh mich gebn Ich bring sie denn beyd umb ir lebn / Odr mach das sie mit schimpff und schand Vertrieben werden aus dem Land / Dafür mir Beltzebub zu lohn / Gewiß wird schenckn ein gülden Kron / Bawr. Süh dar / wat ys my dat vor ein seltzam thier / Staen my doch die haer tho barge schyr / Wo selsame vöte hefft dann er Gelyck off he wor vagel Gryp wer / Wenn he my im Wolde beyegnede allein / So dechte ick idt moste de Düuel syn / Dann ick habbe en in gelyker gestalt In unser Kercken sehn affgemalt: Süh süh wor blifft de droch / Vorswindt he my vor den ogen doch / He ys wech / he mach syner wege gahn / Ick wil dat hylge crütze vor my slahn. Ick habbe nu dre dage herum gahn slyken / Und nich doruen in use darp kyken / Wente alse ick van einem guden fründe vorstah / Schal my use Juncker seer trachten nah / He hefft sick vorflöket und vorswaren / Wo he my kricht so will he so mit my faren / Ick schal to veel yaren und dagen Darauer karmen und klagen / Ick tröste my des ick stah noch up fryen benen / Wenn he so wil / mach em de Düuel tho haue denen. Nu wil ick hen gahn und förderen ein besched / Vam Schryuer / de my hüd wedderkamen het / Und wo die Koppelkatzke ys vorgeues / So steistu rechte öuel Barthelmeues / Und most idt verlopen uth dem land / Went glyck wer noch so grote schand. Ad gallum gallinaceum. Wo isset Henninck du arme droch Wo sistu so stille leuest och noch. Set doch welck ein fin kompahn / Men fint im Lande kum sölck einen hahn / Schade isset dat men en schal döden Ick meynde yck wolde dar mehr van thoföden / Den idt was so ein freydigen deff / He hadde de henneken so mechtigen leff / Wen he wor ein körneken vant In dem meß edder in dem sant So stund de arme deff unde tuckede Bet he se al tho hope kluckede / Uth dem liue he idt enbohr Unde lede idt sinen henneken vor / O henningk wo haddestu so einen hübschen stemmen / Schade ys idt dat men dy schal verschlemmen / Ja dat darff ick nu wol seggen / Use höner werden nu nicht so wol leggen / Denn disse hane was stedes de beste / Ey wo konde he se jagen to neste / Dartho was he so wyhs van koppe / Alle stunde hadde he in synem kroppe / He was my wisser als in der stadt Ein Seyeewarck / is dat nicht wat? Des morgendes wen de dach anbrack / So sat jenne verreder under dem dack / He kurrede / he kreyede unde reep / Dat jo use volck nicht tho lange schlep. Ick wet dat Wöbbeken miner maget Dit also mechtich wol behaget / Den se is eine rechte vule hudt / Und wil des morgendes nicht gerne herut / Nu wert se doch nicht er upstahn Bet se süt de helle sünne upgahn. O Henninck / henninck du arme verreder / Dat dick nu schal de schriver Verteren / is jo jümmer schade/ My enbarmet idt so ser ick weyne drade. Nu nu wat schal me dartho dohn / Ey du werest lykewol so ein fin han / Mochte ick dy beholden bym leuen / Ick wolde gerne 2. gude schillinge fördi uthgeuen. Dennoch wolde ick dy gerne wechgeuen ahne verdret / Wen ich men krigen möchte gud beschet / Ad scribam. Guden dach gy gödige Mann. Scriba Du wolst gerne deinen brieff han / Er ist alhie hab deiner dacht / Hastu mir auch den Hanen gbracht? Bawr ad gallum O leue henninck nu gude nacht. Ick krige dy nu nicht wedder tho sehn Se werden dy balde de fetfeddern then / Ja hir habbe gy en / latet en juw nicht verschmaden. Scriba. Er ist fein fett ich wil in lassen braten. Da jung thu ihn ins haus hintragn. Bawr. O Henninck nu werd idt dy kosten den kragn. Ad scribam Wo isset den / krige ick ock antwort Up myne koppelkatzke alsouort? Scriba. Ja / da hastu ein gut bescheid / Mein Herr der nimt dich in sein gleid / Der Junckr sol dir sagn kein bös wort / Biß das die sache ist verhörd: Bring im den brieff / und so er dir Was böses sagt / kom widr zu mir / So wil ichs dem köng zeigen an / Derselbe dich wol schützen kan. Bawr. Hebbet danck gy güdige man. Use köninck vorwar ys rechte from. O he weet vaken nicht dat weinigste drum Wo men mit uns armen Buren ummegeit / Und wo idt up den darpen thosteit / Idt werdt em ock nicht getöget an / Darum ick em keine schuldt geuen kan. He hefft my hyr mitrechte wol getröst / Und uth groten sorgen erlöst / Godt geue em yo dat ewige lohn Hernamals in des Hemmels thron. [...] (4. Akt, 1. Szene)",
-    "original_link": "http://diglib.hab.de/drucke/403-6-quod/start.htm",
-    "abschnitt_segmentiert": [
-      {
-        "typ": "kontext",
-        "text": "[...]"
-      },
-      {
-        "typ": "figurtext",
-        "text": "Bawr.\nGOden dach / gy framen Lüde althomal / De gy hier syn in dissem hübschen sahl / Gy mögen wol selsen dencken wat ick will Hir söcken / in nuwem frowden spill: Weute sölcken Heren alse gy sint / plecht ein bwr Tho wesen ein vorachtet Creatur / De nicht köne tellen vieff effte veer / Verstha sick alleine up gud Beer: Awerst lewen Heren ydt schadet nicht Dat gy uns so alwern holden unde schlicht / Jdt sind dennoch ein del in unsen dörp / dat ys wis De ock wol weten wor en de kop apen is Und sint nicht althomale unwise doren / Se hebben den schalck ock so wol alse gy hinder den oren / Dar moth ick juw doch ein exentempel van seggen / Wen gy ydt my nicht wolden voröuel uthleggen / Unde nicht lathen dat ick so plump do schnacken: Jck habbe men gelerd plögen und haken / Wy können althomal na der kunst nich reden Alse de / so in den groten Pelsen herin treden. Nu dem sy wie em will De will thohören de sy still. Ydt ys nu wol ein weken edder achte / Dat unse naber unde ick thor kulen brachte Unsen olden schulten / Hans vilthodt / De hadde ein stn höffte ful veh unde goedt: De leth na sine Fruwe unde eine dochter junck / Jck dachte du möst don ein sprunck Na dem höffte / wenn ydt dy gelünge Dat du kregest de olde effte junge. Jdt geschach dat ick er halp ein weinich thünen / Vör erem Acker hinder der schünen / Do fragede ick se / offt se so wolde bliuen / Jdt wörde er lanck werden de tydt thovordriuen / Do warp se sick so wide unde sprack / Nehn / ydt kümmet kein ander under min dack / Dat heb yck mynen saligen Manne thosecht up truwe / Jck sede / ey gy sindt noch eine fine yunge Fruwe / Jdt were yümmer schade wenn gy scholden So allene ahne trost verolden. Nu ydt bleff darby / wente öuer achte dagen / Do dacht yck / Bartelmeus du möst noch eins wogn Unde wedder by der schultschen haken anschlan / Offt dy de handel mochte angahn. Wente ein starck Bohm velt nicht van erst enhouwe / Jdt ys Iyckewol ein fin höffte unde hübsche Fruwe / Jck gyuck tho er / unde sprack mit er etlicke söte wörd Wat schal ick yuw seggen ick krech also fordt Dat yawort wech / deß was ick fro Doch moste ick er wedder seggen tho / Dat ick wolde frahm sin / unde ock erer dochter geuen So vel das se darvan konde ehrlicken leuen. Das sede ick er tho / unde bat dat se geue Ehre dochter minem vadderen / also bleue Dat gudt by den fründen / dat hagede er so / Up myne bede / sede se em tho. Min vadder danckede my des mit hogem flidt / Unde sede dat he to keiner tydt / Solcke trüwe de ick em hedde gedan Wolde vergeten edder uth der acht schlan: Sünder wolde ydt my dencken tho yeder stunde / Auerst wo he ydt gemeint des kame ick nu tho funde. Wete he hefft ydt mit unsem Junckeren fin dörch gedreuen / Unde will mi uth den höffte wedder utheuen Secht he sy in der Stadt by einem Docker gewesen Und hebbe darna laten schriffte lesen / Darin sta uthdrücklich geschreuen Wenn ein höffte na des Vaders dode leddich bleuen / So schölen darup ahn alle verhinder Wedder fryen de rechten Erven unde kinder / Unde vör der Moder hebben den vörtoch Seht yß mi dat nicht ein truwlos droch Auer dat werderfor mi noch ein untruw stücks Jck arme kerl schal wor hebben nein gelücke: Jck hebbet woll verstan wordt ein sit / Hadde ick des tüges wat / dat dar ys rnt unde wit / Dat men so plecht under dem dumen dörch toscheten / So scholde ydt minen vaddern wol drade vordretn. Jck hadde jo in untidt ock einen vorspraken angenamen / Dat hefft my bracht neuen groten framen. De hefft mi plücket alse ein Gos Scholde em bestahn ein starue dros / De wile de ock nu marcket in sinem sinn / Dat ick schir ein pracher worden bin / Nu kümmet de leydige droch her Unde secht / gude Bartelmeus folget miner Lehr / Latet juwe sake in der güde verdragen. Ey so möt en jo de düwel plagen / Worüme sede he dat im anfange nicht / Do werede he mit hand unde mundt de böswicht / Sprack so grodt mit worden vel Jck hedde ein vörgewunnen spel / Ja he sede my tho louen unde truwen Jck dörfte my vor nichtes laten gruwen / Jck scholde my in neuem wege laten in / He wolde my wol gudt darför sin / Ja wor för? dat ick ein pracher werde noch. He hefft ick geholden de lose droch / Dat will ick seggen unde ya ock wahr He kostet my woll fefftich gülden bahr / Jck fandt lest stande einen schimmelpot Den hadde min vörfadr langewile behodt Dar weren inne so rechte olde knaggen De hefft my all verterdt dat leydige rechten unde plagn / Auerst doruan mot ick stille schwigen Jck werde süß all de süke krigen / Wen sölkes mine Taleke thoweten krege / Alle min dage hedde ick mith er keinen dege. Wummen goldke / wat scholde se sick maken krus / Se hissede my wol mit den hunden uth dem hus / Nu / ydt ys all bort / und hebbe noch nicht O ick arme kerl dat weinichste uthgericht\nAd Marisschalcum\nHört doch gy gödige Man wat düncket yw woll Wo ick dith maken edder anschlan schal. Jck mercke doch wol dat dar ys kein truwe mehr in der weldt De kricht wol recht / de dar hefft vel Gelt"
-      },
-      {
-        "typ": "kontext",
-        "text": "Marschal.\nWenn deine sache jetzt wer mein Wolt ich sie lassn verfassen fein Jn schrifft und Könglich Maiestat Demütig bittn umb schütz und Radt / Was gilts wirst kriegen ein gut bescheid"
-      },
-      {
-        "typ": "figurtext",
-        "text": "Bawr.\nJck will yw folgen up myn eid Denn by der schmede dat ys gewiß Am besten tho beschlande ys. Min vörsprake de leydige droch deith my doch nen gudt mehr Jck wolde em ock nu node anbeden de ehr Ja qweme ydt ein mahl van wonschichte Dat yck en krege in usem dörp tho sichte / Jck wolde em mit dem vedderwische so affkeren / Das he scholde Gades begeren. O dat ick nu men ein schriuer hedde."
-      },
-      {
-        "typ": "kontext",
-        "text": "Marschal.\nSich dort aus jennen grosen haus Kuket einer zum fenster aus."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Bawr ad Scribam.\nGuden dach gy güdige Mann Wold mi doch nicht veröuel han Dat ick yuw auerlopen do Mi düncket an yuwem gelate also. Dat gy / mit verlöue / ein schriuer sin."
-      },
-      {
-        "typ": "kontext",
-        "text": "Scriba\nJa liebs menlein ich einer bin / Was ist dein bitt unde begehr?"
-      },
-      {
-        "typ": "figurtext",
-        "text": "Bawr\nJck arme kerl habbe groth beschwer Van minem vaddern de wil my verdryuen Unde up dem höffte nicht laten blyuen Unde drowet my ser mit dem Rechte / Ungeacht dat ick sin Moder hebbe tho echte. Tho dem hefft my unse Juncker ahne schult Upt liff geworpen eine unhuld Und wil mi setten hen under eine luken Dar ydt nich plach altho woll tho rüken / Wenn gy gödige mann in disser saken Mi wolden ein kobbelcatzke macken An unsen gnedigen Köning und erlangen Dat my de Juncker lete ungefangen / Unde dat min vadder na sinem gelöffte Mi lete blyuen up dem höffte / So wolde ick yuwer wedder gedencken Unde yuw so einen hübschen hauen schencken."
-      },
-      {
-        "typ": "kontext",
-        "text": "Scriba\nJa ich will dir es richten aus Kum übermorgen widr in mein haus Da solstu kriegen gutn bericht. Vergiß auch ja des hanen nicht."
-      },
-      {
-        "typ": "figurtext",
-        "text": "(2. Akt, 2. Szene)\n"
-      },
-      
-      {
-        "typ": "kontext",
-        "text": "Hoffteuffel.\nAll lust und freud hab ich daran Wend spiel so thut von stedten gahn / Sagt ich es nicht / ich wolt noch heut Anfuren thun etzliche Leut / Die den Köning solten bethörn Und in vom guten weg abfürn / Ich wil noch recht treffen die gest Die mir sein zu widern gewest. Ich wil sie recht herüber rückn Und brauchen meine Meisterstückn Und auch nicht eh zur ruh mich gebn Ich bring sie denn beyd umb ir lebn / Odr mach das sie mit schimpff und schand Vertrieben werden aus dem Land / Dafür mir Beltzebub zu lohn / Gewiß wird schenckn ein gülden Kron /"
-      },
-      {
-        "typ": "figurtext",
-        "text": "Bawr.\nSüh dar / wat ys my dat vor ein seltzam thier / Staen my doch die haer tho barge schyr / Wo selsame vöte hefft dann er Gelyck off he wor vagel Gryp wer / Wenn he my im Wolde beyegnede allein / So dechte ick idt moste de Düuel syn / Dann ick habbe en in gelyker gestalt In unser Kercken sehn affgemalt: Süh süh wor blifft de droch / Vorswindt he my vor den ogen doch / He ys wech / he mach syner wege gahn / Ick wil dat hylge crütze vor my slahn. Ick habbe nu dre dage herum gahn slyken / Und nich doruen in use darp kyken / Wente alse ick van einem guden fründe vorstah / Schal my use Juncker seer trachten nah / He hefft sick vorflöket und vorswaren / Wo he my kricht so will he so mit my faren / Ick schal to veel yaren und dagen Darauer karmen und klagen / Ick tröste my des ick stah noch up fryen benen / Wenn he so wil / mach em de Düuel tho haue denen. Nu wil ick hen gahn und förderen ein besched / Vam Schryuer / de my hüd wedderkamen het / Und wo die Koppelkatzke ys vorgeues / So steistu rechte öuel Barthelmeues / Und most idt verlopen uth dem land / Went glyck wer noch so grote schand.\nAd gallum gallinaceum.\nWo isset Henninck du arme droch Wo sistu so stille leuest och noch. Set doch welck ein fin kompahn / Men fint im Lande kum sölck einen hahn / Schade isset dat men en schal döden Ick meynde yck wolde dar mehr van thoföden / Den idt was so ein freydigen deff / He hadde de henneken so mechtigen leff / Wen he wor ein körneken vant In dem meß edder in dem sant So stund de arme deff unde tuckede Bet he se al tho hope kluckede / Uth dem liue he idt enbohr Unde lede idt sinen henneken vor / O henningk wo haddestu so einen hübschen stemmen / Schade ys idt dat men dy schal verschlemmen / Ja dat darff ick nu wol seggen / Use höner werden nu nicht so wol leggen / Denn disse hane was stedes de beste / Ey wo konde he se jagen to neste / Dartho was he so wyhs van koppe / Alle stunde hadde he in synem kroppe / He was my wisser als in der stadt Ein Seyeewarck / is dat nicht wat? Des morgendes wen de dach anbrack / So sat jenne verreder under dem dack / He kurrede / he kreyede unde reep / Dat jo use volck nicht tho lange schlep. Ick wet dat Wöbbeken miner maget Dit also mechtich wol behaget / Den se is eine rechte vule hudt / Und wil des morgendes nicht gerne herut / Nu wert se doch nicht er upstahn Bet se süt de helle sünne upgahn. O Henninck / henninck du arme verreder / Dat dick nu schal de schriver Verteren / is jo jümmer schade/ My enbarmet idt so ser ick weyne drade. Nu nu wat schal me dartho dohn / Ey du werest lykewol so ein fin han / Mochte ick dy beholden bym leuen / Ick wolde gerne 2. gude schillinge fördi uthgeuen. Dennoch wolde ick dy gerne wechgeuen ahne verdret / Wen ich men krigen möchte gud beschet /\nAd scribam.\nGuden dach gy gödige Mann."
-      },
-      {
-        "typ": "kontext",
-        "text": "Scriba\nDu wolst gerne deinen brieff han / Er ist alhie hab deiner dacht / Hastu mir auch den Hanen gbracht?"
-      },
-      {
-        "typ": "figurtext",
-        "text": "Bawr ad gallum\nO leue henninck nu gude nacht. Ick krige dy nu nicht wedder tho sehn Se werden dy balde de fetfeddern then / Ja hir habbe gy en / latet en juw nicht verschmaden."
-      },
-      {
-        "typ": "kontext",
-        "text": "Scriba.\nEr ist fein fett ich wil in lassen braten. Da jung thu ihn ins haus hintragn."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Bawr.\nO Henninck nu werd idt dy kosten den kragn.\nAd scribam\nWo isset den / krige ick ock antwort Up myne koppelkatzke alsouort?"
-      },
-      {
-        "typ": "kontext",
-        "text": "Scriba.\nJa / da hastu ein gut bescheid / Mein Herr der nimt dich in sein gleid / Der Junckr sol dir sagn kein bös wort / Biß das die sache ist verhörd: Bring im den brieff / und so er dir Was böses sagt / kom widr zu mir / So wil ichs dem köng zeigen an / Derselbe dich wol schützen kan."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Bawr.\nHebbet danck gy güdige man. Use köninck vorwar ys rechte from. O he weet vaken nicht dat weinigste drum Wo men mit uns armen Buren ummegeit / Und wo idt up den darpen thosteit / Idt werdt em ock nicht getöget an / Darum ick em keine schuldt geuen kan. He hefft my hyr mitrechte wol getröst / Und uth groten sorgen erlöst / Godt geue em yo dat ewige lohn Hernamals in des Hemmels thron."
-      },
-      {
-        "typ": "kontext",
-        "text": "[...]"
-      },
-      {
-        "typ": "figurtext",
-        "text": "(4. Akt, 1. Szene)"
-      }
-    ]
-  },
 
-  {
-    "id": "DionysiiSyracusani02",
-    "theaterstück": {
-      "titel": "Ein newe Comoedia, von Dionysii Syracusani, und Damonis und Pythiae Brüderschafft",
-      "zeit": "1578",
-      "druckort": "Rostock",
-      "auffuehrungshinweise": ""
-    },
-    "autor": {
-      "name": "Franz Omcke",
-      "herkunft": "Nd.",
-      "orte": "Güstrow",
-      "lebensdaten": "vor 1566 – 1591"
-    },
-    "figur": {
-      "name": "Chim (Jochim)",
-      "rolle": "Bauer",
-      "beschreibung": "redet mit Barth und Hospes (ndt.)"
-    },
-    "dialekt": {
-      "adaption": "Autoadaption",
-      "dialekt_grossraum": "Nd."
-    },
-    "geokoordinaten": {
-      "herkunft_autor": {
-        "lat": 53.793889,
-        "lng": 12.176389
-      },
-      "herkunft_figur": { 
-        "lat": null,
-        "lng": null
-      }
-    },
-    "abschnitt": "[...] Chim. Süh Bartelmeues wo vörd dy de süke hyr her? Use Juncker hefft dy gedrouwet seer Wo he dy wil rechtschapen slahn / Du möchtest wol beth uth dem roke gahn. Barthelmeus. Alde pocken Chim / wenn du wüstest wo mine saken nu stahn? Süstu dat ock wol wat ick hyr hebbe steken? Chim. Ja dar werstu dy nicht mit uth dem Torne breken. Barthelmeus. Nicht? Ja leue Chim na unses Junckern trotz und keck Frage ick nu nicht einen duvendreck. Sü dat / dat hefft grote krafft. Chim. Dat werdt dy veel geköstet habben / ehr du idt so wyth hefft gebracht? Barth. Nein truwen nicht einen penninck / Men alleine mynen ruhvötigen henninck. Chim. O dat ys yümmer schade. Barth: Ja he ys nu all ein brade. Ick hadde en sülvest mechtig leff / Auerst idt schadet nicht he hefft my düssen breff Tho wege bracht / de ys my veel leuer / Ick hadde süs de sucht gekregen und dat feber. Ick bin nu frölick auer alle maten / Kum Chim mit my hen in jenne straten Tho mynem werde / ick wil uns laten halen Ein potken knysenack thor kolden schalen. Chim. O neen Barthelmeues ick habbe men einen witten / Dar kan ick nicht altospade vor sitten. Barthel: Ey Chim wes men ane sorgen Use Wert schal uns wol wat borgen / Up usem felde werd de garste wol dyen So wille my em betalen thom nyen. Ick moth my hüden noch rechte vul supen Scholde ick ock up henden und vöten tho hus krupen. Chim. Ick mach mit dy hen schleusen. Darna wille wy tho hope na hus deusen / Dar schal uns den use Jütte Raken ein hübsche melgrütte. (4. Akt, 1. Szene) Barthelmeus ad hospitem. Her werdt / her werdt / syd unvorfert / Kamet her weset mit uns guder dingen / Ick wil yuw dich halue pötken knisenack bringen. Hospes. Maket yw men frölich und werdet ock nicht unnütte. Barthel. Wy willen yw nicht treden in die grütte. Hospes. Ja ich kenne dy wol wat du plechst tho syn vor ein kumpen. Barth. Ja up der nesen lat ick my nicht gerue trumpen / Ick late my nicht balde yagen tho bussche / Ick hale wol mit einem ein haerhussche. Hospes. Du kykest tho male vaken in de kanne / Ha get dy dat beer nicht / edder hefft nicht gedocht de panne Darin idt gebruwet / edder kumstu borch den smack. Barth. Herr werd latet men na yuwen spotzschen schnack / Sed to ys dat recht getappet / Is dar doch ein gantz pegel wechgeschnappet. Hospes. Watt? heffstu daran nich genögen / Scholde ick noch laten ein sonderliken pott wögen / Scholdestu my myne mate wraken / Ich bin dar myn dage nicht um angespraken. Wen du nicht anders wilt / so ys dar ein loch / Dar drull dick hennuth du unnütte droch. Barth. Wat droch? dat lugstu alse ein bösewicht / Ick habbe noch nemand betrogen nicht Wat du deist dat sud men hir woll Is ydt doch kume ein halff pott full. Hospes. Ja truwen du rechte drunckenpolt Men scholde ydt dy affftriken mit dem strick holte / Mitt beer kann men dy nümmer stencken Dartho den pott nicht fullgenoch schenckn Unnd wat du thor stat deist fören effte dregen Dat mot mend mit gelt upwegen / Men scholde dy kauent tho supen geuen. Barth. Ja wol wet wat biswilen im keller geschüt / Id ys noch kume veerteindage hüt Do halde ick van dy 2 tonnen gildebeer Dat laueden use Naber nicht altho sehr / Dann wenn men 2. stöueken dar van hadde tho sick genamen So konde men nicht eins darvan tho köddern kamen / Ja idt was so rechte dünne yüche / Und makede einen so dicke de brüche / Unnd dede so einem im liue rummelen Alse sloge einer darin up der trummelen. Darauer klageden use Naber althomahl / Dat idt were so rechte schael / Und so selsam wunderlich beer / Als off kauent dartho ingestegen wer. Hospes Ey dat schaltu Ehrlose Buer Legen alse ein schelm und luer. Barth. Wo nu? holdt wat an dick her werdt / Vor dy bin ick noch unuorfert / Ich bin dar wol ehr mit gewesen / Dan dy late ick my nicht trumpen up der nesen Chim ad Barth. Ick löue du bist rasende und dull / Stedes wenn du bist noch kume halff vull / So wultu fort snarcken und flöken / Werpen / slan / howen und poken / So dy doch offt dat vell wert gerücket Ick mene no use juncker hefft dy geplücket / Mitt dubbelden bröken / desgelyken der vaget Mitt bybröken / so dy dat behaget / Und heffst lust und gefallen daran So magstu dy und alle dyn gudt vorslan. Barth. Ja naber wenn ick dat nicht schuwede / Vor em my nicht ein miten gruwede / Und wo he mit einem finger anrörde my / Ick wolde em wedder geuen ein solcken staby / Und mit düssen sös schillingen leren Wo he scholde den Buren vereren. Ad hospitem. Hörstu her werdt ick bede dy trotz hestu lust / So wil ick itzundes alhie ummesust De Streuekatte mit dy theen up düssem euen / Da darf ick dem iunckern keinen bröke vor geuen. Hospes. Ja ummerher leuer kumpan Wy willen tho hope hen deusen gahn. Ick wil einen ganck mit dy wagen / Scholde idt my ock weh don in dem kragen. Nu wollan ick legge my hyr nedder / Vorgit myner nicht ick hale dy wedder. Düsse dwele wille wy daran wagen / Und slepen uns wol by unserm kragen / Wy willen uns so redlich theen Dat wy morgen könen now uth den ogen sehn. Chim. O Bartelmeues lat by lyue nicht snappen / Hold yo in dem munde faste den tappen He thüt dy sonst wech vor alle de plage Dat magstu dy schemen alle dyn dage. Ad hospitem, O her werdt latet aff um myner bede / Gy wörgen my den kerl upperstede. Hospes. Dat will ick doen um dinent willen So vern he sick will laten stillen. Barth. O myn nacke / O myn nacke. Wo whe deit my de kennebacke. Hospes. Ja hebbe ick dy nu ein weinich verferdt / Dat het trotze noch mit dem wert / Sü wo se nu dar staen Alse thwe bedröpede haen. Chim. Ja wy moten mit dem spotte nu lyden / Wy dencken des wedder tho anderen tyden. Hospes. Drowestu ock noch / so mot ick dy ock her halen / So möge gy de schuldt thohope bethalen. [...] (5. Akt, 2. Szene)",
-    "original_link": "http://diglib.hab.de/drucke/403-6-quod/start.htm",
-    "abschnitt_segmentiert": [
-      {
-        "typ": "kontext",
-        "text": "[...]"
-      },
-      {
-        "typ": "figurtext",
-        "text": "Chim.\nSüh Bartelmeues wo vörd dy de süke hyr her? Use Juncker hefft dy gedrouwet seer Wo he dy wil rechtschapen slahn / Du möchtest wol beth uth dem roke gahn."
-      },
-      {
-        "typ": "kontext",
-        "text": "Barthelmeus.\nAlde pocken Chim / wenn du wüstest wo mine saken nu stahn? Süstu dat ock wol wat ick hyr hebbe steken?"
-      },
-      {
-        "typ": "figurtext",
-        "text": "Chim.\nJa dar werstu dy nicht mit uth dem Torne breken."
-      },
-      {
-        "typ": "kontext",
-        "text": "Barthelmeus.\nNicht? Ja leue Chim na unses Junckern trotz und keck Frage ick nu nicht einen duvendreck. Sü dat / dat hefft grote krafft."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Chim.\nDat werdt dy veel geköstet habben / ehr du idt so wyth hefft gebracht?"
-      },
-      {
-        "typ": "kontext",
-        "text": "Barth.\nNein truwen nicht einen penninck / Men alleine mynen ruhvötigen henninck."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Chim.\nO dat ys yümmer schade."
-      },
-      {
-        "typ": "kontext",
-        "text": "Barth:\nJa he ys nu all ein brade. Ick hadde en sülvest mechtig leff / Auerst idt schadet nicht he hefft my düssen breff Tho wege bracht / de ys my veel leuer / Ick hadde süs de sucht gekregen und dat feber. Ick bin nu frölick auer alle maten / Kum Chim mit my hen in jenne straten Tho mynem werde / ick wil uns laten halen Ein potken knysenack thor kolden schalen."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Chim.\nO neen Barthelmeues ick habbe men einen witten / Dar kan ick nicht altospade vor sitten."
-      },
-      {
-        "typ": "kontext",
-        "text": "Barthel:\nEy Chim wes men ane sorgen Use Wert schal uns wol wat borgen / Up usem felde werd de garste wol dyen So wille my em betalen thom nyen. Ick moth my hüden noch rechte vul supen Scholde ick ock up henden und vöten tho hus krupen."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Chim.\nIck mach mit dy hen schleusen. Darna wille wy tho hope na hus deusen / Dar schal uns den use Jütte Raken ein hübsche melgrütte.\n(4. Akt, 1. Szene)\n"
+    {
+        "id": "DionysiiSyracusani01",
+        "theaterstück": {
+          "titel": "Ein newe Comoedia, von Dionysii Syracusani, und Damonis und Pythiae Brüderschafft",
+          "zeit": "1578",
+          "druckort": "Rostock",
+          "auffuehrungshinweise": ""
+        },
+        "autor": {
+          "name": "Franz Omcke",
+          "herkunft": "Nd.",
+          "orte": "Güstrow",
+          "lebensdaten": "vor 1566 – 1591"
+        },
+        "figur": {
+          "name": "Bauer",
+          "rolle": "Bauer",
+          "beschreibung": "niederdeutscher Bauer"
+        },
+        "dialekt": {
+          "adaption": "Autoadaption",
+          "dialekt_grossraum": "Nd."
+        },
+        "geokoordinaten": {
+          "herkunft_autor": {
+            "lat": 53.793889,
+            "lng": 12.176389
+          },
+          "herkunft_figur": { 
+            "lat": null,
+            "lng": null
+          }
+        },
+        "abschnitt": "[tbd]",
+        "original_link": "http://diglib.hab.de/drucke/403-6-quod/start.htm",
+        "abschnitt_segmentiert": [
+          {
+            "typ": "figurtext",
+            "text": "<b>ACTVS II. SCENA II.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "[...]<br><i>Bawr. Kammer Juncker.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "BAWR. GOden dach / gy framen Lüde althomal / De gy hier syn in dissem hübschen sahl / Gy mögen wol selsen dencken wat ick will Hir söcken / in nuwem frowden spill: Weute sölcken Heren alse gy sint / plecht ein bwr Tho wesen ein vorachtet Creatur / De nicht köne tellen vieff effte veer / Verstha sick alleine up gud Beer: Awerst lewen Heren ydt schadet nicht Dat gy uns so alwern holden unde schlicht / Jdt sind dennoch ein del in unsen dörp / dat ys wis De ock wol weten wor en de kop apen is Und sint nicht althomale unwise doren / Se hebben den schalck ock so wol alse gy hinder den oren / Dar moth ick juw doch ein exentempel van seggen / Wen gy ydt my nicht wolden voröuel uthleggen / Unde nicht lathen dat ick so plump do schnacken: Jck habbe men gelerd plögen und haken / Wy können althomal na der kunst nich reden Alse de / so in den groten Pelsen herin treden. Nu dem sy wie em will De will thohören de sy still. Ydt ys nu wol ein weken edder achte / Dat unse naber unde ick thor kulen brachte Unsen olden schulten / Hans vilthodt / De hadde ein stn höffte ful veh unde goedt: De leth na sine Fruwe unde eine dochter junck / Jck dachte du möst don ein sprunck Na dem höffte / wenn ydt dy gelünge Dat du kregest de olde effte junge. Jdt geschach dat ick er halp ein weinich thünen / Vör erem Acker hinder der schünen / Do fragede ick se / offt se so wolde bliuen / Jdt wörde er lanck werden de tydt thovordriuen / Do warp se sick so wide unde sprack / Nehn / ydt kümmet kein ander under min dack / Dat heb yck mynen saligen Manne thosecht up truwe / Jck sede / ey gy sindt noch eine fine yunge Fruwe / Jdt were yümmer schade wenn gy scholden So allene ahne trost verolden. Nu ydt bleff darby / wente öuer achte dagen / Do dacht yck / Bartelmeus du möst noch eins wogn Unde wedder by der schultschen haken anschlan / Offt dy de handel mochte angahn. Wente ein starck Bohm velt nicht van erst enhouwe / Jdt ys Iyckewol ein fin höffte unde hübsche Fruwe / Jck gyuck tho er / unde sprack mit er etlicke söte wörd Wat schal ick yuw seggen ick krech also fordt Dat yawort wech / deß was ick fro Doch moste ick er wedder seggen tho / Dat ick wolde frahm sin / unde ock erer dochter geuen So vel das se darvan konde ehrlicken leuen. Das sede ick er tho / unde bat dat se geue Ehre dochter minem vadderen / also bleue Dat gudt by den fründen / dat hagede er so / Up myne bede / sede se em tho. Min vadder danckede my des mit hogem flidt / Unde sede dat he to keiner tydt / Solcke trüwe de ick em hedde gedan Wolde vergeten edder uth der acht schlan: Sünder wolde ydt my dencken tho yeder stunde / Auerst wo he ydt gemeint des kame ick nu tho funde. Wete he hefft ydt mit unsem Junckeren fin dörch gedreuen / Unde will mi uth den höffte wedder utheuen Secht he sy in der Stadt by einem Docker gewesen Und hebbe darna laten schriffte lesen / Darin sta uthdrücklich geschreuen Wenn ein höffte na des Vaders dode leddich bleuen / So schölen darup ahn alle verhinder Wedder fryen de rechten Erven unde kinder / Unde vör der Moder hebben den vörtoch Seht yß mi dat nicht ein truwlos droch Auer dat werderfor mi noch ein untruw stücks Jck arme kerl schal wor hebben nein gelücke: Jck hebbet woll verstan wordt ein sit / Hadde ick des tüges wat / dat dar ys rnt unde wit / Dat men so plecht under dem dumen dörch toscheten / So scholde ydt minen vaddern wol drade vordretn. Jck hadde jo in untidt ock einen vorspraken angenamen / Dat hefft my bracht neuen groten framen. De hefft mi plücket alse ein Gos Scholde em bestahn ein starue dros / De wile de ock nu marcket in sinem sinn / Dat ick schir ein pracher worden bin / Nu kümmet de leydige droch her Unde secht / gude Bartelmeus folget miner Lehr / Latet juwe sake in der güde verdragen. Ey so möt en jo de düwel plagen / Worüme sede he dat im anfange nicht / Do werede he mit hand unde mundt de böswicht / Sprack so grodt mit worden vel Jck hedde ein vörgewunnen spel / Ja he sede my tho louen unde truwen Jck dörfte my vor nichtes laten gruwen / Jck scholde my in neuem wege laten in / He wolde my wol gudt darför sin / Ja wor för? dat ick ein pracher werde noch. He hefft ick geholden de lose droch / Dat will ick seggen unde ya ock wahr He kostet my woll fefftich gülden bahr / Jck fandt lest stande einen schimmelpot Den hadde min vörfadr langewile behodt Dar weren inne so rechte olde knaggen De hefft my all verterdt dat leydige rechten unde plagn / Auerst doruan mot ick stille schwigen Jck werde süß all de süke krigen / Wen sölkes mine Taleke thoweten krege / Alle min dage hedde ick mith er keinen dege. Wummen goldke / wat scholde se sick maken krus / Se hissede my wol mit den hunden uth dem hus / Nu / ydt ys all bort / und hebbe noch nicht O ick arme kerl dat weinichste uthgericht <i>Ad Marisschalcum</i> Hört doch gy gödige Man wat düncket yw woll Wo ick dith maken edder anschlan schal. Jck mercke doch wol dat dar ys kein truwe mehr in der weldt De kricht wol recht / de dar hefft vel Gelt"
+          },
+          {
+            "typ": "kontext",
+            "text": "MARSCHAL. Wenn deine sache jetzt wer mein Wolt ich sie lassn verfassen fein Jn schrifft und Könglich Maiestat Demütig bittn umb schütz und Radt / Was gilts wirst kriegen ein gut bescheid"
+          },
+          {
+            "typ": "figurtext",
+            "text": "BAWR. Jck will yw folgen up myn eid Denn by der schmede dat ys gewiß Am besten tho beschlande ys. Min vörsprake de leydige droch deith my doch nen gudt mehr Jck wolde em ock nu node anbeden de ehr Ja qweme ydt ein mahl van wonschichte Dat yck en krege in usem dörp tho sichte / Jck wolde em mit dem vedderwische so affkeren / Das he scholde Gades begeren. O dat ick nu men ein schriuer hedde."
+          },
+          {
+            "typ": "kontext",
+            "text": "MARSCHAL. Sich dort aus jennen grosen haus Kuket einer zum fenster aus."
+          },
+          {
+            "typ": "figurtext",
+            "text": "BAWR <i>ad Scribam.</i> Guden dach gy güdige Mann Wold mi doch nicht veröuel han Dat ick yuw auerlopen do Mi düncket an yuwem gelate also. Dat gy / mit verlöue / ein schriuer sin."
+          },
+          {
+            "typ": "kontext",
+            "text": "SCRIBA. Ja liebs menlein ich einer bin / Was ist dein bitt unde begehr?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "BAWR. Jck arme kerl habbe groth beschwer Van minem vaddern de wil my verdryuen Unde up dem höffte nicht laten blyuen Unde drowet my ser mit dem Rechte / Ungeacht dat ick sin Moder hebbe tho echte. Tho dem hefft my unse Juncker ahne schult Upt liff geworpen eine unhuld Und wil mi setten hen under eine luken Dar ydt nich plach altho woll tho rüken / Wenn gy gödige mann in disser saken Mi wolden ein kobbelcatzke macken An unsen gnedigen Köning und erlangen Dat my de Juncker lete ungefangen / Unde dat min vadder na sinem gelöffte Mi lete blyuen up dem höffte / So wolde ick yuwer wedder gedencken Unde yuw so einen hübschen hauen schencken."
+          },
+          {
+            "typ": "kontext",
+            "text": "SCRIBA. Ja ich will dir es richten aus Kum übermorgen widr in mein haus Da solstu kriegen gutn bericht. Vergiß auch ja des hanen nicht."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(2. Akt, 2. Szene)</b><br><br>"
+          },
+          
+          {
+            "typ": "figurtext",
+            "text": "<b>ACTVS IIII. SCENA I.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "HOFFTEUFFEL. All lust und freud hab ich daran Wend spiel so thut von stedten gahn / Sagt ich es nicht / ich wolt noch heut Anfuren thun etzliche Leut / Die den Köning solten bethörn Und in vom guten weg abfürn / Ich wil noch recht treffen die gest Die mir sein zu widern gewest. Ich wil sie recht herüber rückn Und brauchen meine Meisterstückn Und auch nicht eh zur ruh mich gebn Ich bring sie denn beyd umb ir lebn / Odr mach das sie mit schimpff und schand Vertrieben werden aus dem Land / Dafür mir Beltzebub zu lohn / Gewiß wird schenckn ein gülden Kron /"
+          },
+          {
+            "typ": "figurtext",
+            "text": "BAWR. Süh dar / wat ys my dat vor ein seltzam thier / Staen my doch die haer tho barge schyr / Wo selsame vöte hefft dann er Gelyck off he wor vagel Gryp wer / Wenn he my im Wolde beyegnede allein / So dechte ick idt moste de Düuel syn / Dann ick habbe en in gelyker gestalt In unser Kercken sehn affgemalt: Süh süh wor blifft de droch / Vorswindt he my vor den ogen doch / He ys wech / he mach syner wege gahn / Ick wil dat hylge crütze vor my slahn. Ick habbe nu dre dage herum gahn slyken / Und nich doruen in use darp kyken / Wente alse ick van einem guden fründe vorstah / Schal my use Juncker seer trachten nah / He hefft sick vorflöket und vorswaren / Wo he my kricht so will he so mit my faren / Ick schal to veel yaren und dagen Darauer karmen und klagen / Ick tröste my des ick stah noch up fryen benen / Wenn he so wil / mach em de Düuel tho haue denen. Nu wil ick hen gahn und förderen ein besched / Vam Schryuer / de my hüd wedderkamen het / Und wo die Koppelkatzke ys vorgeues / So steistu rechte öuel Barthelmeues / Und most idt verlopen uth dem land / Went glyck wer noch so grote schand. <i>Ad gallum gallinaceum.</i> Wo isset Henninck du arme droch Wo sistu so stille leuest och noch. Set doch welck ein fin kompahn / Men fint im Lande kum sölck einen hahn / Schade isset dat men en schal döden Ick meynde yck wolde dar mehr van thoföden / Den idt was so ein freydigen deff / He hadde de henneken so mechtigen leff / Wen he wor ein körneken vant In dem meß edder in dem sant So stund de arme deff unde tuckede Bet he se al tho hope kluckede / Uth dem liue he idt enbohr Unde lede idt sinen henneken vor / O henningk wo haddestu so einen hübschen stemmen / Schade ys idt dat men dy schal verschlemmen / Ja dat darff ick nu wol seggen / Use höner werden nu nicht so wol leggen / Denn disse hane was stedes de beste / Ey wo konde he se jagen to neste / Dartho was he so wyhs van koppe / Alle stunde hadde he in synem kroppe / He was my wisser als in der stadt Ein Seyeewarck / is dat nicht wat? Des morgendes wen de dach anbrack / So sat jenne verreder under dem dack / He kurrede / he kreyede unde reep / Dat jo use volck nicht tho lange schlep. Ick wet dat Wöbbeken miner maget Dit also mechtich wol behaget / Den se is eine rechte vule hudt / Und wil des morgendes nicht gerne herut / Nu wert se doch nicht er upstahn Bet se süt de helle sünne upgahn. O Henninck / henninck du arme verreder / Dat dick nu schal de schriver Verteren / is jo jümmer schade/ My enbarmet idt so ser ick weyne drade. Nu nu wat schal me dartho dohn / Ey du werest lykewol so ein fin han / Mochte ick dy beholden bym leuen / Ick wolde gerne 2. gude schillinge fördi uthgeuen. Dennoch wolde ick dy gerne wechgeuen ahne verdret / Wen ich men krigen möchte gud beschet / <i>Ad scribam.</i> Guden dach gy gödige Mann."
+          },
+          {
+            "typ": "kontext",
+            "text": "SCRIBA. Du wolst gerne deinen brieff han / Er ist alhie hab deiner dacht / Hastu mir auch den Hanen gbracht?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "BAWR <i>ad gallum.</i> O leue henninck nu gude nacht. Ick krige dy nu nicht wedder tho sehn Se werden dy balde de fetfeddern then / Ja hir habbe gy en / latet en juw nicht verschmaden."
+          },
+          {
+            "typ": "kontext",
+            "text": "SCRIBA. Er ist fein fett ich wil in lassen braten. Da jung thu ihn ins haus hintragn."
+          },
+          {
+            "typ": "figurtext",
+            "text": "BAWR. O Henninck nu werd idt dy kosten den kragn. <i>Ad scribam</i> Wo isset den / krige ick ock antwort Up myne koppelkatzke alsouort?"
+          },
+          {
+            "typ": "kontext",
+            "text": "SCRIBA. Ja / da hastu ein gut bescheid / Mein Herr der nimt dich in sein gleid / Der Junckr sol dir sagn kein bös wort / Biß das die sache ist verhörd: Bring im den brieff / und so er dir Was böses sagt / kom widr zu mir / So wil ichs dem köng zeigen an / Derselbe dich wol schützen kan."
+          },
+          {
+            "typ": "figurtext",
+            "text": "BAWR. Hebbet danck gy güdige man. Use köninck vorwar ys rechte from. O he weet vaken nicht dat weinigste drum Wo men mit uns armen Buren ummegeit / Und wo idt up den darpen thosteit / Idt werdt em ock nicht getöget an / Darum ick em keine schuldt geuen kan. He hefft my hyr mitrechte wol getröst / Und uth groten sorgen erlöst / Godt geue em yo dat ewige lohn Hernamals in des Hemmels thron."
+          },
+          {
+            "typ": "kontext",
+            "text": "[...]"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(4. Akt, 1. Szene)</b>"
+          }
+        ]
       },
 
       {
-        "typ": "kontext",
-        "text": "Barthelmeus ad hospitem.\nHer werdt / her werdt / syd unvorfert / Kamet her weset mit uns guder dingen / Ick wil yuw dich halue pötken knisenack bringen.\nHospes.\nMaket yw men frölich und werdet ock nicht unnütte.\nBarthel.\nWy willen yw nicht treden in die grütte.\nHospes.\nJa ich kenne dy wol wat du plechst tho syn vor ein kumpen.\nBarth.\nJa up der nesen lat ick my nicht gerue trumpen / Ick late my nicht balde yagen tho bussche / Ick hale wol mit einem ein haerhussche.\nHospes.\nDu kykest tho male vaken in de kanne / Ha get dy dat beer nicht / edder hefft nicht gedocht de panne Darin idt gebruwet / edder kumstu borch den smack.\nBarth.\nHerr werd latet men na yuwen spotzschen schnack / Sed to ys dat recht getappet / Is dar doch ein gantz pegel wechgeschnappet.\nHospes.\nWatt? heffstu daran nich genögen / Scholde ick noch laten ein sonderliken pott wögen / Scholdestu my myne mate wraken / Ich bin dar myn dage nicht um angespraken. Wen du nicht anders wilt / so ys dar ein loch / Dar drull dick hennuth du unnütte droch.\nBarth.\nWat droch? dat lugstu alse ein bösewicht / Ick habbe noch nemand betrogen nicht Wat du deist dat sud men hir woll Is ydt doch kume ein halff pott full.\nHospes.\nJa truwen du rechte drunckenpolt Men scholde ydt dy affftriken mit dem strick holte / Mitt beer kann men dy nümmer stencken Dartho den pott nicht fullgenoch schenckn Unnd wat du thor stat deist fören effte dregen Dat mot mend mit gelt upwegen / Men scholde dy kauent tho supen geuen.\nBarth.\nJa wol wet wat biswilen im keller geschüt / Id ys noch kume veerteindage hüt Do halde ick van dy 2 tonnen gildebeer Dat laueden use Naber nicht altho sehr / Dann wenn men 2. stöueken dar van hadde tho sick genamen So konde men nicht eins darvan tho köddern kamen / Ja idt was so rechte dünne yüche / Und makede einen so dicke de brüche / Unnd dede so einem im liue rummelen Alse sloge einer darin up der trummelen. Darauer klageden use Naber althomahl / Dat idt were so rechte schael / Und so selsam wunderlich beer / Als off kauent dartho ingestegen wer.\nHospes\nEy dat schaltu Ehrlose Buer Legen alse ein schelm und luer.\nBarth.\nWo nu? holdt wat an dick her werdt / Vor dy bin ick noch unuorfert / Ich bin dar wol ehr mit gewesen / Dan dy late ick my nicht trumpen up der nesen"
-      },
-      {
-        "typ": "figurtext",
-        "text": "Chim ad Barth.\nIck löue du bist rasende und dull / Stedes wenn du bist noch kume halff vull / So wultu fort snarcken und flöken / Werpen / slan / howen und poken / So dy doch offt dat vell wert gerücket Ick mene no use juncker hefft dy geplücket / Mitt dubbelden bröken / desgelyken der vaget Mitt bybröken / so dy dat behaget / Und heffst lust und gefallen daran So magstu dy und alle dyn gudt vorslan."
-      },
-      {
-        "typ": "kontext",
-        "text": "Barth.\nJa naber wenn ick dat nicht schuwede / Vor em my nicht ein miten gruwede / Und wo he mit einem finger anrörde my / Ick wolde em wedder geuen ein solcken staby / Und mit düssen sös schillingen leren Wo he scholde den Buren vereren.\nAd hospitem.\nHörstu her werdt ick bede dy trotz hestu lust / So wil ick itzundes alhie ummesust De Streuekatte mit dy theen up düssem euen / Da darf ick dem iunckern keinen bröke vor geuen.\nHospes.\nJa ummerher leuer kumpan Wy willen tho hope hen deusen gahn. Ick wil einen ganck mit dy wagen / Scholde idt my ock weh don in dem kragen. Nu wollan ick legge my hyr nedder / Vorgit myner nicht ick hale dy wedder. Düsse dwele wille wy daran wagen / Und slepen uns wol by unserm kragen / Wy willen uns so redlich theen Dat wy morgen könen now uth den ogen sehn."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Chim.\nO Bartelmeues lat by lyue nicht snappen / Hold yo in dem munde faste den tappen He thüt dy sonst wech vor alle de plage Dat magstu dy schemen alle dyn dage.\nAd hospitem,\nO her werdt latet aff um myner bede / Gy wörgen my den kerl upperstede."
-      },
-      {
-        "typ": "kontext",
-        "text": "Hospes.\nDat will ick doen um dinent willen So vern he sick will laten stillen.\nBarth.\nO myn nacke / O myn nacke. Wo whe deit my de kennebacke.\nHospes.\nJa hebbe ick dy nu ein weinich verferdt / Dat het trotze noch mit dem wert / Sü wo se nu dar staen Alse thwe bedröpede haen."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Chim.\nJa wy moten mit dem spotte nu lyden / Wy dencken des wedder tho anderen tyden."
-      },
-      {
-        "typ": "kontext",
-        "text": "Hospes.\nDrowestu ock noch / so mot ick dy ock her halen / So möge gy de schuldt thohope bethalen.\n[...]"
-      },
-      {
-        "typ": "figurtext",
-        "text": "(5. Akt, 2. Szene)"
-      }
-    ]
-  },
+        "id": "DionysiiSyracusani02",
+        "theaterstück": {
+          "titel": "Ein newe Comoedia, von Dionysii Syracusani, und Damonis und Pythiae Brüderschafft",
+          "zeit": "1578",
+          "druckort": "Rostock",
+          "auffuehrungshinweise": ""
+        },
+        "autor": {
+          "name": "Franz Omcke",
+          "herkunft": "Nd.",
+          "orte": "Güstrow",
+          "lebensdaten": "vor 1566 – 1591"
+        },
+        "figur": {
+          "name": "Chim (Jochim)",
+          "rolle": "Bauer",
+          "beschreibung": "niederdeutscher Bauer; redet mit Barth und Hospes (nd.)"
+        },
+        "dialekt": {
+          "adaption": "Autoadaption",
+          "dialekt_grossraum": "Nd."
+        },
+        "geokoordinaten": {
+          "herkunft_autor": {
+            "lat": 53.793889,
+            "lng": 12.176389
+          },
+          "herkunft_figur": { 
+            "lat": null,
+            "lng": null
+          }
+        },
+        "abschnitt": "[tbd]",
+        "original_link": "http://diglib.hab.de/drucke/403-6-quod/start.htm",
+        "abschnitt_segmentiert": [
+          {
+            "typ": "figurtext",
+            "text": "<b>ACTVS IIII. SCENA I.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "[...]"
+          },
+          {
+            "typ": "figurtext",
+            "text": "CHIM. Süh Bartelmeues wo vörd dy de süke hyr her? Use Juncker hefft dy gedrouwet seer Wo he dy wil rechtschapen slahn / Du möchtest wol beth uth dem roke gahn."
+          },
+          {
+            "typ": "kontext",
+            "text": "BARTHELMEUS. Alde pocken Chim / wenn du wüstest wo mine saken nu stahn? Süstu dat ock wol wat ick hyr hebbe steken?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "CHIM. Ja dar werstu dy nicht mit uth dem Torne breken."
+          },
+          {
+            "typ": "kontext",
+            "text": "BARTHELMEUS. Nicht? Ja leue Chim na unses Junckern trotz und keck Frage ick nu nicht einen duvendreck. Sü dat / dat hefft grote krafft."
+          },
+          {
+            "typ": "figurtext",
+            "text": "CHIM. Dat werdt dy veel geköstet habben / ehr du idt so wyth hefft gebracht?"
+          },
+          {
+            "typ": "kontext",
+            "text": "BARTH. Nein truwen nicht einen penninck / Men alleine mynen ruhvötigen henninck."
+          },
+          {
+            "typ": "figurtext",
+            "text": "CHIM. O dat ys yümmer schade."
+          },
+          {
+            "typ": "kontext",
+            "text": "BARTH. Ja he ys nu all ein brade. Ick hadde en sülvest mechtig leff / Auerst idt schadet nicht he hefft my düssen breff Tho wege bracht / de ys my veel leuer / Ick hadde süs de sucht gekregen und dat feber. Ick bin nu frölick auer alle maten / Kum Chim mit my hen in jenne straten Tho mynem werde / ick wil uns laten halen Ein potken knysenack thor kolden schalen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "CHIM. O neen Barthelmeues ick habbe men einen witten / Dar kan ick nicht altospade vor sitten."
+          },
+          {
+            "typ": "kontext",
+            "text": "BARTHEL. Ey Chim wes men ane sorgen Use Wert schal uns wol wat borgen / Up usem felde werd de garste wol dyen So wille my em betalen thom nyen. Ick moth my hüden noch rechte vul supen Scholde ick ock up henden und vöten tho hus krupen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "CHIM. Ick mach mit dy hen schleusen. Darna wille wy tho hope na hus deusen / Dar schal uns den use Jütte Raken ein hübsche melgrütte."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(4. Akt, 1. Szene)</b><br><br>"
+          },
 
-  {
-    "id": "DionysiiSyracusani03",
-    "theaterstück": {
-      "titel": "Ein newe Comoedia, von Dionysii Syracusani, und Damonis und Pythiae Brüderschafft",
-      "zeit": "1578",
-      "druckort": "Rostock",
-      "auffuehrungshinweise": ""
-    },
-    "autor": {
-      "name": "Franz Omcke",
-      "herkunft": "Nd.",
-      "orte": "Güstrow",
-      "lebensdaten": "vor 1566 – 1591"
-    },
-    "figur": {
-      "name": "Barth (Barthelmeus)",
-      "rolle": "Bauer",
-      "beschreibung": "redet mit Chim und Hospes (ndt.)"
-    },
-    "dialekt": {
-      "adaption": "Autoadaption",
-      "dialekt_grossraum": "Nd."
-    },
-    "geokoordinaten": {
-      "herkunft_autor": {
-        "lat": 53.793889,
-        "lng": 12.176389
-      },
-      "herkunft_figur": { 
-        "lat": null,
-        "lng": null
-      }
-    },
-    "abschnitt": "[...] Chim. Süh Bartelmeues wo vörd dy de süke hyr her? Use Juncker hefft dy gedrouwet seer Wo he dy wil rechtschapen slahn / Du möchtest wol beth uth dem roke gahn. Barthelmeus. Alde pocken Chim / wenn du wüstest wo mine saken nu stahn? Süstu dat ock wol wat ick hyr hebbe steken? Chim. Ja dar werstu dy nicht mit uth dem Torne breken. Barthelmeus. Nicht? Ja leue Chim na unses Junckern trotz und keck Frage ick nu nicht einen duvendreck. Sü dat / dat hefft grote krafft. Chim. Dat werdt dy veel geköstet habben / ehr du idt so wyth hefft gebracht? Barth. Nein truwen nicht einen penninck / Men alleine mynen ruhvötigen henninck. Chim. O dat ys yümmer schade. Barth: Ja he ys nu all ein brade. Ick hadde en sülvest mechtig leff / Auerst idt schadet nicht he hefft my düssen breff Tho wege bracht / de ys my veel leuer / Ick hadde süs de sucht gekregen und dat feber. Ick bin nu frölick auer alle maten / Kum Chim mit my hen in jenne straten Tho mynem werde / ick wil uns laten halen Ein potken knysenack thor kolden schalen. Chim. O neen Barthelmeues ick habbe men einen witten / Dar kan ick nicht altospade vor sitten. Barthel: Ey Chim wes men ane sorgen Use Wert schal uns wol wat borgen / Up usem felde werd de garste wol dyen So wille my em betalen thom nyen. Ick moth my hüden noch rechte vul supen Scholde ick ock up henden und vöten tho hus krupen. Chim. Ick mach mit dy hen schleusen. Darna wille wy tho hope na hus deusen / Dar schal uns den use Jütte Raken ein hübsche melgrütte. (4. Akt, 1. Szene) Barthelmeus ad hospitem. Her werdt / her werdt / syd unvorfert / Kamet her weset mit uns guder dingen / Ick wil yuw dich halue pötken knisenack bringen. Hospes. Maket yw men frölich und werdet ock nicht unnütte. Barthel. Wy willen yw nicht treden in die grütte. Hospes. Ja ich kenne dy wol wat du plechst tho syn vor ein kumpen. Barth. Ja up der nesen lat ick my nicht gerue trumpen / Ick late my nicht balde yagen tho bussche / Ick hale wol mit einem ein haerhussche. Hospes. Du kykest tho male vaken in de kanne / Ha get dy dat beer nicht / edder hefft nicht gedocht de panne Darin idt gebruwet / edder kumstu borch den smack. Barth. Herr werd latet men na yuwen spotzschen schnack / Sed to ys dat recht getappet / Is dar doch ein gantz pegel wechgeschnappet. Hospes. Watt? heffstu daran nich genögen / Scholde ick noch laten ein sonderliken pott wögen / Scholdestu my myne mate wraken / Ich bin dar myn dage nicht um angespraken. Wen du nicht anders wilt / so ys dar ein loch / Dar drull dick hennuth du unnütte droch. Barth. Wat droch? dat lugstu alse ein bösewicht / Ick habbe noch nemand betrogen nicht Wat du deist dat sud men hir woll Is ydt doch kume ein halff pott full. Hospes. Ja truwen du rechte drunckenpolt Men scholde ydt dy affftriken mit dem strick holte / Mitt beer kann men dy nümmer stencken Dartho den pott nicht fullgenoch schenckn Unnd wat du thor stat deist fören effte dregen Dat mot mend mit gelt upwegen / Men scholde dy kauent tho supen geuen. Barth. Ja wol wet wat biswilen im keller geschüt / Id ys noch kume veerteindage hüt Do halde ick van dy 2 tonnen gildebeer Dat laueden use Naber nicht altho sehr / Dann wenn men 2. stöueken dar van hadde tho sick genamen So konde men nicht eins darvan tho köddern kamen / Ja idt was so rechte dünne yüche / Und makede einen so dicke de brüche / Unnd dede so einem im liue rummelen Alse sloge einer darin up der trummelen. Darauer klageden use Naber althomahl / Dat idt were so rechte schael / Und so selsam wunderlich beer / Als off kauent dartho ingestegen wer. Hospes Ey dat schaltu Ehrlose Buer Legen alse ein schelm und luer. Barth. Wo nu? holdt wat an dick her werdt / Vor dy bin ick noch unuorfert / Ich bin dar wol ehr mit gewesen / Dan dy late ick my nicht trumpen up der nesen Chim ad Barth. Ick löue du bist rasende und dull / Stedes wenn du bist noch kume halff vull / So wultu fort snarcken und flöken / Werpen / slan / howen und poken / So dy doch offt dat vell wert gerücket Ick mene no use juncker hefft dy geplücket / Mitt dubbelden bröken / desgelyken der vaget Mitt bybröken / so dy dat behaget / Und heffst lust und gefallen daran So magstu dy und alle dyn gudt vorslan. Barth. Ja naber wenn ick dat nicht schuwede / Vor em my nicht ein miten gruwede / Und wo he mit einem finger anrörde my / Ick wolde em wedder geuen ein solcken staby / Und mit düssen sös schillingen leren Wo he scholde den Buren vereren. Ad hospitem. Hörstu her werdt ick bede dy trotz hestu lust / So wil ick itzundes alhie ummesust De Streuekatte mit dy theen up düssem euen / Da darf ick dem iunckern keinen bröke vor geuen. Hospes. Ja ummerher leuer kumpan Wy willen tho hope hen deusen gahn. Ick wil einen ganck mit dy wagen / Scholde idt my ock weh don in dem kragen. Nu wollan ick legge my hyr nedder / Vorgit myner nicht ick hale dy wedder. Düsse dwele wille wy daran wagen / Und slepen uns wol by unserm kragen / Wy willen uns so redlich theen Dat wy morgen könen now uth den ogen sehn. Chim. O Bartelmeues lat by lyue nicht snappen / Hold yo in dem munde faste den tappen He thüt dy sonst wech vor alle de plage Dat magstu dy schemen alle dyn dage. Ad hospitem, O her werdt latet aff um myner bede / Gy wörgen my den kerl upperstede. Hospes. Dat will ick doen um dinent willen So vern he sick will laten stillen. Barth. O myn nacke / O myn nacke. Wo whe deit my de kennebacke. Hospes. Ja hebbe ick dy nu ein weinich verferdt / Dat het trotze noch mit dem wert / Sü wo se nu dar staen Alse thwe bedröpede haen. Chim. Ja wy moten mit dem spotte nu lyden / Wy dencken des wedder tho anderen tyden. Hospes. Drowestu ock noch / so mot ick dy ock her halen / So möge gy de schuldt thohope bethalen. [...] (5. Akt, 2. Szene)",
-    "original_link": "http://diglib.hab.de/drucke/403-6-quod/start.htm",
-    "abschnitt_segmentiert": [
-      {
-        "typ": "kontext",
-        "text": "[...]\nChim.\nSüh Bartelmeues wo vörd dy de süke hyr her? Use Juncker hefft dy gedrouwet seer Wo he dy wil rechtschapen slahn / Du möchtest wol beth uth dem roke gahn."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Barthelmeus.\nAlde pocken Chim / wenn du wüstest wo mine saken nu stahn? Süstu dat ock wol wat ick hyr hebbe steken?"
-      },
-      {
-        "typ": "kontext",
-        "text": "Chim.\nJa dar werstu dy nicht mit uth dem Torne breken."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Barthelmeus.\nNicht? Ja leue Chim na unses Junckern trotz und keck Frage ick nu nicht einen duvendreck. Sü dat / dat hefft grote krafft."
-      },
-      {
-        "typ": "kontext",
-        "text": "Chim.\nDat werdt dy veel geköstet habben / ehr du idt so wyth hefft gebracht?"
-      },
-      {
-        "typ": "figurtext",
-        "text": "Barth.\nNein truwen nicht einen penninck / Men alleine mynen ruhvötigen henninck."
-      },
-      {
-        "typ": "kontext",
-        "text": "Chim.\nO dat ys yümmer schade."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Barth:\nJa he ys nu all ein brade. Ick hadde en sülvest mechtig leff / Auerst idt schadet nicht he hefft my düssen breff Tho wege bracht / de ys my veel leuer / Ick hadde süs de sucht gekregen und dat feber. Ick bin nu frölick auer alle maten / Kum Chim mit my hen in jenne straten Tho mynem werde / ick wil uns laten halen Ein potken knysenack thor kolden schalen."
-      },
-      {
-        "typ": "kontext",
-        "text": "Chim.\nO neen Barthelmeues ick habbe men einen witten / Dar kan ick nicht altospade vor sitten."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Barthel:\nEy Chim wes men ane sorgen Use Wert schal uns wol wat borgen / Up usem felde werd de garste wol dyen So wille my em betalen thom nyen. Ick moth my hüden noch rechte vul supen Scholde ick ock up henden und vöten tho hus krupen."
-      },
-      {
-        "typ": "kontext",
-        "text": "Chim.\nIck mach mit dy hen schleusen. Darna wille wy tho hope na hus deusen / Dar schal uns den use Jütte Raken ein hübsche melgrütte."
-      },
-      {
-        "typ": "figurtext",
-        "text": "(4. Akt, 1. Szene)\n"
+          {
+            "typ": "figurtext",
+            "text": "<b>ACTVS V. SCENA I.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Bawr / Wirt / Chim.</i><br>BARTHELMEUS <i>ad hospitem.</i> Her werdt / her werdt / syd unvorfert / Kamet her weset mit uns guder dingen / Ick wil yuw dich halue pötken knisenack bringen.<br>HOSPES. Maket yw men frölich und werdet ock nicht unnütte.<br>BARTHEL. Wy willen yw nicht treden in die grütte.<br>HOSPES. Ja ich kenne dy wol wat du plechst tho syn vor ein kumpen.<br>BARTH. Ja up der nesen lat ick my nicht gerue trumpen / Ick late my nicht balde yagen tho bussche / Ick hale wol mit einem ein haerhussche.<br>HOSPES. Du kykest tho male vaken in de kanne / Ha get dy dat beer nicht / edder hefft nicht gedocht de panne Darin idt gebruwet / edder kumstu borch den smack.<br>BARTH. Herr werd latet men na yuwen spotzschen schnack / Sed to ys dat recht getappet / Is dar doch ein gantz pegel wechgeschnappet.<br>HOSPES. Watt? heffstu daran nich genögen / Scholde ick noch laten ein sonderliken pott wögen / Scholdestu my myne mate wraken / Ich bin dar myn dage nicht um angespraken. Wen du nicht anders wilt / so ys dar ein loch / Dar drull dick hennuth du unnütte droch.<br>BARTH. Wat droch? dat lugstu alse ein bösewicht / Ick habbe noch nemand betrogen nicht Wat du deist dat sud men hir woll Is ydt doch kume ein halff pott full.<br>HOSPES. Ja truwen du rechte drunckenpolt Men scholde ydt dy affftriken mit dem strick holte / Mitt beer kann men dy nümmer stencken Dartho den pott nicht fullgenoch schenckn Unnd wat du thor stat deist fören effte dregen Dat mot mend mit gelt upwegen / Men scholde dy kauent tho supen geuen.<br>BARTH. Ja wol wet wat biswilen im keller geschüt / Id ys noch kume veerteindage hüt Do halde ick van dy 2 tonnen gildebeer Dat laueden use Naber nicht altho sehr / Dann wenn men 2. stöueken dar van hadde tho sick genamen So konde men nicht eins darvan tho köddern kamen / Ja idt was so rechte dünne yüche / Und makede einen so dicke de brüche / Unnd dede so einem im liue rummelen Alse sloge einer darin up der trummelen. Darauer klageden use Naber althomahl / Dat idt were so rechte schael / Und so selsam wunderlich beer / Als off kauent dartho ingestegen wer.<br>HOSPES Ey dat schaltu Ehrlose Buer Legen alse ein schelm und luer.<br>BARTH. nWo nu? holdt wat an dick her werdt / Vor dy bin ick noch unuorfert / Ich bin dar wol ehr mit gewesen / Dan dy late ick my nicht trumpen up der nesen"
+          },
+          {
+            "typ": "figurtext",
+            "text": "CHIM <i>ad Barth.</i> Ick löue du bist rasende und dull / Stedes wenn du bist noch kume halff vull / So wultu fort snarcken und flöken / Werpen / slan / howen und poken / So dy doch offt dat vell wert gerücket Ick mene no use juncker hefft dy geplücket / Mitt dubbelden bröken / desgelyken der vaget Mitt bybröken / so dy dat behaget / Und heffst lust und gefallen daran So magstu dy und alle dyn gudt vorslan."
+          },
+          {
+            "typ": "kontext",
+            "text": "BARTH. Ja naber wenn ick dat nicht schuwede / Vor em my nicht ein miten gruwede / Und wo he mit einem finger anrörde my / Ick wolde em wedder geuen ein solcken staby / Und mit düssen sös schillingen leren Wo he scholde den Buren vereren. <i>Ad hospitem.</i> Hörstu her werdt ick bede dy trotz hestu lust / So wil ick itzundes alhie ummesust De Streuekatte mit dy theen up düssem euen / Da darf ick dem iunckern keinen bröke vor geuen.<br>HOSPES. Ja ummerher leuer kumpan Wy willen tho hope hen deusen gahn. Ick wil einen ganck mit dy wagen / Scholde idt my ock weh don in dem kragen. Nu wollan ick legge my hyr nedder / Vorgit myner nicht ick hale dy wedder. Düsse dwele wille wy daran wagen / Und slepen uns wol by unserm kragen / Wy willen uns so redlich theen Dat wy morgen könen now uth den ogen sehn."
+          },
+          {
+            "typ": "figurtext",
+            "text": "CHIM. O Bartelmeues lat by lyue nicht snappen / Hold yo in dem munde faste den tappen He thüt dy sonst wech vor alle de plage Dat magstu dy schemen alle dyn dage. <i>Ad hospitem,</i> O her werdt latet aff um myner bede / Gy wörgen my den kerl upperstede."
+          },
+          {
+            "typ": "kontext",
+            "text": "HOSPES. Dat will ick doen um dinent willen So vern he sick will laten stillen.<br>BARTH. O myn nacke / O myn nacke. Wo whe deit my de kennebacke.<br>HOSPES. Ja hebbe ick dy nu ein weinich verferdt / Dat het trotze noch mit dem wert / Sü wo se nu dar staen Alse thwe bedröpede haen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "CHIM. Ja wy moten mit dem spotte nu lyden / Wy dencken des wedder tho anderen tyden."
+          },
+          {
+            "typ": "kontext",
+            "text": "HOSPES. Drowestu ock noch / so mot ick dy ock her halen / So möge gy de schuldt thohope bethalen.<br>[...]"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(5. Akt, 1. Szene)</b>"
+          }
+        ]
       },
 
       {
-        "typ": "figurtext",
-        "text": "Barthelmeus ad hospitem.\nHer werdt / her werdt / syd unvorfert / Kamet her weset mit uns guder dingen / Ick wil yuw dich halue pötken knisenack bringen."
-      },
-      {
-        "typ": "kontext",
-        "text": "Hospes.\nMaket yw men frölich und werdet ock nicht unnütte."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Barthel.\nWy willen yw nicht treden in die grütte."
-      },
-      {
-        "typ": "kontext",
-        "text": "Hospes.\nJa ich kenne dy wol wat du plechst tho syn vor ein kumpen."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Barth.\nJa up der nesen lat ick my nicht gerue trumpen / Ick late my nicht balde yagen tho bussche / Ick hale wol mit einem ein haerhussche."
-      },
-      {
-        "typ": "kontext",
-        "text": "Hospes.\nDu kykest tho male vaken in de kanne / Ha get dy dat beer nicht / edder hefft nicht gedocht de panne Darin idt gebruwet / edder kumstu borch den smack."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Barth.\nHerr werd latet men na yuwen spotzschen schnack / Sed to ys dat recht getappet / Is dar doch ein gantz pegel wechgeschnappet."
-      },
-      {
-        "typ": "kontext",
-        "text": "Hospes.\nWatt? heffstu daran nich genögen / Scholde ick noch laten ein sonderliken pott wögen / Scholdestu my myne mate wraken / Ich bin dar myn dage nicht um angespraken. Wen du nicht anders wilt / so ys dar ein loch / Dar drull dick hennuth du unnütte droch."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Barth.\nWat droch? dat lugstu alse ein bösewicht / Ick habbe noch nemand betrogen nicht Wat du deist dat sud men hir woll Is ydt doch kume ein halff pott full."
-      },
-      {
-        "typ": "kontext",
-        "text": "Hospes.\nJa truwen du rechte drunckenpolt Men scholde ydt dy affftriken mit dem strick holte / Mitt beer kann men dy nümmer stencken Dartho den pott nicht fullgenoch schenckn Unnd wat du thor stat deist fören effte dregen Dat mot mend mit gelt upwegen / Men scholde dy kauent tho supen geuen."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Barth.\nJa wol wet wat biswilen im keller geschüt / Id ys noch kume veerteindage hüt Do halde ick van dy 2 tonnen gildebeer Dat laueden use Naber nicht altho sehr / Dann wenn men 2. stöueken dar van hadde tho sick genamen So konde men nicht eins darvan tho köddern kamen / Ja idt was so rechte dünne yüche / Und makede einen so dicke de brüche / Unnd dede so einem im liue rummelen Alse sloge einer darin up der trummelen. Darauer klageden use Naber althomahl / Dat idt were so rechte schael / Und so selsam wunderlich beer / Als off kauent dartho ingestegen wer."
-      },
-      {
-        "typ": "kontext",
-        "text": "Hospes\nEy dat schaltu Ehrlose Buer Legen alse ein schelm und luer."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Barth.\nWo nu? holdt wat an dick her werdt / Vor dy bin ick noch unuorfert / Ich bin dar wol ehr mit gewesen / Dan dy late ick my nicht trumpen up der nesen"
-      },
-      {
-        "typ": "kontext",
-        "text": "Chim ad Barth.\nIck löue du bist rasende und dull / Stedes wenn du bist noch kume halff vull / So wultu fort snarcken und flöken / Werpen / slan / howen und poken / So dy doch offt dat vell wert gerücket Ick mene no use juncker hefft dy geplücket / Mitt dubbelden bröken / desgelyken der vaget Mitt bybröken / so dy dat behaget / Und heffst lust und gefallen daran So magstu dy und alle dyn gudt vorslan."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Barth.\nJa naber wenn ick dat nicht schuwede / Vor em my nicht ein miten gruwede / Und wo he mit einem finger anrörde my / Ick wolde em wedder geuen ein solcken staby / Und mit düssen sös schillingen leren Wo he scholde den Buren vereren.\nAd hospitem.\nHörstu her werdt ick bede dy trotz hestu lust / So wil ick itzundes alhie ummesust De Streuekatte mit dy theen up düssem euen / Da darf ick dem iunckern keinen bröke vor geuen."
-      },
-      {
-        "typ": "kontext",
-        "text": "Hospes.\nJa ummerher leuer kumpan Wy willen tho hope hen deusen gahn. Ick wil einen ganck mit dy wagen / Scholde idt my ock weh don in dem kragen. Nu wollan ick legge my hyr nedder / Vorgit myner nicht ick hale dy wedder. Düsse dwele wille wy daran wagen / Und slepen uns wol by unserm kragen / Wy willen uns so redlich theen Dat wy morgen könen now uth den ogen sehn.\nChim.\nO Bartelmeues lat by lyue nicht snappen / Hold yo in dem munde faste den tappen He thüt dy sonst wech vor alle de plage Dat magstu dy schemen alle dyn dage.\nAd hospitem,\nO her werdt latet aff um myner bede / Gy wörgen my den kerl upperstede.\nHospes.\nDat will ick doen um dinent willen So vern he sick will laten stillen."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Barth.\nO myn nacke / O myn nacke. Wo whe deit my de kennebacke."
-      },
-      {
-        "typ": "kontext",
-        "text": "Hospes.\nJa hebbe ick dy nu ein weinich verferdt / Dat het trotze noch mit dem wert / Sü wo se nu dar staen Alse thwe bedröpede haen.\nChim.\nJa wy moten mit dem spotte nu lyden / Wy dencken des wedder tho anderen tyden.\nHospes.\nDrowestu ock noch / so mot ick dy ock her halen / So möge gy de schuldt thohope bethalen.\n[...]"
-      },
-      {
-        "typ": "figurtext",
-        "text": "(5. Akt, 2. Szene)"
-      }
-    ]
-  },
+        "id": "DionysiiSyracusani03",
+        "theaterstück": {
+          "titel": "Ein newe Comoedia, von Dionysii Syracusani, und Damonis und Pythiae Brüderschafft",
+          "zeit": "1578",
+          "druckort": "Rostock",
+          "auffuehrungshinweise": ""
+        },
+        "autor": {
+          "name": "Franz Omcke",
+          "herkunft": "Nd.",
+          "orte": "Güstrow",
+          "lebensdaten": "vor 1566 – 1591"
+        },
+        "figur": {
+          "name": "Barth (Barthelmeus)",
+          "rolle": "Bauer",
+          "beschreibung": "niederdeutscher Bauer; redet mit Chim und Hospes (nd.)"
+        },
+        "dialekt": {
+          "adaption": "Autoadaption",
+          "dialekt_grossraum": "Nd."
+        },
+        "geokoordinaten": {
+          "herkunft_autor": {
+            "lat": 53.793889,
+            "lng": 12.176389
+          },
+          "herkunft_figur": { 
+            "lat": null,
+            "lng": null
+          }
+        },
+        "abschnitt": "[tbd]",
+        "original_link": "http://diglib.hab.de/drucke/403-6-quod/start.htm",
+        "abschnitt_segmentiert": [
+          {
+            "typ": "figurtext",
+            "text": "<b>ACTVS IIII. SCENA I.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "[...]<br>CHIM. Süh Bartelmeues wo vörd dy de süke hyr her? Use Juncker hefft dy gedrouwet seer Wo he dy wil rechtschapen slahn / Du möchtest wol beth uth dem roke gahn."
+          },
+          {
+            "typ": "figurtext",
+            "text": "BARTHELMEUS. Alde pocken Chim / wenn du wüstest wo mine saken nu stahn? Süstu dat ock wol wat ick hyr hebbe steken?"
+          },
+          {
+            "typ": "kontext",
+            "text": "CHIM. Ja dar werstu dy nicht mit uth dem Torne breken."
+          },
+          {
+            "typ": "figurtext",
+            "text": "BARTHELMEUS. Nicht? Ja leue Chim na unses Junckern trotz und keck Frage ick nu nicht einen duvendreck. Sü dat / dat hefft grote krafft."
+          },
+          {
+            "typ": "kontext",
+            "text": "CHIM. Dat werdt dy veel geköstet habben / ehr du idt so wyth hefft gebracht?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "BARTH. Nein truwen nicht einen penninck / Men alleine mynen ruhvötigen henninck."
+          },
+          {
+            "typ": "kontext",
+            "text": "CHIM. O dat ys yümmer schade."
+          },
+          {
+            "typ": "figurtext",
+            "text": "BARTH. Ja he ys nu all ein brade. Ick hadde en sülvest mechtig leff / Auerst idt schadet nicht he hefft my düssen breff Tho wege bracht / de ys my veel leuer / Ick hadde süs de sucht gekregen und dat feber. Ick bin nu frölick auer alle maten / Kum Chim mit my hen in jenne straten Tho mynem werde / ick wil uns laten halen Ein potken knysenack thor kolden schalen."
+          },
+          {
+            "typ": "kontext",
+            "text": "CHIM. O neen Barthelmeues ick habbe men einen witten / Dar kan ick nicht altospade vor sitten."
+          },
+          {
+            "typ": "figurtext",
+            "text": "BARTHEL. Ey Chim wes men ane sorgen Use Wert schal uns wol wat borgen / Up usem felde werd de garste wol dyen So wille my em betalen thom nyen. Ick moth my hüden noch rechte vul supen Scholde ick ock up henden und vöten tho hus krupen."
+          },
+          {
+            "typ": "kontext",
+            "text": "CHIM. Ick mach mit dy hen schleusen. Darna wille wy tho hope na hus deusen / Dar schal uns den use Jütte Raken ein hübsche melgrütte."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(4. Akt, 1. Szene)</b><br><br>"
+          },
 
-  {
-    "id": "DionysiiSyracusani04",
-    "theaterstück": {
-      "titel": "Ein newe Comoedia, von Dionysii Syracusani, und Damonis und Pythiae Brüderschafft",
-      "zeit": "1578",
-      "druckort": "Rostock",
-      "auffuehrungshinweise": ""
-    },
-    "autor": {
-      "name": "Franz Omcke",
-      "herkunft": "Nd.",
-      "orte": "Güstrow",
-      "lebensdaten": "vor 1566 – 1591"
-    },
-    "figur": {
-      "name": "Hospes",
-      "rolle": "Wirt",
-      "beschreibung": "redet mit Chim und Barth (ndt.)"
-    },
-    "dialekt": {
-      "adaption": "Autoadaption",
-      "dialekt_grossraum": "Nd."
-    },
-    "geokoordinaten": {
-      "herkunft_autor": {
-        "lat": 53.793889,
-        "lng": 12.176389
+          {
+            "typ": "figurtext",
+            "text": "<b>ACTVS V. SCENA I.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Bawr / Wirt / Chim.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "BARTHELMEUS <i>ad hospitem.</i> Her werdt / her werdt / syd unvorfert / Kamet her weset mit uns guder dingen / Ick wil yuw dich halue pötken knisenack bringen."
+          },
+          {
+            "typ": "kontext",
+            "text": "HOSPES. Maket yw men frölich und werdet ock nicht unnütte."
+          },
+          {
+            "typ": "figurtext",
+            "text": "BARTHEL. Wy willen yw nicht treden in die grütte."
+          },
+          {
+            "typ": "kontext",
+            "text": "HOSPES. Ja ich kenne dy wol wat du plechst tho syn vor ein kumpen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "BARTH. Ja up der nesen lat ick my nicht gerue trumpen / Ick late my nicht balde yagen tho bussche / Ick hale wol mit einem ein haerhussche."
+          },
+          {
+            "typ": "kontext",
+            "text": "HOSPES. Du kykest tho male vaken in de kanne / Ha get dy dat beer nicht / edder hefft nicht gedocht de panne Darin idt gebruwet / edder kumstu borch den smack."
+          },
+          {
+            "typ": "figurtext",
+            "text": "BARTH. Herr werd latet men na yuwen spotzschen schnack / Sed to ys dat recht getappet / Is dar doch ein gantz pegel wechgeschnappet."
+          },
+          {
+            "typ": "kontext",
+            "text": "HOSPES. Watt? heffstu daran nich genögen / Scholde ick noch laten ein sonderliken pott wögen / Scholdestu my myne mate wraken / Ich bin dar myn dage nicht um angespraken. Wen du nicht anders wilt / so ys dar ein loch / Dar drull dick hennuth du unnütte droch."
+          },
+          {
+            "typ": "figurtext",
+            "text": "BARTH. Wat droch? dat lugstu alse ein bösewicht / Ick habbe noch nemand betrogen nicht Wat du deist dat sud men hir woll Is ydt doch kume ein halff pott full."
+          },
+          {
+            "typ": "kontext",
+            "text": "HOSPES. Ja truwen du rechte drunckenpolt Men scholde ydt dy affftriken mit dem strick holte / Mitt beer kann men dy nümmer stencken Dartho den pott nicht fullgenoch schenckn Unnd wat du thor stat deist fören effte dregen Dat mot mend mit gelt upwegen / Men scholde dy kauent tho supen geuen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "BARTH. Ja wol wet wat biswilen im keller geschüt / Id ys noch kume veerteindage hüt Do halde ick van dy 2 tonnen gildebeer Dat laueden use Naber nicht altho sehr / Dann wenn men 2. stöueken dar van hadde tho sick genamen So konde men nicht eins darvan tho köddern kamen / Ja idt was so rechte dünne yüche / Und makede einen so dicke de brüche / Unnd dede so einem im liue rummelen Alse sloge einer darin up der trummelen. Darauer klageden use Naber althomahl / Dat idt were so rechte schael / Und so selsam wunderlich beer / Als off kauent dartho ingestegen wer."
+          },
+          {
+            "typ": "kontext",
+            "text": "HOSPES. Ey dat schaltu Ehrlose Buer Legen alse ein schelm und luer."
+          },
+          {
+            "typ": "figurtext",
+            "text": "BARTH. Wo nu? holdt wat an dick her werdt / Vor dy bin ick noch unuorfert / Ich bin dar wol ehr mit gewesen / Dan dy late ick my nicht trumpen up der nesen"
+          },
+          {
+            "typ": "kontext",
+            "text": "CHIM <i>ad Barth.</i> Ick löue du bist rasende und dull / Stedes wenn du bist noch kume halff vull / So wultu fort snarcken und flöken / Werpen / slan / howen und poken / So dy doch offt dat vell wert gerücket Ick mene no use juncker hefft dy geplücket / Mitt dubbelden bröken / desgelyken der vaget Mitt bybröken / so dy dat behaget / Und heffst lust und gefallen daran So magstu dy und alle dyn gudt vorslan."
+          },
+          {
+            "typ": "figurtext",
+            "text": "BARTH. Ja naber wenn ick dat nicht schuwede / Vor em my nicht ein miten gruwede / Und wo he mit einem finger anrörde my / Ick wolde em wedder geuen ein solcken staby / Und mit düssen sös schillingen leren Wo he scholde den Buren vereren. <i>Ad hospitem.</i> Hörstu her werdt ick bede dy trotz hestu lust / So wil ick itzundes alhie ummesust De Streuekatte mit dy theen up düssem euen / Da darf ick dem iunckern keinen bröke vor geuen."
+          },
+          {
+            "typ": "kontext",
+            "text": "HOSPES. Ja ummerher leuer kumpan Wy willen tho hope hen deusen gahn. Ick wil einen ganck mit dy wagen / Scholde idt my ock weh don in dem kragen. Nu wollan ick legge my hyr nedder / Vorgit myner nicht ick hale dy wedder. Düsse dwele wille wy daran wagen / Und slepen uns wol by unserm kragen / Wy willen uns so redlich theen Dat wy morgen könen now uth den ogen sehn.<br>CHIM. O Bartelmeues lat by lyue nicht snappen / Hold yo in dem munde faste den tappen He thüt dy sonst wech vor alle de plage Dat magstu dy schemen alle dyn dage. <i>Ad hospitem,</i> O her werdt latet aff um myner bede / Gy wörgen my den kerl upperstede.<br>HOSPES. Dat will ick doen um dinent willen So vern he sick will laten stillen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "BARTH. O myn nacke / O myn nacke. Wo whe deit my de kennebacke."
+          },
+          {
+            "typ": "kontext",
+            "text": "HOSPES. Ja hebbe ick dy nu ein weinich verferdt / Dat het trotze noch mit dem wert / Sü wo se nu dar staen Alse thwe bedröpede haen.<br>CHIM. Ja wy moten mit dem spotte nu lyden / Wy dencken des wedder tho anderen tyden.<br>HOSPES. Drowestu ock noch / so mot ick dy ock her halen / So möge gy de schuldt thohope bethalen.<br>[...]"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(5. Akt, 1. Szene)</b>"
+          }
+        ]
       },
-      "herkunft_figur": { 
-        "lat": null,
-        "lng": null
-      }
-    },
-    "abschnitt": "Barthelmeus ad hospitem. Her werdt / her werdt / syd unvorfert / Kamet her weset mit uns guder dingen / Ick wil yuw dich halue pötken knisenack bringen. Hospes. Maket yw men frölich und werdet ock nicht unnütte. Barthel. Wy willen yw nicht treden in die grütte. Hospes. Ja ich kenne dy wol wat du plechst tho syn vor ein kumpen. Barth. Ja up der nesen lat ick my nicht gerue trumpen / Ick late my nicht balde yagen tho bussche / Ick hale wol mit einem ein haerhussche. Hospes. Du kykest tho male vaken in de kanne / Ha get dy dat beer nicht / edder hefft nicht gedocht de panne Darin idt gebruwet / edder kumstu borch den smack. Barth. Herr werd latet men na yuwen spotzschen schnack / Sed to ys dat recht getappet / Is dar doch ein gantz pegel wechgeschnappet. Hospes. Watt? heffstu daran nich genögen / Scholde ick noch laten ein sonderliken pott wögen / Scholdestu my myne mate wraken / Ich bin dar myn dage nicht um angespraken. Wen du nicht anders wilt / so ys dar ein loch / Dar drull dick hennuth du unnütte droch. Barth. Wat droch? dat lugstu alse ein bösewicht / Ick habbe noch nemand betrogen nicht Wat du deist dat sud men hir woll Is ydt doch kume ein halff pott full. Hospes. Ja truwen du rechte drunckenpolt Men scholde ydt dy affftriken mit dem strick holte / Mitt beer kann men dy nümmer stencken Dartho den pott nicht fullgenoch schenckn Unnd wat du thor stat deist fören effte dregen Dat mot mend mit gelt upwegen / Men scholde dy kauent tho supen geuen. Barth. Ja wol wet wat biswilen im keller geschüt / Id ys noch kume veerteindage hüt Do halde ick van dy 2 tonnen gildebeer Dat laueden use Naber nicht altho sehr / Dann wenn men 2. stöueken dar van hadde tho sick genamen So konde men nicht eins darvan tho köddern kamen / Ja idt was so rechte dünne yüche / Und makede einen so dicke de brüche / Unnd dede so einem im liue rummelen Alse sloge einer darin up der trummelen. Darauer klageden use Naber althomahl / Dat idt were so rechte schael / Und so selsam wunderlich beer / Als off kauent dartho ingestegen wer. Hospes Ey dat schaltu Ehrlose Buer Legen alse ein schelm und luer. Barth. Wo nu? holdt wat an dick her werdt / Vor dy bin ick noch unuorfert / Ich bin dar wol ehr mit gewesen / Dan dy late ick my nicht trumpen up der nesen Chim ad Barth. Ick löue du bist rasende und dull / Stedes wenn du bist noch kume halff vull / So wultu fort snarcken und flöken / Werpen / slan / howen und poken / So dy doch offt dat vell wert gerücket Ick mene no use juncker hefft dy geplücket / Mitt dubbelden bröken / desgelyken der vaget Mitt bybröken / so dy dat behaget / Und heffst lust und gefallen daran So magstu dy und alle dyn gudt vorslan. Barth. Ja naber wenn ick dat nicht schuwede / Vor em my nicht ein miten gruwede / Und wo he mit einem finger anrörde my / Ick wolde em wedder geuen ein solcken staby / Und mit düssen sös schillingen leren Wo he scholde den Buren vereren. Ad hospitem. Hörstu her werdt ick bede dy trotz hestu lust / So wil ick itzundes alhie ummesust De Streuekatte mit dy theen up düssem euen / Da darf ick dem iunckern keinen bröke vor geuen. Hospes. Ja ummerher leuer kumpan Wy willen tho hope hen deusen gahn. Ick wil einen ganck mit dy wagen / Scholde idt my ock weh don in dem kragen. Nu wollan ick legge my hyr nedder / Vorgit myner nicht ick hale dy wedder. Düsse dwele wille wy daran wagen / Und slepen uns wol by unserm kragen / Wy willen uns so redlich theen Dat wy morgen könen now uth den ogen sehn. Chim. O Bartelmeues lat by lyue nicht snappen / Hold yo in dem munde faste den tappen He thüt dy sonst wech vor alle de plage Dat magstu dy schemen alle dyn dage. Ad hospitem, O her werdt latet aff um myner bede / Gy wörgen my den kerl upperstede. Hospes. Dat will ick doen um dinent willen So vern he sick will laten stillen. Barth. O myn nacke / O myn nacke. Wo whe deit my de kennebacke. Hospes. Ja hebbe ick dy nu ein weinich verferdt / Dat het trotze noch mit dem wert / Sü wo se nu dar staen Alse thwe bedröpede haen. Chim. Ja wy moten mit dem spotte nu lyden / Wy dencken des wedder tho anderen tyden. Hospes. Drowestu ock noch / so mot ick dy ock her halen / So möge gy de schuldt thohope bethalen. [...] (5. Akt, 2. Szene)",
-    "original_link": "http://diglib.hab.de/drucke/403-6-quod/start.htm",
-    "abschnitt_segmentiert": [
+
       {
-        "typ": "kontext",
-        "text": "Barthelmeus ad hospitem.\nHer werdt / her werdt / syd unvorfert / Kamet her weset mit uns guder dingen / Ick wil yuw dich halue pötken knisenack bringen."
+        "id": "DionysiiSyracusani04",
+        "theaterstück": {
+          "titel": "Ein newe Comoedia, von Dionysii Syracusani, und Damonis und Pythiae Brüderschafft",
+          "zeit": "1578",
+          "druckort": "Rostock",
+          "auffuehrungshinweise": ""
+        },
+        "autor": {
+          "name": "Franz Omcke",
+          "herkunft": "Nd.",
+          "orte": "Güstrow",
+          "lebensdaten": "vor 1566 – 1591"
+        },
+        "figur": {
+          "name": "Hospes",
+          "rolle": "Wirt",
+          "beschreibung": "niederdeutscher Bauer; redet mit Chim und Barth (nd.)"
+        },
+        "dialekt": {
+          "adaption": "Autoadaption",
+          "dialekt_grossraum": "Nd."
+        },
+        "geokoordinaten": {
+          "herkunft_autor": {
+            "lat": 53.793889,
+            "lng": 12.176389
+          },
+          "herkunft_figur": { 
+            "lat": null,
+            "lng": null
+          }
+        },
+        "abschnitt": "[tbd]",
+        "original_link": "http://diglib.hab.de/drucke/403-6-quod/start.htm",
+        "abschnitt_segmentiert": [
+          {
+            "typ": "figurtext",
+            "text": "<b>ACTVS V. SCENA I.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Bawr / Wirt / Chim.</i><br>BARTHELMEUS <i>ad hospitem.</i> Her werdt / her werdt / syd unvorfert / Kamet her weset mit uns guder dingen / Ick wil yuw dich halue pötken knisenack bringen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "HOSPES. Maket yw men frölich und werdet ock nicht unnütte."
+          },
+          {
+            "typ": "kontext",
+            "text": "BARTHEL. Wy willen yw nicht treden in die grütte."
+          },
+          {
+            "typ": "figurtext",
+            "text": "HOSPES. Ja ich kenne dy wol wat du plechst tho syn vor ein kumpen."
+          },
+          {
+            "typ": "kontext",
+            "text": "BARTH. Ja up der nesen lat ick my nicht gerue trumpen / Ick late my nicht balde yagen tho bussche / Ick hale wol mit einem ein haerhussche."
+          },
+          {
+            "typ": "figurtext",
+            "text": "HOSPES. Du kykest tho male vaken in de kanne / Ha get dy dat beer nicht / edder hefft nicht gedocht de panne Darin idt gebruwet / edder kumstu borch den smack."
+          },
+          {
+            "typ": "kontext",
+            "text": "BARTH. Herr werd latet men na yuwen spotzschen schnack / Sed to ys dat recht getappet / Is dar doch ein gantz pegel wechgeschnappet."
+          },
+          {
+            "typ": "figurtext",
+            "text": "HOSPES. Watt? heffstu daran nich genögen / Scholde ick noch laten ein sonderliken pott wögen / Scholdestu my myne mate wraken / Ich bin dar myn dage nicht um angespraken. Wen du nicht anders wilt / so ys dar ein loch / Dar drull dick hennuth du unnütte droch."
+          },
+          {
+            "typ": "kontext",
+            "text": "BARTH. Wat droch? dat lugstu alse ein bösewicht / Ick habbe noch nemand betrogen nicht Wat du deist dat sud men hir woll Is ydt doch kume ein halff pott full."
+          },
+          {
+            "typ": "figurtext",
+            "text": "HOSPES. Ja truwen du rechte drunckenpolt Men scholde ydt dy affftriken mit dem strick holte / Mitt beer kann men dy nümmer stencken Dartho den pott nicht fullgenoch schenckn Unnd wat du thor stat deist fören effte dregen Dat mot mend mit gelt upwegen / Men scholde dy kauent tho supen geuen."
+          },
+          {
+            "typ": "kontext",
+            "text": "BARTH. Ja wol wet wat biswilen im keller geschüt / Id ys noch kume veerteindage hüt Do halde ick van dy 2 tonnen gildebeer Dat laueden use Naber nicht altho sehr / Dann wenn men 2. stöueken dar van hadde tho sick genamen So konde men nicht eins darvan tho köddern kamen / Ja idt was so rechte dünne yüche / Und makede einen so dicke de brüche / Unnd dede so einem im liue rummelen Alse sloge einer darin up der trummelen. Darauer klageden use Naber althomahl / Dat idt were so rechte schael / Und so selsam wunderlich beer / Als off kauent dartho ingestegen wer."
+          },
+          {
+            "typ": "figurtext",
+            "text": "HOSPES. Ey dat schaltu Ehrlose Buer Legen alse ein schelm und luer."
+          },
+          {
+            "typ": "kontext",
+            "text": "BARTH. Wo nu? holdt wat an dick her werdt / Vor dy bin ick noch unuorfert / Ich bin dar wol ehr mit gewesen / Dan dy late ick my nicht trumpen up der nesen<br>CHIM <i>ad Barth.</i> Ick löue du bist rasende und dull / Stedes wenn du bist noch kume halff vull / So wultu fort snarcken und flöken / Werpen / slan / howen und poken / So dy doch offt dat vell wert gerücket Ick mene no use juncker hefft dy geplücket / Mitt dubbelden bröken / desgelyken der vaget Mitt bybröken / so dy dat behaget / Und heffst lust und gefallen daran So magstu dy und alle dyn gudt vorslan.<br>BARTH. Ja naber wenn ick dat nicht schuwede / Vor em my nicht ein miten gruwede / Und wo he mit einem finger anrörde my / Ick wolde em wedder geuen ein solcken staby / Und mit düssen sös schillingen leren Wo he scholde den Buren vereren. <i>Ad hospitem.</i> Hörstu her werdt ick bede dy trotz hestu lust / So wil ick itzundes alhie ummesust De Streuekatte mit dy theen up düssem euen / Da darf ick dem iunckern keinen bröke vor geuen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "HOSPES. Ja ummerher leuer kumpan Wy willen tho hope hen deusen gahn. Ick wil einen ganck mit dy wagen / Scholde idt my ock weh don in dem kragen. Nu wollan ick legge my hyr nedder / Vorgit myner nicht ick hale dy wedder. Düsse dwele wille wy daran wagen / Und slepen uns wol by unserm kragen / Wy willen uns so redlich theen Dat wy morgen könen now uth den ogen sehn."
+          },
+          {
+            "typ": "kontext",
+            "text": "CHIM. O Bartelmeues lat by lyue nicht snappen / Hold yo in dem munde faste den tappen He thüt dy sonst wech vor alle de plage Dat magstu dy schemen alle dyn dage. <i>Ad hospitem,</i> O her werdt latet aff um myner bede / Gy wörgen my den kerl upperstede."
+          },
+          {
+            "typ": "figurtext",
+            "text": "HOSPES. Dat will ick doen um dinent willen So vern he sick will laten stillen."
+          },
+          {
+            "typ": "kontext",
+            "text": "BARTH. O myn nacke / O myn nacke. Wo whe deit my de kennebacke."
+          },
+          {
+            "typ": "figurtext",
+            "text": "HOSPES. Ja hebbe ick dy nu ein weinich verferdt / Dat het trotze noch mit dem wert / Sü wo se nu dar staen Alse thwe bedröpede haen."
+          },
+          {
+            "typ": "kontext",
+            "text": "CHIM. Ja wy moten mit dem spotte nu lyden / Wy dencken des wedder tho anderen tyden."
+          },
+          {
+            "typ": "figurtext",
+            "text": "HOSPES. Drowestu ock noch / so mot ick dy ock her halen / So möge gy de schuldt thohope bethalen."
+          },
+          {
+            "typ": "kontext",
+            "text": "[...]"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(5. Akt, 1. Szene)</b>"
+          }
+        ]
       },
-      {
-        "typ": "figurtext",
-        "text": "Hospes.\nMaket yw men frölich und werdet ock nicht unnütte."
-      },
-      {
-        "typ": "kontext",
-        "text": "Barthel.\nWy willen yw nicht treden in die grütte."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Hospes.\nJa ich kenne dy wol wat du plechst tho syn vor ein kumpen."
-      },
-      {
-        "typ": "kontext",
-        "text": "Barth.\nJa up der nesen lat ick my nicht gerue trumpen / Ick late my nicht balde yagen tho bussche / Ick hale wol mit einem ein haerhussche."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Hospes.\nDu kykest tho male vaken in de kanne / Ha get dy dat beer nicht / edder hefft nicht gedocht de panne Darin idt gebruwet / edder kumstu borch den smack."
-      },
-      {
-        "typ": "kontext",
-        "text": "Barth.\nHerr werd latet men na yuwen spotzschen schnack / Sed to ys dat recht getappet / Is dar doch ein gantz pegel wechgeschnappet."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Hospes.\nWatt? heffstu daran nich genögen / Scholde ick noch laten ein sonderliken pott wögen / Scholdestu my myne mate wraken / Ich bin dar myn dage nicht um angespraken. Wen du nicht anders wilt / so ys dar ein loch / Dar drull dick hennuth du unnütte droch."
-      },
-      {
-        "typ": "kontext",
-        "text": "Barth.\nWat droch? dat lugstu alse ein bösewicht / Ick habbe noch nemand betrogen nicht Wat du deist dat sud men hir woll Is ydt doch kume ein halff pott full."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Hospes.\nJa truwen du rechte drunckenpolt Men scholde ydt dy affftriken mit dem strick holte / Mitt beer kann men dy nümmer stencken Dartho den pott nicht fullgenoch schenckn Unnd wat du thor stat deist fören effte dregen Dat mot mend mit gelt upwegen / Men scholde dy kauent tho supen geuen."
-      },
-      {
-        "typ": "kontext",
-        "text": "Barth.\nJa wol wet wat biswilen im keller geschüt / Id ys noch kume veerteindage hüt Do halde ick van dy 2 tonnen gildebeer Dat laueden use Naber nicht altho sehr / Dann wenn men 2. stöueken dar van hadde tho sick genamen So konde men nicht eins darvan tho köddern kamen / Ja idt was so rechte dünne yüche / Und makede einen so dicke de brüche / Unnd dede so einem im liue rummelen Alse sloge einer darin up der trummelen. Darauer klageden use Naber althomahl / Dat idt were so rechte schael / Und so selsam wunderlich beer / Als off kauent dartho ingestegen wer."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Hospes\nEy dat schaltu Ehrlose Buer Legen alse ein schelm und luer."
-      },
-      {
-        "typ": "kontext",
-        "text": "Barth.\nWo nu? holdt wat an dick her werdt / Vor dy bin ick noch unuorfert / Ich bin dar wol ehr mit gewesen / Dan dy late ick my nicht trumpen up der nesen\nChim ad Barth.\nIck löue du bist rasende und dull / Stedes wenn du bist noch kume halff vull / So wultu fort snarcken und flöken / Werpen / slan / howen und poken / So dy doch offt dat vell wert gerücket Ick mene no use juncker hefft dy geplücket / Mitt dubbelden bröken / desgelyken der vaget Mitt bybröken / so dy dat behaget / Und heffst lust und gefallen daran So magstu dy und alle dyn gudt vorslan.\nBarth.\nJa naber wenn ick dat nicht schuwede / Vor em my nicht ein miten gruwede / Und wo he mit einem finger anrörde my / Ick wolde em wedder geuen ein solcken staby / Und mit düssen sös schillingen leren Wo he scholde den Buren vereren.\nAd hospitem.\nHörstu her werdt ick bede dy trotz hestu lust / So wil ick itzundes alhie ummesust De Streuekatte mit dy theen up düssem euen / Da darf ick dem iunckern keinen bröke vor geuen."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Hospes.\nJa ummerher leuer kumpan Wy willen tho hope hen deusen gahn. Ick wil einen ganck mit dy wagen / Scholde idt my ock weh don in dem kragen. Nu wollan ick legge my hyr nedder / Vorgit myner nicht ick hale dy wedder. Düsse dwele wille wy daran wagen / Und slepen uns wol by unserm kragen / Wy willen uns so redlich theen Dat wy morgen könen now uth den ogen sehn."
-      },
-      {
-        "typ": "kontext",
-        "text": "Chim.\nO Bartelmeues lat by lyue nicht snappen / Hold yo in dem munde faste den tappen He thüt dy sonst wech vor alle de plage Dat magstu dy schemen alle dyn dage.\nAd hospitem,\nO her werdt latet aff um myner bede / Gy wörgen my den kerl upperstede."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Hospes.\nDat will ick doen um dinent willen So vern he sick will laten stillen."
-      },
-      {
-        "typ": "kontext",
-        "text": "Barth.\nO myn nacke / O myn nacke. Wo whe deit my de kennebacke."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Hospes.\nJa hebbe ick dy nu ein weinich verferdt / Dat het trotze noch mit dem wert / Sü wo se nu dar staen Alse thwe bedröpede haen."
-      },
-      {
-        "typ": "kontext",
-        "text": "Chim.\nJa wy moten mit dem spotte nu lyden / Wy dencken des wedder tho anderen tyden."
-      },
-      {
-        "typ": "figurtext",
-        "text": "Hospes.\nDrowestu ock noch / so mot ick dy ock her halen / So möge gy de schuldt thohope bethalen."
-      },
-      {
-        "typ": "kontext",
-        "text": "[...]"
-      },
-      {
-        "typ": "figurtext",
-        "text": "(5. Akt, 2. Szene)"
-      }
-    ]
-  },
 
     
   {
