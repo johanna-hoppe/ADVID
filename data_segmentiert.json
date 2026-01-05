@@ -2552,7 +2552,7 @@
         },
         "figur": {
           "name": "Klotilde",
-          "rolle": "",
+          "rolle": "NN",
           "beschreibung": "Tochter des Herrn von Hochfeld; spricht Bairisch"
         },
         "dialekt": {
@@ -3199,7 +3199,7 @@
         },
         "figur": {
           "name": "Apollonia",
-          "rolle": "",
+          "rolle": "NN",
           "beschreibung": "Frau von Sebastian Hochfeld; spricht Bairisch"
         },
         "dialekt": {
@@ -3672,7 +3672,7 @@
         },
         "figur": {
           "name": "Robert",
-          "rolle": "",
+          "rolle": "NN",
           "beschreibung": "Sohn des Herrn von Wellenschlag; spricht Bairisch"
         },
         "dialekt": {
@@ -4368,7 +4368,7 @@
           }
         ]
       },
-      
+
 
       {
         "id": "Kalkbrenner01",
