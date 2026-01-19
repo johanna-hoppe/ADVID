@@ -380,8 +380,8 @@
           "lebensdaten": "1806–1884"
         },
         "figur": {
-          "name": "Magd",
-          "rolle": "Katharina",
+          "name": "Katharina",
+          "rolle": "Magd",
           "beschreibung": "Jungemagd in Gottscheds Hause; spricht Sächsisch"
         },
         "dialekt": {
@@ -857,7 +857,7 @@
           }
         ]
       },
-      
+
 
       {
         "id": "StadtLand01",
