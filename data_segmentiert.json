@@ -1,6 +1,865 @@
 [
 
       {
+        "id": "GottschedGellert01",
+        "theaterstück": {
+          "titel": "Gottsched und Gellert. Charakterlustspiel in fünf Akten",
+          "zeit": "1845",
+          "druckort": "",
+          "auffuehrungshinweise": "Der Schauplatz ist in Leipzig 1762; "
+        },
+        "autor": {
+          "name": "Heinrich Laube",
+          "herkunft": "Omd.",
+          "orte": "Sprottau (Schlesien)",
+          "lebensdaten": "1806–1884"
+        },
+        "figur": {
+          "name": "Gottfried",
+          "rolle": "Reitknecht",
+          "beschreibung": "spricht Sächsisch"
+        },
+        "dialekt": {
+          "adaption": "Heteroadaption",
+          "dialekt_grossraum": "Omd."
+        },
+        "geokoordinaten": {
+          "herkunft_autor": {
+            "lat": 51.565,
+            "lng": 15.5375
+          },
+          "herkunft_figur": { 
+            "lat": null,
+            "lng": null
+          }
+        },
+        "abschnitt": "[tbd]",
+        "original_link": "https://dracor.org/ger/laube-gottsched-und-gellert#text",
+        "abschnitt_segmentiert": [
+          {
+            "typ": "figurtext",
+            "text": "<b>Erster Akt.<br>Vierte Szene.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Gottfried. Die Vorigen ohne Schladritz. Frau Gottsched schreibend.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED. Empfehle mich zu Gnaden, Herr Professor."
+          },
+          {
+            "typ": "kontext",
+            "text": "GOTTSCHED. Du kommst vom Gute bei Oschatz, Gottfried?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED. Ne."
+          },
+          {
+            "typ": "kontext",
+            "text": "GOTTSCHED. Nicht? Von wo denn?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED. Die Herrschaft ist gestern abend schon 'nein gefahren und hat vor Schlafengehen die Briefe im »Löwen« geschrieben."
+          },
+          {
+            "typ": "kontext",
+            "text": "GOTTSCHED. In Oschatz?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED. Ja."
+          },
+          {
+            "typ": "kontext",
+            "text": "GOTTSCHED. Gut, gut. Du kommst also von Oschatz!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED. Ja, ich bin heut' früh um drei ausgeritten, weil die Herrschaft och beizeiten ufbrechen will."
+          },
+          {
+            "typ": "kontext",
+            "text": "BOLZA. Bist du Soldaten begegnet?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED. Ne, 's ist mausestill auf der ganzen Straße, aber droben im Gebirge über Döbeln 'naus, da hat's gepocht! ach Herr Jes, da hat's gepocht, schon vorgestern, da soll reene der Teufel los sein. Mir haben uns immer mit den Ohren auf den Erd boden gelegt, und der Erdboden der bubberte nur immer so!"
+          },
+          {
+            "typ": "kontext",
+            "text": "BOLZA. Jetzt ist's also entschieden, die Schlacht ist geschlagen – ist dein Pferd sehr ermüdet?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED. O ne! 's ist en alt Husarenpferd von den Zietenschen, en ausrangiertes, weil's dämpfig is, aber wenn's warm wird, da kommt die Puste in Zug, und 's pfeift nur so!"
+          },
+          {
+            "typ": "kontext",
+            "text": "BOLZA. Kannst du in sechs Stunden nach Oschatz zurück?<br>GOTTSCHED. Sprich!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED <i>sich hinter dem Ohre kratzend.</i> In sechs Stunden? Heeren Se, ne! Ich muß hier noch Briefe abgeben, der Zietensche muß fressen, ich soll en bißchen feine Bäckerware kofen, und hernachen ist's och erst Oktober gewesen, und das ist der schlimme Pferdemonat –"
+          },
+          {
+            "typ": "kontext",
+            "text": "BOLZA <i>gibt ihm Geld.</i> Also du kannst in sechs Stunden?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED. Nu ja, ja, wenn's so fix sein muß, und wenn Sie's so meenen, sehn Se, ja doch, ja! – Da nehmen Se mer wohl die Briefschaften ab, Herr Professor, 's wird wohl's Meeste für Sie selber sein <i>Öffnet seine Ledertasche und übergibt drei Briefe.</i> und die Herrschaft wollte zu Mittag hier sein."
+          },
+          {
+            "typ": "kontext",
+            "text": "FRAU GOTTSCHED. Zu Mittag?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED. Nu ja freilich, sehn Se, deshalb mußt' ich ja so zeitig fort!"
+          },
+          {
+            "typ": "kontext",
+            "text": "FRAU GOTTSCHED. Sie wird also bei uns speisen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED. Nu, Hunger wird se wohl kriegen; denn unterwegs sieht's jetzt erbärmlich aus, und das Frölen Konteß hat 'nen gesunden Appetit."
+          },
+          {
+            "typ": "kontext",
+            "text": "FRAU GOTTSCHED. Dann muß ich Anstalt treffen! <i>Aufstehend und fortgehend.</i> Die Unterschrift fehlt noch, Gottsched, und das Datum. Besorg' deine Sache gut, Gottfried, 's ist von Wichtigkeit für den Herrn Grafen. <i>Ab.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED. Keene Sorge, Frau Professern!"
+          },
+          {
+            "typ": "kontext",
+            "text": "GOTTSCHED <i>hat hastig unterdessen ohne die Aufschriften zu betrachten die drei Briefe geöffnet und gelesen. Beim zweiten lächelt er und sagt vor sich hin.</i> Es ist ein sehr liebenswürdig Mädchen! Sehr! <i>Beim dritten.</i> Aha, für meine Frau! Ja, ja <i>Die Briefe auf den Tisch legend.</i> unterschreiben. – So. – Adressieren – Graf Serbelloni <i>Tut beides und siegelt den Brief.</i><br>BOLZA <i>zu Gottfried schon bei den Worten: »Unterschreiben«.</i> Kommt der Herr Graf von Manteuffel mit?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED. I bewahre! Wissen Sie's denn nicht: Der gnädigste Herr Graf steht ja bei der Reichsarmee, mit Respekt zu sagen! Na ja, mit Respekt! er ist nicht dabei gewesen bei Roßbach, sonst wär's wohl anders gegangen, ja! Ne, die gnädigste Frau Gräfin und Frölen Konteß kommen alleene, weil's gerade sicher ist, und weil's nach der Kanonade von vorgestern auf dem Dorfe wohl nicht mehr auszuhalten sein wird. Denn wenn die Retirade losgeht –"
+          },
+          {
+            "typ": "kontext",
+            "text": "GOTTSCHED. Hier, Gottfried, diesen Brief gibst du an den ersten österreichischen Vorposten!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED. Beim Kolmberge hat er gestern abend schon gestanden, sechs Krawaten stark –"
+          },
+          {
+            "typ": "kontext",
+            "text": "GOTTSCHED. Gut, und mach's ihnen scharf, daß der Brief eiligst an den kommandierenden General geschickt werde."
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED. Schreiben Se's nur lieber mit druf!"
+          },
+          {
+            "typ": "kontext",
+            "text": "GOTTSCHED. Das steht alles drauf."
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED. Na scheene. – Die Kerle werden mir doch nichts tun?"
+          },
+          {
+            "typ": "kontext",
+            "text": "GOTTSCHED. Nein, du bist ein Gesandter!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED. Ein Gesandter? Nu sehn Se einmal!"
+          },
+          {
+            "typ": "kontext",
+            "text": "GOTTSCHED. Aber du mußt bei ihnen auf Antwort warten!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED. So? – Uf schriftliche?"
+          },
+          {
+            "typ": "kontext",
+            "text": "GOTTSCHED. Ja; das kann zehn bis zwölf Stunden dauern."
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED. Aha, 's mag wohl hapern mit dem Schreiben bei den Krawaten –"
+          },
+          {
+            "typ": "kontext",
+            "text": "GOTTSCHED. Nicht doch, die Kroaten sollen nicht schreiben, einer von ihnen bringt den Brief zum nächsten Vorposten, und du wartest bei den andern fünf, bis Antwort kommt!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED. So lange? Und die Krawaten werden mir so lange nichts tun?"
+          },
+          {
+            "typ": "kontext",
+            "text": "BOLZA. Sie werden dich ja nicht beißen!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED. Nicht? –'s sind verhungerte Kerle!"
+          },
+          {
+            "typ": "kontext",
+            "text": "GOTTSCHED. Und wenn die Antwort kommt, reitest du so schnell als möglich hierher und bringst Sie uns!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED. Was bring ich?"
+          },
+          {
+            "typ": "kontext",
+            "text": "GOTTSCHED. Die Antwort, das heißt den neuen Brief –"
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED. Scheene und hernach –?"
+          },
+          {
+            "typ": "kontext",
+            "text": "BOLZA. Hernach erhältst du, wenn du deine Sache gut gemacht, drei Speziestaler!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED. Sehr scheene! Ende gut, alles gut."
+          },
+          {
+            "typ": "kontext",
+            "text": "BOLZA. Vorwärts!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED. Ja vorwärts, Zietenscher! Wendet sich. Und wenn ich hinkomme, sag' ich en scheenes Kompliment vom Herrn Professor Gottsched an die Herrn Krawaten. –"
+          },
+          {
+            "typ": "kontext",
+            "text": "GOTTSCHED. Warum nicht gar!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED. Nu, wie Se meenen! Also –"
+          },
+          {
+            "typ": "kontext",
+            "text": "GOTTSCHED. Also mach fort!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED. Richtig! Gesegnete Mahlzeit und empfehle mich. Ab."
+          },
+          {
+            "typ": "kontext",
+            "text": "BOLZA. Wird der Mensch nicht zu dumm sein?<br>GOTTSCHED. Er hat ja nichts zu tun als abzugeben und zu warten! – Apropos in einigen Stunden sind Manteuffels hier, sind Sie den Damen vielleicht bekannt? Und scheint es dann etwa ratsam, ihnen auszuweichen?<br>BOLZA. Bekannt? Wie Sie's nehmen. Ich glaube nicht, daß sie mich persönlich kennen, aber möglich ist es allerdings. Mein Vater nämlich steht im Verkehr mit der Familie und hat mir Andeutungen gemacht, daß er mit dem Grafen Manteuffel ziemlich einig sei über eine Verbindung zwischen mir und der Komtesse.<br>GOTTSCHED. In der Tat?! Die Komtesse <i>Lächelnd nach seinem Briefe sehend.</i> scheint aber nichts davon zu wissen!<br>BOLZA. Glauben Sie? Das kann wohl sein. Die Kriegsunruhe hat bisher jede weitere Betreibung des Projektes verhindert. Ich fand auch nicht für nötig, die Sache zu beeilen, da die Komtesse noch jung ist und ich selbst noch zerstreut bin. Ich habe sie nie gesehen, und es sollte noch darauf ankommen, ob wir Gefallen an einander fänden. <i>Unterdes liest Gottsched noch einmal lächelnd das Billett.</i> Finden Sie denn in den Briefen irgend eine Andeutung darauf?<br>GOTTSCHED. Im Gegenteil! Das heißt: Nein, o nein!<br>BOLZA. Trotz alledem kann sich die Frau Gräfin einmal in Dresden umgesehen haben nach ihrem wahrscheinlichen künftigen Schwiegersohne und kann mein Äußeres kennen.<br>GOTTSCHED. Nun dann ist es doch wohl geratener, daß Sie bei Ankunft der Damen nicht zugegen sind, und daß ich erst hinhorche. Neue Mitwisser und besonders Damen –<br>BOLZA. Sind nicht ratsam. Ganz nach Ihrer höheren Einsicht, mein verehrter Herr Gönner!<br>FRAU GOTTSCHED <i>wieder eintretend durch die Mitteltür.</i> Ich sehe den Professor Gellert mit einem Fremden von der Ritterstraße herüber auf unser Haus zukommen. Bringen Sie sich in Sicherheit, Herr Graf!<br>GOTTSCHED. Kennt er Sie?<br>BOLZA. Gellert? Schwerlich. Er ist selten oder gar nicht in Dresden, und ich bin ihm meines Wissens nie begegnet. Unmöglich ist es freilich nicht.<br>FRAU GOTTSCHED. Und wenn er Sie auch nicht kennt, <em>wir</em> kennen den Fremden nicht!<br>GOTTSCHED. Gut; also welches Zimmer hast du für den Herrn Grafen bestimmt?<br>FRAU GOTTSCHED. Welches Zimmer? Ich bin und bleibe dagegen, daß der Herr Graf sich vierundzwanzig Stunden in unserm Hause verberge –<br>BOLZA. Unerbittliche!<br>GOTTSCHED. Aber Frau!<br>FRAU GOTTSCHED. Alle Teile sind sichergestellt, wenn wir ihn irgend einem Bekannten empfehlen!<br>GOTTSCHED <i>ungeduldig.</i> Ich aber, Adelgunde, befehle, daß dem Herrn Grafen sogleich ein Zimmer eingeräumt werde, und zwar dies da <i>Auf die zweite Tür rechts deutend.</i> da, das Putzzimmer!<br>FRAU GOTTSCHED. Neben dem meinigen, mit der Tür hier ins Empfangzimmer, jedem Zulaufe ausgesetzt, Gottsched!<br>GOTTSCHED. Ich höre draußen sprechen! Kurzum! Zögern Sie nicht, Herr Graf, um nicht überrascht zu werden. Schließen Sie sich ein!<br>BOLZA <i>in die zweite Tür rechts ab.</i><br>FRAU GOTTSCHED <i>während er abgeht.</i> Gottsched, was tust du?<br>GOTTSCHED. Adelgunde, deine Unhöflichkeit gegen einen Mann von solcher Bedeutung in Dresden setzt mich in maßloses Erstaunen!<br>FRAU GOTTSCHED. O mein Gott! <i>Für sich.</i> Tu' ich nicht besser, ihm die ganze Wahrheit zu sagen?! <i>Laut.</i> Gottsched!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(1. Akt, 4. Szene)</b><br><br>"
+          },
+          
+          {
+            "typ": "figurtext",
+            "text": "<b>Fünfter Akt.<br>Zweite Szene.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Gottfried. Die Vorigen.</i><br>FRAU GOTTSCHED. Gottfried!<br>GOTTSCHED. Gottfried – gefangen!<br>BOLZA. Der Reitknecht gefangen!<br>FRAU GOTTSCHED. Allmächtiger Gott – <i>Gottsched und Bolza ansehend.</i> unser Brief!<br>GOTTSCHED <i>leise.</i> Jawohl!<br>GRÄFIN. Du bist auch gefangen, Gottfried, was heißt das?<br>SIEGMUND. So heul' Er nicht, und red' Er! <i>Zieht sich nach hinten.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED. Ja doch!"
+          },
+          {
+            "typ": "kontext",
+            "text": "GOTTSCHED. Unglücklicher! Du bist so ungeschickt gewesen, dich fangen zu lassen!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED. Na heeren Se, und da heeßen Se mich och noch ungeschickt, und Se sein doch schuld an meinem Malhör! Die Herrn Kürassiere sagen, Gott verzeih mir die Sünde, ich würde gehenkt!"
+          },
+          {
+            "typ": "kontext",
+            "text": "GRÄFIN. Wieso denn?<br>GOTTSCHED. Sprech' Er doch leise!<br>BOLZA <i>leise.</i> Hat Er den Brief abgegeben an die Preußen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED. Ne, abgegeben hab ich ihn <em>nicht</em>."
+          },
+          {
+            "typ": "kontext",
+            "text": "GOTTSCHED. Gott sei Dank!<br>BOLZA <i>leise.</i> Er hat ihn also noch?!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED. Ne, haben tu ich ihn och nicht mehr!"
+          },
+          {
+            "typ": "kontext",
+            "text": "GOTTSCHED. Göttlicher Gottfried, wer hätte dir die Einsicht zugetraut! <i>Leise.</i> Du hast also den Brief, der uns jetzt in Lebensgefahr bringen könnte, beiseite gebracht!<br>BOLZA. Wahrhaftig? Ja?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED <i>sieht beide dumm fragend an.</i> Als wie den Brief? Ne, mich haben sie bald auf die Seite gebracht, die Herrn Kürassiere! Herr Jeses, ich bin ja nur bis an die Griene Schenke 'naus gekommen, da begegneten sie mir schon und kriegten mich beim Schlafittchen, ach, wenn das meine Mutter erfährt!"
+          },
+          {
+            "typ": "kontext",
+            "text": "GOTTSCHED. Der Brief!<br>BOLZA. Der Brief! Wo ist er hin?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED. Ach, der hat keenen Schaden gelitten."
+          },
+          {
+            "typ": "kontext",
+            "text": "GOTTSCHED. Wo ist er?<br>FRAU GOTTSCHED UND BOLZA. Wo ist er?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED. Wo er ist? Na <i>Auf das Zimmer des Auditeurs weisend.</i> da drin –"
+          },
+          {
+            "typ": "kontext",
+            "text": "GOTTSCHED UND FRAU GOTTSCHED. Dort –<br>GOTTSCHED. Kerl, du sagst ja, du hattest ihn nicht abgegeben!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED. Ne doch, <em>abgenommen</em> haben sie mir 'n! <i>Pause. Gottsched und Bolza an ihre Plätze zurück.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "GRÄFIN. Ist der Brief an mich, und steht etwas Gefährliches darin?<br>GOTTSCHED. An den kaiserlichen General Serbelloni ist er gerichtet –<br>FRAU GOTTSCHED. Und das Gefährlichste steht darin!<br>GELLERT. Fassung! Man wird, man muß ein Einsehen haben bei Bürgersleuten, welche im Kriege nicht offiziell beteiligt sind!<br>GOTTSCHED. Keine Verblendung jetzt am äußersten Punkte! Erinnern Sie sich, Gellert, unsrer Leipziger Abgeordneten, des Kammerrat Hohmann, der Kaufherrn Winkler, Konrad, Gebrüder Richter und wie sie weiter heißen, welche wegen der Kriegsschatzung, so Leipzig zahlen mußte, billige Vorstellungen machten? Sie waren in gutem bürgerlichen Rechte; denn die Schatzung war so hoch, daß unsre Enkel noch werden zahlen müssen an der Schuld, und was geschah ihnen wegen der billigen Vorstellung? Sie wurden mit Todesstrafe bedroht! Erinnern Sie sich des Ministers Wackerbarth? Er wurde nur verdächtig und ward plötzlich aufgehoben und hin weggeführt in die Festung Küstrin. Haben wir nicht alle den Grafen Seckendorf draußen in Meuselwitz gekannt? Als bescheidener Privatmann lebte er da, ein Greis, und ward als verdächtig angeklagt und verschwand wie ein Meteor hinter den Festungswällen von Magdeburg!<br>FRAU GOTTSCHED. Gottsched! <i>Siegmund hinten hinaus.</i><br>GOTTSCHED. Jetzt ist der Augenblick gekommen, Madame, zu stehen oder zu fallen. Weil ich die Gefahr übersah, durfte ich schwanken, solange noch Mittel vorhanden waren, dem wirklichen Zusammenstoße auszuweichen – was ein Weiberverstand leicht mißdeutet. Nun aber gilt's! Zeigen wir der Welt, daß die Männer der Wissenschaft auch Männer von Charakter sind! <i>Man hört Geräusch links von der Straße herauf und sieht hinten im Vorsaale Bewegung. Gellert und Cato eilen ans Fenster.</i><br>GELLERT <i>im Hinübergehn.</i> Es wird lebendig unten! <i>Man hört einen sehr vollständigen Trommelwirbel auf der linken Seite.</i><br>SIEGMUND <i>von hinten hereinkommend.</i> Der Prinz kommt! Treten Sie auf die Seite <i>Die rechte ist gemeint. hinüber! Er wendet sich wieder nach hinten.</i><br>CATO <i>am Fenster.</i> Das ist er!<br>GELLERT <i>ebenfalls hinaussehend.</i> Jünger und freundlicher als der König! Welch ein schönes Roß, dieser Schimmel, und so ruhig bei all dem Lärmen und Lichtschimmer! <i>Neuer Trommelwirbel.</i><br>SIEGMUND <i>wieder hereinkommend.</i> Herr Professor Gellert, da hinüber! Der Prinz kann jeden Augenblick hier eintreten!<br>GELLERT. Ja doch! <i>Geht nach rechts hinüber mit Cato. Bei den Worten »hier eintreten« erscheinen hinten inmitten des Vorsaals von links einige Soldaten mit Fackeln; die übrigen Soldaten haben sich rangiert, voran die Trompeter, und sowie die Fackelträger erscheinen, blasen die Trompeter Fanfare. Während der Fanfare tritt von links inmitten des Vorsaales Prinz Heinrich ein und schreitet auf die Türe zu.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(5. Akt, 2. Szene)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Fünfter Akt.<br>Fünfte und letzte Szene.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Siegmund. Die Vorigen.</i><br>SIEGMUND <i>spricht schon an der Tür und kommt an Gellerts rechter Seite vorüber.</i> Königliche Hoheit, der zweite Kurier!<br>PRINZ <i>die Depesche hastig ergreifend.</i> Vom Kurprinzen? <i>Hastig aufreißend.</i> Ja – ja ja! <i>In größter Freude.</i> Du hast mir eine glückliche Hand, Schlesier, bitt' dir eine Gnade aus! <i>Dabei aber wieder in den Brief sehend und Siegmund wegdrängend, weil er nach hinten will und auch während der nächsten Worte nach hinten geht.</i><br>SIEGMUND. Eine Gnade?! Herr Gott, was nun geschwinde?!<br>KATHARINA <i>kommt an seine rechte Seite gesprungen.</i><br>SIEGMUND. Richtig!<br>PRINZ <i>hinten, halb zu dem Adjutanten, halb nach dem Saale hinaus mit starker Stimme.</i> Die Trompeter des Regiments! Ich lasse die Herren von Leipzig bitten, mir dreißig Fässer Wein zu verkaufen – <i>Links nach vorn kommend, aber wie nach hinten kommandierend.</i> Jeder Soldat bis zum Packknecht hinunter soll heute abend seine Flasche Wein trinken! <i>Die Adjutanten gehen ab. Alles rückt um einen Schritt näher an den Prinzen. Der Prinz, Gellert die Hände entgegenstreckend.</i> Ja, mein guter Gellert, das dacht' ich wohl, es kann einem nur Segen bringen, einem guten Menschen begegnet zu sein!<br>GELLERT <i>erstaunt fragend.</i> Königliche Hoheit?<br>SIEGMUND. Heuraten will ich, Königliche Hoheit!<br>PRINZ. Oho, und die Kriegsartikel? – Du willst doch nicht den Abschied haben? <i>Auf Gellert zugehend und ihn bei der Hand ergreifend; dabei weicht Katharina und Siegmund zurück.</i> Gellert! <i>Er führt ihn links gegen das erste Fenster, bleibt aber unterwegs noch stehen und sagt.</i> Man hat mir gesagt, Sie seien kränklich vom Stubensitzen, Arbeiten und Sorgen. Sie sehen mir blaß aus. Das muß anders werden mit Ihnen! Kommen Sie, ich weiß ein Mittel! <i>Zum Fenster hinabzeigend.</i> Sehen Sie das weiße Roß da unten, das so ruhig steht in all' dem Lärmen?<br>GELLERT. Jawohl, ich hab's vorhin schon bewundert!<br>PRINZ. Das ist ein braves Tier: es hat mich in der Freiberger Schlacht sicher und gut getragen, und es soll von nun an meinen wackern Gallert tragen!<br>GELLERT. Ach, königliche Hoheit, – aber ich bin ein schwacher Reiter!<br>PRINZ. Deshalb brauchen Sie ein sanftes, festes Roß; denn reiten müssen Sie mir jetzt täglich, damit Ihr liebes Antlitz bessre Farbe kriege!<br>GELLERT. Mein gnäd'ger Herr! Aber eben weil das Tier so zuverlässig in der Schlacht, ist's Ihnen ja nötig –<br>PRINZ <i>ihn nach der Mitte vorführend.</i> Das ist's ja eben, lieber Freund, was mich plötzlich so erheitert: <i>Mit größter Lebhaftigkeit.</i> Von heute an gibt's keine Schlachten mehr! <i>Allgemeine Bewegung, und alle treten näher. Siegmund und Katharina kommen links vor. Schladritz hinter ihnen.</i><br>GELLERT. Keine Schlachten?<br>CATO. Keine Schlachten mehr?!<br>GOTTSCHED. Keine Schlachten mehr?<br>PRINZ. Der erste Kurier brachte Waffenstillstand mit Österreich und Sachsen. Das war ein gutes Zeichen, aber mehr noch nicht. Um darauf zu rechnen, bedurfte ich einer Antwort von Eurem Kurprinzen, der ein gar einsichtsvoller und liebenswürdiger, zur Versöhnung geneigter Herr ist. Das ist die Antwort, und sie lautet: daß er alles vorbereitet mit den Kaiserlichen, und daß Gellert, daß die Präliminarien des Friedens beginnen können!<br>ALLE. Des Friedens? Des Friedens?<br>GELLERT. Des Friedens? Das walte Gott!<br>PRINZ. Jawohl! Und ich denke, er wird es! Nicht nur die Völker, auch die Herrscher brauchen dringend den Frieden. Niemand schmollt, als unsre tapfern Degen, wie Seydlitz, der ein verdrießlich Gesicht machte zu der Aussicht. Das ist auch in der Ordnung. Ein guter Degen will Arbeit. Wir aber, die wir nicht bloß den Degen führen, wir wollen Gott im Himmel danken für diese endliche Morgenröte!<br>GELLERT. Jawohl!<br>CATO. Jawohl!<br>GOTTSCHED. Jawohl!<br>GELLERT. Amen!<br>SIEGMUND. Königliche Hoheit, jetzt geht es aber wohl mit mir?<br>PRINZ. Mit dir? Ja freilich geht's mit dir – nach Rheinsberg sollt ihr beide mit mir kommen, damit ich euch versorgen und mich zeitlebens des ersten Friedenstages erfreuen kann. Und nun – <i>Eine Bewegung mit der Hand, alle weichen wieder etwas zurück.</i> euch alle kann ich nicht retten trotz des Friedens. <i>Alle treten noch weiter zurück – kurze Pause.</i> Professor Gottsched! <i>Ohne ihn anzusehn.</i> für Sie bin ich jetzt allerdings bei meinem Bruder mächtiger; denn ich habe den Frieden begonnen. Sie sind mir aber anderweitig aus den Händen gespielt worden <i>Frau Gottsched ansehend.</i> – Sie haben Ihre Gnade <em>hier</em> nachzusuchen – <i>Zu Gottsched.</i> Schätzen Sie diese Perle nach Verdienst!<br>FRAU GOTTSCHED <i>vortretend.</i> Mein gnädigster Herr!<br>GOTTSCHED <i>desgleichen.</i> Gnädigster Prinz!<br>PRINZ. Graf Bolza! <i>Prinz geht dabei nach links, ohne Bolza beim Folgenden anzusehen.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "GOTTFRIED <i>der mit Schladritz schüchtern von hinten gekommen, fragt jetzt unmittelbar nach dem Worte »Graf Bolza« Schladritz halblaut.</i> Werd' ich nicht gehenkt?"
+          },
+          {
+            "typ": "kontext",
+            "text": "SCHLADRITZ <i>ebenso rasch und halblaut.</i> Noch nicht! Bist noch zu dumm!<br>PRINZ <i>ohne Beachtung dieser Worte fortfahrend.</i> Unsere Truppen sollen Ihnen, Graf Bolza, nicht begegnet sein. Aber Sie verlassen von nächster Stunde an Kursachsen und lassen sich in Deutschland nicht betreffen, soweit preußische Truppen reichen, wenn Ihnen Freiheit und Leben wert ist!<br>BOLZA. Königliche Hoheit –<br>PRINZ. Dies Wort ist unwiderruflich! Weiteres kann ich und will ich vor dem Könige nicht verantworten. Der harmlose Ausländer sei uns willkommen und wert; der räuberische Ausländer sei uns ein blanker Feind. Dies möge unsrer krankhaften Vorliebe für das bunte Fremdentum eine Lehre sein, <i>Zu Gellert, der am Stuhle steht, mit schwächerer Stimme.</i> wenn es für gründliche Fehler hilfreiche Lehre gibt.<br>GELLERT. Leider, leider!<br>PRINZ. Und nun zu ihm, <i>Nach Cato umsehend.</i> dem Gefährlichsten von allen! Kennen Sie die Flugschrift, Gellert, und können Sie für diesen leichtblütigen jungen Mann ein Wort der Entschuldigung sprechen?<br>GELLERT. Ich kenne die Schrift, und meine gar wohl <i>Hinter dem Prinzen zu Cato hinübergehend und dessen Hand ergreifend.</i> bürgen zu können für die brave Gesinnung dieses Mannes.<br>WILHELMINE. O Sie guter Gellert!<br>PRINZ <i>an den Stuhl gehend und Cato nicht ansehend.</i> Herr von Rothenhain, Ihre Feder ist gewandt! Unser Friedensgeschäft wird solcher Federn bedürfen. Wollen Sie zu uns treten und Ihre Flugschrift durch einen Nachtrag berichtigen?<br>CATO <i>einen Schritt vortretend.</i> Was soll ich berichtigen?<br>PRINZ. Was Sie <em>gegen</em> Preußen gesagt!<br>CATO <i>zwei Schritte rasch vorschreitend.</i> Damit nur Lob und Zufriedenheit übrigbleibe, wo Lob und Zufriedenheit eine Lüge, eine Freveltat an meinem Vaterlande wäre – das kann ich nicht! Lieber hinaus in die Verbannung, oder wohl gar in den Kerker! Lieber leiblich verderben als an der Seele Schaden leiden!<br>PRINZ <i>sich halb nach ihm umwendend.</i> Junger Mann! Seydlitz ist <em>von mir</em> beauftragt gewesen, Ihn zu verhaften, weil ich – <i>Mit freundlicher Stimme.</i> Ihn kennen lernen wollte – <i>Gellert, Gottsched, Frau Gottsched, Wilhelmine drücken durch ein leises »Ach!« ihr Erstaunen aus.</i> Weil ich Seine Flugschrift genau gelesen hatte, weil ich Seine politische Ansicht von Deutschland und Preußen <i>Auf Cato zutretend.</i> teile!<br>CATO. Königlicher Herr!<br>WILHELMINE. Gnädigster Herr! O Mutter!<br>GELLERT. O Sie vortrefflicher Mann!<br>PRINZ. Ich mußte doch sehn, ob das etwa nur geschriebene Redensarten wären, und ob man weiteres tun könne für solchen Brausekopf.<br>GELLERT <i>Cato und Wilhelminen bei der Hand ergreifend und dem Prinzen vorstellend, bittenden Tones.</i> Zum Beispiel, gnädigster Prinz!<br>PRINZ. Das ist nicht meines Amtes, lieber Gellert, und das muß – der Frau Gräfin überlassen bleiben, oder <i>Pause, einen Schritt auf sie zugehend.</i> – dem Gemahle der Frau Gräfin!<br>WILHELMINE <i>zum Prinzen stürzend und dessen Hand ergreifend.</i> O mein gnädigster Herr!<br>CATO <i>desgleichen tuend und dem Prinzen die Hand küssend.</i> Mein königlicher Retter!<br>GELLERT. Gott segne Sie, mein Prinz!<br>GRÄFIN <i>in großer Bewegung die Arme aufhebend.</i> Er ist aber von niedrem Adel; wird es konvenabel sein?<br>GELLERT <i>einfallend.</i> O mein Gott, er ist vom besten Adel!<br>PRINZ. Es wird sehr konvenabel sein.<br>BOLZA <i>hintenbleibend.</i> Königliche Hoheit, ich vermisse die Gerechtigkeit gegen mich! Solch ein Ausländer wird belohnt, fast weil er Ausländer ist, und ich werde –<br>CATO. Ich bin kein Ausländer.<br>GELLERT. Hier ist kein Ausländer weiter!<br>PRINZ. Nein, hier ist sonst keiner! Der deutsche Gast bei uns sollte nimmermehr Ausländer heißen! Können wir diesen Eigensinn der hundertfältigen Souveränität austreiben, dann wird unser Reich die Macht einnehmen, welche ihm gebührt. Gott mag wissen, ob es uns gelingt: denn das Übel sitzt in harter und vielfach respektabler Schale. Aber trachten sollen wir auch in diesem Sinne nach Macht und Herrlichkeit und zwar mit Feder und Schwert. Was wir vielleicht nicht erleben, das erleben doch am Ende unsre Kinder oder Kindeskinder, ein nicht nur einiges, sondern auch starkes deutsches Reich!<br>GELLERT <i>in große Bewegung geratend bei dieser Rede, winkt bei den Worten »Ausländer heißen« Siegmund, nach hinten deutend und die Pantomime des Blasens machend. Dieser wiederholt die Pantomime nach der Tür hin.</i><br>GELLERT <i>sehr lebhaft und schnell.</i> Ja, wir sind ein Volk von Brüdern vom bleichen Sande der Memel bis an die dunklen Wälder der Vogesen!<br>CATO <i>sehr rasch und lebhaft einfallend.</i> Von der grünen Nordsee bis an das blaue Adriatische Meer!<br>PRINZ <i>ebenso.</i> Ein einig Volk von Brüdern, <i>Den Hut abnehmend.</i> das gebe Gott! <i>Fanfare.</i><br>GELLERT, CATO UND PRINZ. Es lebe unser deutsches Vaterland!<br>ALLE. Es lebe unser deutsches Vaterland!<br><i>Der Vorhang fällt rasch.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(5. Akt, 5. Szene)</b>"
+          }
+        ]
+      },
+
+      {
+        "id": "GottschedGellert02",
+        "theaterstück": {
+          "titel": "Gottsched und Gellert. Charakterlustspiel in fünf Akten",
+          "zeit": "1845",
+          "druckort": "",
+          "auffuehrungshinweise": "Der Schauplatz ist in Leipzig 1762; "
+        },
+        "autor": {
+          "name": "Heinrich Laube",
+          "herkunft": "Omd.",
+          "orte": "Sprottau (Schlesien)",
+          "lebensdaten": "1806–1884"
+        },
+        "figur": {
+          "name": "Magd",
+          "rolle": "Katharina",
+          "beschreibung": "Jungemagd in Gottscheds Hause; spricht Sächsisch"
+        },
+        "dialekt": {
+          "adaption": "Heteroadaption",
+          "dialekt_grossraum": "Omd."
+        },
+        "geokoordinaten": {
+          "herkunft_autor": {
+            "lat": 51.565,
+            "lng": 15.5375
+          },
+          "herkunft_figur": { 
+            "lat": null,
+            "lng": null
+          }
+        },
+        "abschnitt": "[tbd]",
+        "original_link": "https://dracor.org/ger/laube-gottsched-und-gellert#text",
+        "abschnitt_segmentiert": [
+          {
+            "typ": "figurtext",
+            "text": "<b>Zweiter Akt.<br>Siebente Szene.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Katharina in Marketenderinkleidung. Die Vorigen.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA. Da sind wir! Da sind wir! Das ganze Regiment, die ganze Armee und ich auch!"
+          },
+          {
+            "typ": "kontext",
+            "text": "SCHLADRITZ <i>bei den letzten Worten einfallend.</i> Die Kathrine, die Kathrine, juchhe!<br>GOTTSCHED. Katharina, Sie wagt es!?<br>FRAU GOTTSCHED. Käthe, du bist es?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA <i>in der Mitte aus dem Kreise vortretend; der Kreis schließt sich hinter ihr mit Schladritz.</i> Empfehle mich allerseits! Empfehle mich. Herr Professor! Sehen Sie nicht so grimmig aus, 's nützt Ihnen doch nichts, die Seydlitzer sind da, und unser General hat Sie auf dem Strich; wenn die Kathrine nicht hilft, wird's schlimm genug um Sie aussehen!"
+          },
+          {
+            "typ": "kontext",
+            "text": "SCHLADRITZ. Die Käthe ist prächtig!<br>FRAU GOTTSCHED. Mädchen!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA. Ach, meine vortrefflichste Frau Professern, lassen Sie mich Ihre Hand küssen, und vergeben Sie mir ja, daß ich Ihnen fortgelaufen bin! Aber Liebe ist Liebe, und Krieg ist Krieg, und man will doch vorwärts! Lange hat's ja auch nicht gedauert, leider! und da bin ich schon wieder, und jetzt bin ich wahrhaftig für Ihr Haus vierteljährig drei Taler mehr wert; denn ich bin so gut wie 'ne Salvegarde gegen die Soldaten, und jetzt gibt's doch auf wer weiß wie lange nur Soldatenregiment in Leipzig; sehen Sie mich freundlich an, Frau Professern, ich mein's mit keinem Menschen so gut als mit Ihnen! <i>Ihr mehrfach die Hand küssend.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "FRAU GOTTSCHED. Wunderliches Mädchen, läufst mit den Soldaten in die weite Welt –"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA. Ich bin ja nur mit meinem Vetter, dem Wachtmeister, gegangen, der mich von jeher hat heuraten wollen, und der mich auch noch heuraten wird, wenn ich nicht unter der Zeit einen jüngeren finde; 's ist 'ne ehrliche Haut, der Siegmund, und 's ist ja nicht seine Schuld, daß niemand heuraten darf, solange die Campagnen dauern, und daß es in alle Ewigkeit nicht mehr Friede werden will! Halten Sie den Siegmund warm, Herr Professor, 's wird gar nicht lange dauern, da wird er hier sein bei Ihnen auf Kommando zur Untersuchung gegen Sie."
+          },
+          {
+            "typ": "kontext",
+            "text": "FRAU GOTTSCHED. Was? Mädchen!<br>GOTTSCHED. Hier bei mir!<br>SCHLADRITZ. Die Käthe ist göttlich! <i>Der Trompetenmarsch kommt näher.</i><br>GELLERT. Ein Wachtmeister zur Untersuchung gegen einen Professor!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA. Hören Sie, meine Leute! <i>Geht an den Tisch und schenkt sich ein Glas Wein ein.</i> wie sie blasen! Das ist der Seydlitzer Marsch, den kennt man von Roßbach her! Kriegt man auf der Landstraße einen Durst! <i>Schladritz tritt zu ihr und nimmt die Flasche.</i> Brr! Schladritz, das ist sehr vaterländisches Gewächs! Bei unsrer Bagage haben wir beßres!"
+          },
+          {
+            "typ": "kontext",
+            "text": "SCHLADRITZ. Mach' keine Umstände, Käthe, noch eins! <i>Trompetenmarsch ganz nahe.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA. Hurra, jetzt schwenken sie ab in die Ritterstraße, um unten auf dem Brühle zu biwakieren! Dort von den Fenstern <i>Auf das erste Zimmer rechts, das der Professorin, deutend; es steht offen.</i> der Frau Professern können Sie unsre Leute sehen, meine Herrschaften, und können auch gleich sehen, ob der Wachtmeister vom zweiten Zuge herüberschwenkt mit einem Pikett, um unsre Haustür zu besetzen, damit niemand mehr entwischen kann."
+          },
+          {
+            "typ": "kontext",
+            "text": "BOLZA. Was soll das?<br>GOTTSCHED. So weit wäre es schon!<br>SCHLADRITZ. Die Käthe ist himmlisch!<br>FRAU GOTTSCHED. Du übertreibst, Katharine!<br>GRÄFIN. Mein Gott, mein Gott!<br>GELLERT. Unerhört!<br>CATO. Zum Teufel auch!<br>SCHLADRITZ. Die Käthe ist einzig! <i>Alles drängt sich nach der Tür rechts; Gottsched tritt zuerst ein, dann die Gräfin, dann Gellert, Wilhelmine bleibt links im Hintergrunde. Cato rechts im Vordergrunde; Bolza ist unschlüssig an den Tisch vorgetreten, ihm zunächst zur Rechten, also vom Zuschauer aus links, Schladritz; neben dessen Rechten, also vom Zuschauer links, Katharina.</i><br>FRAU GOTTSCHED <i>ihre Stellung zur äußersten Linken verlassend und vor dem Tische nach rechts hinübergehend, zu Bolza.</i> Dann müßten Sie gleich aus dem Hause! <i>Ab in ihr Zimmer.</i><br>BOLZA. Jawohl! <i>Ab ebendahin.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA <i>unbemerkt von den Übrigen.</i> Herr Je, Graf Bolza?"
+          },
+          {
+            "typ": "kontext",
+            "text": "SCHLADRITZ <i>der sie im Auge gehabt und dies allein gehört hat, führt sie rasch einen Schritt vor, links vom Tische.</i> <em>Bolza</em> heißt er?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA. Freilich! Der uns in Dresden so schön die Kur gemacht, mir und der Frau Professern!"
+          },
+          {
+            "typ": "kontext",
+            "text": "SCHLADRITZ. Siehst du wie du bist! Nun weiß ich was!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA. Hat Er 'nen Stich, Schladritz?! Fix 'naus vors Haus, daß ich meinem Wachtmeister unsre Wohnung zeige, fix! <i>Ab.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "SCHLADRITZ. Jetzt weiß ich was! Ei Käthe, jetzt wird's fidel! <i>Ab mit ihr.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(2. Akt, 7. Szene)</b><br><br>"
+          },
+          
+          {
+            "typ": "figurtext",
+            "text": "<b>Zweiter Akt.<br>Neunte Szene.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Gottsched hastig eintretend, Gellert ihm folgend. Die Vorigen; dann Gräfin, Frau Gottsched, Bolza, zuletzt auch Katharina und Schladritz.</i><br>GOTTSCHED. Sie sind vorbei! Es war eine Lüge mit dem Pikett vor der Haustür! <i>Auf Wilhelminen zugehend.</i> Nun, meine gnädigste kleine Komtesse, werden wir Zeit gewinnen, den Träumen unsers Herzens nachzudenken!<br>WILHELMINE <i>verwundert.</i> Herr Professor!<br>CATO <i>für sich.</i> Getäuschter Geck!<br>GELLERT. Eine Viertelstunde Aufschub gewonnen – rüsten wir uns um nichts weniger! <i>Katharina und Schladritz treten ein.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA. Mein Wachtmeister hat mir zugerufen, Herr Professor, wir möchten nur alles in Bereitschaft halten, in einer Viertelstunde würde er wohl hier sein mit zwei Trompetern!"
+          },
+          {
+            "typ": "kontext",
+            "text": "GOTTSCHED. Was?<br>GELLERT. Da haben wir's!<br>FRAU GOTTSCHED. Wahrhaftig?<br>BOLZA. Dennoch?<br>SCHLADRITZ. 's ist richtig, ich hab's gehört.<br>GOTTSCHED. Hier?<br>BOLZA. Wie ist denn das möglich?! Die Protestation auf dem Rathause kann ja dem General noch gar nicht bekannt sein!<br>SCHLADRITZ. Man wünscht vielleicht nur Ihre Bekanntschaft zu machen, Herr Graf – <i>von Bolza</i>!<br>GELLERT. Bolza!<br>GRÄFIN. Graf Bolza!<br>WILHELMINE. Graf Bolza!<br>CATO. Bolza!<br>GOTTSCHED <i>zu Schladritz.</i> Canaille!<br>FRAU GOTTSCHED. Verraten!<br>CATO <i>für sich.</i> Da haben wir's! Graf Bolza, den die Preußen überall suchen! Nun ist die Gefahr vollständig!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA. Ihre gehorsame Dienerin, Herr Graf Bolza!"
+          },
+          {
+            "typ": "kontext",
+            "text": "GOTTSCHED <i>einen Schritt vortretend, für sich.</i> Die Seydlitzer wissen also, daß Bolza bei mir ist! Nun ist's vorbei! <i>Kurze Pause.</i><br>SCHLADRITZ <i>für sich.</i> Das schlägt ja ein wie der Blitz! Käthe, wir haben am Ende einen dummen Streich gemacht – aber vom Fortjagen spricht er nicht mehr! <i>Vortretend.</i> Herr Professor, die Suppe wird kalt! <i>Der Vorhang fällt.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(2. Akt, 9. Szene)</b><br><br>"
+          },
+          
+          {
+            "typ": "figurtext",
+            "text": "<b>Dritter Akt.<br>Erste Szene.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Frau Gottsched. Gellert. Gräfin. Gottsched. Wilhelmine. Bolza. Cato. Katharina. Schladritz. Man steht eben vom Tische auf und sagt gegenseitig:</i> Gesegnete Mahlzeit! – Wünsche ergebenst gesegnete Mahlzeit! <i>Die Herren haben noch die Servietten umgesteckt. Cato hält die erste Tür rechts offen, durch welche die Gräfin mit Wilhelmine abzugehen Anstalt macht und dann abgeht.</i><br>GRÄFIN. Darf ich bitten, Herr Graf von Bolza, mir einige Minuten zu schenken!<br>BOLZA <i>für sich.</i> Mein Gott, eben jetzt in solcher Not!<br>FRAU GOTTSCHED <i>darauf hin sehend und hörend, für sich.</i> 's ist ganz richtig!<br>BOLZA <i>verbeugt sich gegen die Gräfin, reicht ihr die Hand und führt sie hinein.</i><br>WILHELMINE <i>folgend, sagt an der Tür zu Cato leise.</i> Komm mit hinein, Fritz!<br>CATO <i>leise.</i> Nicht doch! Ich kann ja nicht! <i>Wilhelmine ab.</i><br>GOTTSCHED <i>sich auf den Sessel werfend.</i> Welch eine Qual, in solcher gegründeten Spannung Tafel halten und Konversation machen zu müssen, weil die vornehme Dame keine Rücksicht nimmt auf unsere Gemütsverfassung und Not! <i>Den Dienern zurufend.</i> Die Serviette!<br>SCHLADRITZ <i>stürzt herbei.</i> Zu Befehl! <i>Und löst die Stecknadeln, welche die Serviette halten. Gottsched sieht ihn dabei grimmig an, so daß er einen Moment zurückfährt, als habe er sich gestochen.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA <i>leistet unterdes denselben Dienst Gellert, und schneller fertigwerdend, sagt sie am Schluß.</i> Ihre Dienerin, Herr Professor! <i>Cato geht sacht hinten hinaus.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "GOTTSCHED <i>zu Schladritz.</i> So lange in meinem Dienst, und weiß noch nicht, daß einer Reichsgräfin kein Meißner Wein vorzusetzen ist!<br>SCHLADRITZ. Aber erste Qualität –!<br>GOTTSCHED <i>aufstehend.</i> Fort! – Hinweg mit der Tafel und abräumen, und dann mit der Jungemagd aus dem Zimmer!<br>SCHLADRITZ <i>prallt zurück.</i><br>Auf der Stelle! <i>Er faßt mit Katharina den Tisch und trägt ihn hinten an die alte Stelle an der Wand, ihn dort hastig abräumend mit Katharina.</i><br>GOTTSCHED <i>winkt seiner Frau und Gellert und tritt zwischen ihnen mitten in den Vordergrund, sich umsehend wegen der Dienstboten und deshalb halblaut.</i> Es muß gehandelt werden!<br>GELLERT. Jawohl!<br>FRAU GOTTSCHED. Aber wie?<br>GOTTSCHED. Der Schreck wegen des Grafen Bolza war also, wie wir gesehn, nur ein blinder Schuß und nicht gefährlich. Die Katharine hat ihn nur eben erkannt, aber es steckt doch von außen nichts dahinter, wie wir anfangs glaubten. Die Preußen wissen noch nichts von seiner Anwesenheit, und die Ankündigung des Wachtmeisters mit dem sogenannten Pikett war eine Prahlerei des Frauenzimmers, so beim Regiment wohl gehört hat, der General wolle mir gern aus Kleid. Es erschreckte uns nur so, weil es mit der fatalen Erkennung Bolzas zusammentraf, während der etwaige Besuch des Wachtmeisters nichts weiter sein wird, als ein Besuch bei seinem Schatze. Die <em>Gefahr</em> mit Bolza aber bleibt bestehn, und die nächste Aufgabe ist also <i>Sich umsehend.</i> daß wir die drei Leute <i>Mit dem Finger über die Schulter nach hinten weisend.</i> vornehmen und aufs Feierlichste verpflichten, nur einen Grafen Balthasar zu kennen, nicht wahr?<br>FRAU GOTTSCHED. Jawohl!<br>GELLERT. Ja ja, aber –<br>GOTTSCHED. Aber, freilich aber! 's ist bös genug, daß ein bedrohliches Geheimnis drei Mitwisser hat und zwar Dienstleute, und darunter einen Bengel, den ich aus dem Hause jagen will, und den ich nun schonen muß. Aber steht das jetzt zu ändern? Antwort: Nein! Die Antwort führt zur zweiten Sorge. Diese heißt: Graf Bolza muß nun aus diesem Hause!<br>GELLERT. Wohl wahr!<br>FRAU GOTTSCHED. In diesem Augenblicke, da seine Feinde die ganze Stadt anfüllen!<br>GOTTSCHED. Kannst du dich auf den vorlauten Schwätzer, den Schladritz, verlassen, auch wenn er Stillschweigen gelobt hat? Kennen wir diesen so befremdlichen Cato? Willst du für diese Katharine stehn, welche mit den Kürassieren verkehrt, he?<br>FRAU GOTTSCHED. Alles richtig –<br>GELLERT. Und 's ist noch mehr!<br>FRAU GOTTSCHED. Warum hörtest du heute morgen nicht auf mich! –<br>GOTTSCHED. Heute morgen! Jetzt ist's heute mittag! Heut' morgen standen die Sachen anders!<br>FRAU GOTTSCHED. Aber wo soll er hin?<br>GOTTSCHED. Das wollen wir eben überlegen; zu nächst aber erst Numero Eins ausführen. <i>Zurücksehend und gehend, laut.</i> Schladritz! Katharina! Cato!<br>SCHLADRITZ. Hier, Herr Professor!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA. Hier, Herr Professor!"
+          },
+          {
+            "typ": "kontext",
+            "text": "GOTTSCHED. Wo ist der Cato?<br>CATO <i>eintretend.</i> Hier, Herr Professor!<br>GOTTSCHED. Tretet alle drei hierher <i>Auf die rechte Seite deutend.</i> und hört mit Bedacht, und antwortet mit Bedacht!<br>SCHLADRITZ. Wir hören mit Bedacht!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA. Wir hören mit Bedacht!"
+          },
+          {
+            "typ": "kontext",
+            "text": "CATO. Wir hören mit Bedacht!<br>GOTTSCHED <i>nimmt sich einen Stuhl und setzt sich in die Mitte des Theaters. Gellert und Frau Gottsched bleiben zur Linken.</i> Paßt auf! Ihr kennt den Grafen Bolza <em>nicht</em>!<br>SCHLADRITZ. Ja, wir kennen ihn."
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA. Ja, wir kennen ihn!"
+          },
+          {
+            "typ": "kontext",
+            "text": "GOTTSCHED <i>ungeduldig.</i> Ihr kennt ihn also nicht mehr!<br>SCHLADRITZ. Freilich kennen wir ihn noch!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA. Warum denn nicht?"
+          },
+          {
+            "typ": "kontext",
+            "text": "SCHLADRITZ. Wir haben ihn ja eben erst kennen gelernt; so schnell vergessen wir unsre Bekanntschaften nicht.<br>GOTTSCHED. Schweigen soll Er und hören!<br>SCHLADRITZ. Ja – wir sollen aber auch antworten – mit Bedacht!<br>GOTTSCHED. Also bedenk' Er sich! Das heißt mit Bedacht! – Graf Bolza ist ein sehr vornehmer Herr, den die Feinde dieses Landes gern beschädigen möchten.<br>SCHLADRITZ <i>halblaut.</i> Beschädigen?<br>GOTTSCHED <i>sieht ihn strafend an, Schladritz tritt einen halben Schritt zurück.</i> Diese Feinde dürfen also durchaus nicht wissen, daß er hier sei, versteht ihr? Und damit es die Feinde nicht wissen, darf es kein Mensch wissen, versteht ihr?<br>SCHLADRITZ <i>greift sich an den Kopf, als mache ihm das Verständnis Schwierigkeit.</i><br>GOTTSCHED. Er versteht wohl noch nicht?<br>SCHLADRITZ. Nur zu, Herr Professor, nur zu!<br>GOTTSCHED. Ihr also alle dürft durchaus nicht mehr wissen, wer der Graf Bolza sei, und daß jener <i>Auf die Tür deutend.</i> Graf Bolza heiße –<br>SCHLADRITZ. Das wissen wir ja aber!<br>GOTTSCHED <i>aufspringend.</i> Dummkopf! <i>Trägt seinen Stuhl links auf die Seite, so daß er nicht sieht, wie Schladritz ihm ein Schnippchen schlägt, als habe er ihn bloß zum besten.</i><br>GELLERT. Das ist schon recht, aber Ihr sollt's niemand –<br>SCHLADRITZ. Niemand sagen! – Ja, das ist was andres!<br>GOTTSCHED. Nun denn – jetzt sammelt all' eure Aufmerksamkeit, ihr guten Leute, und versprecht mir dies feierlich mit erhobener rechter Hand <i>Sie heben die Hände auf.</i> feierlich; denn es kann ein Menschenleben auf dem Spiele stehn, versprecht ihr's?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA. Wir versprechen's!"
+          },
+          {
+            "typ": "kontext",
+            "text": "CATO. Wir versprechen's!<br>SCHLADRITZ. Wir versprechen's – feierlich!<br>GOTTSCHED. Der Herr da heißt Graf Balthasar, und nur wenn er gesehen wird, sonst aber und überhaupt existiert er gar nicht!<br>SCHLADRITZ. Überhaupt?<br>GOTTSCHED. Will Er?!<br>SCHLADRITZ. Ja ja, 's ist schon recht, nur etwas hoch.<br>GOTTSCHED. Jetzt, Schladritz, verriegle Er die Vorsaaltür, daß uns niemand überraschen kann!<br>FRAU GOTTSCHED. Verriegeln?<br>GELLERT. Verriegeln?<br>SCHLADRITZ. Am hellen Tage?<br>GOTTSCHED. Nur für eine Viertelstunde, auf daß wir ungestört unsre Vorbereitungen wegen des Grafen treffen können.<br>SCHLADRITZ. Aber wenn jemand klingelt?<br>GOTTSCHED. So ist niemand zu Hause.<br>SCHLADRITZ. Aber wenn man uns hört?<br>GOTTSCHED. Mensch, man soll Euch nicht hören! Ihr eßt Eure Mahlzeit in der Küche unter vollständigem Stillschweigen und erwartet meine weiteren Befehle, marsch! <i>Cato und Katharina ab.</i><br>SCHLADRITZ <i>abgehend, aber an der Tür umkehrend.</i> Aber wenn's mehrmals klingelt, Herr Professor?<br>GOTTSCHED. Einerlei, ihr seid taub!<br>SCHLADRITZ. Taub. <i>Gehend und wieder umkehrend.</i> Auch wenn die Kürassiere kommen mit blanken Säbeln, und den Herrn Grafen Bolza, welcher nicht existiert, das heißt den Herrn Grafen Balthasar suchen –?<br>GOTTSCHED. Zuriegeln!<br>SCHLADRITZ. Der Wachtmeister Siegmund hat doch vorhin im Vorbeireiten der Katharina zugerufen, er werde bald hier sein! <i>Die letzten Worte rasch und mit erhobener Stimme, da er sieht, Gottsched wolle ihn unterbrechen.</i><br>GOTTSCHED. Zuriegeln, Mensch!<br>SCHLADRITZ. Gut. <i>Ab.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(3. Akt, 1. Szene)</b><br><br>"
+          },
+          
+          {
+            "typ": "figurtext",
+            "text": "<b>Dritter Akt.<br>Dritte Szene.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Katharina. Die Vorigen. Bald darauf Schladritz – zuletzt Cato.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA <i>vorsichtig rückwärts nach dem Saal hinausblickend tritt ein, kommt dann auf den Zehen bis zu Gottsched und sagt zu ihm leise.</i> Es hat geklingelt!"
+          },
+          {
+            "typ": "kontext",
+            "text": "GELLERT <i>leise.</i> Das haben wir gehört!<br>GOTTSCHED <i>ebenso.</i> Wer mag es sein?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA <i>alle drei der Reihe nach ansehend.</i> Ich weiß es nicht!"
+          },
+          {
+            "typ": "kontext",
+            "text": "GOTTSCHED <i>nach der Tür sehend, die sich öffnet, zu Katharina.</i> Still! <i>Er winkt ihr, daß sie links von ihm zurücktritt.</i><br>SCHLADRITZ <i>schließt vorsichtig die Tür und kommt vorsichtig vor.</i><br>GOTTSCHED, FRAU GOTTSCHED UND GELLERT <i>leise.</i> Nun?<br>SCHLADRITZ. Es hat geklingelt!<br>GOTTSCHED. Mensch, das wissen wir ohne Ihn! <i>Immer halblaut.</i> Weiß Er, wer's sein kann?<br>SCHLADRITZ <i>erst alle ansehend, dann leise.</i> Ja!<br>GOTTSCHED, FRAU GOTTSCHED UND GELLERT. Nun?<br>GOTTSCHED. Wer?<br>SCHLADRITZ. – Eine Mannsperson!<br>GOTTSCHED. Warum?<br>SCHLADRITZ. Die klingelnde Person hat einen Stock, mit dem hat sie – <i>Laut.</i> aufgestoßen!<br>GOTTSCHED. Still! <i>Es klingelt wieder. Alle fahren zusammen.</i> – – Die Person ist ungeduldig, es ist also eine Person von Wichtigkeit – was tun?<br>GELLERT <i>etwas lauter.</i> Ja, jetzt ist nichts zu tun. Sie haben einmal dies unpraktische System des Nichtzuhauseseins angenommen, nun müssen wir's auch konsequent durchführen.<br>GOTTSCHED <i>leise zu Schladritz.</i> Weiß Er keine Ritze, oder kein Loch in der Türe?<br>SCHLADRITZ. O ja – das Schlüsselloch!<br>GOTTSCHED. Ach! – oder sonst ein stilles Mittel, um zu erspähen, wer es sei.<br>SCHLADRITZ <i>leise.</i> Über der Saaltür ist ein Fenster; wenn ich einen Schemel leise hinbringen und hinuntersehen könnte –<br>GOTTSCHED. Versuch Er das, aber mit äußerster Vorsicht – <i>Schladritz geht.</i> hört Er!<br>SCHLADRITZ. Ja doch, ich ziehe die Schuhe aus. <i>Ab.</i><br>GELLERT <i>zu Gottsched.</i> Aber Verehrtester –<br>GOTTSCHED. Es könnte ja eine Botschaft sein vom Rektor Magnifikus, oder von einem unsrer Freunde, kurz, es könnte ja Rat und Hilfe für uns sein!<br>FRAU GOTTSCHED <i>alle bleiben auf ihren Seitenplätzen.</i> Und der Graf ist fortwährend unbekümmert bei den Damen, während hier sein Kopf auf dem Spiele stehen kann.<br>GELLERT. Was könnt' er hier nützen! <i>Erneutes Klingeln.</i><br>CATO <i>tritt vorsichtig ein; etwas lauter als die Übrigen.</i> Dieser Schladritz setzt ja alles aufs Spiel; er tappt mit einem Schemel dergestalt umher, daß man notwendig draußen hören muß, es sei jemand zu Hause!<br>FRAU GOTTSCHED <i>zu Gottsched.</i> Da siehst du's!<br>GELLERT <i>zu Gottsched.</i> Sehen Sie!<br>GOTTSCHED. Es geht ja nicht anders! – der Tölpel!<br>GELLERT. Da ist er!<br>SCHLADRITZ <i>auf den Zehen und nur mit einem Stiefel kommend, zur Stille winkend und bis in die Mitte vorkommend. Alle treten einen Schritt näher und bilden einen Halbkreis.</i><br>GOTTSCHED, FRAU GOTTSCHED, GELLERT, CATO UND KATHARINA. Nun?<br>GOTTSCHED. Was hat Er gesehn?<br>SCHLADRITZ. Einen Hut!<br>GOTTSCHED. Weiter nichts?<br>SCHLADRITZ. Noch mehr!<br>GOTTSCHED. Was?<br>SCHLADRITZ. Einen grünen Federbusch auf dem Hute! –<br>GOTTSCHED. Weiter!<br>SCHLADRITZ. Ja weiter kann man nicht – <i>Lauter.</i> ich kann doch nicht um die Ecke sehen! Der Mensch steht ganz nahe an der Tür; oben wird er alle, und unten verdunkelt er das ganze Schlüsselloch! <i>Allgemeines Zeichen der Enttäuschung.</i><br>SCHLADRITZ. Aber <i>Erneute Aufmerksamkeit.</i> ich hab' ihn <em>gehört</em>!<br>ALLE. Nun?<br>GOTTSCHED. Was sprach er?<br>SCHLADRITZ. Er spricht deutsch!<br>ALLE <i>verächtlich.</i> Ach!<br>GOTTSCHED. Hausnarr!<br>SCHLADRITZ. Nicht bloß deutsch, er spricht wie ein Landeskind; denn er sagte vor sich hin: Herr Jees, ob die Leite nich ufmachen wern?! <i>Kurze Pause.</i><br>CATO <i>laut.</i> Ich erkenne ihn, den müssen wir sprechen! <i>Ab.</i><br>GOTTSCHED. Mensch!<br>FRAU GOTTSCHED. Cato!<br>GELLERT. Leichtsinniger!<br>SCHLADRITZ <i>laut.</i> Da haben wir's, da hebt der Nichtsnutz die ganze Belagerung auf, die uns so viel Mühe gekostet!<br>GOTTSCHED. Still! <i>Man hört die Stimmen; alle horchen.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA. Mein Vetter Siegmund ist das nicht!"
+          },
+          {
+            "typ": "kontext",
+            "text": "GOTTSCHED. Still!<br>CATO <i>tritt ein, ganz laut.</i> Herr Professor!<br>ALLE. Nun?<br>GOTTSCHED. Wer ist's?<br>CATO <i>kommt in der Mitte nach vorn, neben ihm Gottsched.</i><br>GOTTSCHED <i>dringend.</i> Wer ist's?<br>CATO. Es ist der Ratsdiener, welcher mich heute morgen beim Herrn Bürgermeister eingeführt hat. Der Herr Bürgermeister schickt ihn an den Herrn Dekan mit folgendem Auftrage: Die Protestation sei dem General Seydlitz übergeben worden und habe diesen so in Zorn gesetzt, daß man das Schlimmste befürchte. Die ganze Stadt könne darunter leiden. Der Herr Bürgermeister lasse also den Herrn Senior Gottsched bitten, sich doch unverzüglich zu ihm aufs Rathaus zu bemühen, damit man Rücksprache nehmen könne, wie das Unwetter vielleicht noch einigermaßen zu beschwichtigen sei. Der Herr Senior möchten doch ferner – den Herrn Grafen Bolza sogleich mitbringen.<br>GOTTSCHED. <em>Man weiß es!?</em><br>FRAU GOTTSCHED. O mein Gott!<br>GELLERT. Das ist sehr schlimm!<br>CATO. General Seydlitz habe bereits zuverlässig Kunde, daß sich der Graf hier im Hause befinde!<br>GOTTSCHED <i>Schladritz an der Brust fassend.</i> Verräterischer Diener!<br>SCHLADRITZ. Soll mich Gott strafen, Herr Professor, ich bin unschuldig wie ein neugeboren Kind, ich habe keinem Menschen was gesagt! –"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA. Ich auch nicht, Herr Professor, so wahr ich Katharina Schwebel heiße!"
+          },
+          {
+            "typ": "kontext",
+            "text": "GOTTSCHED <i>zu Cato.</i> Dann ist Er selbst der Verräter!<br>CATO. Gewiß nicht, mein Herr! Das wird ganz anders zusammenhängen, und ich glaube es auch zu erraten.<br>GOTTSCHED. Wie denn?<br>GELLERT. Sprech Er!<br>CATO. Sie haben heute morgen einen Reitknecht expediert, nicht wahr? <i>Zeichen des starren Schreckens bei Gottsched und Frau. Kurze Pause.</i> Dieser hat vielleicht den Grafen Bolza hier gesehn, wohl auch gesprochen –? Nun, der Reitknecht ist wahrscheinlich den hereinrückenden Seydlitzern begegnet, und von ihm werden sie wohl das Nötige er fahren haben.<br>GOTTSCHED <i>stöhnend.</i> Frau!<br>FRAU GOTTSCHED <i>in Bestürzung.</i> Gottsched!<br>CATO. Dies zur Erklärung. Nun weiter im Auftrage. Sie möchten sich – ich spreche zu Ihnen, Herr Professor! – Sie möchten sich ja beeilen, mit dem Grafen aufs Rathaus zu kommen, damit jeder Schein von Widersetzlichkeit verschwände und dadurch jeder Gewaltsamkeit vorgebeugt werde; denn der General habe schon Order gegeben, Kürassiere in dies Haus zu schicken, und diese würden schwerlich noch lange auf sich warten lassen. <i>Pause.</i><br>GOTTSCHED. Ich bin ein verlorener Mann!<br>FRAU GOTTSCHED. Was willst du tun, Gottsched?<br>GOTTSCHED. Weiß ich das? Was ist da zu tun? Wir sind gefangen, wir sind verloren!<br>SCHLADRITZ. Wenn wir was nützen könnten, lieber Herr Professor –"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA. Wir gehen durch's Feuer für Sie, Frau Professern –"
+          },
+          {
+            "typ": "kontext",
+            "text": "GOTTSCHED. Ach was könnt Ihr! <i>Zu Gellert.</i> Kollege, was raten Sie? Was kann ich tun, als den Grafen bei der Hand nehmen und hinüberführen.<br>FRAU GOTTSCHED. Um Gottes willen!<br>GELLERT. Den Gastfreund ausliefern, Herr Kollege!<br>GOTTSCHED. Und auch dabei lauf' ich noch die größte Gefahr; denn wenn ich ihn aufs Rathaus zum Bürgermeister bringe, so gerate ich mitten unter die Soldateska, die dort ihr Hauptquartier aufzuschlagen pflegt, und werde vielleicht zum Hohn der Akademie festgehalten und mißhandelt!<br>GELLERT. Und haben das Gastrecht verraten!<br>FRAU GOTTSCHED. Die versprochene Treue gebrochen!<br>GOTTSCHED. Laßt mich in Ruh' mit Deklamation! Was wäre denn außerdem noch übrig als – <em>Flucht</em>?! Und wie und wohin flüchten? Die ganze Stadt ist besetzt, die Tore sind besetzt, und 's ist noch heller Tag!<br>CATO. Und doch müssen Sie sich entschließen, Herr! In jeder Minute können die Kürassiere kommen. – Noch eins! <i>Er geht zum Schreibtische und schreibt.</i> Der Ratsdiener verlangt für den Herrn Bürgermeister eine schriftliche Bescheinigung, daß er seinen Auftrag vor Ankunft der Kürassiere ausgerichtet.<br>GOTTSCHED. Ach was! Er soll zum Teufel gehn!<br>CATO <i>aufstehend und ihm die Feder präsentierend.</i> Es betrifft diejenige Behörde, Herr Professor, welche Sie <em>schützt</em>. Es ist nur Ihr Name zu unterschreiben – <i>Gottsched schickt sich dazu an und tut es stehend.</i> ich habe die Bescheinigung rasch auf gesetzt.<br>FRAU GOTTSCHED. Gottsched!<br>GELLERT. Was beschließen Sie?<br>GOTTSCHED. Was kann ich beschließen?! Ihr widersprecht mir ja in allem, Ihr hindert mich ja in allem, und man ist ja hier wie in einer Dorfschule! – Hinaus mit den Leuten! <i>Reicht Schladritz den Zettel.</i> Gellert, Frau, folgt mir in mein Zimmer, wir müssen uns doch zu etwas vereinigen. <i>Schladritz hat das Hinreichen des Zettels nicht gesehn.</i> Heda, Schladritz, pass' Er doch auf, jetzt brauch' ich ja jedermann!<br>SCHLADRITZ <i>erschrocken und beflissen.</i> Herr Jeses, Sie haben ja –<br>GOTTSCHED <i>ohne sich zu unterbrechen.</i> An den Ratsdiener! Und – wart' Er doch! – <i>Ihn vorführend, etwas leiser.</i> und geh' Er nachsehn, ob hinten die kleine Saaltür, versteht Er, die in den Bäckerhof und ins Vorderhaus hinüber führt –<br>SCHLADRITZ. Ja ja, zum Bäcker vorn auf die Grimmsche Gasse 'nüber –<br>GOTTSCHED <i>immer etwas leise.</i> Jawohl, ob diese selten gebrauchte Tür praktikabel ist.<br>SCHLADRITZ. Ne, wir haben unser ganzes Gerümpel vorgestellt von alten Tischen, Fässern und Kannen, und –<br>GOTTSCHED. Das räum' Er weg! Wir müssen unser Absehn auf diesen Ausgang richten, wir können ihn nötig brauchen –<br>SCHLADRITZ. Das nutzt nichts; die Tür ist auch vom Bäcker aus verriegelt.<br>GOTTSCHED. Auch das noch! Warum wohn' ich auch nicht mehr auf dem Sperlingsberge! – So mach' Er doch schnell!<br>SCHLADRITZ. Herr Jeses ja doch, ja doch! <i>Ab.</i><br>GOTTSCHED <i>zu Gellert und Frau.</i> So kommt doch, kommt, es ist ja die höchste Zeit! <i>Ab in sein Zimmer.</i><br>FRAU GOTTSCHED <i>ihm folgend, zu Gellert.</i> Was wird daraus, der hat den Kopf verloren!<br>GELLERT <i>mit ihr abgehend.</i> Gelassenheit, Gelassenheit, liebe Frau! <i>Beide links ab.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(3. Akt, 3. Szene)</b><br><br>"
+          },
+          
+          {
+            "typ": "figurtext",
+            "text": "<b>Dritter Akt.<br>Vierte Szene.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Cato. Katharine. Dann Wilhelmine; später Bolza.</i><br>CATO <i>hat schon vorher Katharina gewinkt, und während jene links abgehen, führt er sie rasch in den Vordergrund.</i> Katharine, will Sie mir einen Gefallen tun?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA. Will Er mich heuraten?"
+          },
+          {
+            "typ": "kontext",
+            "text": "CATO. Nein."
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA. Sei Er doch nicht so grob! Er ist ja ein hübscher Bursche, und Gott weiß, wenn einmal Friede wird und Vetter Siegmund Rat schaffen kann!"
+          },
+          {
+            "typ": "kontext",
+            "text": "CATO. Ich werde dir den Dienst, welchen ich wünsche, schon einmal vergelten, wenn mich nicht in dieser Konfusion der Teufel holt."
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA. Er wird doch nicht!"
+          },
+          {
+            "typ": "kontext",
+            "text": "CATO. Höre, Katharina! Draußen im Saalfenster <i>Sehr rasch.</i> liegen meine Habseligkeiten: ein Büchsenranzen, an dem nichts verloren geht, ein Paket, worin mein guter Rock, und ein Mantel, worein ein Degen gewickelt ist –"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA. Ein Degen?!"
+          },
+          {
+            "typ": "kontext",
+            "text": "CATO. Der kann hier gar bald nötig werden. Also höre: Ich weiß nicht, wohin ich gleich mit den Sachen soll, da sie in des Schladritz Kammer nicht sicher sind vor der Neugier des Bengels, und da ich nicht wünsche, daß sie von den Kürassieren gesehen werden. Besonders der Mantel nicht. Nimm die Sachen in deine Kammer und zeig' mir, wo du den Schlüssel hinlegst, willst du?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA. Ja doch! – <i>Zum Abgehen sich wendend.</i> und heuraten will Er mich nicht?"
+          },
+          {
+            "typ": "kontext",
+            "text": "CATO. Nein, mein Kind! Du sollst aber verheuratet werden! <i>Mit ihr zum Gehen sich wendend.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA. Wahrhaftig?"
+          },
+          {
+            "typ": "kontext",
+            "text": "WILHELMINE <i>hastig aus dem ersten Zimmer rechts, schon bei den Worten »Du sollst aber.«</i> Fritz, Fritz! Entdecke dich und schütze mich!<br>CATO. Wilhelmine!<br>WILHELMINE <i>ohne sich zu unterbrechen.</i> Weshalb ich an Gellert schrieb, das wird Ernst! Die Mutter sagt mir eben, dieser Bolza sei der ausländische Graf aus Dresden, an den ich verheuratet werden sollte, und ich sollte mich bereit erklären – das kann ich in alle Ewigkeit nicht!<br>CATO. Gute Wilhelmine!<br>WILHELMINE <i>ohne sich zu unterbrechen.</i> Tritt hervor! Endige dies betrügerische Wesen, welches mich peinigt, nimm mich offen in Schutz!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA <i>links, etwas im Hintergrunde.</i> Per Du! und Fritz! die Komtesse!"
+          },
+          {
+            "typ": "kontext",
+            "text": "CATO. Wilhelmine! Das soll heute noch geschehen, wenn du Mut hast, gegen Vater und Mutter zu mir zu treten – Katharina, meinen Mund, und meine Sachen beiseite!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA. Ja, ja! <i>Ab.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "WILHELMINE. Gegen Vater und Mutter?!<br>CATO. Hast du den Mut? – Wilhelmine! Hast du den Mut, unser Recht zu behaupten?<br>WILHELMINE. Nein, Fritz, ich muß ja Vater und Mutter gehorchen!<br>CATO. Das Weib soll Vater und Mutter verlassen und ihrem Gatten folgen!<br>WILHELMINE. Du bist ja aber noch nicht mein Gatte, du bist ja nur mein Geliebter. –<br>BOLZA <i>bei diesen Worten eintretend und sogleich rufend.</i> Komtesse Wilhelmine! – was heißt das?<br>WILHELMINE <i>Catos Hand ergreifend.</i> Hilf mir, Fritz, ich fürchte mich vor diesem Manne!<br>BOLZA <i>zu Cato.</i> Bursche!<br>CATO. Jetzt ist keine Zeit zu Erklärungen, Graf Bolza! Machen Sie sich fertig, dies Haus auf der Stelle zu verlassen, oder Ihre Freiheit mit dem Leben zu verteidigen!<br>BOLZA. Gegen dich, Bursche?!<br>CATO. <em>Jetzt</em> nicht gegen mich, mein Herr – später o ja!<br>BOLZA. Dreister Geselle, ich werde dir eine Lektion geben –<br>CATO. Vorlauter Graf, hören Sie, statt zu schwätzen. Jetzt gilt Ihre Rüstung den Seydlitzer Kürassieren, welche jeden Augenblick hier sein können – <i>Beim Worte »Augenblick« hört man wie von jenseit des Vorsaals kommend zwei Trompeten, welche binnen einer halben Minute so nahe kommen, daß sie an der Vorsaaltüre zu stehen scheinen.</i> – da sind sie!<br>BOLZA. Die Seydlitzer?!<br>CATO. Die Seydlitzer! Nun ist's zu spät! <i>Zu Wilhelmine, sie bei der Hand fassend und sie nach der Türe links führend.</i> Ins Zimmer zurück, und auch die Mutter solle ja nicht hier eintreten!<br>WILHELMINE. Ich will bei dir bleiben, Fritz!<br>CATO. Es geht nicht! Hinweg, Wilhelmine, ich bitte dich! <i>Wilhelmine ab.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA <i>mit dem zusammengewickelten Mantel, so daß man den Degen nicht bemerkt, hinten hastig eintretend.</i> Sie sind da! Sie sind da! Ich kann nicht mehr mit dem Mantel in meine Kammer! <i>Während Cato den Mantel ihr abnimmt, über die Bühne links nach vorn schreitet und den Mantel hinter das Sofa wirft, tritt ein von links.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(3. Akt, 4. Szene)</b><br><br>"
+          },
+          
+          {
+            "typ": "figurtext",
+            "text": "<b>Dritter Akt.<br>Fünfte Szene.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Gottsched. Frau Gottsched. Gellert. Es bleiben Cato, Bolza und Katharina; es kommen später Siegmund und Schladritz.</i><br>GOTTSCHED. Da haben wir's! Da haben wir's!<br>FRAU GOTTSCHED. Mein Gott, warum hast du gezögert!<br>GELLERT. Fassung! Fassung!<br>FRAU GOTTSCHED <i>zu Bolza.</i> Treten Sie doch wenigstens in Ihr Zimmer!<br>GOTTSCHED. Nein, um des Himmels willen, jetzt verschlimmert es ja nur die Sache, wenn er beim Visitieren gefunden wird!<br>FRAU GOTTSCHED. Aber vielleicht wird nicht visitiert!<br>BOLZA <i>die Hand am Degen.</i> Ich danke Ihnen, Madame, ich will den Herrn Professor so wenig als möglich kompromittieren! <i>Die Trompeten, welche einen Augenblick geschwiegen, beginnen den Dessauer Marsch von neuem, jetzt im Vorsaale. Es fährt bei diesem nahen Tone alles bestürzt auseinander und rangiert sich: links vorn am Sofa Cato, dann Frau Gottsched, dann Gellert, sämtlich auf der linken Seite – die Mitte bleibt frei – auf der rechten Seite, der Mitteltür zunächst, Bolza, dann Gottsched, dann Katharina ganz vorn. Pause. Man hört den Marsch. Schladritz reißt von außen unter Komplimenten die Tür auf, und Siegmund erscheint auf der Schwelle. Dies geschieht während der letzten Takte des ersten Teils vom Marsche. Dieser erste Teil wird nicht wiederholt, und mit den ersten Takten des zweiten Teils tritt Siegmund kurz an und marschiert gravitätisch mit dem Stock an die Stiefel schlagend und links und rechts blickend bis in den Vordergrund, nach dem Takte singend.</i> »Und wenn der alte Fritze kommt Und klopft sich auf die Hosen, So lauft die ganze Reichsarmee, Panduren und Franzosen!« <i>Beim letzten Takte tritt er scharf auf, macht halbe Wendung gegen die an der Tür erscheinenden Trompeter, vor denen Schladritz, sich die Ohren zuhaltend, ins Zimmer hereinweicht, erhebt den Stock und ruft.</i> Halt! – 's ist genug!<br>SCHLADRITZ <i>schließt unter Verbeugung gegen die außenbleibenden Trompeter die Tür.</i><br>CATO <i>jetzt erst einmal flüchtig nach Siegmund blickend, für sich.</i> Donnerwetter, auch grade derselbe! Nun wird's schlimm!<br>SIEGMUND <i>hält den Bescheinigungszettel, welchen vorhin Schladritz dem Ratsdiener hinausgetragen hat, in der Hand und liest.</i> »Daß der Ratsdiener Mohr seinen Auftrag vom Herrn Bürgermeister noch vor Ankunft der Kürassiere ausgerichtet, bescheinigt hiermit <em>Gottsched</em>.« – Erstes Beutestück? Wer ist Gottsched?<br>GELLERT <i>korrigierend.</i> Herr Professor Gottsched!<br>SIEGMUND <i>sieht sich nach Gellert um.</i><br>GOTTSCHED. Ich bin Gottsched und heiße ordentlicher Professor und Senior der philosophischen Fakultät –<br>SCHLADRITZ. Auch Dezemvir –<br>SIEGMUND. Still da!<br>SCHLADRITZ <i>fährt zurück.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA. Sei artig, Vetter, du bist hier bei ordentlichen, vornehmen Leuten!"
+          },
+          {
+            "typ": "kontext",
+            "text": "SIEGMUND. Kuckuck, Käthchen! <i>Wirft ihr eine Kußhand zu.</i> Bin im Dienst, Felddienst, da hört aller Krimskrams auf mit Titeln, da heißt's Nummer Eins, Nummer Zwei, was drüber ist, ist Luxus. – Professor Gottsched, ich bin kommandiert, in ihr Quartier zu rücken und erstens: Sie aufs Rathaus zu befehlen vors Generalkommando binnen jetzt und einer Stunde!<br>GOTTSCHED. Meine Behörde ist Senat und Rektor Magnifikus, nicht aber ein Generalkommando –<br>SIEGMUND. Was? Senat und Rektor Soundso! Geht mich nichts an! Mir unbekannt dies Kommando! 's ist Krieg, mein Herr, und der Säbel befiehlt!<br>GELLERT. Leider!<br>SIEGMUND <i>nachdem er sich wieder umgesehen nach Gellert.</i> Zweitens bin ich kommandiert, einen italienischen Grafen Bolza zu holen, der hier in diesem Quartiere versteckt ist!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA. Hier gibt's keinen Grafen Bolza, unser Graf heißt Graf Balthasar –"
+          },
+          {
+            "typ": "kontext",
+            "text": "SCHLADRITZ. Und Graf Bolza existiert überhaupt nicht –? <i>Nickt Gottsched zu.</i><br>SIEGMUND <i>zu Schladritz.</i> Ruhe! <i>Schladritz fährt zusammen.</i> Hierher, Livree! <i>An den Säbel schlagend.</i> Er räsonniert?! Welcher ist Sein Graf –?<br>SCHLADRITZ <i>erschrocken einen Schritt vortretend, halb auf Siegmund, halb auf Bolza blickend.</i> Mein Graf, das heißt Graf Balthasar, ist –<br>SIEGMUND <i>auf Bolza zeigend.</i> Dieser hier! – Mein Herr italienischer Graf, Sie werden mir auf der Stelle folgen!<br>BOLZA. Wo ist Seine Order?<br>SIEGMUND. Was? <i>Auf den Säbel schlagend.</i> Hier ist sie! Jetzt wär's auch Zeit zur Schreiberei! Also keine Umstände gemacht!<br>GOTTSCHED. Aber, mein lieber Freund!<br>SIEGMUND. Kreuzdonnerwetter, ich bin hier kein lieber Freund!<br>GELLERT <i>zögernd einen Schritt vortretend.</i> Er ist hier, mein lieber Freund und Wachtmeister, unter gebildeten Leuten, und es würde Ihm ganz gut anstehn, wenn Er sich nicht wie auf der Landstraße, sondern etwas – höflicher betrüge!<br>SIEGMUND. Was untersteht man sich?! Man will einen Wachtmeister von den Seydlitzern im Dienste hofmeistern, wenn man vom schwarzen Zivil ist?! Wer ist man?<br>GELLERT. Man ist <em>zivil</em>! Das versteht Er nicht! <i>Langsam auf ihn zutretend; mit einigem Stutzen weicht Siegmund einige Schritte vor ihm zurück.</i> Man liebt Soldatenton nicht in Bürgerhäusern! Versteht Er <em>das</em>?<br>SIEGMUND. Wer ist man?<br>GELLERT. Man ist auch ein Professor, wenn Er, lieber Freund und Wachtmeister, etwa alle Welt arretieren will. –"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA. Schäm' dich doch, Vetter Siegmund, 's ist ja der ehrwürdige Herr Professor <em>Gellert</em>!"
+          },
+          {
+            "typ": "kontext",
+            "text": "SIEGMUND <i>die Hände zusammenschlagend.</i> <em>Gellert!</em> – <i>Pause.</i> – »Um das Rhinozeros zu sehn, erzählte mir mein Freund, beschloß ich auszugehn!« – Das ist von Ihnen?! Sie sind Gellert? Christian Fürchtegott Gellert?!<br>GELLERT. Ja, mein Freund!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA. Freilich!"
+          },
+          {
+            "typ": "kontext",
+            "text": "SIEGMUND. Der die schönen Fabeln und Geschichten schreibt?! Je so muß ja das Donnerwetter in den Wachtmeister Siegmund schlagen, daß er sich so aufgeführt hat gegen Sie! Herr, Herr, ich lieb' Sie ja schon seit vielen Jahren wie meinen Vater! Professerchen, geben Sie mir 'ne Hand, das ist ja ein Haupttreffer, daß ich Sie einmal zu sehn kriege! <i>Mit Gellert vorkommend.</i><br>GELLERT. Na, es freut mich, wenn moralische Geschichten noch bei Ihm verfangen. –<br>SIEGMUND. Je, da müßt' ich ja selber ein Rhinozeros sein, wenn Ihre Geschichten nicht mehr bei mir verfingen! – Du bist doch aber ein <i>Zu Katharina.</i> rechtes Gänschen, daß du mir das nicht gleich gesagt hast! <i>Während dieser Rede ist Frau Gottsched herübergekommen, Bolza winkend, er möge den Augenblick benutzen, hinauszugehen, und hat Katharina gewinkt, sich Siegmunds zu bemächtigen.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA <i>Verständnis ausdrückend, ist zu Siegmund getreten.</i> Na, warum machst du einen so unverschämten Lärm!"
+          },
+          {
+            "typ": "kontext",
+            "text": "BOLZA <i>kommt während dieser Worte an die Tür.</i><br>SCHLADRITZ <i>öffnet sie beim Worte »unverschämten«. Man sieht aber die Trompeter dahinter aufgepflanzt, und beim Worte Katharinas »Lärm« rufen beide Trompeter einstimmig dem Grafen entgegen: Parole!</i><br>SIEGMUND <i>auffahrend.</i> Holla! <i>Sich umwendend.</i> Aha, wie der Marder vom Taubenschlage! Nein, italienischer Herr! Disziplin ist da, wenn wir auch Bildung haben und gerührt werden können – dies Manöver ändert aber den ganzen Feldzug, Professerchen <i>Den Säbel ziehend.</i> 's tut mir leid, aber zuerst bin ich Wachtmeister! Treten Sie auf die Seite, hier <i>Auf Bolza zeigend.</i> muß ich Ernst zeigen! <i>Er schiebt Gellert nach der durch Frau Gottsched leer gewordenen Stelle links; an die hintere Stelle links ist Bolza, von der Tür zurückweichend, getreten. Frau Gottsched hat auf der rechten Seite hinter Gottsched Platz genommen, Katharina ist an ihre erste Stelle zurückgeprallt. Sowie Siegmund Gellert ein wenig auf die linke Seite führt, erblickt er Cato, der sich bis dahin immer mit möglichst abgewandtem Gesichte verhalten, sich aber bei den Worten »mus ich Ernst zeigen« einen Augenblick herumgewendet hat.</i> Kreuz Element, was seh' ich da? <i>Er prallt zurück und starrt auf Cato.</i> Da ist ja mein Offizier von der Reichsarmee!<br>GOTTSCHED UND FRAU GOTTSCHED. Offizier?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA UND GELLERT. Von der Reichsarmee!?"
+          },
+          {
+            "typ": "kontext",
+            "text": "SCHLADRITZ. Der Cato!<br>SIEGMUND. Jawohl, von der Reichsarmee! Den ich bei Roßbach gefangen nahm!<br>CATO. Lügner!<br>SIEGMUND. Oder doch gefangen nehmen wollte. Der mir mein Pferd erschossen und Hut wie Gliedmaßen zerhauen hat – hurra, jetzt kommt der Tag der Rache!<br>CATO. Er ist besoffen! <i>Bückt sich, hebt seinen Mantel auf und wickelt einen Degen heraus.</i><br>SIEGMUND. Besoffen? Oho, da ist ja auch der weiße Mantel vom Regimente Hildburghausen, das erkennt sich auf tausend Schritt! Und hier in Leipzig, mitten unter uns, das wird auf faule Kriegsgeschäfte hinauslaufen; Seine Papiere!<br>GOTTSCHED. Mein Bedienter!<br>SIEGMUND. Ihr Bedienter?! Das macht Sie und ihn dreifach verdächtig! Herr, hier ist Spionerie! Jeder Spion wird totgeschossen! Wer seine Person oder Papiere von ihm birgt, desgleichen!<br>SCHLADRITZ. Um Gottes willen, Herr Wachtmeister, ich habe vorhin aus dem Büchsenranzen des Menschen da, der mir gleich verdächtig war, Papiere gezogen, <i>Greift an alle Taschen.</i> die brennen mich jetzt wie höllisch Feuer. –<br>SIEGMUND. Wo sind sie!<br>SCHLADRITZ. Hier! – <i>Übergibt ihm die Broschüre aus dem vorigen Akte und zieht sich hastig zurück.</i><br>SIEGMUND. Das sind gedruckte Papiere! Haben Sie andere noch, Herr Gottsched?<br>GOTTSCHED. Nein, mein Freund!<br>SIEGMUND. Wird sich finden! Holla, <i>Einen Schritt auf Cato zutretend.</i> Euer Liebden sind mein Gefangener und überliefern mir auf der Stelle Ihre Person und Ihre Papiere!<br>CATO <i>den Degen plötzlich gegen ihn vorbringend.</i> Meine Hiebe! wenn Er noch einen Schritt vorwärts tut! Bin ich der, für den Er mich hält, so bin ich seit langer Zeit aus dem Heere geschieden und bin keinem Wachtmeister Rechenschaft schuldig. –<br>SIEGMUND. Das wollen wir sehen!<br>CATO <i>fast ohne sich zu unterbrechen.</i> Herr Graf, den Degen aus der Scheide!<br>BOLZA <i>hat auf den obigen Zuruf gezogen und mit dem Ausrufe.</i> Jawohl! <i>Sich an Cato geschlossen, vor Gellert, der rechts hinüber eilt, vortretend.</i><br>CATO. Lassen wir nicht von einem einzelnen Wachtmeister einem Hause voll Männer kommandieren! Ein paar Trompeter jagt die tapfre Kathrine allein die Treppe hinunter!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA. Gott straf' mich! <i>Über die Bühne nach Gottscheds Zimmer laufend.</i> Und mit des Herrn Professors Paradedegen! <i>Ab, und bald darauf mit einem Galanteriedegen zurück.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "SIEGMUND <i>ist einen Schritt nach rechts zurückgetreten.</i> Soll das Ernst sein, dann wird's Euch schlecht bekommen!<br>GOTTSCHED <i>im Vorschreiten zu Gellert.</i> Durch solchen Widerstand wird's ja immer schlimmer für uns!<br>GELLERT <i>sich vergnügt die Hände reibend.</i> Das ist jung, das hat Courage!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA <i>eintretend und sich neben Bolza stellend.</i> Hurra!"
+          },
+          {
+            "typ": "kontext",
+            "text": "SIEGMUND. Werft Eure Degen weg, das rat' ich Euch als guter Freund!<br>CATO <i>eindringend.</i> Wehr' dich, Wachtmeister, oder troll' dich!<br>BOLZA. Hinaus mit ihm!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA <i>mit dem Degen fuchtelnd.</i> Hurra! Gegen die Trompeter!"
+          },
+          {
+            "typ": "kontext",
+            "text": "SCHLADRITZ. Juchhe! die Kathrine mit dem Bratspieße!<br>SIEGMUND. <em>Ruhe!</em> <i>Alle senken die Waffen.</i> Das wird eine Dummheit, die Euch allen den Hals bricht, wenn ich sie ernsthaft schief nehme! Und wenn nicht hier das dumme Mädel und dort mein Professerchen dabei wären, so nähm' ich sie auf der Stelle schief, trotz meiner beiden Trompeter, die allerdings nicht für voll gelten. Aber ich brauchte ja nur einen zum Fenster hinaus Lärm blasen zu lassen, so wären in ein paar Minuten mehr Seydlitzer hier als Haare auf Euren Köpfen, törichte Menschen! Wie gesagt, aus Gutmütigkeit will ich Fünfe gerade sein lassen, aber Dienst ist Dienst, also aufgepaßt! Professor Gottsched, werden Sie mir aufs Rathaus folgen?<br>GOTTSCHED <i>Gellert ansehend.</i><br>GELLERT. Lieber Freund und Wachtmeister – <em>nein</em>!<br>SIEGMUND. Professerchen, das wird böse! General Seydlitz verträgt keinen Widerspruch. – Herr Graf aus Italien und Herr Offizier von der Reichsarmee, wollen Sie gutwillig als Gefangene mit mir gehn?<br>CATO. Nein.<br>BOLZA. Nein.<br>SIEGMUND. Gut: ich habe also offne Widersetzlichkeit zu melden, und die Sache wird ernsthaft. Meine Trompeter bleiben an der Haustür und ziehen ihre Säbel. Wer das Haus verlassen will, wird zusammengehauen. In zehn Minuten ist ein Offizier hier mit einem Pikett und mit dem Profoß des Regiments. Dann wird es anders klingen. Bis dahin – Gott befohlen! <i>Ab. Totenstille. Der Vorhang fällt.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(3. Akt, 5. Szene)</b><br><br>"
+          },
+          
+          {
+            "typ": "figurtext",
+            "text": "<b>Vierter Akt.<br>Vierte Szene.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Schladritz. Katharina. Die Vorigen.</i><br>FRAU GOTTSCHED <i>hat, sobald Gottsched gedankt, das Glas mit dem Teller rechts hinüber auf den Schreibtisch getragen. Als sie dies eben getan, sieht sie den weißen Mantel rasch ins Zimmer hereineilen und ruft erschreckt.</i> Ach mein Gott!<br>ALLE <i>kehren sich um, Wilhelmine steht auf.</i> Was ist?<br>SCHLADRITZ <i>ganz und gar in den Mantel gehüllt, Hut auf dem Kopfe, nimmt jetzt den Hut ab und sagt.</i> Herr Je, 's ist hier so duster!<br>FRAU GOTTSCHED. Der Schladritz!?<br>GOTTSCHED. Schladritz!<br>CATO. Schladritz!<br>GELLERT. Schladritz!<br>FRAU GOTTSCHED. In welchem Aufzuge läuft Er denn daher?<br>SCHLADRITZ. 's regnet draußen, Frau Professorin!<br>FRAU GOTTSCHED <i>zu Katharina, die hinter Schladritz eingetreten ist und jetzt neben ihm steht.</i> Und du kommst auch, und das Haus laßt Ihr ganz allein?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA. Sei'n Sie nicht böse, Frau Professern, wir haben alles fest zugeschlossen; aber wir hielten's nicht mehr aus, wir fürchteten uns zu Tode!"
+          },
+          {
+            "typ": "kontext",
+            "text": "SCHLADRITZ. Ja, 's ist gar zu schauerlich!<br>GOTTSCHED. Ist denn schon wieder was vorgefallen?<br>SCHLADRITZ. Nein, aber eben weil's jetzt so still ist, wurde uns so grauslich zumute! <i>Schüttelt sich.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA. Heißt das: vorgefallen war schon alles. Die jungen Herrschaften hier <i>Cato und Wilhelmine meinend.</i> waren kaum fort, da kam das Pikett, um Sie zu holen, und das marschierte durch alle Zimmer."
+          },
+          {
+            "typ": "kontext",
+            "text": "SCHLADRITZ. Auch vor die erbrochene kleine Saaltür, vor die Bresche –"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA. Und gesprochen wurde gar nichts, und das ängstigt einen so!"
+          },
+          {
+            "typ": "kontext",
+            "text": "SCHLADRITZ. Ja, und das eine Wort, das sie fallen ließen, das fuhr uns in alle Glieder. »Neun Stück Delinquenten!« sagten sie, und weiter nichts und gingen fort und nahmen auch die Trompeter mit, und nun war alles mausestill und so recht gespensterhaft, und ganz leise addierten wir zusammen, die Kathrine und ich –"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA. Ja, wir addierten die neun Stück, der Schladritz und ich, und da kam denn immer 'raus, daß wir auch dabei wären –"
+          },
+          {
+            "typ": "kontext",
+            "text": "SCHLADRITZ. Wir zwei beiden nämlich, und da packte uns die Angst, und wir rissen aus!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA. Und um nichts Gefährliches im Hause zu lassen, nahmen wir auch fix den verdächtigen Mantel mit."
+          },
+          {
+            "typ": "kontext",
+            "text": "SCHLADRITZ. Weil's gerade regnete!<br>GOTTSCHED. Einfältige Leute, nun war ja eben nichts mehr zu fürchten!<br>SCHLADRITZ. Wir fürchten uns aber!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KATHARINA. Wir fürchten uns aber!"
+          },
+          {
+            "typ": "kontext",
+            "text": "WILHELMINE. Und meine Mutter!<br>FRAU GOTTSCHED. Wenn jetzt die Frau Gräfin zurückkommt, so findet sie ja alles verschlossen und weiß nicht wohin!<br>SCHLADRITZ. Nicht doch! Wir sind vorne beim Bäcker durch, und haben's hinterlassen, daß alles hieher ist! <i>Alle drücken ihr Erschrecken aus.</i><br>CATO. Aha! Die Adresse! Komm, Wilhelmine, der Mutter entgegen, die sonst noch verdrießlicher wird!<br>WILHELMINE <i>zu ihm gehend, ihm den Arm gebend und sich zum Abgehn wendend.</i> Jawohl!<br>GOTTSCHED. Basta! Ermannen wir uns überhaupt und bieten wir die Stirn! Keine Flucht mehr, sondern stolzer Widerstand!<br>GELLERT. Bravo!<br>CATO. Bravo!<br>FRAU GOTTSCHED. Bravo!<br>GELLERT. So ist es recht, Herr Professor! Unser Mut sei unser gutes Gewissen! Stehen wir ruhig, aber fest. Im Frieden wurzelt unser Beruf, in edler Bildung wurzelt unsre Kraft. Darauf müssen wir fußen. Man kann uns mißhandeln, aber man kann uns nicht erniedrigen, wenn wir unser moralisches Selbstgefühl nicht verlieren. Meine Freunde, dem edel gebildeten Menschen kann nichts Unedles widerfahren; denn das Roheste muß sich vor dem milden Blicke des guten Menschen verwandeln – dies sei unser Schild!<br>GOTTSCHED. So sei es!<br>CATO. So sei es! <i>Geht nach hinten mit Wilhelminen.</i><br>FRAU GOTTSCHED <i>Gottsched die Hand reichend zum Abgehn.</i> So sei es!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(4. Akt, 4. Szene)</b>"
+          }
+        ]
+      },
+      
+
+      {
         "id": "StadtLand01",
         "theaterstück": {
           "titel": "Stadt und Land oder Der Viehhändler aus Oberösterreich. Posse mit Gesang in drei Aufzügen",
@@ -3702,7 +4561,7 @@
           },
           {
             "typ": "figurtext",
-            "text": "OBERT <i>verneigt sich vor den Damen.</i> Guten Abend, Frau von Hochfeld, recht guten Abend, Fräulein Regine."
+            "text": "ROBERT <i>verneigt sich vor den Damen.</i> Guten Abend, Frau von Hochfeld, recht guten Abend, Fräulein Regine."
           },
           {
             "typ": "kontext",
@@ -3988,7 +4847,7 @@
           },
           {
             "typ": "figurtext",
-            "text": "OBERT. Ich danke – ich kann in meiner jetzigen Stimmung nichts genießen – ich bin zwar noch nüchtern, und doch trunken – trunken vor Freude!"
+            "text": "ROBERT. Ich danke – ich kann in meiner jetzigen Stimmung nichts genießen – ich bin zwar noch nüchtern, und doch trunken – trunken vor Freude!"
           },
           {
             "typ": "kontext",
