@@ -431,7 +431,7 @@
           },
           {
             "typ": "figurtext",
-            "text": "<b>([1.] Verwandlung, 3. Auftritt)</b>"
+            "text": "<b>([1.] Verwandlung, 3. Auftritt)</b><br><br>"
           },
 
           {
@@ -799,7 +799,7 @@
           },
           {
             "typ": "kontext",
-            "text": "KÄTHE. Ach papperlapapp!<br>FINKE. Ja Herr Wachtmeister, die schönsten Mädchen von Berlin sollen mit bei das Fest dabei sein, das hat der Magistrat befohlen.<br>ALLE MÄDCHEN. Seht Ihr wohl?<br>FINKE. Nu fragt es sich bloß, ob Ihr die schönsten seid.<br>KÄTHE. Alter Grobian!<br>FINKE. Na, nich räsoniert! <i>Er nimmt die Fiedel, geigt und singt.</i< Von Seide zwei Bändchen, Von Blumen drei Quentchen, Die Bänder am Kleide Die Blumen am Kopf, Wer das nicht mag leiden, Der ist ein Tropf.<br>ALLE MÄDCHEN <i>klatschen jauchzend in die Hände.</i><br>KÄTHE <i>knickst vor dem Wachtmeister.</i> Wer das nicht mag leiden, Der ist ein Tropf!<br>ALLE MÄDCHEN <i>umtanzen den Wachtmeister.</i> Der ist ein Tropf! Der ist ein Tropf!<br>FINKE <i>ergreift Rieke an der Hand, zieht sie in den Vordergrund.</i> Rieke, Putthüneken <i>Will sie küssen.</i><br>RIEKE. Ach Köhne – vor all den Leuten?<br>FINKE. Sieht keiner nach uns hin. <i>Küßt sie.</i> Rieke, mir hat ein Vogel zur Nacht was gesungen.<br>RIEKE. Was denn, Köhne?<br>FINKE. »Zikut, zikut, 's wird alles noch gut!«<br>RIEKE. Ach Köhne."
+            "text": "KÄTHE. Ach papperlapapp!<br>FINKE. Ja Herr Wachtmeister, die schönsten Mädchen von Berlin sollen mit bei das Fest dabei sein, das hat der Magistrat befohlen.<br>ALLE MÄDCHEN. Seht Ihr wohl?<br>FINKE. Nu fragt es sich bloß, ob Ihr die schönsten seid.<br>KÄTHE. Alter Grobian!<br>FINKE. Na, nich räsoniert! <i>Er nimmt die Fiedel, geigt und singt.</i> Von Seide zwei Bändchen, Von Blumen drei Quentchen, Die Bänder am Kleide Die Blumen am Kopf, Wer das nicht mag leiden, Der ist ein Tropf.<br>ALLE MÄDCHEN <i>klatschen jauchzend in die Hände.</i><br>KÄTHE <i>knickst vor dem Wachtmeister.</i> Wer das nicht mag leiden, Der ist ein Tropf!<br>ALLE MÄDCHEN <i>umtanzen den Wachtmeister.</i> Der ist ein Tropf! Der ist ein Tropf!<br>FINKE <i>ergreift Rieke an der Hand, zieht sie in den Vordergrund.</i> Rieke, Putthüneken <i>Will sie küssen.</i><br>RIEKE. Ach Köhne – vor all den Leuten?<br>FINKE. Sieht keiner nach uns hin. <i>Küßt sie.</i> Rieke, mir hat ein Vogel zur Nacht was gesungen.<br>RIEKE. Was denn, Köhne?<br>FINKE. »Zikut, zikut, 's wird alles noch gut!«<br>RIEKE. Ach Köhne."
           },
           {
             "typ": "figurtext",
@@ -2017,7 +2017,7 @@
           },
           {
             "typ": "figurtext",
-            "text": "FINKE. Na, nich räsoniert! <i>Er nimmt die Fiedel, geigt und singt.</i< Von Seide zwei Bändchen, Von Blumen drei Quentchen, Die Bänder am Kleide Die Blumen am Kopf, Wer das nicht mag leiden, Der ist ein Tropf."
+            "text": "FINKE. Na, nich räsoniert! <i>Er nimmt die Fiedel, geigt und singt.</i> Von Seide zwei Bändchen, Von Blumen drei Quentchen, Die Bänder am Kleide Die Blumen am Kopf, Wer das nicht mag leiden, Der ist ein Tropf.<br>"
           },
           {
             "typ": "kontext",
@@ -2317,7 +2317,7 @@
           }
         ]
       },
-      
+
 
       {
         "id": "RaubSabinerinnen01",
