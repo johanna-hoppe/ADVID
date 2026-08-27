@@ -1,6 +1,2325 @@
 [
 
       {
+        "id": "Quitzows01",
+        "theaterstück": {
+          "titel": "Die Quitzows. Schauspiel in vier Akten",
+          "zeit": "1888",
+          "druckort": "Berlin",
+          "auffuehrungshinweise": "Ort der Handlung: Akt I: Berlin. Akt II: Straußberg und Berlin. Akt III: Burg Friesack und bei Brandenburg. Akt IV: Berlin und Burg Friesack. Zum ersten Male aufgeführt am Kgl. Opernhause zu Berlin am 9. November 1888. Zum hundertsten Male aufgeführt am Kgl. Schauspielhause zu Berlin am 2. Dez. 1890."
+        },
+        "autor": {
+          "name": "Ernst von Wildenbruch",
+          "herkunft": "Ber.",
+          "orte": ["Beirut", "Berlin"],
+          "lebensdaten": "1845–1909"
+        },
+        "figur": {
+          "name": "Fritz(e) Belkow",
+          "rolle": "Soldat",
+          "beschreibung": "Stadtsoldat von Berlin, spricht berlinisch"
+        },
+        "dialekt": {
+          "adaption": "Autoadaption",
+          "dialekt_grossraum": "Ber."
+        },
+        "geokoordinaten": {
+          "herkunft_autor": {
+            "lat": 52.518611,
+            "lng": 13.408333
+          },
+          "herkunft_figur": { 
+            "lat": 52.518611,
+            "lng": 13.408333
+          }
+        },
+        "abschnitt": "",
+        "original_link": "https://dracor.org/ger/wildenbruch-die-quitzows#text",
+        "abschnitt_segmentiert": [
+          {
+            "typ": "figurtext",
+            "text": "<b>Erster Akt. Erster Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Fritze Belkow steht auf dem Rundgange des einen Turmes, nach außen blickend. Peter Stummel sitzt auf dem Zinnengange über dem Tor, mit dem Rücken an die Zinnenmauer gelehnt, halb schlafend.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FRITZE BELKOW <i>ruft.</i> Du – Peter Stummel! Na du – Peter Stummel, du schläfst wohl?"
+          },
+          {
+            "typ": "kontext",
+            "text": "PETER STUMMEL <i>fährt auf.</i> Ne doch, Fritze Belkow – was soll's denn?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "BELKOW. Haben denn die Berliner heute ihr Vieh 'rausgeschickt nach'n Wedding?"
+          },
+          {
+            "typ": "kontext",
+            "text": "STUMMEL. Ja weeßte, Fritze Belkow, das weeß ich dir nich zu sagen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "BELKOW. Na denn frag' doch mal 'n Wachmeester."
+          },
+          {
+            "typ": "kontext",
+            "text": "STUMMEL. Na denn wer ick mal 'n Wachmeester fragen. <i>Ruft.</i> Wachmeester – he – Wachmeester!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(1. Akt, 1. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Erster Akt. Zweiter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Hans Sturz gewaffnet, aber ohne Kopfbedeckung, kommt aus dem Torturm rechts.</i><br>HANS STURZ. Was schreist de? Was is los?<br>STUMMEL. Es is man von wegen das Vieh, daß ich fragen wollte.<br>HANS STURZ. Was for ein Vieh?<br>STUMMEL. Na das von die Berliner; ob die Berliner heut ausgetrieben haben nach'n Wedding?<br>HANS STURZ. Denn müßten ja die Berliner grade solche Ochsen sein, wie du eener bist, wenn sie jetzt ihre Ochsen 'rausschickten. Weeßt du denn nich, daß die Pommern im Land 'rumrabuschern?<br>STUMMEL. Es is man bloß von Fritze Belkow wegen, daß ich gefragt gehabt habe.<br>HANS STURZ. Na Fritze Belkow – was is denn los?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "BELKOW. Bei'n Wedding, Wachmeester, is was los."
+          },
+          {
+            "typ": "kontext",
+            "text": "HANS STURZ. Bei'n Wedding?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "BELKOW. Ja, oder so in der Jegend."
+          },
+          {
+            "typ": "kontext",
+            "text": "HANS STURZ. Na was denn zum Schwerenot?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "BELKOW. Ein schauderhafter Staub."
+          },
+          {
+            "typ": "kontext",
+            "text": "HANS STURZ. Ein Staub?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "BELKOW. Und so ein Staub, der kommt doch nich so von alleene; da muß doch was drinstecken in dem Staub."
+          },
+          {
+            "typ": "kontext",
+            "text": "HANS STURZ. Da muß was drinstecken, das is wahr. Kannste denn nich sehen was es is?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "BELKOW. Ne, es is schmählich weit ab."
+          },
+          {
+            "typ": "kontext",
+            "text": "HANS STURZ. Ob's denn Kriegsvolk is? He?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "BELKOW. Ne, wenn ich sagen soll, ich glaub's nicht; man sieht keene Fahnen, keene Pferde, keen Geblinkere von Hauben und Schwertern und nischt nich."
+          },
+          {
+            "typ": "kontext",
+            "text": "HANS STURZ. Na was glaubst du denn, daß es is?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "BELKOW. Wenn ich sagen soll, es sieht aus, wie wenn sie so in der Jegend hier herum wo ein Dorf ausgepocht hätten, und nu kommen die Dorfleute und möchten in Berlin unterkriechen."
+          },
+          {
+            "typ": "kontext",
+            "text": "HANS STURZ. Wo meinst du denn, daß sie herkommen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "BELKOW. Es kann sein, es kann ooch nich sein, von Bötzow her."
+          },
+          {
+            "typ": "kontext",
+            "text": "HANS STURZ <i>ruft zum Thurm hinein.</i> Na denn bringt mir mal meine Eisentute her, denn werde ich mal gleich zu Herrn Bürgermeister Perwenitz gehn, der wird schon wissen, was da darbei zu tun is. <i>Ab in den Torturm.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(1. Akt, 2. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Erster Akt. Siebenter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Martin und Knechte kommen mit Krügen aus dem Keller.</i><br>PERWENITZ. Da kommt der Malvasier! Nu mal ran, allesamt, <i>Alle treten an den Tisch ergreifen Krüge.</i> wir sind bei Markgraf Jobsten zu Gast, wir wollen ihm Bescheid tun! Ich fange an: Ein Schnarchen tut man hören Rings in der Christenwelt, Das ist der Jobst von Mähren, Der schläft auf brandenburg'schem Geld!<br>ALLE. Is jut! Is jut!<br>DANNEWITZ <i>erhebt den Krug.</i> Ich kann nich in Reimen sprechen; also – wie mir der Schnabel gewachsen is: Herr Jobst von Mähren, hol' dich der Deibel neunundneunzigtausendmal!<br>ALLE. Is jut! Is jut!<br>PERWENITZ. Und immer noch einmal darüber!<br>ALLE. Noch einmal darüber! <i>Alle setzen sich.</i><br>PERWENITZ. Aber der Wein is jut, Martin.<br>ALLE. Der Wein is jut.<br>PERWENITZ. Wein trinken versteht er, der Jobst, aber ein Land regieren versteht er nicht.<br>RIENEKE. Das versteht er nicht; was sagt Ihr, Herr Heinse Lang?<br>LANG. Was soll man dazu sagen, Herr Kaspar Rieneke?<br>SECHELWEG. Was hat er den Oderbergern denn eigentlich angetan? Ich hab's vorhin nicht gehört.<br>RIENEKE. O du mein – Herr Sechelweg – verpfändet hat er unsre gute Stadt, verpfändet für sechstausend Schock böhmische Groschen!<br>SECHELWEG. Verpfändet? Ohne Euch zu fragen?<br>RIENEKE. Ohne uns zu fragen.<br>SECHELWEG. An wen denn?<br>RIENEKE. An Hinko Birken Slawatz von der Duba.<br>PERWENITZ. Hinko Birken Slawatz von der Duba – da muß man ja Vorspann nehmen, wenn man ans Ende von dem Namen kommen will.<br>DANNEWITZ. Von vorne klingt's wie ein Wende, und von hinten wie ein Böhm'.<br>RIENEKE. Ist auch so etwas, ein halber Landsmann von dem Jobst, kommt von da unten aus der Lausitz her.<br>PERWENITZ. Ein Polacke, der eine wie der andere!<br>RIENEKE. Und Oderberg ist eine gute Stadt, eine deutsche Stadt, eine märkische Stadt, und soll jetzt so einem gehören!<br>PERWENITZ. Das kommt davon, wenn der Kaiser so einem verfluchten Slawen die Herrschaft gibt über deutsches Land! Hol' ihn der Teufel, den böhmischen Judas! <i>Stößt den Krug auf.</i><br>ALLE. Hol' ihn der Teufel!<br>PERWENITZ. Aber der Wein is jut.<br>ALLE. Ja, ja, der Wein!<br>PERWENITZ. Daß Gott einen deutschen Mann herschicken möge, der Mark Brandenburg in die Hände nimmt, dadrauf da wollen wir mal anstoßen!<br>ALLE. Einen deutschen Mann! <i>Sie stoßen an.</i><br>PERWENITZ <i>schlägt mit der Faust auf den Tisch.</i> Daß der Donner und die Schwerenot! Es steht Matthäi am letzten mit der Mark! Was soll man sagen? Die Pommern, seht Ihr, sagen der Mark ab; brechen ins Land, machen alles kurz und klein. Wir märkischen Städte stellen ein Heer auf die Beine – kostet uns Berlinern allein –<br>SECHELWEG. Tag für Tag zweihundert Schock böhmische Groschen.<br>PERWENITZ. Sechelweg muß es wissen – dadrauf sagen wir dem Jobst: wenn du selbst nicht aufsitzen willst, so gib uns wenigstens einen Feldhauptmann; dadrauf gibt er uns wen? Den Johann von Lebus.<br>DANNEWITZ. Den Bischof.<br>PERWENITZ. Den Bischof, der kaum weiß, ob man rechts oder links aufs Pferd steigt, und der steht nun mit unsern Jungens bei Müncheberg, und unterdes lassen die Pommern ihn bei Müncheberg stehen und ziehen auf Zehdenick und Liebenwalde, und wenn's Glück gut ist, haben wir sie morgen vor Berlin! Herr Gott im Himmel, hab' ein Einsehen und gib uns einen deutschen Mann!<br>ALLE. Einen deutschen Mann!<br>PERWENITZ. Einen, der Haare auf den Zähnen und Eisen in der Faust und ein Herz für uns im Leibe hat!<br>ALLE. Ja, ja!<br>PERWENITZ. Der uns die Pommern vom Halse schafft!<br>SECHELWEG. Und die Schloßgesessenen!<br>ALLE. Ja, ja!<br>SECHELWEG. Vor allen den Quitz!<br>ALLE. Ja, ja!<br>PERWENITZ. Alles wahr, was Ihr sagt, aber der Quitz hat Schneid.<br>SECHELWEG. Was nutzt mir das, wenn er ihn nur braucht, um uns zu schinden und zu placken?<br>PERWENITZ. Er is ein heller Junge.<br>SECHELWEG. Was nutzt uns das?<br>PERWENITZ. Er könnte uns schon nutzen, wenn er nur wollte.<br>SECHELWEG. Wenn er wollte? Was?<br>PERWENITZ. Wenn er mit uns tun wollte, statt gegen uns.<br>SECHELWEG. Wir sollen uns verbinden mit dem Quitzow?<br>PERWENITZ. Warum denn nich?<br>ALLE. Nanu? Nanu?<br>DANNEWITZ. Du hast immer was übrig gehabt für den Quitzow, Henning Perwenitz, das weiß ich wohl.<br>PERWENITZ. Hab' ich auch.<br>STROBAND <i>schlägt auf den Tisch.</i> Aber zusammensitzen mit so einem Stegreifritter? Da sag' ich ne!<br>PERWENITZ. Das is nich wahr, das is der Quitzow nich!<br>STROBAND. Is er doch!<br>PERWENITZ. Is er nich! Er hat noch immer ehrlich Frieden abgesagt, ehe daß er anfing.<br>STROBAND. Und damals hat er keine Fehde mit uns gehabt.<br>PERWENITZ. Damals?<br>STROBAND. Na, als er uns das Vieh weggetrieben hat in der Jungfernheide, und Ihr mit ihm zusammengerannt seid an der Tegeler Mühle.<br>PERWENITZ. Das is nich wahr, er hatte uns abgesagt damals.<br>STROBAND. Hatte er nich!<br>PERWENITZ. Hatte er doch!<br>DANNEWITZ. Ja ja, Henning Stroband, streitet nicht, Perwenitz hat recht.<br>DIE ÜBRIGEN. Ja ja.<br>PERWENITZ. Balthasar von Schlieben war dazumals mit uns und Lippold von Bredow, und die machten sich zusammen dem Quitzow an den Leib – aber wie der Deibelskerl mit den beiden fertig wurde – Dunnerwetter, ich sage Euch – und seine Knechte, wie das alles drauf und dran ging, bloß weil sie wußten, der Quitzow geht vorneweg. Seht Ihr, da sind die Bredows und die Stechows und die Holzendorfs und die Arnims und die Treskows und wie sie alle heißen, und wenn Ihr die alle in einen Sack steckt und auf eine Wage legt und auf die andere den Quitzow janz alleine, ich sage Euch, er wiegt schwerer, wie die andern alle zusammen.<br>STROBAND. Ja das glaube ich wohl, von dem, was er sich zusammengeraubt und gestohlen hat!<br>DANNEWITZ. Ne ne, Henning Stroband, das müßt Ihr nich sagen.<br>ALLE. Ne ne.<br>STROBAND. Das muß ich nich sagen? Und wo steckt er denn jetzt wieder, Euer Quitzow? Bei unsern Feinden drüben, denen er die Mark klein machen hilft, bei den Pommern!<br>PERWENITZ. Es is schlimm genug, es is wahr; aber da könnt Ihr eben sehn, was für ein Kerl es is: so lange der Quitzow ihnen nich geholfen hat, sind die Pommern nich einen Schritt vorwärts gekommen, und wie er Hand mit angelegt hat, haste nich gesehn, sind sie vorwärts gerückt.<br>STROBAND. Und ich sage, wenn man ihn fängt, sollte man ihn hängen!<br>PERWENITZ. Und ich sage, wir sollten alles dransetzen, daß wir ihn auf unsere Seite kriegten, und ich sage, der Quitzow sollte Feldhauptmann sein von der Mark! <i>Alle sehen sich stumm erstaunt an.</i><br>PERWENITZ. Wer sind denn unsere Landhauptleute gewesen bis heutigentags? Der Markgraf von Meißen, Nummer eins, dann der Mecklenburger, dadrauf Lippold von Bredow, der Schwarzburger und jetzt Johann von Lebus, und was haben sie der Mark genutzt? Nischt und wieder nischt!<br>SECHELWEG. Weil sie sich vor den Schloßgesessenen gefürchtet haben, alle miteinander.<br>PERWENITZ. Is richtig; darum brauchen wir 'nen Mann, der sich vor ihnen nich fürchtet, und das ist der Quitz.<br>STROBAND. Der Quitzow is selber ein Schloßgesessener, und die Schloßgesessenen sind Deibels!<br>PERWENITZ. Denn muß man sie austreiben mit dem Obersten der Deibels, mit dem Beelzebub, und das ist der Quitzow.<br>STROBAND. Die Dörfer pochen sie aus, die Häuser stecken sie in Brand, die Menschen treiben sie aus die Ernten zertrampeln sie mit ihren Pferden – Herr Gott im Himmel, was soll werden aus uns? Die Mark verhungert!<br>PERWENITZ. Die Mark hungert nach einem Mann!<br>STROBAND. Das is leicht gesagt.<br>PERWENITZ. Ich habe Euch meinen genannt.<br>SECHELWEG. Aber der Mann, den wir brauchen, müßte an die allgemeine Sache denken. Glaubt Ihr denn im Ernst, Perwenitz, daß der Quitzow ein Herz haben wird für das Land?<br>PERWENITZ. Sechelweg, ich habe den Quitzow nich gemacht, ich kann nich wissen, wie es bei ihm drinnen aussieht. Aber was mir Augen und Ohren über ihn gesagt haben, is das: er is ein Held in der Schlacht; alle seine Leute lassen sich in Stücke hauen für ihn; er hat Gedanken im Kopf, die nicht an der Erde kriechen, und was er spricht, hat Hand und Fuß. Und kurz und gut, der große Apotheker da oben im Himmel hat ihn zusammengebraut aus Latwergen, aus denen die Männer gemacht werden, die ganzen Männer; und wo ein ganzer Mann is, da kann Alles draus werden, alles Schlimme, das is wahr, aber auch alles Gute, und das is auch wahr, und das is meine Meinung.<br>DANNEWITZ. Da is viel Wahres dran; es läßt sich überlegen.<br>ALLE. Es läßt sich überlegen. <i>Pause.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FRITZE BELKOW <i>auf dem Torturm, laut rufend.</i> Herr Burgemeester! Herr Burgemeester!"
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Was soll's denn?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "BELKOW. Da drüben übern Graben – steht ein Kerl –"
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Was will er denn?<br>STUMMEL. 'rin nach Berlin will er, Herr Burgemeester.<br>PERWENITZ. Na, dann laßt ihn doch 'rein.<br>STUMMEL. Ja aber mit Verlaub, Herr Burgemeester, Herr Wachmeester hat doch verboten, daß wir niemand nich 'rinlassen sollen.<br>PERWENITZ. Schafskopp, wenn's der Burgemeister erlaubt, wird der Wachtmeister wohl nischt dawider haben.<br>STUMMEL. Ja Herr Burgemeester, denn wird et wohl so sind – wat meenst du, Fritze Belkow?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "BELKOW. Mach' doch man, daß du 'runter kommst und aufschließt."
+          },
+          {
+            "typ": "kontext",
+            "text": "STUMMEL. Na denn werde ick man machen und ufschließen. <i>Verschwindet oben in der Turmpforte, kommt gleich darauf mit einem großen Schlüsselbunde unten aus dem Turm, geht ans Tor, schließt auf.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(1. Akt, 7. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>[2.] Verwandlung. Fünfter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Hans Sturz, Fritze Belkow, Peter Stummel kommen von rechts.</i><br>STURZ <i>hat die Haube abgenommen, wischt sich die Stirn.</i> Die Hitze! Am frühen Morgen!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "BELKOW. Der Durscht!"
+          },
+          {
+            "typ": "kontext",
+            "text": "STUMMEL. Und der Sand!<br>STURZ <i>fährt zu Stummel herum.</i> Na, sie sollen wohl einen Knüppeldamm bauen von Berlin bis Brandenburg, bloß damit daß du besser fortkommst mit deine ollen Eselsknochen? Was?<br>STUMMEL. Es is man von wegen das Geschwitze, Herr Wachmeester – Ihr schwitzt doch och nich schlecht.<br>STURZ. Du Hammelnase!! Wenn der Wachtmeester schwitzt, denn – denn hast du noch lange nich zu schwitzen! <i>Verschnauft.</i> Hat denn keener keenen Droppen zu trinken nich?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "BELKOW. Ick dachte, Peter Stummel sollte was injesteckt haben."
+          },
+          {
+            "typ": "kontext",
+            "text": "STUMMEL. Und ick dachte doch – Fritze Belkow –<br>STURZ. Na ja, wenn Ihr zwei beide erst zu denken anfangt! Wie der Herrgott das Denken erfunden hat, hat er verjessen, Euch zu sagen, wie es gemacht wird.<br>PERWENITZ <i>rechts außerhalb der Szene.</i> Heda, Hans Sturz! Bist du da vorne?<br>STURZ. I du meine Jüte, da is ja der Herr Burgemeester schon! <i>Ruft nach rechts.</i> Jawoll, Herr Burgemeester! Ick bin hier mit's janze Aufgebot!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>([2.] Verwandlung, 5. Auftritt)</b>"
+          }
+        ]
+      },
+
+      {
+        "id": "Quitzows02",
+        "theaterstück": {
+          "titel": "Die Quitzows. Schauspiel in vier Akten",
+          "zeit": "1888",
+          "druckort": "Berlin",
+          "auffuehrungshinweise": "Ort der Handlung: Akt I: Berlin. Akt II: Straußberg und Berlin. Akt III: Burg Friesack und bei Brandenburg. Akt IV: Berlin und Burg Friesack. Zum ersten Male aufgeführt am Kgl. Opernhause zu Berlin am 9. November 1888. Zum hundertsten Male aufgeführt am Kgl. Schauspielhause zu Berlin am 2. Dez. 1890."
+        },
+        "autor": {
+          "name": "Ernst von Wildenbruch",
+          "herkunft": "Ber.",
+          "orte": ["Beirut", "Berlin"],
+          "lebensdaten": "1845–1909"
+        },
+        "figur": {
+          "name": "Peter Stummel",
+          "rolle": "Soldat",
+          "beschreibung": "Stadtsoldat von Berlin, spricht berlinisch"
+        },
+        "dialekt": {
+          "adaption": "Autoadaption",
+          "dialekt_grossraum": "Ber."
+        },
+        "geokoordinaten": {
+          "herkunft_autor": {
+            "lat": 52.518611,
+            "lng": 13.408333
+          },
+          "herkunft_figur": { 
+            "lat": 52.518611,
+            "lng": 13.408333
+          }
+        },
+        "abschnitt": "",
+        "original_link": "https://dracor.org/ger/wildenbruch-die-quitzows#text",
+        "abschnitt_segmentiert": [
+          {
+            "typ": "figurtext",
+            "text": "<b>Erster Akt. Erster Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Fritze Belkow steht auf dem Rundgange des einen Turmes, nach außen blickend. Peter Stummel sitzt auf dem Zinnengange über dem Tor, mit dem Rücken an die Zinnenmauer gelehnt, halb schlafend.</i><br>FRITZE BELKOW <i>ruft.</i> Du – Peter Stummel! Na du – Peter Stummel, du schläfst wohl?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "PETER STUMMEL <i>fährt auf.</i> Ne doch, Fritze Belkow – was soll's denn?"
+          },
+          {
+            "typ": "kontext",
+            "text": "BELKOW. Haben denn die Berliner heute ihr Vieh 'rausgeschickt nach'n Wedding?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STUMMEL. Ja weeßte, Fritze Belkow, das weeß ich dir nich zu sagen."
+          },
+          {
+            "typ": "kontext",
+            "text": "BELKOW. Na denn frag' doch mal 'n Wachmeester."
+          },
+          {
+            "typ": "figurtext",
+            "text": "STUMMEL. Na denn wer ick mal 'n Wachmeester fragen. <i>Ruft.</i> Wachmeester – he – Wachmeester!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(1. Akt, 1. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Erster Akt. Zweiter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Hans Sturz gewaffnet, aber ohne Kopfbedeckung, kommt aus dem Torturm rechts.</i><br>HANS STURZ. Was schreist de? Was is los?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STUMMEL. Es is man von wegen das Vieh, daß ich fragen wollte."
+          },
+          {
+            "typ": "kontext",
+            "text": "HANS STURZ. Was for ein Vieh?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STUMMEL. Na das von die Berliner; ob die Berliner heut ausgetrieben haben nach'n Wedding?"
+          },
+          {
+            "typ": "kontext",
+            "text": "HANS STURZ. Denn müßten ja die Berliner grade solche Ochsen sein, wie du eener bist, wenn sie jetzt ihre Ochsen 'rausschickten. Weeßt du denn nich, daß die Pommern im Land 'rumrabuschern?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STUMMEL. Es is man bloß von Fritze Belkow wegen, daß ich gefragt gehabt habe."
+          },
+          {
+            "typ": "kontext",
+            "text": "HANS STURZ. Na Fritze Belkow – was is denn los?<br>BELKOW. Bei'n Wedding, Wachmeester, is was los.<br>HANS STURZ. Bei'n Wedding?<br>BELKOW. Ja, oder so in der Jegend.<br>HANS STURZ. Na was denn zum Schwerenot?<br>BELKOW. Ein schauderhafter Staub.<br>HANS STURZ. Ein Staub?<br>BELKOW. Und so ein Staub, der kommt doch nich so von alleene; da muß doch was drinstecken in dem Staub.<br>HANS STURZ. Da muß was drinstecken, das is wahr. Kannste denn nich sehen was es is?<br>BELKOW. Ne, es is schmählich weit ab.<br>HANS STURZ. Ob's denn Kriegsvolk is? He?<br>BELKOW. Ne, wenn ich sagen soll, ich glaub's nicht; man sieht keene Fahnen, keene Pferde, keen Geblinkere von Hauben und Schwertern und nischt nich.<br>HANS STURZ. Na was glaubst du denn, daß es is?<br>BELKOW. Wenn ich sagen soll, es sieht aus, wie wenn sie so in der Jegend hier herum wo ein Dorf ausgepocht hätten, und nu kommen die Dorfleute und möchten in Berlin unterkriechen.<br>HANS STURZ. Wo meinst du denn, daß sie herkommen?<br>BELKOW. Es kann sein, es kann ooch nich sein, von Bötzow her.<br>HANS STURZ <i>ruft zum Thurm hinein.</i> Na denn bringt mir mal meine Eisentute her, denn werde ich mal gleich zu Herrn Bürgermeister Perwenitz gehn, der wird schon wissen, was da darbei zu tun is. <i>Ab in den Torturm.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(1. Akt, 2. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Erster Akt. Siebenter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Martin und Knechte kommen mit Krügen aus dem Keller.</i><br>PERWENITZ. Da kommt der Malvasier! Nu mal ran, allesamt, <i>Alle treten an den Tisch ergreifen Krüge.</i> wir sind bei Markgraf Jobsten zu Gast, wir wollen ihm Bescheid tun! Ich fange an: Ein Schnarchen tut man hören Rings in der Christenwelt, Das ist der Jobst von Mähren, Der schläft auf brandenburg'schem Geld!<br>ALLE. Is jut! Is jut!<br>DANNEWITZ <i>erhebt den Krug.</i> Ich kann nich in Reimen sprechen; also – wie mir der Schnabel gewachsen is: Herr Jobst von Mähren, hol' dich der Deibel neunundneunzigtausendmal!<br>ALLE. Is jut! Is jut!<br>PERWENITZ. Und immer noch einmal darüber!<br>ALLE. Noch einmal darüber! <i>Alle setzen sich.</i><br>PERWENITZ. Aber der Wein is jut, Martin.<br>ALLE. Der Wein is jut.<br>PERWENITZ. Wein trinken versteht er, der Jobst, aber ein Land regieren versteht er nicht.<br>RIENEKE. Das versteht er nicht; was sagt Ihr, Herr Heinse Lang?<br>LANG. Was soll man dazu sagen, Herr Kaspar Rieneke?<br>SECHELWEG. Was hat er den Oderbergern denn eigentlich angetan? Ich hab's vorhin nicht gehört.<br>RIENEKE. O du mein – Herr Sechelweg – verpfändet hat er unsre gute Stadt, verpfändet für sechstausend Schock böhmische Groschen!<br>SECHELWEG. Verpfändet? Ohne Euch zu fragen?<br>RIENEKE. Ohne uns zu fragen.<br>SECHELWEG. An wen denn?<br>RIENEKE. An Hinko Birken Slawatz von der Duba.<br>PERWENITZ. Hinko Birken Slawatz von der Duba – da muß man ja Vorspann nehmen, wenn man ans Ende von dem Namen kommen will.<br>DANNEWITZ. Von vorne klingt's wie ein Wende, und von hinten wie ein Böhm'.<br>RIENEKE. Ist auch so etwas, ein halber Landsmann von dem Jobst, kommt von da unten aus der Lausitz her.<br>PERWENITZ. Ein Polacke, der eine wie der andere!<br>RIENEKE. Und Oderberg ist eine gute Stadt, eine deutsche Stadt, eine märkische Stadt, und soll jetzt so einem gehören!<br>PERWENITZ. Das kommt davon, wenn der Kaiser so einem verfluchten Slawen die Herrschaft gibt über deutsches Land! Hol' ihn der Teufel, den böhmischen Judas! <i>Stößt den Krug auf.</i><br>ALLE. Hol' ihn der Teufel!<br>PERWENITZ. Aber der Wein is jut.<br>ALLE. Ja, ja, der Wein!<br>PERWENITZ. Daß Gott einen deutschen Mann herschicken möge, der Mark Brandenburg in die Hände nimmt, dadrauf da wollen wir mal anstoßen!<br>ALLE. Einen deutschen Mann! <i>Sie stoßen an.</i><br>PERWENITZ <i>schlägt mit der Faust auf den Tisch.</i> Daß der Donner und die Schwerenot! Es steht Matthäi am letzten mit der Mark! Was soll man sagen? Die Pommern, seht Ihr, sagen der Mark ab; brechen ins Land, machen alles kurz und klein. Wir märkischen Städte stellen ein Heer auf die Beine – kostet uns Berlinern allein –<br>SECHELWEG. Tag für Tag zweihundert Schock böhmische Groschen.<br>PERWENITZ. Sechelweg muß es wissen – dadrauf sagen wir dem Jobst: wenn du selbst nicht aufsitzen willst, so gib uns wenigstens einen Feldhauptmann; dadrauf gibt er uns wen? Den Johann von Lebus.<br>DANNEWITZ. Den Bischof.<br>PERWENITZ. Den Bischof, der kaum weiß, ob man rechts oder links aufs Pferd steigt, und der steht nun mit unsern Jungens bei Müncheberg, und unterdes lassen die Pommern ihn bei Müncheberg stehen und ziehen auf Zehdenick und Liebenwalde, und wenn's Glück gut ist, haben wir sie morgen vor Berlin! Herr Gott im Himmel, hab' ein Einsehen und gib uns einen deutschen Mann!<br>ALLE. Einen deutschen Mann!<br>PERWENITZ. Einen, der Haare auf den Zähnen und Eisen in der Faust und ein Herz für uns im Leibe hat!<br>ALLE. Ja, ja!<br>PERWENITZ. Der uns die Pommern vom Halse schafft!<br>SECHELWEG. Und die Schloßgesessenen!<br>ALLE. Ja, ja!<br>SECHELWEG. Vor allen den Quitz!<br>ALLE. Ja, ja!<br>PERWENITZ. Alles wahr, was Ihr sagt, aber der Quitz hat Schneid.<br>SECHELWEG. Was nutzt mir das, wenn er ihn nur braucht, um uns zu schinden und zu placken?<br>PERWENITZ. Er is ein heller Junge.<br>SECHELWEG. Was nutzt uns das?<br>PERWENITZ. Er könnte uns schon nutzen, wenn er nur wollte.<br>SECHELWEG. Wenn er wollte? Was?<br>PERWENITZ. Wenn er mit uns tun wollte, statt gegen uns.<br>SECHELWEG. Wir sollen uns verbinden mit dem Quitzow?<br>PERWENITZ. Warum denn nich?<br>ALLE. Nanu? Nanu?<br>DANNEWITZ. Du hast immer was übrig gehabt für den Quitzow, Henning Perwenitz, das weiß ich wohl.<br>PERWENITZ. Hab' ich auch.<br>STROBAND <i>schlägt auf den Tisch.</i> Aber zusammensitzen mit so einem Stegreifritter? Da sag' ich ne!<br>PERWENITZ. Das is nich wahr, das is der Quitzow nich!<br>STROBAND. Is er doch!<br>PERWENITZ. Is er nich! Er hat noch immer ehrlich Frieden abgesagt, ehe daß er anfing.<br>STROBAND. Und damals hat er keine Fehde mit uns gehabt.<br>PERWENITZ. Damals?<br>STROBAND. Na, als er uns das Vieh weggetrieben hat in der Jungfernheide, und Ihr mit ihm zusammengerannt seid an der Tegeler Mühle.<br>PERWENITZ. Das is nich wahr, er hatte uns abgesagt damals.<br>STROBAND. Hatte er nich!<br>PERWENITZ. Hatte er doch!<br>DANNEWITZ. Ja ja, Henning Stroband, streitet nicht, Perwenitz hat recht.<br>DIE ÜBRIGEN. Ja ja.<br>PERWENITZ. Balthasar von Schlieben war dazumals mit uns und Lippold von Bredow, und die machten sich zusammen dem Quitzow an den Leib – aber wie der Deibelskerl mit den beiden fertig wurde – Dunnerwetter, ich sage Euch – und seine Knechte, wie das alles drauf und dran ging, bloß weil sie wußten, der Quitzow geht vorneweg. Seht Ihr, da sind die Bredows und die Stechows und die Holzendorfs und die Arnims und die Treskows und wie sie alle heißen, und wenn Ihr die alle in einen Sack steckt und auf eine Wage legt und auf die andere den Quitzow janz alleine, ich sage Euch, er wiegt schwerer, wie die andern alle zusammen.<br>STROBAND. Ja das glaube ich wohl, von dem, was er sich zusammengeraubt und gestohlen hat!<br>DANNEWITZ. Ne ne, Henning Stroband, das müßt Ihr nich sagen.<br>ALLE. Ne ne.<br>STROBAND. Das muß ich nich sagen? Und wo steckt er denn jetzt wieder, Euer Quitzow? Bei unsern Feinden drüben, denen er die Mark klein machen hilft, bei den Pommern!<br>PERWENITZ. Es is schlimm genug, es is wahr; aber da könnt Ihr eben sehn, was für ein Kerl es is: so lange der Quitzow ihnen nich geholfen hat, sind die Pommern nich einen Schritt vorwärts gekommen, und wie er Hand mit angelegt hat, haste nich gesehn, sind sie vorwärts gerückt.<br>STROBAND. Und ich sage, wenn man ihn fängt, sollte man ihn hängen!<br>PERWENITZ. Und ich sage, wir sollten alles dransetzen, daß wir ihn auf unsere Seite kriegten, und ich sage, der Quitzow sollte Feldhauptmann sein von der Mark! <i>Alle sehen sich stumm erstaunt an.</i><br>PERWENITZ. Wer sind denn unsere Landhauptleute gewesen bis heutigentags? Der Markgraf von Meißen, Nummer eins, dann der Mecklenburger, dadrauf Lippold von Bredow, der Schwarzburger und jetzt Johann von Lebus, und was haben sie der Mark genutzt? Nischt und wieder nischt!<br>SECHELWEG. Weil sie sich vor den Schloßgesessenen gefürchtet haben, alle miteinander.<br>PERWENITZ. Is richtig; darum brauchen wir 'nen Mann, der sich vor ihnen nich fürchtet, und das ist der Quitz.<br>STROBAND. Der Quitzow is selber ein Schloßgesessener, und die Schloßgesessenen sind Deibels!<br>PERWENITZ. Denn muß man sie austreiben mit dem Obersten der Deibels, mit dem Beelzebub, und das ist der Quitzow.<br>STROBAND. Die Dörfer pochen sie aus, die Häuser stecken sie in Brand, die Menschen treiben sie aus die Ernten zertrampeln sie mit ihren Pferden – Herr Gott im Himmel, was soll werden aus uns? Die Mark verhungert!<br>PERWENITZ. Die Mark hungert nach einem Mann!<br>STROBAND. Das is leicht gesagt.<br>PERWENITZ. Ich habe Euch meinen genannt.<br>SECHELWEG. Aber der Mann, den wir brauchen, müßte an die allgemeine Sache denken. Glaubt Ihr denn im Ernst, Perwenitz, daß der Quitzow ein Herz haben wird für das Land?<br>PERWENITZ. Sechelweg, ich habe den Quitzow nich gemacht, ich kann nich wissen, wie es bei ihm drinnen aussieht. Aber was mir Augen und Ohren über ihn gesagt haben, is das: er is ein Held in der Schlacht; alle seine Leute lassen sich in Stücke hauen für ihn; er hat Gedanken im Kopf, die nicht an der Erde kriechen, und was er spricht, hat Hand und Fuß. Und kurz und gut, der große Apotheker da oben im Himmel hat ihn zusammengebraut aus Latwergen, aus denen die Männer gemacht werden, die ganzen Männer; und wo ein ganzer Mann is, da kann Alles draus werden, alles Schlimme, das is wahr, aber auch alles Gute, und das is auch wahr, und das is meine Meinung.<br>DANNEWITZ. Da is viel Wahres dran; es läßt sich überlegen.<br>ALLE. Es läßt sich überlegen. <i>Pause.</i><br>FRITZE BELKOW <i>auf dem Torturm, laut rufend.</i> Herr Burgemeester! Herr Burgemeester!<br>PERWENITZ. Was soll's denn?<br>BELKOW. Da drüben übern Graben – steht ein Kerl –<br>PERWENITZ. Was will er denn?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STUMMEL. 'rin nach Berlin will er, Herr Burgemeester."
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Na, dann laßt ihn doch 'rein."
+          },
+          {
+            "typ": "figurtext",
+            "text": "STUMMEL. Ja aber mit Verlaub, Herr Burgemeester, Herr Wachmeester hat doch verboten, daß wir niemand nich 'rinlassen sollen."
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Schafskopp, wenn's der Burgemeister erlaubt, wird der Wachtmeister wohl nischt dawider haben."
+          },
+          {
+            "typ": "figurtext",
+            "text": "STUMMEL. Ja Herr Burgemeester, denn wird et wohl so sind – wat meenst du, Fritze Belkow?"
+          },
+          {
+            "typ": "kontext",
+            "text": "BELKOW. Mach' doch man, daß du 'runter kommst und aufschließt."
+          },
+          {
+            "typ": "figurtext",
+            "text": "STUMMEL. Na denn werde ick man machen und ufschließen. <i>Verschwindet oben in der Turmpforte, kommt gleich darauf mit einem großen Schlüsselbunde unten aus dem Turm, geht ans Tor, schließt auf.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(1. Akt, 7. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>[1.] Verwandlung. Dritter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Peter Stummel kommt eifrig von rechts.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STUMMEL. Herr Wachmeester –"
+          },
+          {
+            "typ": "kontext",
+            "text": "STURZ. Nu kommt auch das noch! Was is los?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STUMMEL. Draußen vor's Spandauer Tor steht einer in einen Reisewagen und der will 'rein, und der sagt, er is ein – ein – No – ta – rius."
+          },
+          {
+            "typ": "kontext",
+            "text": "STURZ. Was gehn mir die Notariusse an! Niemand wird mehr 'reingelassen, Magistrat hat's verboten."
+          },
+          {
+            "typ": "figurtext",
+            "text": "STUMMEL. Aber er macht enen höllischen Rabatz, und käme aus Böhmen, sagt er, und er hieße Peter Grechewitz, sagt er –"
+          },
+          {
+            "typ": "kontext",
+            "text": "FINKE. Peter Grechewitz? Donner – das is der Notarius von die Märkischen Stände, den laßt man 'rein, Herr Wachmeester; das hat was zu bedeuten.<br>KÄTHE <i>die mit Grethe durch die Tür rechts hinausgegangen war, kommt eilend von da zurück.</i> Herr Wachmeester! Sie kommen!<br>STURZ <i>faßt mit beiden Händen an den Kopf.</i> Da haben wir's.<br>KÄTHE. Ein ganzer langer Zug mit Fackeln!<br>STURZ <i>wie oben.</i> Mit Fackeln!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STUMMEL. Aber Herr Wachmeester – der – No – tarius?"
+          },
+          {
+            "typ": "kontext",
+            "text": "STURZ <i>wie oben.</i> Der Notarius!<br>FINKE. Na denn mal vorwärts die Zinkenisten – da 'rauf, auf das Gestell – <i>Zeigt auf die Musikantenbühne links.</i> und die Paukenisten da! <i>Zeigt nach rechts.</i><br>MUSIKANTEN. Is jut, is jut. <i>Ersteigen rechts und links mit ihren Instrummenten die Tribünen.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STUMMEL. Aber was sollen wir denn nu mit dem No – tarius machen?"
+          },
+          {
+            "typ": "kontext",
+            "text": "STURZ. Du Kalbsschnauze du! Weeßte das noch nich?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STUMMEL. Ne, Ihr habt mir ja nischt gesagt."
+          },
+          {
+            "typ": "kontext",
+            "text": "FINKE. In die Stadt 'reinlassen sollt Ihr ihn, und herbringen aufs hohe Haus in die Klosterstraße.<br>STURZ. Na also."
+          },
+          {
+            "typ": "figurtext",
+            "text": "STUMMEL. Is jut. <i>Ab nach rechts.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "FINKE. Und nu mal die Mädchens! Hier lang alle miteinander. <i>Führt die Mädchen an die Tür links. Die Mädchen drängen sich.</i><br>KÄTHE. Köhne – ich muß vorne stehn.<br>GRETHE. Ich auch!<br>ALLE MÄDCHEN. Ich auch!<br>FINKE. Aber Mädchens! Da hört sich ja alles auf! Die Älteste kommt nach vorn. <i>Alle treten zurück.</i> Na ja – nu will jede die letzte sein! <i>Die Mädchen ordnen sich zu einem dichten Haufen.</i> Und nu mal alle die Schnupptücher 'raus – habt Ihr alle welche?<br>KÄTHE. Na wir und keine Schnupptücher? <i>Sie ziehen die Taschentücher heraus.</i><br>FINKE. Und wenn sie kommen, dann wedelt Ihr in die Luft damit und schreit: »Fifat Dietrich Quitzow!« Werdet Ihr das können? Es ist nämlich Latein.<br>KÄTHE. Jott Kinder, hört nur man den an; der tut sich noch 'nen Schaden vor Schlauheit. <i>Von rechts dringt Fackelschein herein.</i><br>STURZ <i>der hinausgegangen ist, kommt zurückgelaufen.</i> Los mit den Tusch! Los mit den Tusch! <i>Tusch von Pauken und Trompeten.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>([1.] Verwandlung, 3. Auftritt)</b>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>[2.] Verwandlung. Fünfter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Hans Sturz, Fritze Belkow, Peter Stummel kommen von rechts.</i><br>STURZ <i>hat die Haube abgenommen, wischt sich die Stirn.</i> Die Hitze! Am frühen Morgen!<br>BELKOW. Der Durscht!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STUMMEL. Und der Sand!"
+          },
+          {
+            "typ": "kontext",
+            "text": "STURZ <i>fährt zu Stummel herum.</i> Na, sie sollen wohl einen Knüppeldamm bauen von Berlin bis Brandenburg, bloß damit daß du besser fortkommst mit deine ollen Eselsknochen? Was?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STUMMEL. Es is man von wegen das Geschwitze, Herr Wachmeester – Ihr schwitzt doch och nich schlecht."
+          },
+          {
+            "typ": "kontext",
+            "text": "STURZ. Du Hammelnase!! Wenn der Wachtmeester schwitzt, denn – denn hast du noch lange nich zu schwitzen! <i>Verschnauft.</i> Hat denn keener keenen Droppen zu trinken nich?<br>BELKOW. Ick dachte, Peter Stummel sollte was injesteckt haben."
+          },
+          {
+            "typ": "figurtext",
+            "text": "STUMMEL. Und ick dachte doch – Fritze Belkow –"
+          },
+          {
+            "typ": "kontext",
+            "text": "STURZ. Na ja, wenn Ihr zwei beide erst zu denken anfangt! Wie der Herrgott das Denken erfunden hat, hat er verjessen, Euch zu sagen, wie es gemacht wird.<br>PERWENITZ <i>rechts außerhalb der Szene.</i> Heda, Hans Sturz! Bist du da vorne?<br>STURZ. I du meine Jüte, da is ja der Herr Burgemeester schon! <i>Ruft nach rechts.</i> Jawoll, Herr Burgemeester! Ick bin hier mit's janze Aufgebot!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>([2.] Verwandlung, 5. Auftritt)</b>"
+          }
+        ]
+      },
+
+      {
+        "id": "Quitzows03",
+        "theaterstück": {
+          "titel": "Die Quitzows. Schauspiel in vier Akten",
+          "zeit": "1888",
+          "druckort": "Berlin",
+          "auffuehrungshinweise": "Ort der Handlung: Akt I: Berlin. Akt II: Straußberg und Berlin. Akt III: Burg Friesack und bei Brandenburg. Akt IV: Berlin und Burg Friesack. Zum ersten Male aufgeführt am Kgl. Opernhause zu Berlin am 9. November 1888. Zum hundertsten Male aufgeführt am Kgl. Schauspielhause zu Berlin am 2. Dez. 1890."
+        },
+        "autor": {
+          "name": "Ernst von Wildenbruch",
+          "herkunft": "Ber.",
+          "orte": ["Beirut", "Berlin"],
+          "lebensdaten": "1845–1909"
+        },
+        "figur": {
+          "name": "Hans Sturz",
+          "rolle": "Wachtmeister",
+          "beschreibung": "Wachtmeister von Berlin, spricht berlinisch"
+        },
+        "dialekt": {
+          "adaption": "Autoadaption",
+          "dialekt_grossraum": "Ber."
+        },
+        "geokoordinaten": {
+          "herkunft_autor": {
+            "lat": 52.518611,
+            "lng": 13.408333
+          },
+          "herkunft_figur": { 
+            "lat": 52.518611,
+            "lng": 13.408333
+          }
+        },
+        "abschnitt": "",
+        "original_link": "https://dracor.org/ger/wildenbruch-die-quitzows#text",
+        "abschnitt_segmentiert": [
+          {
+            "typ": "figurtext",
+            "text": "<b>Erster Akt. Zweiter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Hans Sturz gewaffnet, aber ohne Kopfbedeckung, kommt aus dem Torturm rechts.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "HANS STURZ. Was schreist de? Was is los?"
+          },
+          {
+            "typ": "kontext",
+            "text": "STUMMEL. Es is man von wegen das Vieh, daß ich fragen wollte."
+          },
+          {
+            "typ": "figurtext",
+            "text": "HANS STURZ. Was for ein Vieh?"
+          },
+          {
+            "typ": "kontext",
+            "text": "STUMMEL. Na das von die Berliner; ob die Berliner heut ausgetrieben haben nach'n Wedding?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "HANS STURZ. Denn müßten ja die Berliner grade solche Ochsen sein, wie du eener bist, wenn sie jetzt ihre Ochsen 'rausschickten. Weeßt du denn nich, daß die Pommern im Land 'rumrabuschern?"
+          },
+          {
+            "typ": "kontext",
+            "text": "STUMMEL. Es is man bloß von Fritze Belkow wegen, daß ich gefragt gehabt habe."
+          },
+          {
+            "typ": "figurtext",
+            "text": "HANS STURZ. Na Fritze Belkow – was is denn los?"
+          },
+          {
+            "typ": "kontext",
+            "text": "BELKOW. Bei'n Wedding, Wachmeester, is was los."
+          },
+          {
+            "typ": "figurtext",
+            "text": "HANS STURZ. Bei'n Wedding?"
+          },
+          {
+            "typ": "kontext",
+            "text": "BELKOW. Ja, oder so in der Jegend."
+          },
+          {
+            "typ": "figurtext",
+            "text": "HANS STURZ. Na was denn zum Schwerenot?"
+          },
+          {
+            "typ": "kontext",
+            "text": "BELKOW. Ein schauderhafter Staub."
+          },
+          {
+            "typ": "figurtext",
+            "text": "HANS STURZ. Ein Staub?"
+          },
+          {
+            "typ": "kontext",
+            "text": "BELKOW. Und so ein Staub, der kommt doch nich so von alleene; da muß doch was drinstecken in dem Staub."
+          },
+          {
+            "typ": "figurtext",
+            "text": "HANS STURZ. Da muß was drinstecken, das is wahr. Kannste denn nich sehen was es is?"
+          },
+          {
+            "typ": "kontext",
+            "text": "BELKOW. Ne, es is schmählich weit ab."
+          },
+          {
+            "typ": "figurtext",
+            "text": "HANS STURZ. Ob's denn Kriegsvolk is? He?"
+          },
+          {
+            "typ": "kontext",
+            "text": "BELKOW. Ne, wenn ich sagen soll, ich glaub's nicht; man sieht keene Fahnen, keene Pferde, keen Geblinkere von Hauben und Schwertern und nischt nich."
+          },
+          {
+            "typ": "figurtext",
+            "text": "HANS STURZ. Na was glaubst du denn, daß es is?"
+          },
+          {
+            "typ": "kontext",
+            "text": "BELKOW. Wenn ich sagen soll, es sieht aus, wie wenn sie so in der Jegend hier herum wo ein Dorf ausgepocht hätten, und nu kommen die Dorfleute und möchten in Berlin unterkriechen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "HANS STURZ. Wo meinst du denn, daß sie herkommen?"
+          },
+          {
+            "typ": "kontext",
+            "text": "BELKOW. Es kann sein, es kann ooch nich sein, von Bötzow her."
+          },
+          {
+            "typ": "figurtext",
+            "text": "HANS STURZ <i>ruft zum Thurm hinein.</i> Na denn bringt mir mal meine Eisentute her, denn werde ich mal gleich zu Herrn Bürgermeister Perwenitz gehn, der wird schon wissen, was da darbei zu tun is. <i>Ab in den Torturm.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(1. Akt, 2. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Erster Akt. Sechster Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Hans Sturz ist inzwischen vom Tore herangekommen und in einiger Entfernung stehen geblieben. Er hat jetzt die Eisenhaube auf dem Kopf.</i><br>DANNEWITZ. Du, Perwenitz, da is einer, der was von dir will.<br>PERWENITZ <i>wendet sich.</i> Das is ja Hans Sturz vom Spandauer Tor? Na?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ. Mit Verlaub, Herr Burgemeester, da draußen bei'n Wedding is es nich janz richtig."
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Was is denn los?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ. Es läßt sich ein jroßer Staub bemerkbar machen, und wenn ich meine Meinung anvertrauen darf, denn soll mir der Deibel holen, wenn mir nich die Pommern dichte auf die Nähte haben."
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Nanu?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ. Es sieht so aus, als hätten sie Bötzow ausgepocht und nu möchten die Bötzower unterkriechen in Berlin."
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Denn gehst du jetzt mal gleich nach dem Neuen Markt, da findest du die Stadtreiter."
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ. Is jut, Herr Burgemeester."
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Von denen nimmst du dir drei Mann, und dann sitzt Ihr auf und reitet zu Sankt Jürgens Tor hinaus und seht zu, was los is."
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ. Is jut, Herr Burgemeester. <i>Ab nach rechts.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Nu sagt mir, Ihr Herren, was soll man dazu sagen? Da bilden wir uns ein, die Pommern liegen vor Angermünde in der Uckermark, und unterdessen scharmützeln sie uns schon vor den Toren von Berlin herum!<br>DANNEWITZ. Is nur ein Glück, daß unser Markgraf wenigstens in Sicherheit is, nach Prag werden die Pommern sobald nich kommen.<br>SECHELWEG. Den würden sie sowieso nicht gestohlen haben, da könnt Ihr sicher sein.<br>PERWENITZ. Sagt das nich; wenn der Quitzow ihn zwischen die Finger gekriegt hätte, er hätt's mit ihm gemacht, wie mit seinem Landhauptmann, dem Schwarzburger.<br>RIENEKE. Was hat er denn mit dem gemacht?<br>PERWENITZ. Wißt Ihr das nicht? Wie der Graf von Schwarzburg, den der Jobst zum Landhauptmann der Mark gemacht hat, nach Tangermünde gezogen ist, was tut mein Quitzow? Legt sich bei Tischbeck in den Hinterhalt, dicht an der Elbe, und wie mein Schwarzburger angezogen kommt, so ganz ruhig und gottvergnügt, hurr – mein Quitz über ihn her und nimmt ihm all sein Gepäck und Geld und alles und etwas darüber –<br>DANNEWITZ. So ein verfluchter Kerl! So ein –<br>PERWENITZ. Eine Teufelskröte, das is er, der Quitz, das is wahr; aber Schneid hat er im Leibe!<br>DANNEWITZ. Das sage ich auch.<br>SECHELWEG. Schneid hat er, das is wahr.<br>ALLE. Das is wahr.<br>PERWENITZ. Und nu kommt das Beste: dadrauf also geht er zum Jobst und mit dem Jeld, das er seinem eigenen Landhauptmann abgeknöpft hat, kauft er von ihm Schloß Friesack.<br>DANNEWITZ. So ein Satansknochen! Hahaha!<br>RIENEKE. Und der Jobst?<br>PERWENITZ. Der Jobst? Na Ihr wißt doch, wie dem sein Wahlspruch is: »Trink was klar is, iß was gar is, nimm was bar is.«<br>ALLE. »Nimm was bar is« – hahaha!<br>DANNEWITZ. So ein Erzlump, wie der Jobst!<br>SECHELWEG. So ein böhmischer Schelm!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(1. Akt, 6. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Erster Akt. Fünfzehnter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Hans Sturz kommt von rechts.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ. Herr Burgemeester! Herr Burgemeester!"
+          },
+          {
+            "typ": "kontext",
+            "text": "KONRAD. Was ist geschehen? Was ist los?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ. Die Pommern haben Straußberg gebrochen, und die Straußberger sind nach Berlin geflüchtet gekommen. Wo is der Burgemeester?"
+          },
+          {
+            "typ": "kontext",
+            "text": "FINKE. Ich will Euch zu ihm führen, kommt mit. <i>Wendet sich im Abgehn.</i> Und nu, Herr von Quitzow, gebt acht! Es könnte sein, wenn das Elend da zum Himmel schreit, daß Ihr einen Namen dabei nennen hörtet, den Ihr kennt.<br>KONRAD. Was habe ich mit den Straußbergern zu schaffen? Was meinst du? Was willst du?<br>FINKE. Was ick will? Bloß dem Burgemeester sagen will ick, daß in Berlin ein paar hundert hungrige Mäuler mehr sind. <i>Ab mit Sturz nach rechts ins Rathaus.</i><br>KONRAD <i>blickt ihm gedankenvoll nach.</i><br>WICHART. Laß den Faselhans schwatzen; komm mit, Konrad, wir wollen unsern polnischen Tanz zu Ende tanzen.<br>KONRAD. Ich mag nicht mehr, laß mich.<br>KÄTHE. Kommt doch, Herr Junker, was gehen Euch und uns die Straußberger an?<br>GRETHE. Wir können ihnen doch nicht helfen.<br>KONRAD. Geht und tanzt, mir ist die Lust vergällt, ich will nicht, sag' ich Euch! Ich will nicht mehr!<br>KÄTHE. Ach kommt, der is langweilig geworden.<br>ALLE. Ja, es ist schade. <i>Die Mädchen mit den übrigen jungen Edelleuten links ab; Konrad tritt unter die Laube des Rathauses rechts. Rieke ist bei Finkes Abgang in ein Haus zur Linken abgegangen.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(1. Akt, 15. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>[1.] Verwandlung. Erster Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Hans Sturz sitzt mitten im Vorderraum auf einer Tonne. Köhne Finke geht auf und ab. Martin der Küfer ist mit. Küferknechten beschäftigt, Fässer von rechts her über die Bühne zu rollen und rechts und links unter den Musikantentribünen aufzustellen. Musikanten in bunter Tracht, füllen in plaudernden Gruppen den Vorderraum.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "HANS STURZ. Nu mal 'ran hier; ich werde Euch jetzt Eure Instrukschon geben. <i>Die Musikanten sammeln sich um ihn.</i> Was das nämlich anbetrifft, daß man Euch hergeholt hat aufs hohe Haus in die Klosterstraße und daß Ihr nu hier seid, – so jeht Euch das jar nischt an – denn davon versteht Ihr doch nischt – das is Politik. – Aber so dämlich werdet Ihr doch nich sein, denk' ich, daß Ihr nich einsehn tätet – daß wenn die Stadt Berlin dem Ritter Quitzow ein Fest jibt und Ihr die Musike dazu machen sollt – daß das eine schauderhafte Ehre für Euch is."
+          },
+          {
+            "typ": "kontext",
+            "text": "DIE MUSIKANTEN. Ja – ja."
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ. Na also. – <i>Schlägt auf das Faß, auf dem er sitzt; für sich.</i> Wenn ich man wüßte, was da drin is."
+          },
+          {
+            "typ": "kontext",
+            "text": "FINKE. Haltet Euch dran, Herr Wachtmeister, sie kommen nächstens an."
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ. Wenn also nu der Ritter Quitzow da 'reingekommen kommt – <i>Zeigt nach links.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "FINKE <i>zeigt nach rechts.</i> Sie kommen ja da lang."
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ <i>fährt mit dem Finger in der Luft nach rechts.</i> Da 'reingekommen kommt, dann werdet Ihr einen Tusch in die Welt setzen – aber ordentlich – nich so lappig."
+          },
+          {
+            "typ": "kontext",
+            "text": "DIE MUSIKANTEN. Ne – ne."
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ. Was die Paukenisten sind, die blasen in die Pauken und die Zinkenisten hauen auf die Trompeten."
+          },
+          {
+            "typ": "kontext",
+            "text": "FINKE. Das wird aber ene schöne Musike werden."
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ. Wird es ooch; denn wozu bezahlt denn der Rat von Berlin seine Musikanten? Doch nich, damit daß sie sich in die Pauken Biersuppe kochen?"
+          },
+          {
+            "typ": "kontext",
+            "text": "DIE MUSIKANTEN. Ne – ne."
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ. Na also –"
+          },
+          {
+            "typ": "kontext",
+            "text": "MARTIN <i>tritt heran.</i> Nanu, Herr Wachtmeister, sucht Euch mal gefälligst einen anderen Stuhl; wir brauchen das Faß."
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ <i>erhebt sich.</i> Wenn ich man wüßte, was drin is?"
+          },
+          {
+            "typ": "kontext",
+            "text": "MARTIN. Muskateller. <i>Rollt das Faß zu den übrigen.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ. Muskandeller – darum roch es auch so nach Zimt."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>([1.] Verwandlung, 1. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>[1.] Verwandlung. Zweiter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Von links kommen Käthe Dannewitz, Grethe Perwenitz, Rieke Stroband, andere Mädchen. Alle festlich geputzt.</i><br>FINKE. Alleweile wird's jut – da kommen die Mädchens!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ. Nanu? Nanu? Was wollen denn die?"
+          },
+          {
+            "typ": "kontext",
+            "text": "KÄTHE <i>tritt vor ihn hin, knickst spöttisch.</i> Mit dabei sein!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ. Ne! Davon steht nischt in die Instrukschon."
+          },
+          {
+            "typ": "kontext",
+            "text": "KÄTHE. Ach papperlapapp!<br>FINKE. Ja Herr Wachtmeister, die schönsten Mädchen von Berlin sollen mit bei das Fest dabei sein, das hat der Magistrat befohlen.<br>ALLE MÄDCHEN. Seht Ihr wohl?<br>FINKE. Nu fragt es sich bloß, ob Ihr die schönsten seid.<br>KÄTHE. Alter Grobian!<br>FINKE. Na, nich räsoniert! <i>Er nimmt die Fiedel, geigt und singt.</i< Von Seide zwei Bändchen, Von Blumen drei Quentchen, Die Bänder am Kleide Die Blumen am Kopf, Wer das nicht mag leiden, Der ist ein Tropf.<br>ALLE MÄDCHEN <i>klatschen jauchzend in die Hände.</i><br>KÄTHE <i>knickst vor dem Wachtmeister.</i> Wer das nicht mag leiden, Der ist ein Tropf!<br>ALLE MÄDCHEN <i>umtanzen den Wachtmeister.</i> Der ist ein Tropf! Der ist ein Tropf!<br>FINKE <i>ergreift Rieke an der Hand, zieht sie in den Vordergrund.</i> Rieke, Putthüneken <i>Will sie küssen.</i><br>RIEKE. Ach Köhne – vor all den Leuten?<br>FINKE. Sieht keiner nach uns hin. <i>Küßt sie.</i> Rieke, mir hat ein Vogel zur Nacht was gesungen.<br>RIEKE. Was denn, Köhne?<br>FINKE. »Zikut, zikut, 's wird alles noch gut!«<br>RIEKE. Ach Köhne."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>([1.] Verwandlung, 2. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>[1.] Verwandlung. Dritter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Peter Stummel kommt eifrig von rechts.</i><br>STUMMEL. Herr Wachmeester –"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ. Nu kommt auch das noch! Was is los?"
+          },
+          {
+            "typ": "kontext",
+            "text": "STUMMEL. Draußen vor's Spandauer Tor steht einer in einen Reisewagen und der will 'rein, und der sagt, er is ein – ein – No – ta – rius."
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ. Was gehn mir die Notariusse an! Niemand wird mehr 'reingelassen, Magistrat hat's verboten."
+          },
+          {
+            "typ": "kontext",
+            "text": "STUMMEL. Aber er macht enen höllischen Rabatz, und käme aus Böhmen, sagt er, und er hieße Peter Grechewitz, sagt er –<br>FINKE. Peter Grechewitz? Donner – das is der Notarius von die Märkischen Stände, den laßt man 'rein, Herr Wachmeester; das hat was zu bedeuten.<br>KÄTHE <i>die mit Grethe durch die Tür rechts hinausgegangen war, kommt eilend von da zurück.</i> Herr Wachmeester! Sie kommen!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ <i>faßt mit beiden Händen an den Kopf.</i> Da haben wir's."
+          },
+          {
+            "typ": "kontext",
+            "text": "KÄTHE. Ein ganzer langer Zug mit Fackeln!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ <i>wie oben.</i> Mit Fackeln!"
+          },
+          {
+            "typ": "kontext",
+            "text": "STUMMEL. Aber Herr Wachmeester – der – No – tarius?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ <i>wie oben.</i> Der Notarius!"
+          },
+          {
+            "typ": "kontext",
+            "text": "FINKE. Na denn mal vorwärts die Zinkenisten – da 'rauf, auf das Gestell – <i>Zeigt auf die Musikantenbühne links.</i> und die Paukenisten da! <i>Zeigt nach rechts.</i><br>MUSIKANTEN. Is jut, is jut. <i>Ersteigen rechts und links mit ihren Instrummenten die Tribünen.</i><br>STUMMEL. Aber was sollen wir denn nu mit dem No – tarius machen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ. Du Kalbsschnauze du! Weeßte das noch nich?"
+          },
+          {
+            "typ": "kontext",
+            "text": "STUMMEL. Ne, Ihr habt mir ja nischt gesagt.<br>FINKE. In die Stadt 'reinlassen sollt Ihr ihn, und herbringen aufs hohe Haus in die Klosterstraße."
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ. Na also."
+          },
+          {
+            "typ": "kontext",
+            "text": "STUMMEL. Is jut. <i>Ab nach rechts.</i><br>FINKE. Und nu mal die Mädchens! Hier lang alle miteinander. <i>Führt die Mädchen an die Tür links. Die Mädchen drängen sich.</i><br>KÄTHE. Köhne – ich muß vorne stehn.<br>GRETHE. Ich auch!<br>ALLE MÄDCHEN. Ich auch!<br>FINKE. Aber Mädchens! Da hört sich ja alles auf! Die Älteste kommt nach vorn. <i>Alle treten zurück.</i> Na ja – nu will jede die letzte sein! <i>Die Mädchen ordnen sich zu einem dichten Haufen.</i> Und nu mal alle die Schnupptücher 'raus – habt Ihr alle welche?<br>KÄTHE. Na wir und keine Schnupptücher? <i>Sie ziehen die Taschentücher heraus.</i><br>FINKE. Und wenn sie kommen, dann wedelt Ihr in die Luft damit und schreit: »Fifat Dietrich Quitzow!« Werdet Ihr das können? Es ist nämlich Latein.<br>KÄTHE. Jott Kinder, hört nur man den an; der tut sich noch 'nen Schaden vor Schlauheit. <i>Von rechts dringt Fackelschein herein.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ <i>der hinausgegangen ist, kommt zurückgelaufen.</i> Los mit den Tusch! Los mit den Tusch! <i>Tusch von Pauken und Trompeten.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>([1.] Verwandlung, 3. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>[1.] Verwandlung. Vierter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Perwenitz ihm zur Seite. Dietrich von Quitzow, Dannewitz ihm zur Seite. Lippold von Bredow, Blankenfeld ihm zur Seite. Hans zu Puttlitz, Sechelweg ihm zur Seite. Konrad von Quitzow, Rathenow ihm zur Seite. Achim von Bredow, Klaus Schultze ihm zur Seite. Gerke von Arnim, Henning Stroband ihm zur Seite. Werner von Holzendorf, andere Ratmannen und Edelleute kommen festlich geputzt im Zuge von rechts herein. Ratsdiener mit Fackeln gehen zur Seite des Zuges. Sobald der Zug in die Tür rechts eintritt, fliegt der Vorhang, der den Hintergrund abschließt, nach rechts und links auseinander, man sieht die strahlende Kredenztafel. Wiederholter Tusch von Pauken und Trompeten.</i><br>DIE MÄDCHEN <i>schwenken die Tücher.</i> Fifat Dietrich Quitzow! Fifat! <i>Nochmaliger Tusch.</i><br>DIETRICH <i>ist in der Mitte der Bühne stehengeblieben, winkt den Mädchen lachend zu.</i> Heida, die schönen Kinder!<br>DIE MÄDCHEN <i>wie oben.</i> Fifat Dietrich Quitzow! Fifat!<br>DIETRICH. Habe noch selten so artigen Fähnlein gegenüber gestanden. <i>Wendet sich zu den Bürgern.</i> Bürgermeister und Ratmannen von Berlin, Ihr habt uns einen herrlichen Empfang bereitet; wir danken Euch. <i>Händeschütteln zwischen den Rittern und den Bürgern.</i><br>PERWENITZ. Dietrich von Quitzow und schloßgesess'ne Herren vom Havelland, laßt es Euch gefallen, einen Becher Wein anzunehmen von unserer Stadt Berlin. <i>Der Zug schreitet die Stufen zum Hintergrunde hinauf, oben gruppiert sich derselbe um den Kredenztisch. Alle ergreifen Becher, die auf dem Tisch stehen.</i><br>PERWENITZ <i>mitten hinter dem Tisch, erhebt den Becher.</i> Heilandsblut erlöste die Welt – Mannesblut Ehre und Freiheit erhält – Traubenblut sprengt der Sorgen Joch – Freudig Blut, schaffend Blut lebe hoch!<br>ALLE. Hoch! Hoch! <i>Sie stoßen mit den Bechern an. Tusch von Pauken und Trompeten.</i><br>DIETRICH. Mannhaft gedacht und kernig gesprochen! Henning Perwenitz, ich tu Euch Bescheid. <i>Hebt den Becher, trinkt. Alle stoßen an; Tusch wie oben.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ <i>kommt von der Tür rechts, geht an die Stufen des Hintergrundes, legt die Hand an den Mund.</i> Herr Burgemeister –"
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Was willst du, Hans Sturz?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ. Ich habe Konfidenzen zu machen. Da is ein Notarius jekommen, und er sagt, er kommt aus Böhmen –"
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Hört da, Ihr Herren!<br>DANNEWITZ. Hört!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ. Und er sagt, er heißt Peter Grechewitz."
+          },
+          {
+            "typ": "kontext",
+            "text": "DIETRICH. Peter Grechewitz!<br>ALLE. Grechewitz?<br>PERWENITZ. Is er da?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ. Werde jleich zusehen. <i>Geht nach rechts, laut rufend.</i> Herr Notarius Peter Grechewitz! Herr Notarius Peter Grechewitz! <i>Geht nach rechts ab. Die Versammlung tritt erregt im Gespräch zusammen; Dietrich, Perwenitz, Puttlitz, Dannewitz kommen die Stufen herab.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "DIETRICH. Was sagte er? Aus Böhmen?<br>DANNEWITZ. Aus Böhmen käme er, ja.<br>PERWENITZ. Vielleicht gar aus Prag? Vom Markgrafen Jobst?<br>DIETRICH. Braucht vielleicht wieder einmal Geld.<br>DANNEWITZ. Aber er kriegt nichts!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>([1.] Verwandlung, 4. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>[1.] Verwandlung. Fünfter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Hans Sturz erscheint in der Tür rechts.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ. Herr Burgemeister, da bringe ich ihn gebracht. <i>Tritt nach rechts zurück.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>([1.] Verwandlung, 5. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>[1.] Verwandlung. Siebenter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Hans Sturz von rechts, aufgeregt, schreit aus der Mitte des Saales.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ. Herr Burgemeister! Herr Burgemeister!"
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Was schreist du schon wieder? Is noch ein Notar gekommen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ. Ne, etwas viel Größeres, etwas ganz Großes! Durch Sankt Jürgens Tor reitet ein Ritter ein mit zwanzig Mann dahinter her."
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Wer hat ihm das Recht gegeben, einzureiten in Berlin? Wer gab dir Erlaubnis, du Esel, dem Ritter zu öffnen, ehe du mich gefragt?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ. Weil er doch Einlaß forderte in des Kaisers Namen!"
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Im Namen des Kaisers?<br>ALLE. Des Kaisers? <i>Bewegung.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ. Und ein Herold reitet vor ihm her mit dem Reichsadler auf'm Wams – und da is er schon –"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>([1.] Verwandlung, 7. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>[2.] Verwandlung. Fünfter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Hans Sturz, Fritze Belkow, Peter Stummel kommen von rechts.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ <i>hat die Haube abgenommen, wischt sich die Stirn.</i> Die Hitze! Am frühen Morgen!<br>BELKOW. Der Durscht!"
+          },
+          {
+            "typ": "kontext",
+            "text": "STUMMEL. Und der Sand!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ <i>fährt zu Stummel herum.</i> Na, sie sollen wohl einen Knüppeldamm bauen von Berlin bis Brandenburg, bloß damit daß du besser fortkommst mit deine ollen Eselsknochen? Was?"
+          },
+          {
+            "typ": "kontext",
+            "text": "STUMMEL. Es is man von wegen das Geschwitze, Herr Wachmeester – Ihr schwitzt doch och nich schlecht."
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ. Du Hammelnase!! Wenn der Wachtmeester schwitzt, denn – denn hast du noch lange nich zu schwitzen! <i>Verschnauft.</i> Hat denn keener keenen Droppen zu trinken nich?"
+          },
+          {
+            "typ": "kontext",
+            "text": "BELKOW. Ick dachte, Peter Stummel sollte was injesteckt haben.<br>STUMMEL. Und ick dachte doch – Fritze Belkow –"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ. Na ja, wenn Ihr zwei beide erst zu denken anfangt! Wie der Herrgott das Denken erfunden hat, hat er verjessen, Euch zu sagen, wie es gemacht wird."
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ <i>rechts außerhalb der Szene.</i> Heda, Hans Sturz! Bist du da vorne?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ. I du meine Jüte, da is ja der Herr Burgemeester schon! <i>Ruft nach rechts.</i> Jawoll, Herr Burgemeester! Ick bin hier mit's janze Aufgebot!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>([2.] Verwandlung, 5. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>[2.] Verwandlung. Sechster Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Perwenitz, Dannewitz, Sechelweg, Stroband kommen von rechts.</i><br>PERWENITZ. Dann geh' mal mit deinen Leuten, haltet unsere Pferde."
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ. Is jut, Herr Burgemeester; ick fürchte man, daß die zwei Kerle da zu dämlich sind for die Reiterei. <i>Sturz, Belkow, Stummel rechts ab.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Noch niemand da – die Berliner sind wieder mal zuerst aufgestanden. <i>Setzt sich auf eine Bodenerhöhung.</i><br>STROBAND. Ob wir denn auch richtig hier sind?<br>DANNEWITZ. Da wo es zum Marienberg 'raufgeht, hat es geheißen, wird er sein Zelt aufschlagen und da soll es sein.<br>PERWENITZ. Am Marienberg sind wir.<br>SECHELWEG <i>zeigt.</i> Und da steht ja auch ein Zelt!<br>ALLE. Wo?<br>SECHELWEG. Na seht Ihr's denn nicht?<br>PERWENITZ. Das stimmt – das muß sein Zelt sein.<br>STROBAND. Das muß es sein.<br>PERWENITZ. Nu soll's mich wundern, was da 'rauskommen wird; ob's wieder so 'ne Art von Jobsten sein wird?<br>STROBAND. Ne, ne, ich habe ein gutes Zutrauen.<br>PERWENITZ. Dann geht's Euch besser als mir.<br>STROBAND. Wenn ich nur wüßte, warum Ihr Euch so gegen ihn stemmt?<br>PERWENITZ. Wenn man mir einen Krug Wein vorsetzt, soll ich sagen, der Wein is jut bevor daß ich gekostet? Ne – erst selber probieren! Kaiser Sigismund schickt ihn, und Kaiser Sigismund hat uns auch den Jobst geschickt, und Kaiser Sigismund is ein Baum, der bis heutigentags nur saures Obst für uns getragen hat."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>([2.] Verwandlung, 6. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>[2.] Verwandlung. Siebenter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Hans Sturz von rechts. Musik rechts hinter der Szene.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ. Herr Burgemeester, es jeht los! Sie kommen mit die Musike!"
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ <i>steht auf.</i> Wer kommt?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ. Die Brandenburger und die Spandauer und die Frankfurter."
+          },
+          {
+            "typ": "kontext",
+            "text": "DANNEWITZ <i>blickt nach links.</i> Und von da kommen noch andere – das sind die Rathenower!<br>SECHELWEG <i>blickt nach links.</i> Und die Havelberger und Ruppiner!<br>PERWENITZ <i>blickt nach rechts.</i> Was kommt denn von der Havel her?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ. Das sind die edlen Herren von Bredow. Hurrje, die Masse Menschen!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>([2.] Verwandlung, 7. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>[2.] Verwandlung. Elfter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Köhne Finke an der Spitze eines Haufens ärmlich gekleideten Volks, kommt von rechts unten. Die Männer tragen Stöcke, an denen sie grüne Zweige wie Fahnen befestigt haben.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "STURZ. Herr Burgemeester, seht doch bloß mal das! Das sind doch keene Ratmannen nich?"
+          },
+          {
+            "typ": "kontext",
+            "text": "FINKE. Wir sind die edlen Ritter von Hunger und Durscht!<br>DAS VOLK <i>welches Finke begleitet.</i> Von Hunger und Durscht!<br>FINKE <i>ist den Fußsteig bis zur Hälfte emporgestiegen.</i> Und ich bin der Hauptmann davon, der Ritter ohne Käse und Wurscht!<br>STIMMEN DER RATMANNEN. Wer ist der verrückte Kerl?<br>PERWENITZ. Köhne Finke, was soll das? Was kommst du hierher? Was willst du hier?<br>FINKE <i>lüftet das Barett.</i> Mir den neuen Markjrafen ansehen, Herr Burgemeester! Wir sind arme Deibels und für 'nen armen Deibel gibt es auf der Erde nischt als die Luft und die Hoffnung, denn die beiden kosten nischt. Und nu hat man uns gesagt, daß einer gekommen is, der uns 'was dazu geben will, und das is uns lieb zu hören, denn Luft und Hoffnung sind schöne Gerichte, aber satt wird man davon nich.<br>STROBAND. Hier wo Burgemeister und Ratmannen reden, hast du das Maul zu halten und weiter nichts!<br>FINKE. Wüßte auch nich, was ich sonst noch halten sollte, da mir sonst nich viel gehört!<br>DAS VOLK <i>lärmend.</i> Köhne Finke soll reden!<br>FINKE. Wenn ick denn also reden soll, so sage ick nur soviel: ick weiß zwar von dem Hohenzollern, was der neue Markjraf is, noch zwar nischt – aber daß er sein Zelt hier aufgeschlagen hat in Jottes freier Luft, wo die Iroßen ihn hören können und die Kleinen, das gefällt mir von ihm und das finde ick jut. Und das Zelt, seht Ihr, das is schwarz und weiß, und das, hab' ick mir sagen lassen, sind die Farben von dem Hohenzollern, und die Farben gefallen mir, und ick will Euch auch sagen warum: denn was mich betrifft, so bin ick ein Schmiedegeselle, und wenn ick am Amboß stehe und an die Esse, dann krieg' ick ein schwarzes Gesicht und schwarze Hände – und das is die Arbeit – und nachher, wenn Feierabend is, denn wasch' ick mir und denn bin ick wieder weiß – und das is die Ruhe nach der Arbeit und das Vergnügtsein. Und darum sag' ick: wer solche Farben hat, der versteht was von die Arbeit und der weiß, was dem kleinen Mann not tut und der hat ein Herz für das Volk.<br>DAS VOLK. Das is wahr! Das is jut!<br>PERWENITZ. Der Bengel hat Kopf und Herz auf'm rechten Fleck!<br>STROBAND. Hat aber nicht mitzureden hier! Wirst du machen, Köhne Finke, daß du nach Hause kommst?<br>FINKE. Mit alle schuldige Hochachtung, Meister Stroband, ne, das will ick nich! Wir sollen unsere Hoffnung hier zu sehen bekommen, mit leibhaftige Augen, und so was is 'ne seltene Sache. Und darum wollen wir uns den Hohenzollern ansehen, bis daß wir sagen können: so sieht er aus. Und wenn der uns sagt, geht nach Haus, für Euch bin ich nich zu sprechen – na – denn wollen wir hingehn, wo wir hergekommen sind, zu Mutter Elend."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>([2.] Verwandlung, 11. Auftritt)</b>"
+          }
+        ]
+      },
+
+      {
+        "id": "Quitzows04",
+        "theaterstück": {
+          "titel": "Die Quitzows. Schauspiel in vier Akten",
+          "zeit": "1888",
+          "druckort": "Berlin",
+          "auffuehrungshinweise": "Ort der Handlung: Akt I: Berlin. Akt II: Straußberg und Berlin. Akt III: Burg Friesack und bei Brandenburg. Akt IV: Berlin und Burg Friesack. Zum ersten Male aufgeführt am Kgl. Opernhause zu Berlin am 9. November 1888. Zum hundertsten Male aufgeführt am Kgl. Schauspielhause zu Berlin am 2. Dez. 1890."
+        },
+        "autor": {
+          "name": "Ernst von Wildenbruch",
+          "herkunft": "Ber.",
+          "orte": ["Beirut", "Berlin"],
+          "lebensdaten": "1845–1909"
+        },
+        "figur": {
+          "name": "Köhne Finke",
+          "rolle": "Geselle",
+          "beschreibung": "Schmiedegeselle, spricht berlinisch"
+        },
+        "dialekt": {
+          "adaption": "Autoadaption",
+          "dialekt_grossraum": "Ber."
+        },
+        "geokoordinaten": {
+          "herkunft_autor": {
+            "lat": 52.518611,
+            "lng": 13.408333
+          },
+          "herkunft_figur": { 
+            "lat": 52.518611,
+            "lng": 13.408333
+          }
+        },
+        "abschnitt": "",
+        "original_link": "https://dracor.org/ger/wildenbruch-die-quitzows#text",
+        "abschnitt_segmentiert": [
+          {
+            "typ": "figurtext",
+            "text": "<b>Erster Akt. Achter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Köhne Finke in Handwerksburschentracht, aber etwas phantastisch aufgeputzt, eine kleine Fiedel umgehängt, erscheint im Tor.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "KÖHNE FINKE <i>ist eingetreten, bleibt stehen, sieht sich um, lüftet das Barett.</i> Juten Morgen, Berlin! <i>Kommt langsam nach vorn.</i> Herrjott, du hast dir aber nich ein bißken verändert?"
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ <i>zu den übrigen.</i> Wer is denn der verdrehte Kerl?<br>STROBAND. Schlag mich – is das nich Köhne Finke? Mein Gesell von vorm Jahr?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Is mich eine große Ehre, Herr Henning Stroband, daß Ihr mich wiederkennen tut – derselbigte bin ich –"
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Ein Schmiedegeselle?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Er führt ein Hämmerken auf seiner Hand, sie heißen ihn Köhne Finken."
+          },
+          {
+            "typ": "kontext",
+            "text": "DANNEWITZ. Köhne Finken, der verdrehte Kerl?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Aufzuwarten, Herr Hans Dannewitz, mit drei Schubladen voll Hochachtung."
+          },
+          {
+            "typ": "kontext",
+            "text": "STROBAND. Dein loses Maul hast du dir nich abgewöhnt das Jahr über, wie mir scheint."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Herr Henning Stroband, da müßt Ihr Euch bei unserm Herrjott beschweren – er hat den Finken nu einmal den Schnabel gegeben, damit daß sie pfeifen."
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ <i>schlägt ihn auf die Schulter.</i> So einen möchte ich im Vogelbauer haben; du bist von der Art, scheint mir, die's ganze Jahr singt."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Aufzuwarten, Herr Burgemeester, wenn's Bier geraten is, sing' ich och im Winter."
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Und was willst du nu in Berlin?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Jut Biereken mag er wohl trinken."
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Einen Krug Bier? Weiter nichts?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Wenn's Euch zu wenig scheint, Herr Burgemeester, och deren zwei."
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Meister Martin, ein neuer Gast für dich.<br>MARTIN <i>kratzt sich hinterm Ohr.</i> Zwei Krug Bier für so einen –? Wenn ich man wüßte, ob er mir einen bezahlt?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE <i>kratzt sich ebenso.</i> Zwei Krug Bier von so einem? Wenn ick man wüßte, ob mir eener davon jut genung is."
+          },
+          {
+            "typ": "kontext",
+            "text": "MARTIN. Du Bummelratze, machst du mir mein Bier schlecht?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Du Kellergemüse –"
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Na, laßt das Geschimpfe – der ist draußen gewesen, der kann uns was erzählen. Meister Martin, einen Krug Bier für ihn. Köhne Finke, kannst dich zu uns setzen mit deinem Bier."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE <i>setzt sich.</i> Is mich eine jroße Ehre, Herr Burgemeester."
+          },
+          {
+            "typ": "kontext",
+            "text": "STROBAND. Ja, ein ausgetragener Junge, das bist du."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Herr Hennig Stroband, wenn ick das nich wäre, denn fiele ick ja heute noch meiner Mutter zur Last – und ick falle niemandem jerne zur Last – ick denke, Ihr wißt das aus Erfahrung."
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Was meint er denn damit, Stroband?<br>STROBAND. I nu, bis vor 'nem Jahr war er Geselle bei mir.<br>PERWENITZ. Und wo bist du dann hingegangen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Nach Bötzow, Herr Burgemeester, zu Meister Balzern."
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Warum denn?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Weil der keene Tochter hat."
+          },
+          {
+            "typ": "kontext",
+            "text": "STROBAND. Halt's Maul!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Wenn ich was zu trinken hätte, wollt' ich mein Maul zu was Bess'res brauchen, als zum Reden."
+          },
+          {
+            "typ": "kontext",
+            "text": "MARTIN <i>setzt einen Krug vor ihn.</i> Da – sauf!<br>STROBAND. Und was haste denn bei Meister Balzern gemacht? Gearbeitet doch nich?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Was werd' ich gemacht haben? Ich habe zugehorcht, was die Spatzen singen und die Füchse sich erzählen."
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Was singen denn die Spatzen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Die singen so: Herr Jobst, Herr Jobst, Gib unsern Kindern Obst; Hast Brandenburg aufgefressen, Nich Stumpf noch Stiel vergessen Laß Äppel und Birnen hangen, Sonst müssen wir betteln gangen."
+          },
+          {
+            "typ": "kontext",
+            "text": "ALLE. Das is jut! Das is jut!<br>PERWENITZ. Und was erzählen sich die Füchse?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Die jeben sich Rätsel auf zum Raten: Schlau wie ein Fuchs – Jierig wie ein Luchs – Dickhäutig gleich 'nem Bären – Wer ist das?"
+          },
+          {
+            "typ": "kontext",
+            "text": "ALLE <i>jubelnd.</i> Jobst von Mähren!<br>PERWENITZ. Junge, du hast Schneid; und wie steht's denn nu mit Bötzow?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Da steht überhaupt nischt mehr, Bötzow is alle."
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Also ausgepocht? Is es wahr?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Ausgepocht, ausgeräuchert – die Bötzower haben das nackte Leben unter die Arme genommen und sind ausgerückt – jetzt liegen sie draußen bei'n Wedding."
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Also es stimmt.<br>DANNEWITZ. Wo sind die Pommern jetzt?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Die Pommern liegen mit Dietrichen Quitzow vor Straußberg."
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Vor Straußberg?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Ja, aber heute liegen sie vielleicht schon drin."
+          },
+          {
+            "typ": "kontext",
+            "text": "SECHELWEG. Woher weißt du denn das alles?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Herr Sechelweg, wie's mit Bötzow Essig gewesen is, hab' ick mir uf Schusters Rappen gesetzt und bin ausgerückt. Hab' ick so bei mir in meine dumme Gedanken gedacht, wirst mal nach'n Barnim gehen, mußt doch mal zusehn, wo die pommerschen Spickgänse eingefallen sind. Komme ick also durch die Wandelitzer Forst über Bernau an den Strauß-See, und wie ick mir so Straußberg aus die Ferne ansehen tue, haste nich gesehn, sind zwei solche pommersche Schwuchtlümmel über mir her und legen mir ein Halsband an und laden mich mit Rippenstößen ein, in ihr Lager zu kommen. Da stehen nu die beiden Stettiner Herzöge in die Türe vor ihrem Zelt und fragen: »Was is los mit dem Kerl?« Drauf schreien alle: »Es is ein Spion! und er muß baumeln!« Und damit so führen sie mir auch jleich an einen Baum und wollen mir ufknöppen. So sag' ick: »Aber Männekens,« sag' ick, »wat soll ich denn an dem Baum? Ich bin doch keene Laterne nich?« Und nu, seht Ihr, steht bei den Stettiner Herzögen noch einer, ein Kerl wie dem Riesen Goliath sein Mastbaum; und wie der das hört, so lacht er und sagt: »Das muß ein Berliner sein, so'ne Schnauze hat nur ein Berliner.« Und: »Bringt ihn mir mal her,« sagt er. Drauf so schreien die Pommern alle: »Ne! ne!« und wollen mir eben ufschwenken. Und damit in den Augenblick is der Betreffende her und quatsch, quatsch, haut er den beiden Pommern, die mich am Schlafittich haben, ein paar Backpfeifen, daß es man so summt und sagt: »Ich will Euch lehren gehorchen,« sagt er, »wenn der Quitzow was befiehlt.«"
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Das war der Quitzow?<br>ALLE. Der Quitzow?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Dieser selbigte; und was die grünen Herzöge sind, die wurden nun vor Wut janz jrasgrün und fahren auf den Quitzow los und schreien: »Das sind unsere Leute!« und so guckt der Quitzow sie an so von oben runter, versteht Ihr, drei Stock hoch und dadermit legt er mir die Hand auf die Schulter und sagt: »Und der hier gehört mir!« Und damit so dreht er mir uf'n Absatz 'rum wie einen Kreisel und sagt: »Hier kommste lang,« und führt mir zu seinem Zelt."
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Die grünen Herzöge? Wer is denn das?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Na die Stettiner, der Otto und der Kasimir, und weil's doch ein Paar janz grüne Jungen sind."
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Dann scheint's aber mit der Freundschaft zwischen den Pommern und dem Quitzow nicht weit her zu sein?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Herr Burgemeester, wenn die Freundschaft 'ne Brücke is, denn jehe ick nich darüber. Man sagt, es steckt eine Frau dahinter."
+          },
+          {
+            "typ": "kontext",
+            "text": "ALLE. Wieso? Wieso?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Da is nämlich ein Weibsbild mit den Stettinern, eine Polnische."
+          },
+          {
+            "typ": "kontext",
+            "text": "DANNEWITZ. Eine Polnische?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Ja, die einen sagen, eine Tochter, die andern, eine Bruderstochter von König Jagello'n von Polen, und die soll mit dem einen von den Stettinern versprochen sein, ick weeß nich, ob mit dem Otto oder dem Kasimir, und nu is das ein janz merkwürdiges Besteck, wie sie sagen, die zu Pferde reitet und uf die Jagd geht, und wie der Krieg losgegangen hat, is sie mit ausgerückt, sagen sie, um zu sehen, ob ihr Zukünftiger och ein janzer Kerl is."
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Nu hör' so was an."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Und bei die Gelegenheit hat sie nu den Quitzow kennen gelernt, und der hat ihr schmählich in die Augen gestochen, sagen sie, weil's doch eine janz andere Nummer is, als die beiden Stettiner zusammengenommen, und das hat ihr Zukünftiger gerochen, und nu meine ick so in meine dumme Gedanken nu hält die Geschichte noch zusammen bis daß sie Straußberg haben, und denn aber is es mit die Freundschafts-Knüpperei Essig."
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Seht Ihr wohl! Seht Ihr wohl! Nu aber mal weiter; was hat er denn von dir gewollt in seinem Zelt?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Ja, wie wir nu in seinem Zelt gekommen sind, da is er erst eine janze Weile so uf- und abgegangen und hat nischt nich geredt. Dadrauf so bleibt er plötzlich vor mir stehen und guckt mir an, daß ich denke, nu frißt er dir uf! Denn ein Paar Augen hat der in' Kopp – Hurredidu! Und denn fragt er: »Een Berliner bist du?« So sag' ick: »Aufzuwarten, am Möllendamm in Sankt Niklas jeboren.« Dadrauf jrunzt er so was vor sich hin und denn sagt er: »Eigentlich,« sagt er, »bin ich schlecht zu sprechen auf die Berliner, es is eine jroßschnäuzige Gesellschaft.«"
+          },
+          {
+            "typ": "kontext",
+            "text": "STROBAND. Seht Ihr wohl? Was hab' ich gesagt?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. »Aber,« sagt er, »sie haben Schneid« –"
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Seht Ihr wohl?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. »Und von allen, die hinter Stadtmauern sitzen,« sagt er, »sind die Berliner mir noch die liebsten.«"
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Aha! Aha!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. »Und da drin in Berlin,« sagt er, »hab' ich eenen Bruder von mir, und weil ich doch nu in der Fehde bin mit den Berlinern, wär's mir verdeibelt nich lieb, wenn dem was geschähe von den Berlinern.«"
+          },
+          {
+            "typ": "kontext",
+            "text": "STROBAND. Kiekste da 'raus?<br>DANNEWITZ. Ein Bruder von dem Quitzow bei uns?<br>PERWENITZ. So is es, allerdings. Dietrichen sein junger Bruder, Konrad Quitzow. Bei Probst Ortwin is er in der Domschule.<br>STROBAND <i>springt auf.</i> In den Turm damit! Dann haben wir eine Geißel in Händen!<br>PERWENITZ. Wartet ab, Henning Stroband.<br>ALLE. Abwarten!<br>STROBAND <i>setzt sich.</i> Abwarten und immer abwarten.<br>PERWENITZ. Weiter, Köhne Finke."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. »Denn wenn ihm was zuleide geschehe,« sagt er, »hol' mir der Deibel, ich zünde Berlin an allen vier Ecken an!«"
+          },
+          {
+            "typ": "kontext",
+            "text": "STROBAND. In die Spree mit den Quitzows!<br>PERWENITZ. Abwarten.<br>ALLE. Abwarten."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. »Umgekehrt im entjegengesetzten Fall,« sagt er –"
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Was, im entgegengesetzten Fall? Was?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Ja, wie er das gesagt hat, is er wieder stehen geblieben und hat mir angeguckt und gefragt: »Bist du ein Schlaukopp?« sagt er, »oder ein Hammel?« »Na,« sag' ick, »soviel mir bekannt is, bin ick zweibeinig auf die Welt gekommen.« Dadrauf so lacht er und sagt: »Die pommerschen Jungen sind mir zu jrün,« sagt er, »und wenn die Berliner vernünftig sein wollten, dann ließe sich am Ende was zusammenfingern, daß die Pommern mit'n gekerbten Rücken nach Haus kämen.«"
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Das hat er gesagt?<br>DANNEWITZ. Das hat er gesagt?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Dieses selbigte hat er gesagt, und dann hat er einen Brief aus die Tasche geholt und gesagt: »Getraust du dir, den hier an Propst Ortwin in Berlin zu besorgen?«"
+          },
+          {
+            "typ": "kontext",
+            "text": "STROBAND. Was ist das? Propst Ortwin steht mit den Quitzows im Bund?<br>PERWENITZ. Na was soll's? Das weiß doch jedes Kind, daß sie Freunde sind von alters her.<br>STROBAND. So ein verfluchter Pfaffe!<br>PERWENITZ. Das will ich nich hören! Propst Ortwin ist ein ehrlicher Mann.<br>DANNEWITZ. Ein ganzer tüchtiger Mann!<br>STROBAND <i>steht auf.</i> Na, wenn es so steht, denn bin ich hier wohl nich weiter nötig. <i>Zu Köhne Finke.</i> Und was dich betrifft, sieh mal an, Köhne Finke, du machst ja Fortschritte; vorm Jahr hast du bloß Mädchen den Kopf verdreht, jetzt schwatz'st du Bürgermeister und Ratmannen um den Verstand –"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Herr Henning Stroband, mit alle schuldige Hochachtung, aber was Ihr da sagt, is nich an dem. Ick habe meinen Schnabel jebraucht, wie Jott ihn mir gegeben hat, for mir selbst, aber nie nich, um einen Menschen zu beschwatzen; und wenn sich mal in Mädchenkopf nach mir umgedreht hat, denn hab' ick freilich nich gesagt: guck' weg, das is wahr, denn jigtig bin ich nich und ein Mädchen kriegt nich gleich die Miselsucht, wenn sie mir ansieht."
+          },
+          {
+            "typ": "kontext",
+            "text": "STROBAND. Sei du man stille, du kannst's noch zu was bringen, weiter sage ich nichts; nu will ick man wünschen, daß du's einmal zum Meister bringst in deinem Leben."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Daß ick nur ein Schmiedegeselle bin und keen Meister, das weeß ick; und daß ick en armer Deibel bin, das weeß ick och – aber, Herr Henning Stroband, ein armer Kerl is darum noch kein schlechter Kerl."
+          },
+          {
+            "typ": "kontext",
+            "text": "ALLE. Das is wahr.<br>STROBAND. Es ist jut, sage ich, es is jut. <i>Ab nach rechts.</i><br>PERWENITZ. Und nu genug mit dem Geträtsch. Köhne Finke, haste den Brief bei dir für Propst Ortwin?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE <i>zieht einen Brief aus der Brusttasche.</i> Ja – aber ick weeß nich –"
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ <i>nimmt ihm den Brief ab.</i> Jib her, sag' ich, er soll besorgt werden, Propst Ortwin zu Händen, ich selber übernehme es."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Is jut, Herr Burgemeester, aber ich hab's dem Quitzow versprechen müssen auf Treu' und Glauben, daß ich ihm Bescheid bringen soll."
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Du sollst den Bescheid bekommen, kannst solange hier warten und dich mit Meister Martin sein Bier unterhalten."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Is jut, Herr Burgemeester."
+          },
+          {
+            "typ": "kontext",
+            "text": "PERWENITZ. Und nu, Ratmannen, wer kommt mit zu Propst Ortwin? <i>Tiefe Stille.</i> Na? Keiner?<br>SECHELWEG. Zu Propst Ortwin? Das heißt zu dem Quitzow.<br>PERWENITZ. Na denn ja, zu dem Quitzow und gegen die Pommern?<br>DANNEWITZ. Henning Perwenitz, hol' mich der Deibel, ich gehe mit!<br>SECHELWEG. Wenn Ihr so meint, Hans Dannewitz –<br>ALLE. Wir gehen mit, wir gehen mit!<br>PERWENITZ. Das is ein Wort, gebt mir die Hände! <i>Sie schütteln sich die Hände.</i> Unser Kaiser läßt uns im Stich, unser Markgraf desgleichen, wir haben bald nischt mehr als die Glieder an unsrem Leibe; hilft uns niemand, woll'n wir uns selber helfen und die Karre in die eigene Hand nehmen; und wenn die Mark bis über die Ohren 'ringefahren is, schlag mich der Donner, wir holen sie wieder 'raus; das sage ich, Henning Perwenitz, Burgemeister von Berlin, und Berlin allemal vornevoran, wenn's gilt!<br>DANNEWITZ. Berlin vornevoran!<br>ALLE. Vornevoran! <i>Alle außer Martin und Köhne Finke ab ins Rathaus rechts.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE <i>schlägt auf den Tisch.</i> Und nu noch einen Krug »alten Klaus« für Köhne Finken!"
+          },
+          {
+            "typ": "kontext",
+            "text": "MARTIN. Na weißte du, wenn du dir nu noch lange hier mausig machst, dann sollste bald was andres zu besehen bekommen, als Bier."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Herr Burgemeester hat mir befohlen, hier zu warten."
+          },
+          {
+            "typ": "kontext",
+            "text": "MARTIN. Daß du dir nur nich mal verrechnest."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Ne, ohne Sorge, will schon Obacht jeben. <i>Martin ab in den Keller.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(1. Akt, 8. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Erster Akt. Zehnter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Grethe Perwenitz von rechts zu den vorigen.</i><br>GRETHE <i>flüsternd.</i>. Ja – is das nicht Köhne Finke?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE <i>für sich.</i> Nu wird's jut, da kommen die Mädchen an."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(1. Akt, 10. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Erster Akt. Elfter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Ein Knecht kommt aus den Keller, setzt einen Krug vor Köhne Finke. Andere Mädchen kommen zu den vorigen und bleiben mit ihnen stehen.</i><br>KNECHT. Den schickt Meester Martin. <i>Ab.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Und den trinkt Köhne Finke. <i>Hebt den Krug, schielt über denselben zu den Mädchen hinüber.</i> Sie is ja nich damang – was jehen mich denn die dummen Liesen an. <i>Dreht sich von ihnen ab.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "GRETHE <i>halblaut.</i> Wenn ich man bloß wüßte, ob er's wirklich is?<br>KÄTHE <i>ebenso.</i> Wer soll's denn sonst sein? Den Bart hat er sich ein bißchen wachsen lassen. <i>Die Mädchen fassen sich Arm in Arm und gehen im Hintergrunde der Bühne auf und ab, Köhne Finke beobachtend.</i><br>KÄTHE <i>wie oben.</i> Ich werde ihn mal 'rauslocken, gib acht. Laut. Von Köhne Finke sprecht Ihr? Ach, der is ja in die weite Welt gegangen, der kommt nich wieder.<br>GRETHE <i>laut.</i> Was soll denn der auch in Berlin? Meister wird er ja doch nie, kann also auch kein ordentliches Mädchen nich heimführen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE <i>für sich.</i> I – du Kröte du!"
+          },
+          {
+            "typ": "kontext",
+            "text": "KÄTHE <i>laut.</i> Der is ein Vagabund geworden, der wird im Leben kein ordentlicher Mann."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE <i>singt laut, ohne die Mädchen dabei anzusehen.</i> Meine Mutter hat die Gänse abgerupft, Gänse abgerupft, Nackicht sind sie in der Stube 'rumgehupft, Stube 'rumgehupft, Hupp – Hupp! <i>Die Mädchen stoßen sich kichernd an.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "KÄTHE <i>laut.</i> Früher, wie er noch in Berlin war, da konnte er singen, das war noch das einzige Gute an ihm.<br>GRETHE <i>laut.</i> Das soll er nu aber auch ganz verlernt haben, habe ich mir sagen lassen.<br>KÄTHE <i>blickt nach rechts.</i> Da kommt Rieke Stroband."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE <i>fährt auf; für sich.</i> Donner – nu muß ich fort! Aber ich soll ja den Burgemeester hier abwarten – hol's der Deibel! <i>Sinkt auf den Stuhl zurück, wendet sich ganz von den Mädchen ab.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(1. Akt, 11. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Erster Akt. Zwölfter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Rieke Stroband kommt von rechts; die Mädchen gehen ihr entgegen.</i><br>KÄTHE. Du, Rieke, wir sprechen eben von Köhne Finken.<br>RIEKE <i>bleibt betroffen stehen.</i> Von – Köhne Finken?<br>GRETHE <i>stößt sie an, zeigt auf Köhne Kinke, leise.</i> Guck' doch mal den an.<br>RIEKE. Ach, du mein Herr und Heiland! Kinder, laßt mich fort! <i>Will gehen.</i><br>KÄTHE <i>hält sie fest, leise.</i> Bleib' doch man, er will's ja nich Wort haben, daß er's is. <i>Sie unterhalten sich flüsternd.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE <i>für sich.</i> Um bucklig zu werden is das! Da soll man hier sitzen und keen Wort zu dem Mädchen reden dürfen und das Mädchen nich mal ansehen dürfen, und dabei möchte man jleich anbeißen und das janze Ding auffressen mit Haut und Haar!"
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE <i>laut.</i> Was Ihr Euch denkt. Gar nichts frage ich dem nach, gar nichts."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE <i>für sich.</i> Kommst du mir so? Na warte! <i>Nimmt die Fiedel, singt laut.</i> »Unterm Machandelbaum Da ist ein Platz – Susala – Dusala – Da sitzt mein Schatz. Sitzt auf dem grünen Gras, Sitzt auf dem grünen Klee, Hast ja die Augen naß? Bist ja wie Milch und Schnee? Susala – Dusala – Wo tut's denn weh? Kommst du so spät zurück? Nun ist's zu spät fürs Glück. Kenne dich gar nicht mehr. Mir ist das Herz verquer, Susala – Dusala – Wollt', tot ich wär'! Schwarz ist das Grabeloch, Leb' doch ein Weilchen noch; Wart' noch bis Sankt Kathrein, Da will ich um dich frei'n. Wart' noch bis Sankt Martein, Da soll die Hochzeit sein – Susala – Dusala – Gib dich darein.«"
+          },
+          {
+            "typ": "kontext",
+            "text": "KÄTHE <i>jauchzend.</i> Da soll die Hochzeit sein, Rieke!<br>GRETHE. Gib dich darein, Rieke!<br>KÄTHE. Bis Sankt Martein mußt du noch warten, Rieke!<br>GRETHE. Is ja nich mehr lange hin!<br>ALLE MÄDCHEN <i>jubelnd sie umdrängend.</i> Zu Sankt Martein is Hochzeit!<br>RIEKE <i>reißt sich von ihnen los.</i> Laßt mich gehen, sag' ich. <i>Tritt zu Finke heran.</i> Und so einer bist du also jetzt, daß du ein ehrliches Mädchen in Schimpf und Schande bringst?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE <i>springt auf.</i> Herr du meine Jüte – Jungfer Rieke, seid Ihr das?"
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE. So? Nu tust du noch, als hättest du mich vorhin nich gesehn? Und dabei singst du schändliche Lieder auf mich? So? <i>Sie bricht in Tränen aus.</i><br>KÄTHE. Aber Rieke, so sei doch nich so.<br>RIEKE <i>setzt sich schluchzend an den Tisch.</i> Das – is schändlich – und Ihr sollt mich gehn lassen, sag' ich. <i>Legt den Kopf auf den Tisch.</i><br>GRETHE <i>zu den übrigen.</i> Kommt doch man fort, mit der is ja nichts anzufangen jetzt.<br>KÄTHE. Ne, wenn die einmal ihren Kopf aufsetzt –<br>ALLE. Kommt man, kommt man. <i>Die Mädchen Arm in Arm, sich kichernd umblickend, links ab.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE <i>steht am Tisch, auf Rieke blickend.</i> Aber Jungfer Rieke –"
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE. Kein Wort redest du mehr zu mir! Mit uns is es aus!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Das habt Ihr mir ja schon vorhin zu verstehen gegeben."
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE <i>hebt das Haupt.</i> Ich dir? Was so einer sich einbildet! Gar nich acht hab' ich auf dich gegeben."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Na eben drum. »Dem frage ich gar nich nach« – Hm?"
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE. Und dann so ein schändliches Lied auf mich zu singen!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Wenn's Euch nich gefällt, tut mir's leid; was so schändlich dran sein soll, verstehe ick nich."
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE. Mich vor allen denen seinen Schatz zu nennen!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Kommt denn Euer Name in dem Lied vor? Wer sagt Euch denn, daß es auf Euch geht?"
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE. Als ob das nich alle gleich gesagt hätten!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Wer wird denn hinhören, wenn die Gänse schnattern?"
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE <i>steht auf.</i> Damit daß du's aber nur weißt; wenn dich jemand fragt: ich bin's nicht, die bis Sankt Martein wartet."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Ne, Jungfer, das habt Ihr mir ja schon gesagt."
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE. Und ich sitze nich unterm Baum und für mich is es gar nich zu spät mit dem Glück, denn wenn ich will, kriege ich Männer, soviel ich will."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Das globe ich Euch, Jungfer."
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE. Ordentliche Männer, Bürgerssöhne, Sohne von Meistern, und keinen – keinen Landstreicher."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Iratuliere im voraus, Jungfer Stroband."
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE. Und nun dächt' ich, du gingst deine Wege."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Wollte schon, muß aber den Herrn Burgemeester hier abwarten."
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE. Dann werde ich gehen, denn wenn man mich mit – so einem sähe – das wäre mir ja eine Schande."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. So?! Na dann jeht man, in Jottes Namen! <i>Dreht ihr den Rücken zu.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE. Das will ich auch. <i>Geht langsam bis an die Straßenecke links, bleibt dort stehen.</i> Na – nu – gehe ich."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE <i>ohne sich umzusehen.</i> Immerzu. <i>Pause.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE. Aber – man sagt doch 'nem Menschen adjes?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE <i>wie oben.</i> Ihr werdet Euch ja wohl nich verlaufen in Berlin."
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE <i>zögernd.</i> Wo bist du denn eigentlich das ganze Jahr lang gewesen? <i>Pause. Sie kommt zwei Schritte zurück.</i> Du – hörst wohl gar nich mehr?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE <i>ohne sich umzusehen.</i> Ick denke, Ihr seid längst fort?"
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE <i>dreht kurz um.</i> So'n Grobian!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE <i>ohne sich umzusehen.</i> Wo ich gewesen bin? Da, wo ich wieder hingehe: in die weite Welt."
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE. Da gehst du wieder hin?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Ja."
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE. Warum denn?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Weil ich mir in Berlin nich mehr zurechtfinde."
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE. Is dir Berlin denn so zuwider geworden?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Ja"
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE. Und – da is nichts in Berlin – und niemand –?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Ne!"
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE. So ein schlechter Mensch bist du geworden?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Nu wird's mir aber zu arg! <i>Wendet sich.</i> Weil ich ein ehrlicher Kerl bin! Dadrum is es, daß ich gehe, damit daß Ihr es wißt, Jungfer!"
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE <i>leise.</i> Wie denn so?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Weil ich mir nich von gewissen stolzen Herren will sagen lassen, daß ich den Mädchen den Kopf verdrehe! Weil ich weiß, daß for 'nen armen Schmiedegesellen die Schmiedemeisterstöchter nich gewachsen sind, und weil ich weiß, daß wenn ein armer Deibel nach einem reichen Mädel ein Herz faßt, alle Welt schreit: »Des is ein Dieb!« und weil ich kein Dieb nich bin, Jungfer Rieke, sondern ein ehrlicher Kerl – und kein Landstreicher nich – sondern – na, un nu habt Ihr's gehört und nu wißt Ihr's und nu jeht – jeht. <i>Pause.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE. Du – Köhne Finke? Warum nennst du mich denn nich mehr du?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Weil ich's Meister Stroband seine Tochter nich zumuten will, daß sie sich mit einem Landstreicher duzt."
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE. Dann darf ich dich doch auch nich mehr du nennen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Wäre auch schon das Beste; denn wo zwei Wege sich scheiden, da steht ein Wegweiser, der sagt »auseinander«."
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE. Muß denn das so sein?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Ich denke, Ihr wißt es noch besser als ich."
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE <i>bricht in Tränen aus.</i> Köhne – is denn das alles dein Ernst?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Rieke – Jott steh mir bei – Rieke! <i>Breitet die Arme aus, sie sinkt an seine Brust.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE. Hast du denn keine Ahnung, wie ich nach dir geangt und gebangt habe das ganze Jahr?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Das hast du getan?"
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE. Bist du mir denn nich ein bißchen mehr gut?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Riekchen, wenn ich dir nich jut wäre, würde mir das Herz denn so in Stücke gehn, jetzt wo ich dich lassen soll? <i>Wischt sich die Augen.</i> Siehste, die Menschen denken, weil ich so'n bisken vorneweg bin mit's Mundwerk, bei mir im Herzkasten drin wär' alles immer fidel – glaub's nich – es is so duster da drin, daß du nich die Hand vor Augen sehen würdest. Jestern, siehste, haben mich die Pommern an einen Baum ufhängen wollen –"
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE <i>umschlingt ihn.</i> Hängen haben sie dich wollen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. In die Jegend von Straußberg war's – und wie ick nu schon die Strippe um'n Hals hatte, was doch gar nich sehr angenehm zu sein pflegt, siehste, da hab' ich so bei mir gedacht: Rieke Stroband kriegste ja doch nich, also wozu soll das dumme Zeug von Leben noch, und janz zufrieden bin ick gewesen."
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE <i>an seinem Halse.</i> Köhne, mein armer guter Köhne!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Mein Putthüneken –"
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE. Und soll es keine Möglichkeit sein, daß wir uns kriegen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Rieke, ick habe die Hoffnung festgehalten, solange noch ein Zipfel zu sehen war – nu is es damit aus! Wie dein Vater mir den Stuhl vor die Türe gesetzt hat, bin ick nach Bötzow gegangen und habe gearbeitet bei Meister Balzern auf Mord und Tod – wirst dir was ersparen, hab' ick mir gesagt, daß du vielleicht in ein paar Jahren soviel hast, daß du Meister werden kannst – Riekchen wird solange wohl aushalten –"
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE. Und wenn ich alt und grau werden sollte, keinen andren als dich will ich haben!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Und wie nu's Jahr um is – da kommt das Kriegsgeschrei – und nu is Bötzow kaput und Meister Balzer kaput – nu kann ick von vorn anfangen; und übers Jahr, wenn ick wieder ein paar Groschen hinter mir habe, denn wird's wieder so kommen, und denn übers Jahr wieder und immer wieder Krieg und Raub und Sengen und Brennen – o du blutiger Heiland im Himmelreich, ick weiß nich, wie es sonst in der Welt aussieht, aber uns armen Leuten in der Mark geht es zu schlecht! <i>Sinkt an den Tisch, legt verzweifelnd das Haupt auf die Arme.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE <i>legt die Hand auf seine Schulter.</i> Köhne, ob es denn nicht einmal besser werden wird?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE <i>steht auf.</i> Rieke, der da oben im Himmel is ja klüger als wir hier unten auf der Erde, der weiß vielleicht noch einen Ausweg – meine Weisheit is zu Ende. <i>Sie halten sich schweigend umschlungen. Von links hört man Gelächter und fröhliches Gekreisch.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE <i>reißt sich von Finke los.</i> Wer kommt denn da?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE <i>geht an die Straßenecke und blickt nach links.</i> Es sind die adligen Junker von Propst Ortwin seine Domschule; die spielen Fangen und Zeck mit die Mädchen."
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE. Ach dann komm fort!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE <i>kommt nach vorn.</i> Da sind sie schon."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(1. Akt, 12. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Erster Akt. Vierzehnter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Konrad von Quitzow, Wichart von Rochow, andere junge Edelleute alle in kurzen Mänteln, Barett auf dem Haupt, Dolche im Gürtel, kommen hinter den Mädchen von links gelaufen.</i><br>KONRAD VON QUITZOW <i>eilt an die Straßenecke rechts, breitet die Arme aus.</i> Hier an der Straße steht ein Schlagbaum, und der heißt Quitzow! Nun, schöne Jungfern, seid Ihr gefangen! <i>Die jungen Edelleute haben die Bühne rechts und links umstellt, so das sich die Mädchen in der Mitte befinden.</i><br>KÄTHE. Aber wir spielen nich mit!<br>ALLE MÄDCHEN. Ne! ne! ne!<br>WICHART VON ROCHOW. Ach dummes Zeug, da wird gar nich lange gefragt. <i>Geht auf Käthe zu und faßt sie an der Hand.</i><br>KÄTHE <i>sich sträubend.</i> Ihr sollt mich nich anfassen!<br>ROCHOW. Ziert Euch nicht!<br>KONRAD <i>tritt hinzu.</i> Wichart, ängstige die Mädchen nicht. <i>Wichart tritt zurück.</i> Warum wollt Ihr nicht mit uns tanzen, Jungfer Käthe?<br>KÄTHE <i>mit einem Blick auf Wichart.</i> Ach, der da is immer gleich tolpatschig – mit Euch – is das was andres.<br>KONRAD. Gut also, es ist noch lange hin bis zur letzten Glocke – was wollen wir tanzen?<br>GRETHE. Den Zwölfmonatstanz.<br>KONRAD. Dazu sind wir nicht genug.<br>WICHART. Den Kapriolentanz.<br>KÄTHE. Ne, da tanz' ich nich mit, das ist ein unanständiger Tanz.<br>ALLE. Der is unanständig.<br>KONRAD. Also wollen wir's mit dem polnischen Tanz versuchen, kennt Ihr den?<br>ALLE. Ne, wie is denn der?<br>KONRAD. Paßt auf. Seht Ihr, <i>Tritt auf Käthe zu.</i> zuerst die Reverenz <i>Verbeugt sich.</i> und Ihr habt nun die Neige zu machen.<br>KÄTHE <i>verneigt sich, knicksend.</i> So?<br>KONRAD. So, ja. Nun kommt das Knippen und Knappen – ich gebe Euch die rechte Hand, – da wollt Ihr nicht – dann die linke – da wollt Ihr wieder nicht – dann aber beide – und da greift Ihr zu; und nun drehen wir uns. <i>Sie machen die angegebenen Bewegungen durch.</i><br>KÄTHE <i>lachend.</i> Is das ein komischer Tanz!<br>ALLE. Aber hübsch!<br>KONRAD. Nun jeder Mann eine Jungfer! <i>Sie reihen sich zum Tanz.</i><br>WICHART. Ein Mädchen fehlt!<br>KÄTHE <i>zeigt auf Rieke.</i> Da is ja Rieke Stroband noch.<br>ALLE. Rieke muß mittanzen! <i>Die Mädchen kommen in den Vordergrund gelaufen.</i><br>RIEKE. Ich will nich, laßt mich gehn.<br>KÄTHE. Köhne Finke, so rede ihr doch zu."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Wenn sie nich will, denn wird sie wohl wissen, warum daß sie nich will."
+          },
+          {
+            "typ": "kontext",
+            "text": "KONRAD. Bist du solch ein Duckmäuser?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Ne, Herr von Quitzow, der bin ich noch nie nich gewesen – aber alles hat seine Zeit, und jetzt is schlechte Zeit zum Tanzen."
+          },
+          {
+            "typ": "kontext",
+            "text": "KONRAD. Warum denn?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Warum? Da müßt' ich Euch eine Geschichte erzählen, die beinah so lang wäre, wie meine Lebensgeschichte. Aber seid einmal still – hört Ihr das? <i>Dumpfes Geräusch von Stimmen und Schritten von rechts; die auf der Bühne befindlichen Personen sind an die Straßenecke geeilt, blicken rechts hinaus.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "KONRAD. Von Sankt Jürgens Tor kommt das her? Ein Haufen Menschen, Männer, Weiber und Kinder – alle in Fetzen und Lumpen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Ja, alles in Fetzen und Lumpen."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(1. Akt, 14. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Erster Akt. Fünfzehnter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Hans Sturz kommt von rechts.</i><br>STURZ. Herr Burgemeester! Herr Burgemeester!<br>KONRAD. Was ist geschehen? Was ist los?<br>STURZ. Die Pommern haben Straußberg gebrochen, und die Straußberger sind nach Berlin geflüchtet gekommen. Wo is der Burgemeester?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Ich will Euch zu ihm führen, kommt mit. <i>Wendet sich im Abgehn.</i> Und nu, Herr von Quitzow, gebt acht! Es könnte sein, wenn das Elend da zum Himmel schreit, daß Ihr einen Namen dabei nennen hörtet, den Ihr kennt."
+          },
+          {
+            "typ": "kontext",
+            "text": "KONRAD. Was habe ich mit den Straußbergern zu schaffen? Was meinst du? Was willst du?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Was ick will? Bloß dem Burgemeester sagen will ick, daß in Berlin ein paar hundert hungrige Mäuler mehr sind. <i>Ab mit Sturz nach rechts ins Rathaus.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "KONRAD <i>blickt ihm gedankenvoll nach.</i><br>WICHART. Laß den Faselhans schwatzen; komm mit, Konrad, wir wollen unsern polnischen Tanz zu Ende tanzen.<br>KONRAD. Ich mag nicht mehr, laß mich.<br>KÄTHE. Kommt doch, Herr Junker, was gehen Euch und uns die Straußberger an?<br>GRETHE. Wir können ihnen doch nicht helfen.<br>KONRAD. Geht und tanzt, mir ist die Lust vergällt, ich will nicht, sag' ich Euch! Ich will nicht mehr!<br>KÄTHE. Ach kommt, der is langweilig geworden.<br>ALLE. Ja, es ist schade. <i>Die Mädchen mit den übrigen jungen Edelleuten links ab; Konrad tritt unter die Laube des Rathauses rechts. Rieke ist bei Finkes Abgang in ein Haus zur Linken abgegangen.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(1. Akt, 15. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>[1.] Verwandlung. Erster Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Hans Sturz sitzt mitten im Vorderraum auf einer Tonne. Köhne Finke geht auf und ab. Martin der Küfer ist mit. Küferknechten beschäftigt, Fässer von rechts her über die Bühne zu rollen und rechts und links unter den Musikantentribünen aufzustellen. Musikanten in bunter Tracht, füllen in plaudernden Gruppen den Vorderraum.</i><br>HANS STURZ. Nu mal 'ran hier; ich werde Euch jetzt Eure Instrukschon geben. <i>Die Musikanten sammeln sich um ihn.</i> Was das nämlich anbetrifft, daß man Euch hergeholt hat aufs hohe Haus in die Klosterstraße und daß Ihr nu hier seid, – so jeht Euch das jar nischt an – denn davon versteht Ihr doch nischt – das is Politik. – Aber so dämlich werdet Ihr doch nich sein, denk' ich, daß Ihr nich einsehn tätet – daß wenn die Stadt Berlin dem Ritter Quitzow ein Fest jibt und Ihr die Musike dazu machen sollt – daß das eine schauderhafte Ehre für Euch is.<br>DIE MUSIKANTEN. Ja – ja.<br>STURZ. Na also. – <i>Schlägt auf das Faß, auf dem er sitzt; für sich.</i> Wenn ich man wüßte, was da drin is."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Haltet Euch dran, Herr Wachtmeister, sie kommen nächstens an."
+          },
+          {
+            "typ": "kontext",
+            "text": "STURZ. Wenn also nu der Ritter Quitzow da 'reingekommen kommt – <i>Zeigt nach links.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE <i>zeigt nach rechts.</i> Sie kommen ja da lang."
+          },
+          {
+            "typ": "kontext",
+            "text": "STURZ <i>fährt mit dem Finger in der Luft nach rechts.</i> Da 'reingekommen kommt, dann werdet Ihr einen Tusch in die Welt setzen – aber ordentlich – nich so lappig.<br>DIE MUSIKANTEN. Ne – ne.<br>STURZ. Was die Paukenisten sind, die blasen in die Pauken und die Zinkenisten hauen auf die Trompeten."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Das wird aber ene schöne Musike werden."
+          },
+          {
+            "typ": "kontext",
+            "text": "STURZ. Wird es ooch; denn wozu bezahlt denn der Rat von Berlin seine Musikanten? Doch nich, damit daß sie sich in die Pauken Biersuppe kochen?<br>DIE MUSIKANTEN. Ne – ne.<br>STURZ. Na also –<br>MARTIN <i>tritt heran.</i> Nanu, Herr Wachtmeister, sucht Euch mal gefälligst einen anderen Stuhl; wir brauchen das Faß.<br>STURZ <i>erhebt sich.</i> Wenn ich man wüßte, was drin is?<br>MARTIN. Muskateller. <i>Rollt das Faß zu den übrigen.</i><br>STURZ. Muskandeller – darum roch es auch so nach Zimt."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>([1.] Verwandlung, 1. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>[1.] Verwandlung. Zweiter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Von links kommen Käthe Dannewitz, Grethe Perwenitz, Rieke Stroband, andere Mädchen. Alle festlich geputzt.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Alleweile wird's jut – da kommen die Mädchens!"
+          },
+          {
+            "typ": "kontext",
+            "text": "STURZ. Nanu? Nanu? Was wollen denn die?<br>KÄTHE <i>tritt vor ihn hin, knickst spöttisch.</i> Mit dabei sein!<br>STURZ. Ne! Davon steht nischt in die Instrukschon.<br>KÄTHE. Ach papperlapapp!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Ja Herr Wachtmeister, die schönsten Mädchen von Berlin sollen mit bei das Fest dabei sein, das hat der Magistrat befohlen."
+          },
+          {
+            "typ": "kontext",
+            "text": "ALLE MÄDCHEN. Seht Ihr wohl?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Nu fragt es sich bloß, ob Ihr die schönsten seid."
+          },
+          {
+            "typ": "kontext",
+            "text": "KÄTHE. Alter Grobian!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Na, nich räsoniert! <i>Er nimmt die Fiedel, geigt und singt.</i< Von Seide zwei Bändchen, Von Blumen drei Quentchen, Die Bänder am Kleide Die Blumen am Kopf, Wer das nicht mag leiden, Der ist ein Tropf."
+          },
+          {
+            "typ": "kontext",
+            "text": "ALLE MÄDCHEN <i>klatschen jauchzend in die Hände.</i><br>KÄTHE <i>knickst vor dem Wachtmeister.</i> Wer das nicht mag leiden, Der ist ein Tropf!<br>ALLE MÄDCHEN <i>umtanzen den Wachtmeister.</i> Der ist ein Tropf! Der ist ein Tropf!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE <i>ergreift Rieke an der Hand, zieht sie in den Vordergrund.</i> Rieke, Putthüneken <i>Will sie küssen.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE. Ach Köhne – vor all den Leuten?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Sieht keiner nach uns hin. <i>Küßt sie.</i> Rieke, mir hat ein Vogel zur Nacht was gesungen."
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE. Was denn, Köhne?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. »Zikut, zikut, 's wird alles noch gut!«"
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE. Ach Köhne."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>([1.] Verwandlung, 2. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>[1.] Verwandlung. Dritter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Peter Stummel kommt eifrig von rechts.</i><br>STUMMEL. Herr Wachmeester –<br>STURZ. Nu kommt auch das noch! Was is los?<br>STUMMEL. Draußen vor's Spandauer Tor steht einer in einen Reisewagen und der will 'rein, und der sagt, er is ein – ein – No – ta – rius.<br>STURZ. Was gehn mir die Notariusse an! Niemand wird mehr 'reingelassen, Magistrat hat's verboten.<br>STUMMEL. Aber er macht enen höllischen Rabatz, und käme aus Böhmen, sagt er, und er hieße Peter Grechewitz, sagt er –"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Peter Grechewitz? Donner – das is der Notarius von die Märkischen Stände, den laßt man 'rein, Herr Wachmeester; das hat was zu bedeuten."
+          },
+          {
+            "typ": "kontext",
+            "text": "KÄTHE <i>die mit Grethe durch die Tür rechts hinausgegangen war, kommt eilend von da zurück.</i> Herr Wachmeester! Sie kommen!<br>STURZ <i>faßt mit beiden Händen an den Kopf.</i> Da haben wir's.<br>KÄTHE. Ein ganzer langer Zug mit Fackeln!<br>STUMMEL. Aber Herr Wachmeester – der – No – tarius?<br>STURZ <i>wie oben.</i> Der Notarius!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Na denn mal vorwärts die Zinkenisten – da 'rauf, auf das Gestell – <i>Zeigt auf die Musikantenbühne links.</i> und die Paukenisten da! <i>Zeigt nach rechts.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "MUSIKANTEN. Is jut, is jut. <i>Ersteigen rechts und links mit ihren Instrummenten die Tribünen.</i><br>STUMMEL. Aber was sollen wir denn nu mit dem No – tarius machen?<br>STURZ. Du Kalbsschnauze du! Weeßte das noch nich?<br>STUMMEL. Ne, Ihr habt mir ja nischt gesagt."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. In die Stadt 'reinlassen sollt Ihr ihn, und herbringen aufs hohe Haus in die Klosterstraße."
+          },
+          {
+            "typ": "kontext",
+            "text": "STURZ. Na also.<br>STUMMEL. Is jut. <i>Ab nach rechts.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Und nu mal die Mädchens! Hier lang alle miteinander. <i>Führt die Mädchen an die Tür links. Die Mädchen drängen sich.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "KÄTHE. Köhne – ich muß vorne stehn.<br>GRETHE. Ich auch!<br>ALLE MÄDCHEN. Ich auch!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Aber Mädchens! Da hört sich ja alles auf! Die Älteste kommt nach vorn. <i>Alle treten zurück.</i> Na ja – nu will jede die letzte sein! <i>Die Mädchen ordnen sich zu einem dichten Haufen.</i> Und nu mal alle die Schnupptücher 'raus – habt Ihr alle welche?"
+          },
+          {
+            "typ": "kontext",
+            "text": "KÄTHE. Na wir und keine Schnupptücher? <i>Sie ziehen die Taschentücher heraus.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Und wenn sie kommen, dann wedelt Ihr in die Luft damit und schreit: »Fifat Dietrich Quitzow!« Werdet Ihr das können? Es ist nämlich Latein."
+          },
+          {
+            "typ": "kontext",
+            "text": "KÄTHE. Jott Kinder, hört nur man den an; der tut sich noch 'nen Schaden vor Schlauheit. <i>Von rechts dringt Fackelschein herein.</i><br>STURZ <i>der hinausgegangen ist, kommt zurückgelaufen.</i> Los mit den Tusch! Los mit den Tusch! <i>Tusch von Pauken und Trompeten.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>([1.] Verwandlung, 3. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>[2.] Verwandlung. Elfter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Köhne Finke an der Spitze eines Haufens ärmlich gekleideten Volks, kommt von rechts unten. Die Männer tragen Stöcke, an denen sie grüne Zweige wie Fahnen befestigt haben.</i><br>STURZ. Herr Burgemeester, seht doch bloß mal das! Das sind doch keene Ratmannen nich?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Wir sind die edlen Ritter von Hunger und Durscht!"
+          },
+          {
+            "typ": "kontext",
+            "text": "DAS VOLK <i>welches Finke begleitet.</i> Von Hunger und Durscht!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE <i>ist den Fußsteig bis zur Hälfte emporgestiegen.</i> Und ich bin der Hauptmann davon, der Ritter ohne Käse und Wurscht!"
+          },
+          {
+            "typ": "kontext",
+            "text": "STIMMEN DER RATMANNEN. Wer ist der verrückte Kerl?<br>PERWENITZ. Köhne Finke, was soll das? Was kommst du hierher? Was willst du hier?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE <i>lüftet das Barett.</i> Mir den neuen Markjrafen ansehen, Herr Burgemeester! Wir sind arme Deibels und für 'nen armen Deibel gibt es auf der Erde nischt als die Luft und die Hoffnung, denn die beiden kosten nischt. Und nu hat man uns gesagt, daß einer gekommen is, der uns 'was dazu geben will, und das is uns lieb zu hören, denn Luft und Hoffnung sind schöne Gerichte, aber satt wird man davon nich."
+          },
+          {
+            "typ": "kontext",
+            "text": "STROBAND. Hier wo Burgemeister und Ratmannen reden, hast du das Maul zu halten und weiter nichts!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Wüßte auch nich, was ich sonst noch halten sollte, da mir sonst nich viel gehört!"
+          },
+          {
+            "typ": "kontext",
+            "text": "DAS VOLK <i>lärmend.</i> Köhne Finke soll reden!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Wenn ick denn also reden soll, so sage ick nur soviel: ick weiß zwar von dem Hohenzollern, was der neue Markjraf is, noch zwar nischt – aber daß er sein Zelt hier aufgeschlagen hat in Jottes freier Luft, wo die Iroßen ihn hören können und die Kleinen, das gefällt mir von ihm und das finde ick jut. Und das Zelt, seht Ihr, das is schwarz und weiß, und das, hab' ick mir sagen lassen, sind die Farben von dem Hohenzollern, und die Farben gefallen mir, und ick will Euch auch sagen warum: denn was mich betrifft, so bin ick ein Schmiedegeselle, und wenn ick am Amboß stehe und an die Esse, dann krieg' ick ein schwarzes Gesicht und schwarze Hände – und das is die Arbeit – und nachher, wenn Feierabend is, denn wasch' ick mir und denn bin ick wieder weiß – und das is die Ruhe nach der Arbeit und das Vergnügtsein. Und darum sag' ick: wer solche Farben hat, der versteht was von die Arbeit und der weiß, was dem kleinen Mann not tut und der hat ein Herz für das Volk."
+          },
+          {
+            "typ": "kontext",
+            "text": "DAS VOLK. Das is wahr! Das is jut!<br>PERWENITZ. Der Bengel hat Kopf und Herz auf'm rechten Fleck!<br>STROBAND. Hat aber nicht mitzureden hier! Wirst du machen, Köhne Finke, daß du nach Hause kommst?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Mit alle schuldige Hochachtung, Meister Stroband, ne, das will ick nich! Wir sollen unsere Hoffnung hier zu sehen bekommen, mit leibhaftige Augen, und so was is 'ne seltene Sache. Und darum wollen wir uns den Hohenzollern ansehen, bis daß wir sagen können: so sieht er aus. Und wenn der uns sagt, geht nach Haus, für Euch bin ich nich zu sprechen – na – denn wollen wir hingehn, wo wir hergekommen sind, zu Mutter Elend."
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>([2.] Verwandlung, 11. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>[2.] Verwandlung. Zwölfter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Friedrich, Ileburg und einige Edle sind während der letzten Worte aus dem Zelte getreten. Friedrich ist dicht hinter Köhne Finke getreten, schlägt ihn jetzt auf die Schulter.</i><br>FRIEDRICH. Nun denn – so bleibe."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE <i>wirft den Kopf herum, starrt Friedrich an.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "FRIEDRICH <i>droht ihm lächelnd.</i> Doch halte dich stumm, Hören macht klug, Schwatzen macht dumm."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Das is ein Fürst und ein Herr – das – is der Hohenzoller! <i>Sinkt in die Knie.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "DIE GANZE VERSAMMLUNG <i>tief murmelnd.</i> Der Hohenzoller. <i>Pause.</i><br>FRIEDRICH <i>blickt ernst lächelnd um, lüftet alsdann sein Barett.</i> Gott dir zum Gruß – Mark Brandenburg. <i>Dumpfes Gemurmel. Man sieht, wie einige die Mützen und Hüte abnehmen, andere verlegen dastehen.</i><br>FRIEDRICH <i>winkt Ileburg.</i><br>ILEBURG <i>tritt vor, entrollt ein Pergament, das er in Händen hält.</i> Märkische Städte, schloßgesess'ne Herren, Zur Huldigung versammelt und vereint, Vernehmt den Eid, den Ihr beschwören sollt: »Wir huldigen und schwören Herren Friedrich, Burggraf zu Nürnberg und den Erben dessen, Getreu zu sein, gewärtig und gehorsam – Als Gott uns helfe und die Heiligen.« <i>Tiefe Stille.</i><br>ILEBURG. Wir harren Eurer Antwort. Wer beginnt?<br>LIPPOLD VON BREDOW <i>tritt auf Friedrich zu, senkt ein Knie.</i> Ich als der älteste der Bredows spreche: Die Bredows huldigen und schwören Euch. <i>Die Bredowschen Edlen senken ein Knie.</i><br>FRIEDRICH nimmt Lippolds Hand. Ich nehm' Euch an. Euer Wort ist eine Tat. Für immer nun bei Hohenzollerns Taten Soll Bredow Hohenzollerns Helfer sein. <i>Die Bredowschen erheben sich, Lippold tritt zurück.</i><br>ILEBURG. Die märk'schen Städte, warum schweigen sie?<br>PERWENITZ <i>lüftet das Barett.</i> Mit aller schuld'gen Ehrfurcht, gnäd'ger Herr, Es steht nicht so, daß wir Euch feindlich wären, Doch das Vertrauen wird uns märk'schen Städten Ein bißchen sauer.<br>FRIEDRICH <i>dem Ileburg etwas ins Ohr gesagt hat.</i> Ihr seid von Berlin Der Burgemeister?<br>PERWENITZ. Ja, der bin ich, Herr.<br>FRIEDRICH. Ich hab' Beschwerde wider Eure Stadt.<br>PERWENITZ. Woher – denn das?<br>FRIEDRICH. Man hat in Eurer Mitte An einem meines Volks Gewalt getan.<br>PERWENITZ. Ihr – meint –<br>FRIEDRICH. Ich meine Thomas Wins von Straußberg, Den Ihr von Dietrich Quitzow, Eurem Freunde, Gefangen nach Burg Friesack schleppen ließt.<br>STROBAND. Nicht unser Freund!<br>PERWENITZ. Ganz wider unsren Willen Nahm er den Mann gefangen.<br>FRIEDRICH <i>mit spöttischem Lächeln.</i> Steht es so? Ihr mußtet's dulden? Wider Euren Willen? Vor Euren Augen und in Eurem Haus? Dann scheint es mir, Ihr könntet einen brauchen, Der wider solche Freunde Euch beschützt? <i>Pause. Die Berliner stehen verblüfft.</i><br>BRANDENBURGER RATMANNE. Wahr! Das ist wahr! Und Ihr, Ihr seid der Mann, Uns vor den Schloßgesess'nen zu beschützen! Hier schwört und huldigt Brandenburg die Stadt!<br>FRANKFURTER RATMANNE. So tut auch Frankfurt!<br>SPANDAUER RATMANNE. Spandau schwört und huldigt! <i>Die drei Ratmannen gehen einer nach dem andern zu Friedrich heran und küssen ihm die rechte Hand.</i><br>FRIEDRICH. Ein Wort noch den Berlinern. – Thomas Wins, Ließ ich mir sagen, hatte Weib und Kind? Da Ihr den Vater ihnen nehmen ließet, Wo blieben sie? Was tatet Ihr für sie?<br>PERWENITZ <i>zu Dannewitz.</i> Hol' mich der Deibel, Hans Dannewitz.<br>STROBAND <i>zu Perwenitz.</i> Was hab' ich Euch gesagt, Henning Perwenitz?<br>FRIEDRICH <i>der sich an ihrer Bestürzung geweidet hat.</i> Ihr tatet nichts für sie? Nun denn, so scheint mir, Kam ich zur rechten Stunde in das Land, Damit verlass'ne, unterdrückte Frauen Schutzwehr und Obdach finden – dort seht hin! <i>Er winkt – die Zeltpforte öffnet sich, in derselben erscheinen Gertrud und Agnes Wins.</i><br>RATMANNEN <i>durcheinander.</i> Ha, wacker! Recht! Recht!<br>RATHENOWER RATMANNE. Hier schwört Euch Rathenow!<br>RUPPINER RATMANNE. Und hier Ruppin!<br>HAVELBERGER RATMANNE. Und Havelberg! <i>Handkuß der drei Ratmannen wie vorhin.</i><br>FRIEDRICH <i>in ganz verändertem, feierlichen Ton.</i> Wißt denn und hört es alle: Nicht Menschenwillkür, Gottes Wille schickt mich, Des Gottes, der die Menschentränen zählt. Er sprach zu mir: Dies Land hat viele Herrscher, Doch keinen Herrn – hat Richter, doch kein Recht. Dies Land hat Äcker, aber keine Saat, Hat Schwert und Lanzen, aber keinen Pflug. Nur wer die Körner zählt des märk'schen Sandes, Der zählt die Wundenmale Brandenburgs. Du bring' ihm Frieden, seinen Kindern Brot, Vor Rosseshufen schirme seine Felder, Der Armut Hütte wider Feuersbrunst – So heil'gen Auftrag hab' ich überkommen, Männer, ich nahm den heil'gen Auftrag an. <i>Tiefes Gemurmel der Versammelten.</i> Mark Brandenburg, warum zerfleischst du dich Mit eignen Waffen? Das ist Knabenhandwerk, Wach' auf und werde mannbar zum Beruf! Ich zeig' ihn dir: <i>Er nimmt aus der Hand eines der hinter ihm stehenden Ritter das Banner.</i> Hier pflanze ich mein Banner Dir in das Herz, wo dieses Banner weht, Ist heil'ger Boden, da ist Vaterland. Und wie ich selber Treue ihm gelobe Bis an den letzten Sprossen des Geschlechts, So ford're ich Huldigung auf dieses Banner, Und so gebiet' ich: Schwört dem Vaterland!<br>ALLE. Das schwören wir! Schwören wir!<br>FRIEDRICH. Ich warte noch auf die Berliner.<br>PERWENITZ. Herr – Gnäd'ger Herr Markgraf, wollt Ihr uns noch haben?<br>STROBAND. Nehmt's nicht für ungut –<br>DANNEWITZ. Gnäd'ger, lieber Herr!<br>FRIEDRICH <i>lächelnd.</i> Wollt Ihr vertrau'n?<br>PERWENITZ. Mit Herz und Leib und Seele Vertrau'n wir Euch! So huldigen und schwören Berlin und Kölln!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>([2.] Verwandlung, 12. Auftritt)</b><br><br>"
+          },
+
+          {
+            "typ": "figurtext",
+            "text": "<b>Vierter Akt. Fünfter Auftritt.</b>"
+          },
+          {
+            "typ": "kontext",
+            "text": "<i>Köhne Finke tritt aus dem Hause.</i><br>RIEKE. Köhne! <i>Will auf ihn zustürzen.</i><br>STROBAND <i>tritt zwischen beide.</i> Mädchen, wart' ab. – Na Köhne Finke – also – da bist du nu."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Ja Meester, da bin ich nu."
+          },
+          {
+            "typ": "kontext",
+            "text": "STROBAND. Kommst, meinem Mädchen adjes zu sagen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Ja Meester, Eurem Mädchen und Euch."
+          },
+          {
+            "typ": "kontext",
+            "text": "STROBAND. An mich wirst du auch grade gedacht haben."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Ja, weil ich weiß, daß Ihr was auf'm Herzen habt wider mich –"
+          },
+          {
+            "typ": "kontext",
+            "text": "STROBAND. Kannst dir wohl nich denken, warum?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Das schon, meine Ohren haben ja immer dichte dabei gestanden, wenn mein Maul was Unnützes geredt hat."
+          },
+          {
+            "typ": "kontext",
+            "text": "STROBAND. Na denn is es abgemacht; is jut."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Is jut, Meester."
+          },
+          {
+            "typ": "kontext",
+            "text": "STROBAND. Gehst du gern in den Krieg?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Was das betrifft, so is meine Meinung die: ob ick gerne gehe oder ungerne, das jeht mir jar nischt an – der Krieg muß sein, und was sein muß, das muß sind."
+          },
+          {
+            "typ": "kontext",
+            "text": "STROBAND. Muß sein?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Unser Markgraf hat's gesagt und der versteht's; ein ordentlicher Krieg is besser als ein unordentlicher Frieden."
+          },
+          {
+            "typ": "kontext",
+            "text": "STROBAND. Und wenn du wiederkommst – was wird denn dann?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Denn bin ick wieder Schmiedegeselle."
+          },
+          {
+            "typ": "kontext",
+            "text": "STROBAND. Wo denn?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Ja – wo? <i>Pause.</i>"
+          },
+          {
+            "typ": "kontext",
+            "text": "STROBAND <i>hält ihm die Hand hin.</i> Na, wie is es? Willste wieder zu Meister Stroband kommen?"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE <i>schlägt ein.</i> Ja Meester, das will ick jern!"
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE <i>fällt dem Vater um den Hals.</i> Vater – Vater – <i>Schluchzt.</i><br>STROBAND. Aber Mädchen, was is denn?<br>RIEKE. Mir – is das Herz so voll, das Herz so voll –<br>STROBAND. Na aber – so ein dummes Ding – <i>Blickt auf Köhne Finke.</i> und so ein – na was sollen denn die Redensarten – <i>Er schiebt Rieke zu Köhne Finke hinüber.</i> da hast du sie, Junge, und nu halt sie fest!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE <i>schließt sie in seine Arme.</i> Das will ich besorgen! Rieke! Putthüneken!"
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE <i>selig lachend.</i< Köhne! Mein lieber, mein guter, mein Köhne!"
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Siehste? Nu hat er doch recht behalten der Vogel, als er gesungen hat: »Zikut, zikut, 's wird alles noch jut.«"
+          },
+          {
+            "typ": "kontext",
+            "text": "RIEKE. Alles is gut! <i>Stürzt zum Vater, küßt ihn.</i> Ach Vater, lieber Vater! <i>Eilt zu Köhne zurück.</i> Ach Köhne! Mein Köhne!<br>PERWENITZ <i>reicht Stroband die Hand.</i> Henning Stroband, da habt Ihr 'was angerichtet, und das war 'was Gutes. <i>Stroband fährt sich über die Augen.</i> Na – is Euch wohl 'was ins Auge gekommen?<br>STROBAND. Ja, aber es schadet nichts; das wollen wir 'runterspülen. Rieke, lauf' 'runter, unten im Keller aus'm besten Faß.<br>RIEKE. Ja Vater, aus dem besten Faß. <i>Sie will forteilen, er hält sie an der Hand.</i><br>STROBAND. Und dann wollen wir eins trinken – Henning Perwenitz, auf was soll's sein?<br>PERWENITZ. Auf dem Finken sein Nest und auf die Finkenbrut.<br>STROBAND. Und auf jeden wackeren Mann, der auszieht und ausziehen wird in Kampf für Brandenburg."
+          },
+          {
+            "typ": "figurtext",
+            "text": "FINKE. Und auf den, der zur Mark Brandenburg gesagt hat: »Ich bin dein, und du bist mein,« auf unseren schwarz und weißen Markgrafen!"
+          },
+          {
+            "typ": "kontext",
+            "text": "STROBAND. PERWENITZ. Ja, das wollen wir! Das wollen wir! <i>Alle ab ins Haus. Der Zwischenvorhang fällt.</i>"
+          },
+          {
+            "typ": "figurtext",
+            "text": "<b>(4. Akt, 5. Auftritt)</b>"
+          }
+        ]
+      },
+      
+
+      {
         "id": "RaubSabinerinnen01",
         "theaterstück": {
           "titel": "Der Raub der Sabinerinnen",
@@ -17,7 +2336,7 @@
         "figur": {
           "name": "Emanuel Striese",
           "rolle": "Theaterdirektor",
-          "beschreibung": "spricht Sächsisch"
+          "beschreibung": "aus Leipzig, spricht Sächsisch"
         },
         "dialekt": {
           "adaption": "Heteroadaption",
@@ -29,8 +2348,8 @@
             "lng": 16.373056
           },
           "herkunft_figur": { 
-            "lat": null,
-            "lng": null
+            "lat": 51.340333,
+            "lng": 12.37475
           }
         },
         "abschnitt": "",
