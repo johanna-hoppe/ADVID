@@ -17,7 +17,7 @@
         "figur": {
           "name": "Sascha",
           "rolle": "Laufbursche",
-          "beschreibung": "spricht bairisch; (von einem Mädchen gespielt); stammt 'aus der Au'; redet mit Ostermeier, Fr. Ostermeier, Krenzl, Fr. Krenzl, Grandauer, Simba (bair.) und Zamrjaki (L2 slaw.)"
+          "beschreibung": "spricht bairisch; (von einem Mädchen gespielt); stammt 'aus der Au'; redet mit Ostermeier, Fr. Ostermeier, Krenzl, Fr. Krenzl, Grandauer, Simba (bair.) und Zamrjaki (L2 slav.)"
         },
         "dialekt": {
           "adaption": "Heteroadaption",
@@ -259,7 +259,7 @@
         "figur": {
           "name": "Ostermeier",
           "rolle": "Bierbrauereibesitzer",
-          "beschreibung": "spricht bairisch; Bierbrauereibesitzer, 'mehr oder weniger schmerbäuchiger triefäugiger Münchner Pfahlbürger'; redet mit Sascha, Fr. Ostermeier, Krenzl, Fr. Krenzl, Grandauer, Simba, Metzger, Packträger, Bäckerweib (bair.) und Zamrjaki (L2 slaw.)"
+          "beschreibung": "spricht bairisch; Bierbrauereibesitzer, 'mehr oder weniger schmerbäuchiger triefäugiger Münchner Pfahlbürger'; redet mit Sascha, Fr. Ostermeier, Krenzl, Fr. Krenzl, Grandauer, Simba, Metzger, Packträger, Bäckerweib (bair.) und Zamrjaki (L2 slav.)"
         },
         "dialekt": {
           "adaption": "Heteroadaption",
@@ -543,8 +543,8 @@
         },
         "figur": {
           "name": "Frau Ostermeier",
-          "rolle": "NN",
-          "beschreibung": "spricht bairisch; Frau von Kommerzienrat Ostermeier; redet mit Sascha, Ostermeier, Krenzl, Fr. Krenzl, Simba (bair.) und Zamrjaki (L2 slaw.)"
+          "rolle": "NN (w)",
+          "beschreibung": "spricht bairisch; Frau von Kommerzienrat Ostermeier; redet mit Sascha, Ostermeier, Krenzl, Fr. Krenzl, Simba (bair.) und Zamrjaki (L2 slav.)"
         },
         "dialekt": {
           "adaption": "Heteroadaption",
@@ -603,7 +603,7 @@
         "figur": {
           "name": "Krenzl",
           "rolle": "Baumeister",
-          "beschreibung": "spricht bairisch; Baumeister, 'mehr oder weniger schmerbäuchiger triefäugiger Münchner Pfahlbürger'; spricht mit Sascha, Ostermeier, Grandauer, Simba, Fr. Ostermeier (bair.) und Zamrjaki (L2 slaw.)"
+          "beschreibung": "spricht bairisch; Baumeister, 'mehr oder weniger schmerbäuchiger triefäugiger Münchner Pfahlbürger'; spricht mit Sascha, Ostermeier, Grandauer, Simba, Fr. Ostermeier (bair.) und Zamrjaki (L2 slav.)"
         },
         "dialekt": {
           "adaption": "Heteroadaption",
@@ -693,8 +693,8 @@
         },
         "figur": {
           "name": "Frau Krenzl",
-          "rolle": "NN",
-          "beschreibung": "spricht bairisch; redet mit Sascha, Ostermeier, Fr. Ostermeier, Simba (bair.) und Zamrjaki (L2 slaw.)"
+          "rolle": "NN (w)",
+          "beschreibung": "spricht bairisch; redet mit Sascha, Ostermeier, Fr. Ostermeier, Simba (bair.) und Zamrjaki (L2 slav.)"
         },
         "dialekt": {
           "adaption": "Heteroadaption",
@@ -827,7 +827,7 @@
         },
         "figur": {
           "name": "Simba",
-          "rolle": "NN",
+          "rolle": "NN (w)",
           "beschreibung": "spricht bairisch; 'ein echtes Münchner Mädel, mit frischen Farben, leichtem Schritt, üppigem roten Haar, in geschmackvollem schwarzen Kleid mit weißer Latzschürze'; redet mit Sascha, Ostermeier, Fr. Krenzl, Fr. Ostermeier (bair.)"
         },
         "dialekt": {
@@ -1325,11 +1325,11 @@
         "figur": {
           "name": "Zamrjaki",
           "rolle": "Komponist",
-          "beschreibung": "'spricht mit polnischem Akzent'; redet mit Sascha, Ostermeier, Fr. Krenzl, Simba, Fr. Ostermeier (bair.)"
+          "beschreibung": "'spricht mit polnischem Akzent', spricht Deutsch als Fremdsprache; redet mit Sascha, Ostermeier, Fr. Krenzl, Simba, Fr. Ostermeier (bair.)"
         },
         "dialekt": {
-          "adaption": "Heteroadaption",
-          "dialekt_grossraum": "L2 Slaw."
+          "adaption": "NA",
+          "dialekt_grossraum": "L2 Slav."
         },
         "geokoordinaten": {
           "herkunft_autor": {
@@ -13393,7 +13393,7 @@
         },
         "figur": {
           "name": "Franz Ringelmann",
-          "rolle": "NN",
+          "rolle": "NN (m)",
           "beschreibung": "Sohn von Ringelmann; spricht bairisch; redet mit Ringelmann, Caspar, Lischen (bair.), Bittrich (ber.)"
         },
         "dialekt": {
@@ -16425,7 +16425,7 @@
         },
         "figur": {
           "name": "Lischen",
-          "rolle": "NN",
+          "rolle": "NN (w)",
           "beschreibung": "Tochter von Herrn von Spitzig; spricht bairisch; redet mit Franz, Caspar (bair.); spricht Dialekt ab dem Moment, in dem sie ihre wahre Identität offenbart; zuvor ist eine gehobenere Sprache Teil ihrer Verkleidung"
         },
         "dialekt": {
@@ -16793,7 +16793,7 @@
         },
         "figur": {
           "name": "Herr von Fettich",
-          "rolle": "NN",
+          "rolle": "NN (m)",
           "beschreibung": "spricht bairisch"
         },
         "dialekt": {
@@ -20601,7 +20601,7 @@
         },
         "figur": {
           "name": "Klotilde",
-          "rolle": "NN",
+          "rolle": "NN (w)",
           "beschreibung": "Tochter des Herrn von Hochfeld; spricht Bairisch"
         },
         "dialekt": {
@@ -21240,7 +21240,7 @@
         },
         "figur": {
           "name": "Apollonia",
-          "rolle": "NN",
+          "rolle": "NN (w)",
           "beschreibung": "Frau von Sebastian Hochfeld; spricht Bairisch"
         },
         "dialekt": {
@@ -21717,7 +21717,7 @@
         },
         "figur": {
           "name": "Robert",
-          "rolle": "NN",
+          "rolle": "NN (m)",
           "beschreibung": "Sohn des Herrn von Wellenschlag; spricht Bairisch"
         },
         "dialekt": {
@@ -23231,7 +23231,7 @@
         },
         "figur": {
           "name": "Lorenz Kegel",
-          "rolle": "NN",
+          "rolle": "NN (m)",
           "beschreibung": "ein Breslauer; spricht schlesisch; redet mit Kotzeluch (schles.) und Fritz (ber.)"
         },
         "dialekt": {
@@ -24197,11 +24197,11 @@
         },
         "figur": {
           "name": "Jeanette",
-          "rolle": "NN",
+          "rolle": "NN (w)",
           "beschreibung": "Verlobte des Kapellmeisters Harmonikus; französisch, spricht Deutsch als Fremdsprache"
         },
         "dialekt": {
-          "adaption": "Heteroadaption",
+          "adaption": "NA",
           "dialekt_grossraum": "L2 Frz."
         },
         "geokoordinaten": {
@@ -28986,11 +28986,11 @@
         },
         "figur": {
           "name": "Chevalier de la Meau",
-          "rolle": "NN",
+          "rolle": "NN (m)",
           "beschreibung": "'Carrikatur und einer von den Auswüchsen seiner Nation'; französisch, spricht Deutsch als Fremdsprache; redet mit Hans, Wilhelmine und Frau Müllern (nd.)"
         },
         "dialekt": {
-          "adaption": "Heteroadaption",
+          "adaption": "NA",
           "dialekt_grossraum": "L2 Frz."
         },
         "geokoordinaten": {
@@ -36711,7 +36711,7 @@
         },
         "figur": {
           "name": "Frau Marsa",
-          "rolle": "NN",
+          "rolle": "NN (w)",
           "beschreibung": "ein klug Weib, thüringisch"
         },
         "dialekt": {
@@ -36867,7 +36867,7 @@
         },
         "figur": {
           "name": "Meister Jecks",
-          "rolle": "NN",
+          "rolle": "NN (m)",
           "beschreibung": "von Orlamünde, thüringisch"
         },
         "dialekt": {
@@ -43356,7 +43356,7 @@
     },
     "figur": {
       "name": "Cheleke Plöß",
-      "rolle": "NN",
+      "rolle": "NN (m)",
       "beschreibung": "Sohn von Wöbbeke, redet mit Wöbbeke (ndt.)"
     },
     "dialekt": {
